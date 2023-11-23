@@ -10,7 +10,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-124"
   },
   {
@@ -24,7 +24,7 @@
     "length": "261 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-125"
   },
   {
@@ -38,7 +38,7 @@
     "length": "302 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-126"
   },
   {
@@ -52,7 +52,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-127"
   },
   {
@@ -66,7 +66,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$2655.04",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-128"
   },
   {
@@ -80,7 +80,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$9999.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-129"
   },
   {
@@ -94,7 +94,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$829.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-130"
   },
   {
@@ -108,7 +108,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-131"
   },
   {
@@ -122,7 +122,7 @@
     "length": "272 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-132"
   },
   {
@@ -136,7 +136,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$2650.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-133"
   },
   {
@@ -150,7 +150,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-134"
   },
   {
@@ -164,7 +164,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-135"
   },
   {
@@ -178,7 +178,7 @@
     "length": "344 mm",
     "rating": "0",
     "price": "$939.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-136"
   },
   {
@@ -192,7 +192,7 @@
     "length": "199 mm",
     "rating": "0",
     "price": "$298.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-137"
   },
   {
@@ -206,7 +206,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$519.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-138"
   },
   {
@@ -220,7 +220,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$1999.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-139"
   },
   {
@@ -234,7 +234,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-140"
   },
   {
@@ -248,7 +248,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$592.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-141"
   },
   {
@@ -262,7 +262,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$809.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-142"
   },
   {
@@ -276,7 +276,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-143"
   },
   {
@@ -290,7 +290,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-144"
   },
   {
@@ -304,7 +304,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-145"
   },
   {
@@ -318,7 +318,7 @@
     "length": "230 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-146"
   },
   {
@@ -332,7 +332,7 @@
     "length": "348 mm",
     "rating": "0",
     "price": "$1495.48",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-147"
   },
   {
@@ -346,7 +346,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$267.19",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-148"
   },
   {
@@ -360,7 +360,7 @@
     "length": "244 mm",
     "rating": "0",
     "price": "$746.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-149"
   },
   {
@@ -374,7 +374,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$2849.69",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-150"
   },
   {
@@ -388,7 +388,7 @@
     "length": "313 mm",
     "rating": "0",
     "price": "$949.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-151"
   },
   {
@@ -402,7 +402,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1466.59",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-152"
   },
   {
@@ -416,7 +416,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$1339.99",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-153"
   },
   {
@@ -430,7 +430,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$549.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-154"
   },
   {
@@ -444,7 +444,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-155"
   },
   {
@@ -458,7 +458,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$449.95",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-156"
   },
   {
@@ -472,7 +472,7 @@
     "length": "344 mm",
     "rating": "0",
     "price": "$769.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-157"
   },
   {
@@ -486,7 +486,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1029.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-158"
   },
   {
@@ -500,7 +500,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$529.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-159"
   },
   {
@@ -514,7 +514,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-160"
   },
   {
@@ -528,7 +528,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-161"
   },
   {
@@ -542,7 +542,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-162"
   },
   {
@@ -556,7 +556,7 @@
     "length": "316 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-163"
   },
   {
@@ -570,7 +570,7 @@
     "length": "261 mm",
     "rating": "0",
     "price": "$781.64",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-164"
   },
   {
@@ -584,7 +584,7 @@
     "length": "313 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-165"
   },
   {
@@ -598,7 +598,7 @@
     "length": "348 mm",
     "rating": "0",
     "price": "$2338.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-166"
   },
   {
@@ -612,7 +612,7 @@
     "length": "206 mm",
     "rating": "0",
     "price": "$197.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-167"
   },
   {
@@ -626,7 +626,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-168"
   },
   {
@@ -640,7 +640,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-169"
   },
   {
@@ -654,7 +654,7 @@
     "length": "199 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-170"
   },
   {
@@ -668,7 +668,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-171"
   },
   {
@@ -682,7 +682,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$2299.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-172"
   },
   {
@@ -696,7 +696,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$739.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-173"
   },
   {
@@ -710,7 +710,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$1269.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-174"
   },
   {
@@ -724,7 +724,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$2339.98",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-175"
   },
   {
@@ -738,7 +738,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-176"
   },
   {
@@ -752,7 +752,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "$659.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-177"
   },
   {
@@ -766,7 +766,7 @@
     "length": "302 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-178"
   },
   {
@@ -780,7 +780,7 @@
     "length": "326 mm",
     "rating": "0",
     "price": "$509.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-179"
   },
   {
@@ -794,7 +794,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-180"
   },
   {
@@ -808,7 +808,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-181"
   },
   {
@@ -822,7 +822,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$2023.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-182"
   },
   {
@@ -836,7 +836,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$849.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-183"
   },
   {
@@ -850,7 +850,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$929.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-184"
   },
   {
@@ -864,7 +864,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$524.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-185"
   },
   {
@@ -878,7 +878,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$649.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-186"
   },
   {
@@ -892,7 +892,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$601.88",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-187"
   },
   {
@@ -906,7 +906,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-188"
   },
   {
@@ -920,7 +920,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$960.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-189"
   },
   {
@@ -934,7 +934,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "gpu-190"
   },
   {
@@ -948,7 +948,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "$489.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-191"
   },
   {
@@ -962,7 +962,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$489.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-192"
   },
   {
@@ -976,7 +976,7 @@
     "length": "228 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-193"
   },
   {
@@ -990,7 +990,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-194"
   },
   {
@@ -1004,7 +1004,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$790.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-195"
   },
   {
@@ -1018,7 +1018,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1489.90",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-196"
   },
   {
@@ -1032,7 +1032,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-197"
   },
   {
@@ -1046,7 +1046,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-198"
   },
   {
@@ -1060,7 +1060,7 @@
     "length": "205 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-199"
   },
   {
@@ -1074,7 +1074,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$879.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-200"
   },
   {
@@ -1088,7 +1088,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$519.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-201"
   },
   {
@@ -1102,7 +1102,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$514.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-202"
   },
   {
@@ -1116,7 +1116,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$1124.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-203"
   },
   {
@@ -1130,7 +1130,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$949.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-204"
   },
   {
@@ -1144,7 +1144,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-205"
   },
   {
@@ -1158,7 +1158,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-206"
   },
   {
@@ -1172,7 +1172,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-207"
   },
   {
@@ -1186,7 +1186,7 @@
     "length": "302 mm",
     "rating": "0",
     "price": "$434.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-208"
   },
   {
@@ -1200,7 +1200,7 @@
     "length": "163 mm",
     "rating": "0",
     "price": "$359.84",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-209"
   },
   {
@@ -1214,7 +1214,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$1449.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-210"
   },
   {
@@ -1228,7 +1228,7 @@
     "length": "236 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-211"
   },
   {
@@ -1242,7 +1242,7 @@
     "length": "291 mm",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-212"
   },
   {
@@ -1256,7 +1256,7 @@
     "length": "224 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-213"
   },
   {
@@ -1270,7 +1270,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$579.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-214"
   },
   {
@@ -1284,7 +1284,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1418.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-215"
   },
   {
@@ -1298,7 +1298,7 @@
     "length": "179 mm",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-216"
   },
   {
@@ -1312,7 +1312,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$469.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-217"
   },
   {
@@ -1326,7 +1326,7 @@
     "length": "192 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-218"
   },
   {
@@ -1340,7 +1340,7 @@
     "length": "193 mm",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-219"
   },
   {
@@ -1354,7 +1354,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-220"
   },
   {
@@ -1368,7 +1368,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-221"
   },
   {
@@ -1382,7 +1382,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-222"
   },
   {
@@ -1396,7 +1396,7 @@
     "length": "344 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-223"
   },
   {
@@ -1410,7 +1410,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$384.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-224"
   },
   {
@@ -1424,7 +1424,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-225"
   },
   {
@@ -1438,7 +1438,7 @@
     "length": "272 mm",
     "rating": "0",
     "price": "$304.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-226"
   },
   {
@@ -1452,7 +1452,7 @@
     "length": "190 mm",
     "rating": "0",
     "price": "$205.34",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-227"
   },
   {
@@ -1466,7 +1466,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$739.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-228"
   },
   {
@@ -1480,7 +1480,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "$319.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-229"
   },
   {
@@ -1494,7 +1494,7 @@
     "length": "353 mm",
     "rating": "0",
     "price": "$1039.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-230"
   },
   {
@@ -1508,7 +1508,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-231"
   },
   {
@@ -1522,7 +1522,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-232"
   },
   {
@@ -1536,7 +1536,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$1759.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-233"
   },
   {
@@ -1550,7 +1550,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$1069.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-234"
   },
   {
@@ -1564,7 +1564,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-235"
   },
   {
@@ -1578,7 +1578,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-236"
   },
   {
@@ -1592,7 +1592,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$559.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-237"
   },
   {
@@ -1606,7 +1606,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$749.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-238"
   },
   {
@@ -1620,7 +1620,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-239"
   },
   {
@@ -1634,7 +1634,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1189.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-240"
   },
   {
@@ -1648,7 +1648,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-241"
   },
   {
@@ -1662,7 +1662,7 @@
     "length": "325 mm",
     "rating": "0",
     "price": "$1152.33",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-242"
   },
   {
@@ -1676,7 +1676,7 @@
     "length": "244 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-243"
   },
   {
@@ -1690,7 +1690,7 @@
     "length": "278 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-244"
   },
   {
@@ -1704,7 +1704,7 @@
     "length": "249 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-245"
   },
   {
@@ -1718,7 +1718,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1599.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-246"
   },
   {
@@ -1732,7 +1732,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$409.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-247"
   },
   {
@@ -1746,7 +1746,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-248"
   },
   {
@@ -1760,7 +1760,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-249"
   },
   {
@@ -1774,7 +1774,7 @@
     "length": "345 mm",
     "rating": "0",
     "price": "$1119.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-250"
   },
   {
@@ -1788,7 +1788,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$424.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-251"
   },
   {
@@ -1802,7 +1802,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-252"
   },
   {
@@ -1816,7 +1816,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$2499.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-253"
   },
   {
@@ -1830,7 +1830,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-254"
   },
   {
@@ -1844,7 +1844,7 @@
     "length": "236 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-255"
   },
   {
@@ -1858,7 +1858,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-256"
   },
   {
@@ -1872,7 +1872,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-257"
   },
   {
@@ -1886,7 +1886,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-258"
   },
   {
@@ -1900,7 +1900,7 @@
     "length": "328 mm",
     "rating": "0",
     "price": "$529.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-259"
   },
   {
@@ -1914,7 +1914,7 @@
     "length": "220 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-260"
   },
   {
@@ -1928,7 +1928,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$2506.05",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-261"
   },
   {
@@ -1942,7 +1942,7 @@
     "length": "272 mm",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-262"
   },
   {
@@ -1956,7 +1956,7 @@
     "length": "221 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-263"
   },
   {
@@ -1970,7 +1970,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$4539.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-264"
   },
   {
@@ -1984,7 +1984,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-265"
   },
   {
@@ -1998,7 +1998,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "$239.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-266"
   },
   {
@@ -2012,7 +2012,7 @@
     "length": "199 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-267"
   },
   {
@@ -2026,7 +2026,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$489.42",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-268"
   },
   {
@@ -2040,7 +2040,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$314.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-269"
   },
   {
@@ -2054,7 +2054,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$3186.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-270"
   },
   {
@@ -2068,7 +2068,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$479.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-271"
   },
   {
@@ -2082,7 +2082,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-272"
   },
   {
@@ -2096,7 +2096,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-273"
   },
   {
@@ -2110,7 +2110,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$824.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-274"
   },
   {
@@ -2124,7 +2124,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1246.50",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-275"
   },
   {
@@ -2138,7 +2138,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$1099.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-276"
   },
   {
@@ -2152,7 +2152,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$479.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-277"
   },
   {
@@ -2166,7 +2166,7 @@
     "length": "306 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-278"
   },
   {
@@ -2180,7 +2180,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$369.29",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "gpu-279"
   },
   {
@@ -2194,7 +2194,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$749.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-280"
   },
   {
@@ -2208,7 +2208,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1359.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-281"
   },
   {
@@ -2222,7 +2222,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$311.16",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-282"
   },
   {
@@ -2236,7 +2236,7 @@
     "length": "146 mm",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-283"
   },
   {
@@ -2250,7 +2250,7 @@
     "length": "303 mm",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-284"
   },
   {
@@ -2264,7 +2264,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$473.58",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-285"
   },
   {
@@ -2278,7 +2278,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$1258.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-286"
   },
   {
@@ -2292,7 +2292,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-287"
   },
   {
@@ -2306,7 +2306,7 @@
     "length": "215 mm",
     "rating": "0",
     "price": "$218.72",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-288"
   },
   {
@@ -2320,7 +2320,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-289"
   },
   {
@@ -2334,7 +2334,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-290"
   },
   {
@@ -2348,7 +2348,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$559.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-291"
   },
   {
@@ -2362,7 +2362,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$367.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-292"
   },
   {
@@ -2376,7 +2376,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$509.94",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-293"
   },
   {
@@ -2390,7 +2390,7 @@
     "length": "348 mm",
     "rating": "0",
     "price": "$1319.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-294"
   },
   {
@@ -2404,7 +2404,7 @@
     "length": "182 mm",
     "rating": "0",
     "price": "$304.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-295"
   },
   {
@@ -2418,7 +2418,7 @@
     "length": "278 mm",
     "rating": "0",
     "price": "$206.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-296"
   },
   {
@@ -2432,7 +2432,7 @@
     "length": "199 mm",
     "rating": "0",
     "price": "$389.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-297"
   },
   {
@@ -2446,7 +2446,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "$699.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-298"
   },
   {
@@ -2460,7 +2460,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$769.99",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-299"
   },
   {
@@ -2474,7 +2474,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$1909.98",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-300"
   },
   {
@@ -2488,7 +2488,7 @@
     "length": "230 mm",
     "rating": "0",
     "price": "$419.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-301"
   },
   {
@@ -2502,7 +2502,7 @@
     "length": "258 mm",
     "rating": "0",
     "price": "$675.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-302"
   },
   {
@@ -2516,7 +2516,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$139.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-303"
   },
   {
@@ -2530,7 +2530,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-304"
   },
   {
@@ -2544,7 +2544,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "$376.19",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-305"
   },
   {
@@ -2558,7 +2558,7 @@
     "length": "313 mm",
     "rating": "0",
     "price": "$1979.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-306"
   },
   {
@@ -2572,7 +2572,7 @@
     "length": "238 mm",
     "rating": "0",
     "price": "$2682.65",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-307"
   },
   {
@@ -2586,7 +2586,7 @@
     "length": "303 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-308"
   },
   {
@@ -2600,7 +2600,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$739.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-309"
   },
   {
@@ -2614,7 +2614,7 @@
     "length": "201 mm",
     "rating": "0",
     "price": "$210.17",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-310"
   },
   {
@@ -2628,7 +2628,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-311"
   },
   {
@@ -2642,7 +2642,7 @@
     "length": "224 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-312"
   },
   {
@@ -2656,7 +2656,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$1149.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-313"
   },
   {
@@ -2670,7 +2670,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-314"
   },
   {
@@ -2684,7 +2684,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$2299.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-315"
   },
   {
@@ -2698,7 +2698,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$509.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-316"
   },
   {
@@ -2712,7 +2712,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-317"
   },
   {
@@ -2726,7 +2726,7 @@
     "length": "152 mm",
     "rating": "0",
     "price": "$39.95",
-    "manufactor": "Diamond",
+    "manufacturer": "Diamond",
     "id": "gpu-318"
   },
   {
@@ -2740,7 +2740,7 @@
     "length": "331 mm",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-319"
   },
   {
@@ -2754,7 +2754,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$1199.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-320"
   },
   {
@@ -2768,7 +2768,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$399.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-321"
   },
   {
@@ -2782,7 +2782,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-322"
   },
   {
@@ -2796,7 +2796,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$479.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-323"
   },
   {
@@ -2810,7 +2810,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$1129.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-324"
   },
   {
@@ -2824,7 +2824,7 @@
     "length": "190 mm",
     "rating": "0",
     "price": "$119.49",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-325"
   },
   {
@@ -2838,7 +2838,7 @@
     "length": "313 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-326"
   },
   {
@@ -2852,7 +2852,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$2399.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-327"
   },
   {
@@ -2866,7 +2866,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$519.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-328"
   },
   {
@@ -2880,7 +2880,7 @@
     "length": "261 mm",
     "rating": "0",
     "price": "$609.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-329"
   },
   {
@@ -2894,7 +2894,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$559.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-330"
   },
   {
@@ -2908,7 +2908,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$395.35",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-331"
   },
   {
@@ -2922,7 +2922,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$258.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-332"
   },
   {
@@ -2936,7 +2936,7 @@
     "length": "266 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-333"
   },
   {
@@ -2950,7 +2950,7 @@
     "length": "295 mm",
     "rating": "0",
     "price": "$494.97",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-334"
   },
   {
@@ -2964,7 +2964,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-335"
   },
   {
@@ -2978,7 +2978,7 @@
     "length": "295 mm",
     "rating": "0",
     "price": "$453.29",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-336"
   },
   {
@@ -2992,7 +2992,7 @@
     "length": "331 mm",
     "rating": "0",
     "price": "$2249.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-337"
   },
   {
@@ -3006,7 +3006,7 @@
     "length": "158 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-338"
   },
   {
@@ -3020,7 +3020,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$1534.18",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-339"
   },
   {
@@ -3034,7 +3034,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$304.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-340"
   },
   {
@@ -3048,7 +3048,7 @@
     "length": "326 mm",
     "rating": "0",
     "price": "$2299.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-341"
   },
   {
@@ -3062,7 +3062,7 @@
     "length": "327 mm",
     "rating": "0",
     "price": "$389.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-342"
   },
   {
@@ -3076,7 +3076,7 @@
     "length": "345 mm",
     "rating": "0",
     "price": "$1049.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-343"
   },
   {
@@ -3090,7 +3090,7 @@
     "length": "215 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-344"
   },
   {
@@ -3104,7 +3104,7 @@
     "length": "339 mm",
     "rating": "0",
     "price": "$709.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-345"
   },
   {
@@ -3118,7 +3118,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-346"
   },
   {
@@ -3132,7 +3132,7 @@
     "length": "293 mm",
     "rating": "0",
     "price": "$2695.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-347"
   },
   {
@@ -3146,7 +3146,7 @@
     "length": "316 mm",
     "rating": "0",
     "price": "$729.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-348"
   },
   {
@@ -3160,7 +3160,7 @@
     "length": "224 mm",
     "rating": "0",
     "price": "$479.00",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-349"
   },
   {
@@ -3174,7 +3174,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-350"
   },
   {
@@ -3188,7 +3188,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1329.95",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-351"
   },
   {
@@ -3202,7 +3202,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-352"
   },
   {
@@ -3216,7 +3216,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "$440.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-353"
   },
   {
@@ -3230,7 +3230,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$1053.22",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-354"
   },
   {
@@ -3244,7 +3244,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$2969.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-355"
   },
   {
@@ -3258,7 +3258,7 @@
     "length": "244 mm",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-356"
   },
   {
@@ -3272,7 +3272,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$469.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-357"
   },
   {
@@ -3286,7 +3286,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-358"
   },
   {
@@ -3300,7 +3300,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "$989.02",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-359"
   },
   {
@@ -3314,7 +3314,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$349.66",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-360"
   },
   {
@@ -3328,7 +3328,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$419.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-361"
   },
   {
@@ -3342,7 +3342,7 @@
     "length": "160 mm",
     "rating": "0",
     "price": "$99.96",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-362"
   },
   {
@@ -3356,7 +3356,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-363"
   },
   {
@@ -3370,7 +3370,7 @@
     "length": "311 mm",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-364"
   },
   {
@@ -3384,7 +3384,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-365"
   },
   {
@@ -3398,7 +3398,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$579.99",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-366"
   },
   {
@@ -3412,7 +3412,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-367"
   },
   {
@@ -3426,7 +3426,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$712.55",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-368"
   },
   {
@@ -3440,7 +3440,7 @@
     "length": "303 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-369"
   },
   {
@@ -3454,7 +3454,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1679.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-370"
   },
   {
@@ -3468,7 +3468,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "$567.13",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-371"
   },
   {
@@ -3482,7 +3482,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$380.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-372"
   },
   {
@@ -3496,7 +3496,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "gpu-373"
   },
   {
@@ -3510,7 +3510,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$479.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-374"
   },
   {
@@ -3524,7 +3524,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1309.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-375"
   },
   {
@@ -3538,7 +3538,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$821.61",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-376"
   },
   {
@@ -3552,7 +3552,7 @@
     "length": "198 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-377"
   },
   {
@@ -3566,7 +3566,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$419.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-378"
   },
   {
@@ -3580,7 +3580,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-379"
   },
   {
@@ -3594,7 +3594,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$539.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-380"
   },
   {
@@ -3608,7 +3608,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$745.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-381"
   },
   {
@@ -3622,7 +3622,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-382"
   },
   {
@@ -3636,7 +3636,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-383"
   },
   {
@@ -3650,7 +3650,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-384"
   },
   {
@@ -3664,7 +3664,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$1050.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-385"
   },
   {
@@ -3678,7 +3678,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$1149.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-386"
   },
   {
@@ -3692,7 +3692,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$554.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-387"
   },
   {
@@ -3706,7 +3706,7 @@
     "length": "194 mm",
     "rating": "0",
     "price": "$146.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-388"
   },
   {
@@ -3720,7 +3720,7 @@
     "length": "348 mm",
     "rating": "0",
     "price": "$2689.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-389"
   },
   {
@@ -3734,7 +3734,7 @@
     "length": "206 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-390"
   },
   {
@@ -3748,7 +3748,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "$1599.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-391"
   },
   {
@@ -3762,7 +3762,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$809.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-392"
   },
   {
@@ -3776,7 +3776,7 @@
     "length": "210 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-393"
   },
   {
@@ -3790,7 +3790,7 @@
     "length": "229 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-394"
   },
   {
@@ -3804,7 +3804,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$529.90",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-395"
   },
   {
@@ -3818,7 +3818,7 @@
     "length": "198 mm",
     "rating": "0",
     "price": "$353.61",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-396"
   },
   {
@@ -3832,7 +3832,7 @@
     "length": "271 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-397"
   },
   {
@@ -3846,7 +3846,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$825.77",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-398"
   },
   {
@@ -3860,7 +3860,7 @@
     "length": "201 mm",
     "rating": "0",
     "price": "$429.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-399"
   },
   {
@@ -3874,7 +3874,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-400"
   },
   {
@@ -3888,7 +3888,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-401"
   },
   {
@@ -3902,7 +3902,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$759.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-402"
   },
   {
@@ -3916,7 +3916,7 @@
     "length": "357 mm",
     "rating": "0",
     "price": "$1209.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-403"
   },
   {
@@ -3930,7 +3930,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$665.41",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-404"
   },
   {
@@ -3944,7 +3944,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-405"
   },
   {
@@ -3958,7 +3958,7 @@
     "length": "231 mm",
     "rating": "0",
     "price": "$324.64",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-406"
   },
   {
@@ -3972,7 +3972,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$2723.23",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-407"
   },
   {
@@ -3986,7 +3986,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-408"
   },
   {
@@ -4000,7 +4000,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$428.19",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-409"
   },
   {
@@ -4014,7 +4014,7 @@
     "length": "166 mm",
     "rating": "0",
     "price": "$174.84",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-410"
   },
   {
@@ -4028,7 +4028,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$276.78",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-411"
   },
   {
@@ -4042,7 +4042,7 @@
     "length": "146 mm",
     "rating": "0",
     "price": "$51.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-412"
   },
   {
@@ -4056,7 +4056,7 @@
     "length": "271 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-413"
   },
   {
@@ -4070,7 +4070,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$1659.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-414"
   },
   {
@@ -4084,7 +4084,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$619.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-415"
   },
   {
@@ -4098,7 +4098,7 @@
     "length": "303 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-416"
   },
   {
@@ -4112,7 +4112,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$377.47",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-417"
   },
   {
@@ -4126,7 +4126,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-418"
   },
   {
@@ -4140,7 +4140,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-419"
   },
   {
@@ -4154,7 +4154,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$841.40",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-420"
   },
   {
@@ -4168,7 +4168,7 @@
     "length": "278 mm",
     "rating": "0",
     "price": "$336.77",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-421"
   },
   {
@@ -4182,7 +4182,7 @@
     "length": "173 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-422"
   },
   {
@@ -4196,7 +4196,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1029.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-423"
   },
   {
@@ -4210,7 +4210,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$137.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-424"
   },
   {
@@ -4224,7 +4224,7 @@
     "length": "274 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-425"
   },
   {
@@ -4238,7 +4238,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$1139.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-426"
   },
   {
@@ -4252,7 +4252,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-427"
   },
   {
@@ -4266,7 +4266,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-428"
   },
   {
@@ -4280,7 +4280,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$569.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-429"
   },
   {
@@ -4294,7 +4294,7 @@
     "length": "177 mm",
     "rating": "0",
     "price": "$254.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-430"
   },
   {
@@ -4308,7 +4308,7 @@
     "length": "316 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-431"
   },
   {
@@ -4322,7 +4322,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$928.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-432"
   },
   {
@@ -4336,7 +4336,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$489.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-433"
   },
   {
@@ -4350,7 +4350,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$2189.00",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-434"
   },
   {
@@ -4364,7 +4364,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-435"
   },
   {
@@ -4378,7 +4378,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$559.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-436"
   },
   {
@@ -4392,7 +4392,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-437"
   },
   {
@@ -4406,7 +4406,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-438"
   },
   {
@@ -4420,7 +4420,7 @@
     "length": "178 mm",
     "rating": "0",
     "price": "$197.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-439"
   },
   {
@@ -4434,7 +4434,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "$579.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-440"
   },
   {
@@ -4448,7 +4448,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$779.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-441"
   },
   {
@@ -4462,7 +4462,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$985.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-442"
   },
   {
@@ -4476,7 +4476,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-443"
   },
   {
@@ -4490,7 +4490,7 @@
     "length": "297 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-444"
   },
   {
@@ -4504,7 +4504,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$784.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-445"
   },
   {
@@ -4518,7 +4518,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$989.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-446"
   },
   {
@@ -4532,7 +4532,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-447"
   },
   {
@@ -4546,7 +4546,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$409.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-448"
   },
   {
@@ -4560,7 +4560,7 @@
     "length": "146 mm",
     "rating": "0",
     "price": "$61.40",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-449"
   },
   {
@@ -4574,7 +4574,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$710.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-450"
   },
   {
@@ -4588,7 +4588,7 @@
     "length": "230 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-451"
   },
   {
@@ -4602,7 +4602,7 @@
     "length": "325 mm",
     "rating": "0",
     "price": "$1849.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-452"
   },
   {
@@ -4616,7 +4616,7 @@
     "length": "216 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-453"
   },
   {
@@ -4630,7 +4630,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-454"
   },
   {
@@ -4644,7 +4644,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-455"
   },
   {
@@ -4658,7 +4658,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-456"
   },
   {
@@ -4672,7 +4672,7 @@
     "length": "272 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-457"
   },
   {
@@ -4686,7 +4686,7 @@
     "length": "206 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-458"
   },
   {
@@ -4700,7 +4700,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$549.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-459"
   },
   {
@@ -4714,7 +4714,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$599.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-460"
   },
   {
@@ -4728,7 +4728,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-461"
   },
   {
@@ -4742,7 +4742,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1436.09",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-462"
   },
   {
@@ -4756,7 +4756,7 @@
     "length": "353 mm",
     "rating": "0",
     "price": "$982.15",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-463"
   },
   {
@@ -4770,7 +4770,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-464"
   },
   {
@@ -4784,7 +4784,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$1413.63",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-465"
   },
   {
@@ -4798,7 +4798,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$504.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-466"
   },
   {
@@ -4812,7 +4812,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-467"
   },
   {
@@ -4826,7 +4826,7 @@
     "length": "180 mm",
     "rating": "0",
     "price": "$427.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-468"
   },
   {
@@ -4840,7 +4840,7 @@
     "length": "221 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-469"
   },
   {
@@ -4854,7 +4854,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$1354.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-470"
   },
   {
@@ -4868,7 +4868,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-471"
   },
   {
@@ -4882,7 +4882,7 @@
     "length": "173 mm",
     "rating": "0",
     "price": "$206.80",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-472"
   },
   {
@@ -4896,7 +4896,7 @@
     "length": "304 mm",
     "rating": "0",
     "price": "$469.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-473"
   },
   {
@@ -4910,7 +4910,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-474"
   },
   {
@@ -4924,7 +4924,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$2279.00",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-475"
   },
   {
@@ -4938,7 +4938,7 @@
     "length": "201 mm",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-476"
   },
   {
@@ -4952,7 +4952,7 @@
     "length": "178 mm",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-477"
   },
   {
@@ -4966,7 +4966,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-478"
   },
   {
@@ -4980,7 +4980,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-479"
   },
   {
@@ -4994,7 +4994,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$1449.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-480"
   },
   {
@@ -5008,7 +5008,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-481"
   },
   {
@@ -5022,7 +5022,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1118.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-482"
   },
   {
@@ -5036,7 +5036,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$2990.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-483"
   },
   {
@@ -5050,7 +5050,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$469.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-484"
   },
   {
@@ -5064,7 +5064,7 @@
     "length": "229 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-485"
   },
   {
@@ -5078,7 +5078,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-486"
   },
   {
@@ -5092,7 +5092,7 @@
     "length": "172 mm",
     "rating": "0",
     "price": "$167.30",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-487"
   },
   {
@@ -5106,7 +5106,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$275.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-488"
   },
   {
@@ -5120,7 +5120,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-489"
   },
   {
@@ -5134,7 +5134,7 @@
     "length": "248 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-490"
   },
   {
@@ -5148,7 +5148,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-491"
   },
   {
@@ -5162,7 +5162,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$875.05",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-492"
   },
   {
@@ -5176,7 +5176,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "$308.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-493"
   },
   {
@@ -5190,7 +5190,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-494"
   },
   {
@@ -5204,7 +5204,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-495"
   },
   {
@@ -5218,7 +5218,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-496"
   },
   {
@@ -5232,7 +5232,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$499.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-497"
   },
   {
@@ -5246,7 +5246,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$1199.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-498"
   },
   {
@@ -5260,7 +5260,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$196.70",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-499"
   },
   {
@@ -5274,7 +5274,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$559.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-500"
   },
   {
@@ -5288,7 +5288,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-501"
   },
   {
@@ -5302,7 +5302,7 @@
     "length": "254 mm",
     "rating": "0",
     "price": "$599.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-502"
   },
   {
@@ -5316,7 +5316,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-503"
   },
   {
@@ -5330,7 +5330,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-504"
   },
   {
@@ -5344,7 +5344,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$588.63",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-505"
   },
   {
@@ -5358,7 +5358,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$496.90",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-506"
   },
   {
@@ -5372,7 +5372,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "$585.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-507"
   },
   {
@@ -5386,7 +5386,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$470.53",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-508"
   },
   {
@@ -5400,7 +5400,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$1376.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-509"
   },
   {
@@ -5414,7 +5414,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-510"
   },
   {
@@ -5428,7 +5428,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-511"
   },
   {
@@ -5442,7 +5442,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$860.59",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-512"
   },
   {
@@ -5456,7 +5456,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$1380.53",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-513"
   },
   {
@@ -5470,7 +5470,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-514"
   },
   {
@@ -5484,7 +5484,7 @@
     "length": "331 mm",
     "rating": "0",
     "price": "$2195.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-515"
   },
   {
@@ -5498,7 +5498,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-516"
   },
   {
@@ -5512,7 +5512,7 @@
     "length": "Length",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ATI",
+    "manufacturer": "ATI",
     "id": "gpu-517"
   },
   {
@@ -5526,7 +5526,7 @@
     "length": "150 mm",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-518"
   },
   {
@@ -5540,7 +5540,7 @@
     "length": "358 mm",
     "rating": "0",
     "price": "$1796.69",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-519"
   },
   {
@@ -5554,7 +5554,7 @@
     "length": "188 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-520"
   },
   {
@@ -5568,7 +5568,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$890.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-521"
   },
   {
@@ -5582,7 +5582,7 @@
     "length": "177 mm",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-522"
   },
   {
@@ -5596,7 +5596,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$1181.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-523"
   },
   {
@@ -5610,7 +5610,7 @@
     "length": "144 mm",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-524"
   },
   {
@@ -5624,7 +5624,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "$1499.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-525"
   },
   {
@@ -5638,7 +5638,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-526"
   },
   {
@@ -5652,7 +5652,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-527"
   },
   {
@@ -5666,7 +5666,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$791.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-528"
   },
   {
@@ -5680,7 +5680,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$451.88",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-529"
   },
   {
@@ -5694,7 +5694,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-530"
   },
   {
@@ -5708,7 +5708,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$749.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-531"
   },
   {
@@ -5722,7 +5722,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$701.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-532"
   },
   {
@@ -5736,7 +5736,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$400.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-533"
   },
   {
@@ -5750,7 +5750,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-534"
   },
   {
@@ -5764,7 +5764,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-535"
   },
   {
@@ -5778,7 +5778,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$645.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-536"
   },
   {
@@ -5792,7 +5792,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$675.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-537"
   },
   {
@@ -5806,7 +5806,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-538"
   },
   {
@@ -5820,7 +5820,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$277.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-539"
   },
   {
@@ -5834,7 +5834,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$571.79",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-540"
   },
   {
@@ -5848,7 +5848,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$1199.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-541"
   },
   {
@@ -5862,7 +5862,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-542"
   },
   {
@@ -5876,7 +5876,7 @@
     "length": "342 mm",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-543"
   },
   {
@@ -5890,7 +5890,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$292.00",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-544"
   },
   {
@@ -5904,7 +5904,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$1045.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-545"
   },
   {
@@ -5918,7 +5918,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$3999.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-546"
   },
   {
@@ -5932,7 +5932,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "$459.00",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-547"
   },
   {
@@ -5946,7 +5946,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$1213.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-548"
   },
   {
@@ -5960,7 +5960,7 @@
     "length": "172 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-549"
   },
   {
@@ -5974,7 +5974,7 @@
     "length": "311 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-550"
   },
   {
@@ -5988,7 +5988,7 @@
     "length": "172 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-551"
   },
   {
@@ -6002,7 +6002,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "$346.88",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-552"
   },
   {
@@ -6016,7 +6016,7 @@
     "length": "274 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-553"
   },
   {
@@ -6030,7 +6030,7 @@
     "length": "311 mm",
     "rating": "0",
     "price": "$569.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-554"
   },
   {
@@ -6044,7 +6044,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1799.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-555"
   },
   {
@@ -6058,7 +6058,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-556"
   },
   {
@@ -6072,7 +6072,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$586.59",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-557"
   },
   {
@@ -6086,7 +6086,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$990.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-558"
   },
   {
@@ -6100,7 +6100,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$687.81",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-559"
   },
   {
@@ -6114,7 +6114,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$349.66",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-560"
   },
   {
@@ -6128,7 +6128,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$809.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-561"
   },
   {
@@ -6142,7 +6142,7 @@
     "length": "146 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-562"
   },
   {
@@ -6156,7 +6156,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-563"
   },
   {
@@ -6170,7 +6170,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-564"
   },
   {
@@ -6184,7 +6184,7 @@
     "length": "168 mm",
     "rating": "0",
     "price": "$123.85",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-565"
   },
   {
@@ -6198,7 +6198,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$433.56",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-566"
   },
   {
@@ -6212,7 +6212,7 @@
     "length": "290 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-567"
   },
   {
@@ -6226,7 +6226,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-568"
   },
   {
@@ -6240,7 +6240,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "$963.68",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-569"
   },
   {
@@ -6254,7 +6254,7 @@
     "length": "174 mm",
     "rating": "0",
     "price": "$213.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-570"
   },
   {
@@ -6268,7 +6268,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-571"
   },
   {
@@ -6282,7 +6282,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$707.48",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-572"
   },
   {
@@ -6296,7 +6296,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$2399.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-573"
   },
   {
@@ -6310,7 +6310,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-574"
   },
   {
@@ -6324,7 +6324,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1259.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-575"
   },
   {
@@ -6338,7 +6338,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$336.92",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-576"
   },
   {
@@ -6352,7 +6352,7 @@
     "length": "198 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-577"
   },
   {
@@ -6366,7 +6366,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$976.47",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-578"
   },
   {
@@ -6380,7 +6380,7 @@
     "length": "328 mm",
     "rating": "0",
     "price": "$1278.85",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-579"
   },
   {
@@ -6394,7 +6394,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "$2259.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-580"
   },
   {
@@ -6408,7 +6408,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "$414.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-581"
   },
   {
@@ -6422,7 +6422,7 @@
     "length": "192 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-582"
   },
   {
@@ -6436,7 +6436,7 @@
     "length": "229 mm",
     "rating": "0",
     "price": "$252.27",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-583"
   },
   {
@@ -6450,7 +6450,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1733.39",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-584"
   },
   {
@@ -6464,7 +6464,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-585"
   },
   {
@@ -6478,7 +6478,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$1189.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-586"
   },
   {
@@ -6492,7 +6492,7 @@
     "length": "331 mm",
     "rating": "0",
     "price": "$824.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-587"
   },
   {
@@ -6506,7 +6506,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "$659.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-588"
   },
   {
@@ -6520,7 +6520,7 @@
     "length": "306 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-589"
   },
   {
@@ -6534,7 +6534,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$385.06",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-590"
   },
   {
@@ -6548,7 +6548,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-591"
   },
   {
@@ -6562,7 +6562,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$1036.36",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-592"
   },
   {
@@ -6576,7 +6576,7 @@
     "length": "295 mm",
     "rating": "0",
     "price": "$452.44",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-593"
   },
   {
@@ -6590,7 +6590,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$989.98",
-    "manufactor": "MAXSUN",
+    "manufacturer": "MAXSUN",
     "id": "gpu-594"
   },
   {
@@ -6604,7 +6604,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-595"
   },
   {
@@ -6618,7 +6618,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$1249.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-596"
   },
   {
@@ -6632,7 +6632,7 @@
     "length": "290 mm",
     "rating": "0",
     "price": "$794.73",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-597"
   },
   {
@@ -6646,7 +6646,7 @@
     "length": "148 mm",
     "rating": "0",
     "price": "$99.62",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-598"
   },
   {
@@ -6660,7 +6660,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-599"
   },
   {
@@ -6674,7 +6674,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-600"
   },
   {
@@ -6688,7 +6688,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-601"
   },
   {
@@ -6702,7 +6702,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$649.90",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-602"
   },
   {
@@ -6716,7 +6716,7 @@
     "length": "290 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-603"
   },
   {
@@ -6730,7 +6730,7 @@
     "length": "261 mm",
     "rating": "0",
     "price": "$909.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-604"
   },
   {
@@ -6744,7 +6744,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$689.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-605"
   },
   {
@@ -6758,7 +6758,7 @@
     "length": "303 mm",
     "rating": "0",
     "price": "$334.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-606"
   },
   {
@@ -6772,7 +6772,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$305.07",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-607"
   },
   {
@@ -6786,7 +6786,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$489.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-608"
   },
   {
@@ -6800,7 +6800,7 @@
     "length": "277 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-609"
   },
   {
@@ -6814,7 +6814,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-610"
   },
   {
@@ -6828,7 +6828,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1297.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-611"
   },
   {
@@ -6842,7 +6842,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "$329.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-612"
   },
   {
@@ -6856,7 +6856,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$1099.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-613"
   },
   {
@@ -6870,7 +6870,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$679.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-614"
   },
   {
@@ -6884,7 +6884,7 @@
     "length": "299 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-615"
   },
   {
@@ -6898,7 +6898,7 @@
     "length": "169 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-616"
   },
   {
@@ -6912,7 +6912,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$630.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-617"
   },
   {
@@ -6926,7 +6926,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "$821.61",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-618"
   },
   {
@@ -6940,7 +6940,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$529.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-619"
   },
   {
@@ -6954,7 +6954,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1499.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-620"
   },
   {
@@ -6968,7 +6968,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1159.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-621"
   },
   {
@@ -6982,7 +6982,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-622"
   },
   {
@@ -6996,7 +6996,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-623"
   },
   {
@@ -7010,7 +7010,7 @@
     "length": "219 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-624"
   },
   {
@@ -7024,7 +7024,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-625"
   },
   {
@@ -7038,7 +7038,7 @@
     "length": "297 mm",
     "rating": "0",
     "price": "$675.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-626"
   },
   {
@@ -7052,7 +7052,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$209.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-627"
   },
   {
@@ -7066,7 +7066,7 @@
     "length": "213 mm",
     "rating": "0",
     "price": "$349.95",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-628"
   },
   {
@@ -7080,7 +7080,7 @@
     "length": "313 mm",
     "rating": "0",
     "price": "$689.00",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-629"
   },
   {
@@ -7094,7 +7094,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$315.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-630"
   },
   {
@@ -7108,7 +7108,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-631"
   },
   {
@@ -7122,7 +7122,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-632"
   },
   {
@@ -7136,7 +7136,7 @@
     "length": "212 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-633"
   },
   {
@@ -7150,7 +7150,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-634"
   },
   {
@@ -7164,7 +7164,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$199.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-635"
   },
   {
@@ -7178,7 +7178,7 @@
     "length": "153 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-636"
   },
   {
@@ -7192,7 +7192,7 @@
     "length": "203 mm",
     "rating": "0",
     "price": "$178.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-637"
   },
   {
@@ -7206,7 +7206,7 @@
     "length": "210 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-638"
   },
   {
@@ -7220,7 +7220,7 @@
     "length": "345 mm",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-639"
   },
   {
@@ -7234,7 +7234,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-640"
   },
   {
@@ -7248,7 +7248,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$347.80",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-641"
   },
   {
@@ -7262,7 +7262,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1079.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-642"
   },
   {
@@ -7276,7 +7276,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-643"
   },
   {
@@ -7290,7 +7290,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$1498.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-644"
   },
   {
@@ -7304,7 +7304,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-645"
   },
   {
@@ -7318,7 +7318,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "$598.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-646"
   },
   {
@@ -7332,7 +7332,7 @@
     "length": "173 mm",
     "rating": "0",
     "price": "$599.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-647"
   },
   {
@@ -7346,7 +7346,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-648"
   },
   {
@@ -7360,7 +7360,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-649"
   },
   {
@@ -7374,7 +7374,7 @@
     "length": "210 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-650"
   },
   {
@@ -7388,7 +7388,7 @@
     "length": "223 mm",
     "rating": "0",
     "price": "$300.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-651"
   },
   {
@@ -7402,7 +7402,7 @@
     "length": "254 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-652"
   },
   {
@@ -7416,7 +7416,7 @@
     "length": "352 mm",
     "rating": "0",
     "price": "$1098.99",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-653"
   },
   {
@@ -7430,7 +7430,7 @@
     "length": "249 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-654"
   },
   {
@@ -7444,7 +7444,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$859.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-655"
   },
   {
@@ -7458,7 +7458,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-656"
   },
   {
@@ -7472,7 +7472,7 @@
     "length": "222 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-657"
   },
   {
@@ -7486,7 +7486,7 @@
     "length": "223 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-658"
   },
   {
@@ -7500,7 +7500,7 @@
     "length": "224 mm",
     "rating": "0",
     "price": "$220.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-659"
   },
   {
@@ -7514,7 +7514,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-660"
   },
   {
@@ -7528,7 +7528,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$395.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-661"
   },
   {
@@ -7542,7 +7542,7 @@
     "length": "248 mm",
     "rating": "0",
     "price": "$300.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-662"
   },
   {
@@ -7556,7 +7556,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$409.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-663"
   },
   {
@@ -7570,7 +7570,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-664"
   },
   {
@@ -7584,7 +7584,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$835.64",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-665"
   },
   {
@@ -7598,7 +7598,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-666"
   },
   {
@@ -7612,7 +7612,7 @@
     "length": "192 mm",
     "rating": "0",
     "price": "$285.76",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-667"
   },
   {
@@ -7626,7 +7626,7 @@
     "length": "234 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-668"
   },
   {
@@ -7640,7 +7640,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-669"
   },
   {
@@ -7654,7 +7654,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "$228.26",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-670"
   },
   {
@@ -7668,7 +7668,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-671"
   },
   {
@@ -7682,7 +7682,7 @@
     "length": "191 mm",
     "rating": "0",
     "price": "$169.00",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-672"
   },
   {
@@ -7696,7 +7696,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1790.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-673"
   },
   {
@@ -7710,7 +7710,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-674"
   },
   {
@@ -7724,7 +7724,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-675"
   },
   {
@@ -7738,7 +7738,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$586.59",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-676"
   },
   {
@@ -7752,7 +7752,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-677"
   },
   {
@@ -7766,7 +7766,7 @@
     "length": "167 mm",
     "rating": "0",
     "price": "$633.07",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-678"
   },
   {
@@ -7780,7 +7780,7 @@
     "length": "162 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-679"
   },
   {
@@ -7794,7 +7794,7 @@
     "length": "172 mm",
     "rating": "0",
     "price": "$194.34",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-680"
   },
   {
@@ -7808,7 +7808,7 @@
     "length": "190 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-681"
   },
   {
@@ -7822,7 +7822,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-682"
   },
   {
@@ -7836,7 +7836,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "$1024.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-683"
   },
   {
@@ -7850,7 +7850,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-684"
   },
   {
@@ -7864,7 +7864,7 @@
     "length": "294 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-685"
   },
   {
@@ -7878,7 +7878,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-686"
   },
   {
@@ -7892,7 +7892,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$496.31",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-687"
   },
   {
@@ -7906,7 +7906,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-688"
   },
   {
@@ -7920,7 +7920,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-689"
   },
   {
@@ -7934,7 +7934,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$654.04",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-690"
   },
   {
@@ -7948,7 +7948,7 @@
     "length": "315 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-691"
   },
   {
@@ -7962,7 +7962,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-692"
   },
   {
@@ -7976,7 +7976,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-693"
   },
   {
@@ -7990,7 +7990,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "$663.62",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-694"
   },
   {
@@ -8004,7 +8004,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-695"
   },
   {
@@ -8018,7 +8018,7 @@
     "length": "265 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-696"
   },
   {
@@ -8032,7 +8032,7 @@
     "length": "328 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-697"
   },
   {
@@ -8046,7 +8046,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$849.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-698"
   },
   {
@@ -8060,7 +8060,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-699"
   },
   {
@@ -8074,7 +8074,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$1149.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-700"
   },
   {
@@ -8088,7 +8088,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$375.93",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-701"
   },
   {
@@ -8102,7 +8102,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$469.50",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-702"
   },
   {
@@ -8116,7 +8116,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-703"
   },
   {
@@ -8130,7 +8130,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1100.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-704"
   },
   {
@@ -8144,7 +8144,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$430.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-705"
   },
   {
@@ -8158,7 +8158,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "$815.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-706"
   },
   {
@@ -8172,7 +8172,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$860.00",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-707"
   },
   {
@@ -8186,7 +8186,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-708"
   },
   {
@@ -8200,7 +8200,7 @@
     "length": "296 mm",
     "rating": "0",
     "price": "$629.90",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-709"
   },
   {
@@ -8214,7 +8214,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$819.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-710"
   },
   {
@@ -8228,7 +8228,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-711"
   },
   {
@@ -8242,7 +8242,7 @@
     "length": "339 mm",
     "rating": "0",
     "price": "$719.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-712"
   },
   {
@@ -8256,7 +8256,7 @@
     "length": "327 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-713"
   },
   {
@@ -8270,7 +8270,7 @@
     "length": "252 mm",
     "rating": "0",
     "price": "$4915.80",
-    "manufactor": "Gainward",
+    "manufacturer": "Gainward",
     "id": "gpu-714"
   },
   {
@@ -8284,7 +8284,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-715"
   },
   {
@@ -8298,7 +8298,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-716"
   },
   {
@@ -8312,7 +8312,7 @@
     "length": "229 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-717"
   },
   {
@@ -8326,7 +8326,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$509.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-718"
   },
   {
@@ -8340,7 +8340,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$1179.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-719"
   },
   {
@@ -8354,7 +8354,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$678.54",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-720"
   },
   {
@@ -8368,7 +8368,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gainward",
+    "manufacturer": "Gainward",
     "id": "gpu-721"
   },
   {
@@ -8382,7 +8382,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-722"
   },
   {
@@ -8396,7 +8396,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$1878.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-723"
   },
   {
@@ -8410,7 +8410,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "$599.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-724"
   },
   {
@@ -8424,7 +8424,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "$892.17",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-725"
   },
   {
@@ -8438,7 +8438,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "$1778.09",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-726"
   },
   {
@@ -8452,7 +8452,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-727"
   },
   {
@@ -8466,7 +8466,7 @@
     "length": "150 mm",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-728"
   },
   {
@@ -8480,7 +8480,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-729"
   },
   {
@@ -8494,7 +8494,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-730"
   },
   {
@@ -8508,7 +8508,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1099.90",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-731"
   },
   {
@@ -8522,7 +8522,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-732"
   },
   {
@@ -8536,7 +8536,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-733"
   },
   {
@@ -8550,7 +8550,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-734"
   },
   {
@@ -8564,7 +8564,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-735"
   },
   {
@@ -8578,7 +8578,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$699.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-736"
   },
   {
@@ -8592,7 +8592,7 @@
     "length": "325 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-737"
   },
   {
@@ -8606,7 +8606,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "$587.60",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-738"
   },
   {
@@ -8620,7 +8620,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-739"
   },
   {
@@ -8634,7 +8634,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1332.19",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-740"
   },
   {
@@ -8648,7 +8648,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1924.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-741"
   },
   {
@@ -8662,7 +8662,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1499.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-742"
   },
   {
@@ -8676,7 +8676,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$1029.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-743"
   },
   {
@@ -8690,7 +8690,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$262.36",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-744"
   },
   {
@@ -8704,7 +8704,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "$319.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-745"
   },
   {
@@ -8718,7 +8718,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-746"
   },
   {
@@ -8732,7 +8732,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$389.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-747"
   },
   {
@@ -8746,7 +8746,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-748"
   },
   {
@@ -8760,7 +8760,7 @@
     "length": "272 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-749"
   },
   {
@@ -8774,7 +8774,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-750"
   },
   {
@@ -8788,7 +8788,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$347.94",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-751"
   },
   {
@@ -8802,7 +8802,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-752"
   },
   {
@@ -8816,7 +8816,7 @@
     "length": "317 mm",
     "rating": "0",
     "price": "$679.90",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-753"
   },
   {
@@ -8830,7 +8830,7 @@
     "length": "217 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-754"
   },
   {
@@ -8844,7 +8844,7 @@
     "length": "155 mm",
     "rating": "0",
     "price": "$424.79",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-755"
   },
   {
@@ -8858,7 +8858,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-756"
   },
   {
@@ -8872,7 +8872,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-757"
   },
   {
@@ -8886,7 +8886,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-758"
   },
   {
@@ -8900,7 +8900,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-759"
   },
   {
@@ -8914,7 +8914,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$295.89",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-760"
   },
   {
@@ -8928,7 +8928,7 @@
     "length": "297 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-761"
   },
   {
@@ -8942,7 +8942,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-762"
   },
   {
@@ -8956,7 +8956,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1210.21",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-763"
   },
   {
@@ -8970,7 +8970,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-764"
   },
   {
@@ -8984,7 +8984,7 @@
     "length": "192 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-765"
   },
   {
@@ -8998,7 +8998,7 @@
     "length": "184 mm",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-766"
   },
   {
@@ -9012,7 +9012,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-767"
   },
   {
@@ -9026,7 +9026,7 @@
     "length": "352 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-768"
   },
   {
@@ -9040,7 +9040,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$599.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-769"
   },
   {
@@ -9054,7 +9054,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-770"
   },
   {
@@ -9068,7 +9068,7 @@
     "length": "277 mm",
     "rating": "0",
     "price": "$343.66",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-771"
   },
   {
@@ -9082,7 +9082,7 @@
     "length": "236 mm",
     "rating": "0",
     "price": "$139.90",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-772"
   },
   {
@@ -9096,7 +9096,7 @@
     "length": "277 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-773"
   },
   {
@@ -9110,7 +9110,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-774"
   },
   {
@@ -9124,7 +9124,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "$729.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-775"
   },
   {
@@ -9138,7 +9138,7 @@
     "length": "296 mm",
     "rating": "0",
     "price": "$530.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-776"
   },
   {
@@ -9152,7 +9152,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-777"
   },
   {
@@ -9166,7 +9166,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-778"
   },
   {
@@ -9180,7 +9180,7 @@
     "length": "302 mm",
     "rating": "0",
     "price": "$1079.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-779"
   },
   {
@@ -9194,7 +9194,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1099.95",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-780"
   },
   {
@@ -9208,7 +9208,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$974.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-781"
   },
   {
@@ -9222,7 +9222,7 @@
     "length": "191 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-782"
   },
   {
@@ -9236,7 +9236,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$759.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-783"
   },
   {
@@ -9250,7 +9250,7 @@
     "length": "236 mm",
     "rating": "0",
     "price": "$2475.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-784"
   },
   {
@@ -9264,7 +9264,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-785"
   },
   {
@@ -9278,7 +9278,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$639.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-786"
   },
   {
@@ -9292,7 +9292,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-787"
   },
   {
@@ -9306,7 +9306,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-788"
   },
   {
@@ -9320,7 +9320,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$729.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-789"
   },
   {
@@ -9334,7 +9334,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$700.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-790"
   },
   {
@@ -9348,7 +9348,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "$1015.48",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-791"
   },
   {
@@ -9362,7 +9362,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$349.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-792"
   },
   {
@@ -9376,7 +9376,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "$274.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-793"
   },
   {
@@ -9390,7 +9390,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$1399.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-794"
   },
   {
@@ -9404,7 +9404,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-795"
   },
   {
@@ -9418,7 +9418,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-796"
   },
   {
@@ -9432,7 +9432,7 @@
     "length": "145 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-797"
   },
   {
@@ -9446,7 +9446,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1299.95",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-798"
   },
   {
@@ -9460,7 +9460,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-799"
   },
   {
@@ -9474,7 +9474,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-800"
   },
   {
@@ -9488,7 +9488,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$158.21",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-801"
   },
   {
@@ -9502,7 +9502,7 @@
     "length": "169 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-802"
   },
   {
@@ -9516,7 +9516,7 @@
     "length": "167 mm",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-803"
   },
   {
@@ -9530,7 +9530,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-804"
   },
   {
@@ -9544,7 +9544,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-805"
   },
   {
@@ -9558,7 +9558,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1919.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-806"
   },
   {
@@ -9572,7 +9572,7 @@
     "length": "246 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-807"
   },
   {
@@ -9586,7 +9586,7 @@
     "length": "325 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-808"
   },
   {
@@ -9600,7 +9600,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$656.59",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-809"
   },
   {
@@ -9614,7 +9614,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-810"
   },
   {
@@ -9628,7 +9628,7 @@
     "length": "245 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gainward",
+    "manufacturer": "Gainward",
     "id": "gpu-811"
   },
   {
@@ -9642,7 +9642,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-812"
   },
   {
@@ -9656,7 +9656,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-813"
   },
   {
@@ -9670,7 +9670,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-814"
   },
   {
@@ -9684,7 +9684,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "$849.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-815"
   },
   {
@@ -9698,7 +9698,7 @@
     "length": "231 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-816"
   },
   {
@@ -9712,7 +9712,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-817"
   },
   {
@@ -9726,7 +9726,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$490.52",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-818"
   },
   {
@@ -9740,7 +9740,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-819"
   },
   {
@@ -9754,7 +9754,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-820"
   },
   {
@@ -9768,7 +9768,7 @@
     "length": "328 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-821"
   },
   {
@@ -9782,7 +9782,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$549.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-822"
   },
   {
@@ -9796,7 +9796,7 @@
     "length": "282 mm",
     "rating": "0",
     "price": "$498.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-823"
   },
   {
@@ -9810,7 +9810,7 @@
     "length": "326 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-824"
   },
   {
@@ -9824,7 +9824,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$641.49",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-825"
   },
   {
@@ -9838,7 +9838,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-826"
   },
   {
@@ -9852,7 +9852,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-827"
   },
   {
@@ -9866,7 +9866,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$899.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-828"
   },
   {
@@ -9880,7 +9880,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$619.90",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-829"
   },
   {
@@ -9894,7 +9894,7 @@
     "length": "334 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-830"
   },
   {
@@ -9908,7 +9908,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-831"
   },
   {
@@ -9922,7 +9922,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-832"
   },
   {
@@ -9936,7 +9936,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-833"
   },
   {
@@ -9950,7 +9950,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-834"
   },
   {
@@ -9964,7 +9964,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-835"
   },
   {
@@ -9978,7 +9978,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-836"
   },
   {
@@ -9992,7 +9992,7 @@
     "length": "225 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-837"
   },
   {
@@ -10006,7 +10006,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-838"
   },
   {
@@ -10020,7 +10020,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "$1459.05",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-839"
   },
   {
@@ -10034,7 +10034,7 @@
     "length": "192 mm",
     "rating": "0",
     "price": "$118.06",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-840"
   },
   {
@@ -10048,7 +10048,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$629.90",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-841"
   },
   {
@@ -10062,7 +10062,7 @@
     "length": "213 mm",
     "rating": "0",
     "price": "$341.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-842"
   },
   {
@@ -10076,7 +10076,7 @@
     "length": "230 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-843"
   },
   {
@@ -10090,7 +10090,7 @@
     "length": "301 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Yeston",
+    "manufacturer": "Yeston",
     "id": "gpu-844"
   },
   {
@@ -10104,7 +10104,7 @@
     "length": "235 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-845"
   },
   {
@@ -10118,7 +10118,7 @@
     "length": "257 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-846"
   },
   {
@@ -10132,7 +10132,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$1020.52",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-847"
   },
   {
@@ -10146,7 +10146,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-848"
   },
   {
@@ -10160,7 +10160,7 @@
     "length": "150 mm",
     "rating": "0",
     "price": "$120.11",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-849"
   },
   {
@@ -10174,7 +10174,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-850"
   },
   {
@@ -10188,7 +10188,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "$409.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-851"
   },
   {
@@ -10202,7 +10202,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-852"
   },
   {
@@ -10216,7 +10216,7 @@
     "length": "243 mm",
     "rating": "0",
     "price": "$4484.68",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-853"
   },
   {
@@ -10230,7 +10230,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gainward",
+    "manufacturer": "Gainward",
     "id": "gpu-854"
   },
   {
@@ -10244,7 +10244,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-855"
   },
   {
@@ -10258,7 +10258,7 @@
     "length": "165 mm",
     "rating": "0",
     "price": "$78.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-856"
   },
   {
@@ -10272,7 +10272,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$1167.40",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-857"
   },
   {
@@ -10286,7 +10286,7 @@
     "length": "286 mm",
     "rating": "0",
     "price": "$1205.44",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-858"
   },
   {
@@ -10300,7 +10300,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$646.75",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-859"
   },
   {
@@ -10314,7 +10314,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-860"
   },
   {
@@ -10328,7 +10328,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$399.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-861"
   },
   {
@@ -10342,7 +10342,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$254.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-862"
   },
   {
@@ -10356,7 +10356,7 @@
     "length": "297 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-863"
   },
   {
@@ -10370,7 +10370,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-864"
   },
   {
@@ -10384,7 +10384,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$189.96",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "gpu-865"
   },
   {
@@ -10398,7 +10398,7 @@
     "length": "326 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-866"
   },
   {
@@ -10412,7 +10412,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$489.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-867"
   },
   {
@@ -10426,7 +10426,7 @@
     "length": "150 mm",
     "rating": "0",
     "price": "$101.73",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-868"
   },
   {
@@ -10440,7 +10440,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-869"
   },
   {
@@ -10454,7 +10454,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-870"
   },
   {
@@ -10468,7 +10468,7 @@
     "length": "237 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-871"
   },
   {
@@ -10482,7 +10482,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-872"
   },
   {
@@ -10496,7 +10496,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$369.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-873"
   },
   {
@@ -10510,7 +10510,7 @@
     "length": "257 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-874"
   },
   {
@@ -10524,7 +10524,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-875"
   },
   {
@@ -10538,7 +10538,7 @@
     "length": "240 mm",
     "rating": "0",
     "price": "$373.99",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-876"
   },
   {
@@ -10552,7 +10552,7 @@
     "length": "165 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-877"
   },
   {
@@ -10566,7 +10566,7 @@
     "length": "219 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-878"
   },
   {
@@ -10580,7 +10580,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-879"
   },
   {
@@ -10594,7 +10594,7 @@
     "length": "293 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-880"
   },
   {
@@ -10608,7 +10608,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$369.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-881"
   },
   {
@@ -10622,7 +10622,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-882"
   },
   {
@@ -10636,7 +10636,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-883"
   },
   {
@@ -10650,7 +10650,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "$573.87",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-884"
   },
   {
@@ -10664,7 +10664,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-885"
   },
   {
@@ -10678,7 +10678,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$1049.90",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-886"
   },
   {
@@ -10692,7 +10692,7 @@
     "length": "356 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-887"
   },
   {
@@ -10706,7 +10706,7 @@
     "length": "278 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-888"
   },
   {
@@ -10720,7 +10720,7 @@
     "length": "328 mm",
     "rating": "0",
     "price": "$479.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-889"
   },
   {
@@ -10734,7 +10734,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$864.22",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-890"
   },
   {
@@ -10748,7 +10748,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-891"
   },
   {
@@ -10762,7 +10762,7 @@
     "length": "151 mm",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-892"
   },
   {
@@ -10776,7 +10776,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-893"
   },
   {
@@ -10790,7 +10790,7 @@
     "length": "210 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-894"
   },
   {
@@ -10804,7 +10804,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "$699.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-895"
   },
   {
@@ -10818,7 +10818,7 @@
     "length": "177 mm",
     "rating": "0",
     "price": "$479.90",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-896"
   },
   {
@@ -10832,7 +10832,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-897"
   },
   {
@@ -10846,7 +10846,7 @@
     "length": "293 mm",
     "rating": "0",
     "price": "$2795.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-898"
   },
   {
@@ -10860,7 +10860,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$869.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-899"
   },
   {
@@ -10874,7 +10874,7 @@
     "length": "226 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-900"
   },
   {
@@ -10888,7 +10888,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-901"
   },
   {
@@ -10902,7 +10902,7 @@
     "length": "336 mm",
     "rating": "0",
     "price": "$1349.95",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-902"
   },
   {
@@ -10916,7 +10916,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-903"
   },
   {
@@ -10930,7 +10930,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-904"
   },
   {
@@ -10944,7 +10944,7 @@
     "length": "330 mm",
     "rating": "0",
     "price": "$529.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-905"
   },
   {
@@ -10958,7 +10958,7 @@
     "length": "340 mm",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-906"
   },
   {
@@ -10972,7 +10972,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$849.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-907"
   },
   {
@@ -10986,7 +10986,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-908"
   },
   {
@@ -11000,7 +11000,7 @@
     "length": "215 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-909"
   },
   {
@@ -11014,7 +11014,7 @@
     "length": "153 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-910"
   },
   {
@@ -11028,7 +11028,7 @@
     "length": "306 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Sparkle",
+    "manufacturer": "Sparkle",
     "id": "gpu-911"
   },
   {
@@ -11042,7 +11042,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-912"
   },
   {
@@ -11056,7 +11056,7 @@
     "length": "326 mm",
     "rating": "0",
     "price": "$1738.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-913"
   },
   {
@@ -11070,7 +11070,7 @@
     "length": "293 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-914"
   },
   {
@@ -11084,7 +11084,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-915"
   },
   {
@@ -11098,7 +11098,7 @@
     "length": "227 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-916"
   },
   {
@@ -11112,7 +11112,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-917"
   },
   {
@@ -11126,7 +11126,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-918"
   },
   {
@@ -11140,7 +11140,7 @@
     "length": "308 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-919"
   },
   {
@@ -11154,7 +11154,7 @@
     "length": "238 mm",
     "rating": "0",
     "price": "$1649.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-920"
   },
   {
@@ -11168,7 +11168,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$1030.97",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-921"
   },
   {
@@ -11182,7 +11182,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$595.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-922"
   },
   {
@@ -11196,7 +11196,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-923"
   },
   {
@@ -11210,7 +11210,7 @@
     "length": "324 mm",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-924"
   },
   {
@@ -11224,7 +11224,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$239.94",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "gpu-925"
   },
   {
@@ -11238,7 +11238,7 @@
     "length": "294 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-926"
   },
   {
@@ -11252,7 +11252,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-927"
   },
   {
@@ -11266,7 +11266,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$703.18",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-928"
   },
   {
@@ -11280,7 +11280,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-929"
   },
   {
@@ -11294,7 +11294,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-930"
   },
   {
@@ -11308,7 +11308,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$969.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-931"
   },
   {
@@ -11322,7 +11322,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$745.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-932"
   },
   {
@@ -11336,7 +11336,7 @@
     "length": "216 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-933"
   },
   {
@@ -11350,7 +11350,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-934"
   },
   {
@@ -11364,7 +11364,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-935"
   },
   {
@@ -11378,7 +11378,7 @@
     "length": "168 mm",
     "rating": "0",
     "price": "$122.90",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-936"
   },
   {
@@ -11392,7 +11392,7 @@
     "length": "178 mm",
     "rating": "0",
     "price": "$250.31",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-937"
   },
   {
@@ -11406,7 +11406,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$579.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-938"
   },
   {
@@ -11420,7 +11420,7 @@
     "length": "255 mm",
     "rating": "0",
     "price": "$344.00",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-939"
   },
   {
@@ -11434,7 +11434,7 @@
     "length": "220 mm",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-940"
   },
   {
@@ -11448,7 +11448,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "$1015.68",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-941"
   },
   {
@@ -11462,7 +11462,7 @@
     "length": "290 mm",
     "rating": "0",
     "price": "$679.00",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-942"
   },
   {
@@ -11476,7 +11476,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$263.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-943"
   },
   {
@@ -11490,7 +11490,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "$781.43",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-944"
   },
   {
@@ -11504,7 +11504,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$1079.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-945"
   },
   {
@@ -11518,7 +11518,7 @@
     "length": "204 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-946"
   },
   {
@@ -11532,7 +11532,7 @@
     "length": "168 mm",
     "rating": "0",
     "price": "$1453.98",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-947"
   },
   {
@@ -11546,7 +11546,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$729.98",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-948"
   },
   {
@@ -11560,7 +11560,7 @@
     "length": "200 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-949"
   },
   {
@@ -11574,7 +11574,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "$598.79",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-950"
   },
   {
@@ -11588,7 +11588,7 @@
     "length": "269 mm",
     "rating": "0",
     "price": "$498.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-951"
   },
   {
@@ -11602,7 +11602,7 @@
     "length": "270 mm",
     "rating": "0",
     "price": "$265.95",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-952"
   },
   {
@@ -11616,7 +11616,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-953"
   },
   {
@@ -11630,7 +11630,7 @@
     "length": "294 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-954"
   },
   {
@@ -11644,7 +11644,7 @@
     "length": "338 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-955"
   },
   {
@@ -11658,7 +11658,7 @@
     "length": "318 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-956"
   },
   {
@@ -11672,7 +11672,7 @@
     "length": "260 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-957"
   },
   {
@@ -11686,7 +11686,7 @@
     "length": "168 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-958"
   },
   {
@@ -11700,7 +11700,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-959"
   },
   {
@@ -11714,7 +11714,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-960"
   },
   {
@@ -11728,7 +11728,7 @@
     "length": "241 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-961"
   },
   {
@@ -11742,7 +11742,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-962"
   },
   {
@@ -11756,7 +11756,7 @@
     "length": "167 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-963"
   },
   {
@@ -11770,7 +11770,7 @@
     "length": "247 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-964"
   },
   {
@@ -11784,7 +11784,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-965"
   },
   {
@@ -11798,7 +11798,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "$1422.79",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-966"
   },
   {
@@ -11812,7 +11812,7 @@
     "length": "320 mm",
     "rating": "0",
     "price": "$1496.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-967"
   },
   {
@@ -11826,7 +11826,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-968"
   },
   {
@@ -11840,7 +11840,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-969"
   },
   {
@@ -11854,7 +11854,7 @@
     "length": "329 mm",
     "rating": "0",
     "price": "$734.40",
-    "manufactor": "Palit",
+    "manufacturer": "Palit",
     "id": "gpu-970"
   },
   {
@@ -11868,7 +11868,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-971"
   },
   {
@@ -11882,7 +11882,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-972"
   },
   {
@@ -11896,7 +11896,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$480.17",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-973"
   },
   {
@@ -11910,7 +11910,7 @@
     "length": "147 mm",
     "rating": "0",
     "price": "$106.46",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-974"
   },
   {
@@ -11924,7 +11924,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-975"
   },
   {
@@ -11938,7 +11938,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-976"
   },
   {
@@ -11952,7 +11952,7 @@
     "length": "310 mm",
     "rating": "0",
     "price": "$1324.52",
-    "manufactor": "Sapphire",
+    "manufacturer": "Sapphire",
     "id": "gpu-977"
   },
   {
@@ -11966,7 +11966,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "$627.40",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-978"
   },
   {
@@ -11980,7 +11980,7 @@
     "length": "276 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-979"
   },
   {
@@ -11994,7 +11994,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1518.49",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "gpu-980"
   },
   {
@@ -12008,7 +12008,7 @@
     "length": "294 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-981"
   },
   {
@@ -12022,7 +12022,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-982"
   },
   {
@@ -12036,7 +12036,7 @@
     "length": "256 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GALAX",
+    "manufacturer": "GALAX",
     "id": "gpu-983"
   },
   {
@@ -12050,7 +12050,7 @@
     "length": "251 mm",
     "rating": "0",
     "price": "$595.00",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-984"
   },
   {
@@ -12064,7 +12064,7 @@
     "length": "300 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-985"
   },
   {
@@ -12078,7 +12078,7 @@
     "length": "298 mm",
     "rating": "0",
     "price": "$549.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-986"
   },
   {
@@ -12092,7 +12092,7 @@
     "length": "279 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-987"
   },
   {
@@ -12106,7 +12106,7 @@
     "length": "268 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-988"
   },
   {
@@ -12120,7 +12120,7 @@
     "length": "232 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-989"
   },
   {
@@ -12134,7 +12134,7 @@
     "length": "307 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-990"
   },
   {
@@ -12148,7 +12148,7 @@
     "length": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-991"
   },
   {
@@ -12162,7 +12162,7 @@
     "length": "305 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-992"
   },
   {
@@ -12176,7 +12176,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$2699.00",
-    "manufactor": "NVIDIA",
+    "manufacturer": "NVIDIA",
     "id": "gpu-993"
   },
   {
@@ -12190,7 +12190,7 @@
     "length": "352 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-994"
   },
   {
@@ -12204,7 +12204,7 @@
     "length": "197 mm",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-995"
   },
   {
@@ -12218,7 +12218,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-996"
   },
   {
@@ -12232,7 +12232,7 @@
     "length": "242 mm",
     "rating": "0",
     "price": "$419.41",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-997"
   },
   {
@@ -12246,7 +12246,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$489.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-998"
   },
   {
@@ -12260,7 +12260,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-999"
   },
   {
@@ -12274,7 +12274,7 @@
     "length": "182 mm",
     "rating": "0",
     "price": "$178.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-1000"
   },
   {
@@ -12288,7 +12288,7 @@
     "length": "201 mm",
     "rating": "0",
     "price": "$273.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-1001"
   },
   {
@@ -12302,7 +12302,7 @@
     "length": "202 mm",
     "rating": "0",
     "price": "$599.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-1002"
   },
   {
@@ -12316,7 +12316,7 @@
     "length": "322 mm",
     "rating": "0",
     "price": "$1933.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-1003"
   },
   {
@@ -12330,7 +12330,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Inno3D",
+    "manufacturer": "Inno3D",
     "id": "gpu-1004"
   },
   {
@@ -12344,7 +12344,7 @@
     "length": "173 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-1005"
   },
   {
@@ -12358,7 +12358,7 @@
     "length": "332 mm",
     "rating": "0",
     "price": "$839.00",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "gpu-1006"
   },
   {
@@ -12372,7 +12372,7 @@
     "length": "197 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "gpu-1007"
   },
   {
@@ -12386,7 +12386,7 @@
     "length": "254 mm",
     "rating": "0",
     "price": "$155.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-1008"
   },
   {
@@ -12400,7 +12400,7 @@
     "length": "335 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-1009"
   },
   {
@@ -12414,7 +12414,7 @@
     "length": "281 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-1010"
   },
   {
@@ -12428,7 +12428,7 @@
     "length": "287 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PowerColor",
+    "manufacturer": "PowerColor",
     "id": "gpu-1011"
   },
   {
@@ -12442,7 +12442,7 @@
     "length": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-1012"
   },
   {
@@ -12456,7 +12456,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KFA2",
+    "manufacturer": "KFA2",
     "id": "gpu-1013"
   },
   {
@@ -12470,7 +12470,7 @@
     "length": "267 mm",
     "rating": "0",
     "price": "$1999.00",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "gpu-1014"
   },
   {
@@ -12484,7 +12484,7 @@
     "length": "285 mm",
     "rating": "0",
     "price": "$559.00",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "gpu-1015"
   },
   {
@@ -12498,7 +12498,7 @@
     "length": "319 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "gpu-1016"
   },
   {
@@ -12512,7 +12512,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-1017"
   },
   {
@@ -12526,7 +12526,7 @@
     "length": "323 mm",
     "rating": "0",
     "price": "$749.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-1018"
   },
   {
@@ -12540,7 +12540,7 @@
     "length": "337 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-1019"
   },
   {
@@ -12554,7 +12554,7 @@
     "length": "250 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gainward",
+    "manufacturer": "Gainward",
     "id": "gpu-1020"
   },
   {
@@ -12568,7 +12568,7 @@
     "length": "210 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Zotac",
+    "manufacturer": "Zotac",
     "id": "gpu-1021"
   },
   {
@@ -12582,7 +12582,7 @@
     "length": "238 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "XFX",
+    "manufacturer": "XFX",
     "id": "gpu-1022"
   },
   {
@@ -12596,7 +12596,7 @@
     "length": "170 mm",
     "rating": "0",
     "price": "$181.22",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "gpu-1023"
   }
 ]

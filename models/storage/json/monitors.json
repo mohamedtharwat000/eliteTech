@@ -10,7 +10,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$283.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-124"
   },
   {
@@ -24,7 +24,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$8875.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-125"
   },
   {
@@ -38,7 +38,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-126"
   },
   {
@@ -52,7 +52,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$189.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-127"
   },
   {
@@ -66,7 +66,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$469.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-128"
   },
   {
@@ -80,7 +80,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-129"
   },
   {
@@ -94,7 +94,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-130"
   },
   {
@@ -108,7 +108,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-131"
   },
   {
@@ -122,7 +122,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-132"
   },
   {
@@ -136,7 +136,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-133"
   },
   {
@@ -150,7 +150,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-134"
   },
   {
@@ -164,7 +164,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-135"
   },
   {
@@ -178,7 +178,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$1299.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-136"
   },
   {
@@ -192,7 +192,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$1999.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-137"
   },
   {
@@ -206,7 +206,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-138"
   },
   {
@@ -220,7 +220,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$265.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-139"
   },
   {
@@ -234,7 +234,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$979.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-140"
   },
   {
@@ -248,7 +248,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$779.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-141"
   },
   {
@@ -262,7 +262,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$74.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-142"
   },
   {
@@ -276,7 +276,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$998.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-143"
   },
   {
@@ -290,7 +290,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$997.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-144"
   },
   {
@@ -304,7 +304,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.01",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-145"
   },
   {
@@ -318,7 +318,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$281.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-146"
   },
   {
@@ -332,7 +332,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$365.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-147"
   },
   {
@@ -346,7 +346,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Pixio",
+    "manufacturer": "Pixio",
     "id": "monitor-148"
   },
   {
@@ -360,7 +360,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$4029.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-149"
   },
   {
@@ -374,7 +374,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$69.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-150"
   },
   {
@@ -388,7 +388,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$1199.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-151"
   },
   {
@@ -402,7 +402,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$378.92",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-152"
   },
   {
@@ -416,7 +416,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-153"
   },
   {
@@ -430,7 +430,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Pixio",
+    "manufacturer": "Pixio",
     "id": "monitor-154"
   },
   {
@@ -444,7 +444,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$367.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-155"
   },
   {
@@ -458,7 +458,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-156"
   },
   {
@@ -472,7 +472,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-157"
   },
   {
@@ -486,7 +486,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$88.00",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-158"
   },
   {
@@ -500,7 +500,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$273.01",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-159"
   },
   {
@@ -514,7 +514,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-160"
   },
   {
@@ -528,7 +528,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$94.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-161"
   },
   {
@@ -542,7 +542,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1299.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "monitor-162"
   },
   {
@@ -556,7 +556,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-163"
   },
   {
@@ -570,7 +570,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-164"
   },
   {
@@ -584,7 +584,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-165"
   },
   {
@@ -598,7 +598,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-166"
   },
   {
@@ -612,7 +612,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$899.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-167"
   },
   {
@@ -626,7 +626,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-168"
   },
   {
@@ -640,7 +640,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$409.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-169"
   },
   {
@@ -654,7 +654,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-170"
   },
   {
@@ -668,7 +668,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$818.41",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-171"
   },
   {
@@ -682,7 +682,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$142.46",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-172"
   },
   {
@@ -696,7 +696,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-173"
   },
   {
@@ -710,7 +710,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1799.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-174"
   },
   {
@@ -724,7 +724,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1199.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-175"
   },
   {
@@ -738,7 +738,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-176"
   },
   {
@@ -752,7 +752,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-177"
   },
   {
@@ -766,7 +766,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$286.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-178"
   },
   {
@@ -780,7 +780,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$195.41",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-179"
   },
   {
@@ -794,7 +794,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-180"
   },
   {
@@ -808,7 +808,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$225.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-181"
   },
   {
@@ -822,7 +822,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1141.31",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-182"
   },
   {
@@ -836,7 +836,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-183"
   },
   {
@@ -850,7 +850,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-184"
   },
   {
@@ -864,7 +864,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$212.32",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-185"
   },
   {
@@ -878,7 +878,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1249.00",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-186"
   },
   {
@@ -892,7 +892,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-187"
   },
   {
@@ -906,7 +906,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$198.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-188"
   },
   {
@@ -920,7 +920,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-189"
   },
   {
@@ -934,7 +934,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-190"
   },
   {
@@ -948,7 +948,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$78.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-191"
   },
   {
@@ -962,7 +962,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$496.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-192"
   },
   {
@@ -976,7 +976,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$3493.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-193"
   },
   {
@@ -990,7 +990,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$189.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-194"
   },
   {
@@ -1004,7 +1004,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-195"
   },
   {
@@ -1018,7 +1018,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-196"
   },
   {
@@ -1032,7 +1032,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-197"
   },
   {
@@ -1046,7 +1046,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$443.49",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-198"
   },
   {
@@ -1060,7 +1060,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "monitor-199"
   },
   {
@@ -1074,7 +1074,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-200"
   },
   {
@@ -1088,7 +1088,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$599.00",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-201"
   },
   {
@@ -1102,7 +1102,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-202"
   },
   {
@@ -1116,7 +1116,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-203"
   },
   {
@@ -1130,7 +1130,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$619.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-204"
   },
   {
@@ -1144,7 +1144,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$231.71",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-205"
   },
   {
@@ -1158,7 +1158,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$429.00",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-206"
   },
   {
@@ -1172,7 +1172,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$599.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-207"
   },
   {
@@ -1186,7 +1186,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$69.00",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-208"
   },
   {
@@ -1200,7 +1200,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-209"
   },
   {
@@ -1214,7 +1214,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-210"
   },
   {
@@ -1228,7 +1228,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2199.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-211"
   },
   {
@@ -1242,7 +1242,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$276.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-212"
   },
   {
@@ -1256,7 +1256,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-213"
   },
   {
@@ -1270,7 +1270,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$244.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-214"
   },
   {
@@ -1284,7 +1284,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$106.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-215"
   },
   {
@@ -1298,7 +1298,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-216"
   },
   {
@@ -1312,7 +1312,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$429.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-217"
   },
   {
@@ -1326,7 +1326,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-218"
   },
   {
@@ -1340,7 +1340,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "KOORUI",
+    "manufacturer": "KOORUI",
     "id": "monitor-219"
   },
   {
@@ -1354,7 +1354,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1299.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-220"
   },
   {
@@ -1368,7 +1368,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$796.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-221"
   },
   {
@@ -1382,7 +1382,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-222"
   },
   {
@@ -1396,7 +1396,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$496.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-223"
   },
   {
@@ -1410,7 +1410,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-224"
   },
   {
@@ -1424,7 +1424,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-225"
   },
   {
@@ -1438,7 +1438,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$737.34",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-226"
   },
   {
@@ -1452,7 +1452,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$599.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-227"
   },
   {
@@ -1466,7 +1466,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-228"
   },
   {
@@ -1480,7 +1480,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$227.00",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-229"
   },
   {
@@ -1494,7 +1494,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-230"
   },
   {
@@ -1508,7 +1508,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-231"
   },
   {
@@ -1522,7 +1522,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-232"
   },
   {
@@ -1536,7 +1536,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-233"
   },
   {
@@ -1550,7 +1550,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-234"
   },
   {
@@ -1564,7 +1564,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-235"
   },
   {
@@ -1578,7 +1578,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.00",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-236"
   },
   {
@@ -1592,7 +1592,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-237"
   },
   {
@@ -1606,7 +1606,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-238"
   },
   {
@@ -1620,7 +1620,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$599.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-239"
   },
   {
@@ -1634,7 +1634,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-240"
   },
   {
@@ -1648,7 +1648,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-241"
   },
   {
@@ -1662,7 +1662,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2850.94",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-242"
   },
   {
@@ -1676,7 +1676,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-243"
   },
   {
@@ -1690,7 +1690,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-244"
   },
   {
@@ -1704,7 +1704,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$634.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-245"
   },
   {
@@ -1718,7 +1718,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2720.11",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-246"
   },
   {
@@ -1732,7 +1732,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$359.94",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-247"
   },
   {
@@ -1746,7 +1746,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-248"
   },
   {
@@ -1760,7 +1760,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2850.94",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-249"
   },
   {
@@ -1774,7 +1774,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$136.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-250"
   },
   {
@@ -1788,7 +1788,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$204.88",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-251"
   },
   {
@@ -1802,7 +1802,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-252"
   },
   {
@@ -1816,7 +1816,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-253"
   },
   {
@@ -1830,7 +1830,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-254"
   },
   {
@@ -1844,7 +1844,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-255"
   },
   {
@@ -1858,7 +1858,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-256"
   },
   {
@@ -1872,7 +1872,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-257"
   },
   {
@@ -1886,7 +1886,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$319.89",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-258"
   },
   {
@@ -1900,7 +1900,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-259"
   },
   {
@@ -1914,7 +1914,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-260"
   },
   {
@@ -1928,7 +1928,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-261"
   },
   {
@@ -1942,7 +1942,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$699.00",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-262"
   },
   {
@@ -1956,7 +1956,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$418.15",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-263"
   },
   {
@@ -1970,7 +1970,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-264"
   },
   {
@@ -1984,7 +1984,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-265"
   },
   {
@@ -1998,7 +1998,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-266"
   },
   {
@@ -2012,7 +2012,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-267"
   },
   {
@@ -2026,7 +2026,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-268"
   },
   {
@@ -2040,7 +2040,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-269"
   },
   {
@@ -2054,7 +2054,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-270"
   },
   {
@@ -2068,7 +2068,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-271"
   },
   {
@@ -2082,7 +2082,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$264.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-272"
   },
   {
@@ -2096,7 +2096,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$529.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-273"
   },
   {
@@ -2110,7 +2110,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-274"
   },
   {
@@ -2124,7 +2124,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-275"
   },
   {
@@ -2138,7 +2138,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$381.56",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-276"
   },
   {
@@ -2152,7 +2152,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-277"
   },
   {
@@ -2166,7 +2166,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-278"
   },
   {
@@ -2180,7 +2180,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$478.91",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-279"
   },
   {
@@ -2194,7 +2194,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-280"
   },
   {
@@ -2208,7 +2208,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-281"
   },
   {
@@ -2222,7 +2222,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-282"
   },
   {
@@ -2236,7 +2236,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$499.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-283"
   },
   {
@@ -2250,7 +2250,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-284"
   },
   {
@@ -2264,7 +2264,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-285"
   },
   {
@@ -2278,7 +2278,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$490.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-286"
   },
   {
@@ -2292,7 +2292,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-287"
   },
   {
@@ -2306,7 +2306,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$152.91",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-288"
   },
   {
@@ -2320,7 +2320,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-289"
   },
   {
@@ -2334,7 +2334,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$213.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-290"
   },
   {
@@ -2348,7 +2348,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-291"
   },
   {
@@ -2362,7 +2362,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-292"
   },
   {
@@ -2376,7 +2376,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-293"
   },
   {
@@ -2390,7 +2390,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-294"
   },
   {
@@ -2404,7 +2404,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-295"
   },
   {
@@ -2418,7 +2418,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-296"
   },
   {
@@ -2432,7 +2432,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$290.16",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-297"
   },
   {
@@ -2446,7 +2446,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$650.03",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-298"
   },
   {
@@ -2460,7 +2460,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$327.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-299"
   },
   {
@@ -2474,7 +2474,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-300"
   },
   {
@@ -2488,7 +2488,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-301"
   },
   {
@@ -2502,7 +2502,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-302"
   },
   {
@@ -2516,7 +2516,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-303"
   },
   {
@@ -2530,7 +2530,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$299.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-304"
   },
   {
@@ -2544,7 +2544,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-305"
   },
   {
@@ -2558,7 +2558,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-306"
   },
   {
@@ -2572,7 +2572,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$749.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-307"
   },
   {
@@ -2586,7 +2586,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-308"
   },
   {
@@ -2600,7 +2600,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$349.97",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-309"
   },
   {
@@ -2614,7 +2614,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-310"
   },
   {
@@ -2628,7 +2628,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$307.95",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-311"
   },
   {
@@ -2642,7 +2642,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-312"
   },
   {
@@ -2656,7 +2656,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-313"
   },
   {
@@ -2670,7 +2670,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-314"
   },
   {
@@ -2684,7 +2684,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-315"
   },
   {
@@ -2698,7 +2698,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-316"
   },
   {
@@ -2712,7 +2712,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$276.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-317"
   },
   {
@@ -2726,7 +2726,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-318"
   },
   {
@@ -2740,7 +2740,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-319"
   },
   {
@@ -2754,7 +2754,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-320"
   },
   {
@@ -2768,7 +2768,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-321"
   },
   {
@@ -2782,7 +2782,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Xiaomi",
+    "manufacturer": "Xiaomi",
     "id": "monitor-322"
   },
   {
@@ -2796,7 +2796,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-323"
   },
   {
@@ -2810,7 +2810,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$443.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-324"
   },
   {
@@ -2824,7 +2824,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-325"
   },
   {
@@ -2838,7 +2838,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$490.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-326"
   },
   {
@@ -2852,7 +2852,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$811.48",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-327"
   },
   {
@@ -2866,7 +2866,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$546.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-328"
   },
   {
@@ -2880,7 +2880,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$232.99",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-329"
   },
   {
@@ -2894,7 +2894,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-330"
   },
   {
@@ -2908,7 +2908,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-331"
   },
   {
@@ -2922,7 +2922,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-332"
   },
   {
@@ -2936,7 +2936,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-333"
   },
   {
@@ -2950,7 +2950,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-334"
   },
   {
@@ -2964,7 +2964,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-335"
   },
   {
@@ -2978,7 +2978,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$325.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-336"
   },
   {
@@ -2992,7 +2992,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$189.50",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-337"
   },
   {
@@ -3006,7 +3006,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-338"
   },
   {
@@ -3020,7 +3020,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$849.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-339"
   },
   {
@@ -3034,7 +3034,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-340"
   },
   {
@@ -3048,7 +3048,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-341"
   },
   {
@@ -3062,7 +3062,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$421.51",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-342"
   },
   {
@@ -3076,7 +3076,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-343"
   },
   {
@@ -3090,7 +3090,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$238.00",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-344"
   },
   {
@@ -3104,7 +3104,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-345"
   },
   {
@@ -3118,7 +3118,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-346"
   },
   {
@@ -3132,7 +3132,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-347"
   },
   {
@@ -3146,7 +3146,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$78.98",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-348"
   },
   {
@@ -3160,7 +3160,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-349"
   },
   {
@@ -3174,7 +3174,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-350"
   },
   {
@@ -3188,7 +3188,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-351"
   },
   {
@@ -3202,7 +3202,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$309.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-352"
   },
   {
@@ -3216,7 +3216,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$187.39",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-353"
   },
   {
@@ -3230,7 +3230,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-354"
   },
   {
@@ -3244,7 +3244,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$241.00",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-355"
   },
   {
@@ -3258,7 +3258,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$996.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-356"
   },
   {
@@ -3272,7 +3272,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-357"
   },
   {
@@ -3286,7 +3286,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$544.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-358"
   },
   {
@@ -3300,7 +3300,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$277.35",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-359"
   },
   {
@@ -3314,7 +3314,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$237.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-360"
   },
   {
@@ -3328,7 +3328,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$579.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-361"
   },
   {
@@ -3342,7 +3342,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "VIOTEK",
+    "manufacturer": "VIOTEK",
     "id": "monitor-362"
   },
   {
@@ -3356,7 +3356,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-363"
   },
   {
@@ -3370,7 +3370,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-364"
   },
   {
@@ -3384,7 +3384,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-365"
   },
   {
@@ -3398,7 +3398,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$782.41",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-366"
   },
   {
@@ -3412,7 +3412,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-367"
   },
   {
@@ -3426,7 +3426,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-368"
   },
   {
@@ -3440,7 +3440,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-369"
   },
   {
@@ -3454,7 +3454,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$291.00",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-370"
   },
   {
@@ -3468,7 +3468,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-371"
   },
   {
@@ -3482,7 +3482,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-372"
   },
   {
@@ -3496,7 +3496,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1068.06",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-373"
   },
   {
@@ -3510,7 +3510,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$669.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-374"
   },
   {
@@ -3524,7 +3524,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$189.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-375"
   },
   {
@@ -3538,7 +3538,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-376"
   },
   {
@@ -3552,7 +3552,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$596.69",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-377"
   },
   {
@@ -3566,7 +3566,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-378"
   },
   {
@@ -3580,7 +3580,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "KTC",
+    "manufacturer": "KTC",
     "id": "monitor-379"
   },
   {
@@ -3594,7 +3594,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$236.48",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-380"
   },
   {
@@ -3608,7 +3608,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-381"
   },
   {
@@ -3622,7 +3622,7 @@
     "aspectRatio": "12:5",
     "rating": "0",
     "price": "$789.00",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-382"
   },
   {
@@ -3636,7 +3636,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-383"
   },
   {
@@ -3650,7 +3650,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$264.99",
-    "manufactor": "iiyama",
+    "manufacturer": "iiyama",
     "id": "monitor-384"
   },
   {
@@ -3664,7 +3664,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-385"
   },
   {
@@ -3678,7 +3678,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-386"
   },
   {
@@ -3692,7 +3692,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$320.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-387"
   },
   {
@@ -3706,7 +3706,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-388"
   },
   {
@@ -3720,7 +3720,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Lenovo",
+    "manufacturer": "Lenovo",
     "id": "monitor-389"
   },
   {
@@ -3734,7 +3734,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-390"
   },
   {
@@ -3748,7 +3748,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$599.47",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-391"
   },
   {
@@ -3762,7 +3762,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-392"
   },
   {
@@ -3776,7 +3776,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$399.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-393"
   },
   {
@@ -3790,7 +3790,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$679.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-394"
   },
   {
@@ -3804,7 +3804,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$436.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-395"
   },
   {
@@ -3818,7 +3818,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$649.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-396"
   },
   {
@@ -3832,7 +3832,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$392.05",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-397"
   },
   {
@@ -3846,7 +3846,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-398"
   },
   {
@@ -3860,7 +3860,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$399.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-399"
   },
   {
@@ -3874,7 +3874,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Lenovo",
+    "manufacturer": "Lenovo",
     "id": "monitor-400"
   },
   {
@@ -3888,7 +3888,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$899.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-401"
   },
   {
@@ -3902,7 +3902,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$329.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-402"
   },
   {
@@ -3916,7 +3916,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-403"
   },
   {
@@ -3930,7 +3930,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-404"
   },
   {
@@ -3944,7 +3944,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$114.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-405"
   },
   {
@@ -3958,7 +3958,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-406"
   },
   {
@@ -3972,7 +3972,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$619.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-407"
   },
   {
@@ -3986,7 +3986,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-408"
   },
   {
@@ -4000,7 +4000,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$156.80",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-409"
   },
   {
@@ -4014,7 +4014,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "X=",
+    "manufacturer": "X=",
     "id": "monitor-410"
   },
   {
@@ -4028,7 +4028,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-411"
   },
   {
@@ -4042,7 +4042,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-412"
   },
   {
@@ -4056,7 +4056,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$89.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-413"
   },
   {
@@ -4070,7 +4070,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-414"
   },
   {
@@ -4084,7 +4084,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-415"
   },
   {
@@ -4098,7 +4098,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$165.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-416"
   },
   {
@@ -4112,7 +4112,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-417"
   },
   {
@@ -4126,7 +4126,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-418"
   },
   {
@@ -4140,7 +4140,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-419"
   },
   {
@@ -4154,7 +4154,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$495.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-420"
   },
   {
@@ -4168,7 +4168,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.85",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-421"
   },
   {
@@ -4182,7 +4182,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$235.15",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-422"
   },
   {
@@ -4196,7 +4196,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-423"
   },
   {
@@ -4210,7 +4210,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$288.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-424"
   },
   {
@@ -4224,7 +4224,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$579.99",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-425"
   },
   {
@@ -4238,7 +4238,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-426"
   },
   {
@@ -4252,7 +4252,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-427"
   },
   {
@@ -4266,7 +4266,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "X=",
+    "manufacturer": "X=",
     "id": "monitor-428"
   },
   {
@@ -4280,7 +4280,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-429"
   },
   {
@@ -4294,7 +4294,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-430"
   },
   {
@@ -4308,7 +4308,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-431"
   },
   {
@@ -4322,7 +4322,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-432"
   },
   {
@@ -4336,7 +4336,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$328.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-433"
   },
   {
@@ -4350,7 +4350,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$302.05",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-434"
   },
   {
@@ -4364,7 +4364,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$163.49",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-435"
   },
   {
@@ -4378,7 +4378,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-436"
   },
   {
@@ -4392,7 +4392,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.97",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-437"
   },
   {
@@ -4406,7 +4406,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$260.92",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-438"
   },
   {
@@ -4420,7 +4420,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "$950.22",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-439"
   },
   {
@@ -4434,7 +4434,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-440"
   },
   {
@@ -4448,7 +4448,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-441"
   },
   {
@@ -4462,7 +4462,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$421.50",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-442"
   },
   {
@@ -4476,7 +4476,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-443"
   },
   {
@@ -4490,7 +4490,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-444"
   },
   {
@@ -4504,7 +4504,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-445"
   },
   {
@@ -4518,7 +4518,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$178.95",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-446"
   },
   {
@@ -4532,7 +4532,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.90",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-447"
   },
   {
@@ -4546,7 +4546,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$146.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-448"
   },
   {
@@ -4560,7 +4560,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-449"
   },
   {
@@ -4574,7 +4574,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-450"
   },
   {
@@ -4588,7 +4588,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-451"
   },
   {
@@ -4602,7 +4602,7 @@
     "aspectRatio": "16:10",
     "rating": "0",
     "price": "$189.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-452"
   },
   {
@@ -4616,7 +4616,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-453"
   },
   {
@@ -4630,7 +4630,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$558.84",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-454"
   },
   {
@@ -4644,7 +4644,7 @@
     "aspectRatio": "8:9",
     "rating": "0",
     "price": "$648.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-455"
   },
   {
@@ -4658,7 +4658,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2399.98",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-456"
   },
   {
@@ -4672,7 +4672,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-457"
   },
   {
@@ -4686,7 +4686,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$254.00",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-458"
   },
   {
@@ -4700,7 +4700,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-459"
   },
   {
@@ -4714,7 +4714,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$75.00",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-460"
   },
   {
@@ -4728,7 +4728,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-461"
   },
   {
@@ -4742,7 +4742,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-462"
   },
   {
@@ -4756,7 +4756,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$229.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-463"
   },
   {
@@ -4770,7 +4770,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$458.00",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-464"
   },
   {
@@ -4784,7 +4784,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-465"
   },
   {
@@ -4798,7 +4798,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-466"
   },
   {
@@ -4812,7 +4812,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-467"
   },
   {
@@ -4826,7 +4826,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-468"
   },
   {
@@ -4840,7 +4840,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1199.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-469"
   },
   {
@@ -4854,7 +4854,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$972.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-470"
   },
   {
@@ -4868,7 +4868,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$499.21",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-471"
   },
   {
@@ -4882,7 +4882,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2999.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-472"
   },
   {
@@ -4896,7 +4896,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-473"
   },
   {
@@ -4910,7 +4910,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-474"
   },
   {
@@ -4924,7 +4924,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-475"
   },
   {
@@ -4938,7 +4938,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-476"
   },
   {
@@ -4952,7 +4952,7 @@
     "aspectRatio": "64:27",
     "rating": "0",
     "price": "$1479.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-477"
   },
   {
@@ -4966,7 +4966,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-478"
   },
   {
@@ -4980,7 +4980,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$669.98",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-479"
   },
   {
@@ -4994,7 +4994,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-480"
   },
   {
@@ -5008,7 +5008,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-481"
   },
   {
@@ -5022,7 +5022,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$318.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-482"
   },
   {
@@ -5036,7 +5036,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$301.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-483"
   },
   {
@@ -5050,7 +5050,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-484"
   },
   {
@@ -5064,7 +5064,7 @@
     "aspectRatio": "12:5",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-485"
   },
   {
@@ -5078,7 +5078,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-486"
   },
   {
@@ -5092,7 +5092,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.63",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-487"
   },
   {
@@ -5106,7 +5106,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "iiyama",
+    "manufacturer": "iiyama",
     "id": "monitor-488"
   },
   {
@@ -5120,7 +5120,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$119.97",
-    "manufactor": "Sceptre",
+    "manufacturer": "Sceptre",
     "id": "monitor-489"
   },
   {
@@ -5134,7 +5134,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-490"
   },
   {
@@ -5148,7 +5148,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$102.61",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-491"
   },
   {
@@ -5162,7 +5162,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-492"
   },
   {
@@ -5176,7 +5176,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-493"
   },
   {
@@ -5190,7 +5190,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-494"
   },
   {
@@ -5204,7 +5204,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$284.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-495"
   },
   {
@@ -5218,7 +5218,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-496"
   },
   {
@@ -5232,7 +5232,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$898.00",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "monitor-497"
   },
   {
@@ -5246,7 +5246,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$340.25",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-498"
   },
   {
@@ -5260,7 +5260,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$799.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "monitor-499"
   },
   {
@@ -5274,7 +5274,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$530.95",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "monitor-500"
   },
   {
@@ -5288,7 +5288,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "monitor-501"
   },
   {
@@ -5302,7 +5302,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$271.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-502"
   },
   {
@@ -5316,7 +5316,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$263.98",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-503"
   },
   {
@@ -5330,7 +5330,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$184.53",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-504"
   },
   {
@@ -5344,7 +5344,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$327.89",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-505"
   },
   {
@@ -5358,7 +5358,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$239.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-506"
   },
   {
@@ -5372,7 +5372,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$696.66",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-507"
   },
   {
@@ -5386,7 +5386,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-508"
   },
   {
@@ -5400,7 +5400,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-509"
   },
   {
@@ -5414,7 +5414,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "iiyama",
+    "manufacturer": "iiyama",
     "id": "monitor-510"
   },
   {
@@ -5428,7 +5428,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-511"
   },
   {
@@ -5442,7 +5442,7 @@
     "aspectRatio": "4:3",
     "rating": "0",
     "price": "$215.98",
-    "manufactor": "ViewEra",
+    "manufacturer": "ViewEra",
     "id": "monitor-512"
   },
   {
@@ -5456,7 +5456,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-513"
   },
   {
@@ -5470,7 +5470,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$260.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-514"
   },
   {
@@ -5484,7 +5484,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-515"
   },
   {
@@ -5498,7 +5498,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-516"
   },
   {
@@ -5512,7 +5512,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$625.28",
-    "manufactor": "Lenovo",
+    "manufacturer": "Lenovo",
     "id": "monitor-517"
   },
   {
@@ -5526,7 +5526,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$495.00",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-518"
   },
   {
@@ -5540,7 +5540,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-519"
   },
   {
@@ -5554,7 +5554,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-520"
   },
   {
@@ -5568,7 +5568,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$309.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-521"
   },
   {
@@ -5582,7 +5582,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-522"
   },
   {
@@ -5596,7 +5596,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-523"
   },
   {
@@ -5610,7 +5610,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$291.49",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-524"
   },
   {
@@ -5624,7 +5624,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-525"
   },
   {
@@ -5638,7 +5638,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$408.59",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-526"
   },
   {
@@ -5652,7 +5652,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-527"
   },
   {
@@ -5666,7 +5666,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "monitor-528"
   },
   {
@@ -5680,7 +5680,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Lenovo",
+    "manufacturer": "Lenovo",
     "id": "monitor-529"
   },
   {
@@ -5694,7 +5694,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$881.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "monitor-530"
   },
   {
@@ -5708,7 +5708,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "monitor-531"
   },
   {
@@ -5722,7 +5722,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-532"
   },
   {
@@ -5736,7 +5736,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-533"
   },
   {
@@ -5750,7 +5750,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$594.47",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-534"
   },
   {
@@ -5764,7 +5764,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$2448.41",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-535"
   },
   {
@@ -5778,7 +5778,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.90",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-536"
   },
   {
@@ -5792,7 +5792,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$98.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-537"
   },
   {
@@ -5806,7 +5806,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-538"
   },
   {
@@ -5820,7 +5820,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$719.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-539"
   },
   {
@@ -5834,7 +5834,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$472.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "monitor-540"
   },
   {
@@ -5848,7 +5848,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-541"
   },
   {
@@ -5862,7 +5862,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-542"
   },
   {
@@ -5876,7 +5876,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$389.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-543"
   },
   {
@@ -5890,7 +5890,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-544"
   },
   {
@@ -5904,7 +5904,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$155.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-545"
   },
   {
@@ -5918,7 +5918,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$495.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-546"
   },
   {
@@ -5932,7 +5932,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-547"
   },
   {
@@ -5946,7 +5946,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-548"
   },
   {
@@ -5960,7 +5960,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-549"
   },
   {
@@ -5974,7 +5974,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$74.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-550"
   },
   {
@@ -5988,7 +5988,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$106.95",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-551"
   },
   {
@@ -6002,7 +6002,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$190.19",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-552"
   },
   {
@@ -6016,7 +6016,7 @@
     "aspectRatio": "12:5",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-553"
   },
   {
@@ -6030,7 +6030,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-554"
   },
   {
@@ -6044,7 +6044,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$330.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-555"
   },
   {
@@ -6058,7 +6058,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-556"
   },
   {
@@ -6072,7 +6072,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$726.86",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-557"
   },
   {
@@ -6086,7 +6086,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-558"
   },
   {
@@ -6100,7 +6100,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-559"
   },
   {
@@ -6114,7 +6114,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$2699.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-560"
   },
   {
@@ -6128,7 +6128,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$549.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "monitor-561"
   },
   {
@@ -6142,7 +6142,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-562"
   },
   {
@@ -6156,7 +6156,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-563"
   },
   {
@@ -6170,7 +6170,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-564"
   },
   {
@@ -6184,7 +6184,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-565"
   },
   {
@@ -6198,7 +6198,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "HUAWEI",
+    "manufacturer": "HUAWEI",
     "id": "monitor-566"
   },
   {
@@ -6212,7 +6212,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-567"
   },
   {
@@ -6226,7 +6226,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-568"
   },
   {
@@ -6240,7 +6240,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-569"
   },
   {
@@ -6254,7 +6254,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$685.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-570"
   },
   {
@@ -6268,7 +6268,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$89.00",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-571"
   },
   {
@@ -6282,7 +6282,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-572"
   },
   {
@@ -6296,7 +6296,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-573"
   },
   {
@@ -6310,7 +6310,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1089.99",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-574"
   },
   {
@@ -6324,7 +6324,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-575"
   },
   {
@@ -6338,7 +6338,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-576"
   },
   {
@@ -6352,7 +6352,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$207.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-577"
   },
   {
@@ -6366,7 +6366,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-578"
   },
   {
@@ -6380,7 +6380,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-579"
   },
   {
@@ -6394,7 +6394,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-580"
   },
   {
@@ -6408,7 +6408,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$241.99",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-581"
   },
   {
@@ -6422,7 +6422,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-582"
   },
   {
@@ -6436,7 +6436,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$561.89",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-583"
   },
   {
@@ -6450,7 +6450,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$315.55",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-584"
   },
   {
@@ -6464,7 +6464,7 @@
     "aspectRatio": "12:5",
     "rating": "0",
     "price": "$2800.89",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-585"
   },
   {
@@ -6478,7 +6478,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-586"
   },
   {
@@ -6492,7 +6492,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-587"
   },
   {
@@ -6506,7 +6506,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$259.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-588"
   },
   {
@@ -6520,7 +6520,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$849.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-589"
   },
   {
@@ -6534,7 +6534,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$179.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-590"
   },
   {
@@ -6548,7 +6548,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "monitor-591"
   },
   {
@@ -6562,7 +6562,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-592"
   },
   {
@@ -6576,7 +6576,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Alienware",
+    "manufacturer": "Alienware",
     "id": "monitor-593"
   },
   {
@@ -6590,7 +6590,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-594"
   },
   {
@@ -6604,7 +6604,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-595"
   },
   {
@@ -6618,7 +6618,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "monitor-596"
   },
   {
@@ -6632,7 +6632,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "ASRock",
+    "manufacturer": "ASRock",
     "id": "monitor-597"
   },
   {
@@ -6646,7 +6646,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$1557.59",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-598"
   },
   {
@@ -6660,7 +6660,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-599"
   },
   {
@@ -6674,7 +6674,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-600"
   },
   {
@@ -6688,7 +6688,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-601"
   },
   {
@@ -6702,7 +6702,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$169.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-602"
   },
   {
@@ -6716,7 +6716,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Acer",
+    "manufacturer": "Acer",
     "id": "monitor-603"
   },
   {
@@ -6730,7 +6730,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$346.00",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-604"
   },
   {
@@ -6744,7 +6744,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$146.99",
-    "manufactor": "LG",
+    "manufacturer": "LG",
     "id": "monitor-605"
   },
   {
@@ -6758,7 +6758,7 @@
     "aspectRatio": "32:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-606"
   },
   {
@@ -6772,7 +6772,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-607"
   },
   {
@@ -6786,7 +6786,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-608"
   },
   {
@@ -6800,7 +6800,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$739.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-609"
   },
   {
@@ -6814,7 +6814,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$1409.05",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-610"
   },
   {
@@ -6828,7 +6828,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ViewSonic",
+    "manufacturer": "ViewSonic",
     "id": "monitor-611"
   },
   {
@@ -6842,7 +6842,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "iiyama",
+    "manufacturer": "iiyama",
     "id": "monitor-612"
   },
   {
@@ -6856,7 +6856,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$384.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-613"
   },
   {
@@ -6870,7 +6870,7 @@
     "aspectRatio": "21:9",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "monitor-614"
   },
   {
@@ -6884,7 +6884,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "BenQ",
+    "manufacturer": "BenQ",
     "id": "monitor-615"
   },
   {
@@ -6898,7 +6898,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$362.99",
-    "manufactor": "Lenovo",
+    "manufacturer": "Lenovo",
     "id": "monitor-616"
   },
   {
@@ -6912,7 +6912,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AOC",
+    "manufacturer": "AOC",
     "id": "monitor-617"
   },
   {
@@ -6926,7 +6926,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "KTC",
+    "manufacturer": "KTC",
     "id": "monitor-618"
   },
   {
@@ -6940,7 +6940,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "INNOCN",
+    "manufacturer": "INNOCN",
     "id": "monitor-619"
   },
   {
@@ -6954,7 +6954,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$149.49",
-    "manufactor": "Dell",
+    "manufacturer": "Dell",
     "id": "monitor-620"
   },
   {
@@ -6968,7 +6968,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "monitor-621"
   },
   {
@@ -6982,7 +6982,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$327.29",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "monitor-622"
   },
   {
@@ -6996,7 +6996,7 @@
     "aspectRatio": "16:9",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "monitor-623"
   }
 ]

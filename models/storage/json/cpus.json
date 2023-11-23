@@ -10,7 +10,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$395.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-124"
   },
   {
@@ -24,7 +24,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$158.55",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-125"
   },
   {
@@ -38,7 +38,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-126"
   },
   {
@@ -52,7 +52,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$245.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-127"
   },
   {
@@ -66,7 +66,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$207.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-128"
   },
   {
@@ -80,7 +80,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$225.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-129"
   },
   {
@@ -94,7 +94,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$137.69",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-130"
   },
   {
@@ -108,7 +108,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-131"
   },
   {
@@ -122,7 +122,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$103.20",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-132"
   },
   {
@@ -136,7 +136,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$546.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-133"
   },
   {
@@ -150,7 +150,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$324.69",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-134"
   },
   {
@@ -164,7 +164,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$578.75",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-135"
   },
   {
@@ -178,7 +178,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-136"
   },
   {
@@ -192,7 +192,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$182.61",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-137"
   },
   {
@@ -206,7 +206,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$621.37",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-138"
   },
   {
@@ -220,7 +220,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$138.54",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-139"
   },
   {
@@ -234,7 +234,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$321.33",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-140"
   },
   {
@@ -248,7 +248,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-141"
   },
   {
@@ -262,7 +262,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-142"
   },
   {
@@ -276,7 +276,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$403.80",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-143"
   },
   {
@@ -290,7 +290,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$94.48",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-144"
   },
   {
@@ -304,7 +304,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$393.68",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-145"
   },
   {
@@ -318,7 +318,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$200.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-146"
   },
   {
@@ -332,7 +332,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$127.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-147"
   },
   {
@@ -346,7 +346,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$285.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-148"
   },
   {
@@ -360,7 +360,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$307.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-149"
   },
   {
@@ -374,7 +374,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$195.14",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-150"
   },
   {
@@ -388,7 +388,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$169.41",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-151"
   },
   {
@@ -402,7 +402,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$544.13",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-152"
   },
   {
@@ -416,7 +416,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$408.30",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-153"
   },
   {
@@ -430,7 +430,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$305.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-154"
   },
   {
@@ -444,7 +444,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$4355.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-155"
   },
   {
@@ -458,7 +458,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$264.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-156"
   },
   {
@@ -472,7 +472,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$215.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-157"
   },
   {
@@ -486,7 +486,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-158"
   },
   {
@@ -500,7 +500,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$552.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-159"
   },
   {
@@ -514,7 +514,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$393.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-160"
   },
   {
@@ -528,7 +528,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$235.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-161"
   },
   {
@@ -542,7 +542,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$92.90",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-162"
   },
   {
@@ -556,7 +556,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$688.56",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-163"
   },
   {
@@ -570,7 +570,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$113.56",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-164"
   },
   {
@@ -584,7 +584,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$304.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-165"
   },
   {
@@ -598,7 +598,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$328.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-166"
   },
   {
@@ -612,7 +612,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$98.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-167"
   },
   {
@@ -626,7 +626,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$481.37",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-168"
   },
   {
@@ -640,7 +640,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$462.72",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-169"
   },
   {
@@ -654,7 +654,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-170"
   },
   {
@@ -668,7 +668,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$161.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-171"
   },
   {
@@ -682,7 +682,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$68.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-172"
   },
   {
@@ -696,7 +696,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$492.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-173"
   },
   {
@@ -710,7 +710,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$230.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-174"
   },
   {
@@ -724,7 +724,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$250.13",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-175"
   },
   {
@@ -738,7 +738,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$165.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-176"
   },
   {
@@ -752,7 +752,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$79.64",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-177"
   },
   {
@@ -766,7 +766,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-178"
   },
   {
@@ -780,7 +780,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$204.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-179"
   },
   {
@@ -794,7 +794,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$365.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-180"
   },
   {
@@ -808,7 +808,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$127.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-181"
   },
   {
@@ -822,7 +822,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-182"
   },
   {
@@ -836,7 +836,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-183"
   },
   {
@@ -850,7 +850,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$401.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-184"
   },
   {
@@ -864,7 +864,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-185"
   },
   {
@@ -878,7 +878,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-186"
   },
   {
@@ -892,7 +892,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$478.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-187"
   },
   {
@@ -906,7 +906,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-188"
   },
   {
@@ -920,7 +920,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$260.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-189"
   },
   {
@@ -934,7 +934,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-190"
   },
   {
@@ -948,7 +948,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$285.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-191"
   },
   {
@@ -962,7 +962,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$135.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-192"
   },
   {
@@ -976,7 +976,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$283.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-193"
   },
   {
@@ -990,7 +990,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$14.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-194"
   },
   {
@@ -1004,7 +1004,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-195"
   },
   {
@@ -1018,7 +1018,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$289.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-196"
   },
   {
@@ -1032,7 +1032,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$220.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-197"
   },
   {
@@ -1046,7 +1046,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$2100.98",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-198"
   },
   {
@@ -1060,7 +1060,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$381.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-199"
   },
   {
@@ -1074,7 +1074,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$293.72",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-200"
   },
   {
@@ -1088,7 +1088,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$150.03",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-201"
   },
   {
@@ -1102,7 +1102,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$137.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-202"
   },
   {
@@ -1116,7 +1116,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$361.84",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-203"
   },
   {
@@ -1130,7 +1130,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$190.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-204"
   },
   {
@@ -1144,7 +1144,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-205"
   },
   {
@@ -1158,7 +1158,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$147.10",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-206"
   },
   {
@@ -1172,7 +1172,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$387.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-207"
   },
   {
@@ -1186,7 +1186,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$211.50",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-208"
   },
   {
@@ -1200,7 +1200,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-209"
   },
   {
@@ -1214,7 +1214,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$262.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-210"
   },
   {
@@ -1228,7 +1228,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$525.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-211"
   },
   {
@@ -1242,7 +1242,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$160.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-212"
   },
   {
@@ -1256,7 +1256,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$270.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-213"
   },
   {
@@ -1270,7 +1270,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$214.61",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-214"
   },
   {
@@ -1284,7 +1284,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-215"
   },
   {
@@ -1298,7 +1298,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-216"
   },
   {
@@ -1312,7 +1312,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$83.42",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-217"
   },
   {
@@ -1326,7 +1326,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$136.69",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-218"
   },
   {
@@ -1340,7 +1340,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$75.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-219"
   },
   {
@@ -1354,7 +1354,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$304.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-220"
   },
   {
@@ -1368,7 +1368,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$231.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-221"
   },
   {
@@ -1382,7 +1382,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$130.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-222"
   },
   {
@@ -1396,7 +1396,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$205.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-223"
   },
   {
@@ -1410,7 +1410,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$265.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-224"
   },
   {
@@ -1424,7 +1424,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$152.44",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-225"
   },
   {
@@ -1438,7 +1438,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$65.15",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-226"
   },
   {
@@ -1452,7 +1452,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$228.69",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-227"
   },
   {
@@ -1466,7 +1466,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1450.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-228"
   },
   {
@@ -1480,7 +1480,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$185.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-229"
   },
   {
@@ -1494,7 +1494,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$125.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-230"
   },
   {
@@ -1508,7 +1508,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-231"
   },
   {
@@ -1522,7 +1522,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$147.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-232"
   },
   {
@@ -1536,7 +1536,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$110.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-233"
   },
   {
@@ -1550,7 +1550,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$308.79",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-234"
   },
   {
@@ -1564,7 +1564,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$563.61",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-235"
   },
   {
@@ -1578,7 +1578,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$241.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-236"
   },
   {
@@ -1592,7 +1592,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-237"
   },
   {
@@ -1606,7 +1606,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$404.73",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-238"
   },
   {
@@ -1620,7 +1620,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-239"
   },
   {
@@ -1634,7 +1634,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$250.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-240"
   },
   {
@@ -1648,7 +1648,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$142.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-241"
   },
   {
@@ -1662,7 +1662,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$122.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-242"
   },
   {
@@ -1676,7 +1676,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$85.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-243"
   },
   {
@@ -1690,7 +1690,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-244"
   },
   {
@@ -1704,7 +1704,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$313.03",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-245"
   },
   {
@@ -1718,7 +1718,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$150.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-246"
   },
   {
@@ -1732,7 +1732,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$290.26",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-247"
   },
   {
@@ -1746,7 +1746,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$69.44",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-248"
   },
   {
@@ -1760,7 +1760,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$235.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-249"
   },
   {
@@ -1774,7 +1774,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$460.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-250"
   },
   {
@@ -1788,7 +1788,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$96.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-251"
   },
   {
@@ -1802,7 +1802,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$268.60",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-252"
   },
   {
@@ -1816,7 +1816,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$215.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-253"
   },
   {
@@ -1830,7 +1830,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$115.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-254"
   },
   {
@@ -1844,7 +1844,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$267.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-255"
   },
   {
@@ -1858,7 +1858,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$272.73",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-256"
   },
   {
@@ -1872,7 +1872,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$160.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-257"
   },
   {
@@ -1886,7 +1886,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$125.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-258"
   },
   {
@@ -1900,7 +1900,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-259"
   },
   {
@@ -1914,7 +1914,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$152.65",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-260"
   },
   {
@@ -1928,7 +1928,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$135.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-261"
   },
   {
@@ -1942,7 +1942,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-262"
   },
   {
@@ -1956,7 +1956,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-263"
   },
   {
@@ -1970,7 +1970,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$225.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-264"
   },
   {
@@ -1984,7 +1984,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-265"
   },
   {
@@ -1998,7 +1998,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$159.94",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-266"
   },
   {
@@ -2012,7 +2012,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-267"
   },
   {
@@ -2026,7 +2026,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-268"
   },
   {
@@ -2040,7 +2040,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$82.46",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-269"
   },
   {
@@ -2054,7 +2054,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$140.63",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-270"
   },
   {
@@ -2068,7 +2068,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$438.53",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-271"
   },
   {
@@ -2082,7 +2082,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-272"
   },
   {
@@ -2096,7 +2096,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-273"
   },
   {
@@ -2110,7 +2110,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$15.44",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-274"
   },
   {
@@ -2124,7 +2124,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-275"
   },
   {
@@ -2138,7 +2138,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-276"
   },
   {
@@ -2152,7 +2152,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$85.01",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-277"
   },
   {
@@ -2166,7 +2166,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-278"
   },
   {
@@ -2180,7 +2180,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$251.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-279"
   },
   {
@@ -2194,7 +2194,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1989.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-280"
   },
   {
@@ -2208,7 +2208,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$365.95",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-281"
   },
   {
@@ -2222,7 +2222,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$205.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-282"
   },
   {
@@ -2236,7 +2236,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$156.68",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-283"
   },
   {
@@ -2250,7 +2250,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$44.32",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-284"
   },
   {
@@ -2264,7 +2264,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$48.59",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-285"
   },
   {
@@ -2278,7 +2278,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-286"
   },
   {
@@ -2292,7 +2292,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1200.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-287"
   },
   {
@@ -2306,7 +2306,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$179.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-288"
   },
   {
@@ -2320,7 +2320,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$173.65",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-289"
   },
   {
@@ -2334,7 +2334,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$104.54",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-290"
   },
   {
@@ -2348,7 +2348,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-291"
   },
   {
@@ -2362,7 +2362,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$195.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-292"
   },
   {
@@ -2376,7 +2376,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$407.95",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-293"
   },
   {
@@ -2390,7 +2390,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-294"
   },
   {
@@ -2404,7 +2404,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$115.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-295"
   },
   {
@@ -2418,7 +2418,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$184.47",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-296"
   },
   {
@@ -2432,7 +2432,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$220.12",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-297"
   },
   {
@@ -2446,7 +2446,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$300.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-298"
   },
   {
@@ -2460,7 +2460,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$2429.89",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-299"
   },
   {
@@ -2474,7 +2474,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$2147.03",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-300"
   },
   {
@@ -2488,7 +2488,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-301"
   },
   {
@@ -2502,7 +2502,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$115.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-302"
   },
   {
@@ -2516,7 +2516,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$97.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-303"
   },
   {
@@ -2530,7 +2530,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$295.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-304"
   },
   {
@@ -2544,7 +2544,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$225.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-305"
   },
   {
@@ -2558,7 +2558,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-306"
   },
   {
@@ -2572,7 +2572,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-307"
   },
   {
@@ -2586,7 +2586,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-308"
   },
   {
@@ -2600,7 +2600,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$165.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-309"
   },
   {
@@ -2614,7 +2614,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-310"
   },
   {
@@ -2628,7 +2628,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$48.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-311"
   },
   {
@@ -2642,7 +2642,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-312"
   },
   {
@@ -2656,7 +2656,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-313"
   },
   {
@@ -2670,7 +2670,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$43.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-314"
   },
   {
@@ -2684,7 +2684,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$355.75",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-315"
   },
   {
@@ -2698,7 +2698,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$600.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-316"
   },
   {
@@ -2712,7 +2712,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-317"
   },
   {
@@ -2726,7 +2726,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$79.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-318"
   },
   {
@@ -2740,7 +2740,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$2004.51",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-319"
   },
   {
@@ -2754,7 +2754,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$125.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-320"
   },
   {
@@ -2768,7 +2768,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$525.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-321"
   },
   {
@@ -2782,7 +2782,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-322"
   },
   {
@@ -2796,7 +2796,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-323"
   },
   {
@@ -2810,7 +2810,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$225.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-324"
   },
   {
@@ -2824,7 +2824,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$410.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-325"
   },
   {
@@ -2838,7 +2838,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$140.05",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-326"
   },
   {
@@ -2852,7 +2852,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$73.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-327"
   },
   {
@@ -2866,7 +2866,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$160.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-328"
   },
   {
@@ -2880,7 +2880,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$954.81",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-329"
   },
   {
@@ -2894,7 +2894,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$270.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-330"
   },
   {
@@ -2908,7 +2908,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$50.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-331"
   },
   {
@@ -2922,7 +2922,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-332"
   },
   {
@@ -2936,7 +2936,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$300.30",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-333"
   },
   {
@@ -2950,7 +2950,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$279.30",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-334"
   },
   {
@@ -2964,7 +2964,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$2500.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-335"
   },
   {
@@ -2978,7 +2978,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$322.66",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-336"
   },
   {
@@ -2992,7 +2992,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$120.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-337"
   },
   {
@@ -3006,7 +3006,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-338"
   },
   {
@@ -3020,7 +3020,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$85.72",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-339"
   },
   {
@@ -3034,7 +3034,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1975.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-340"
   },
   {
@@ -3048,7 +3048,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-341"
   },
   {
@@ -3062,7 +3062,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$795.27",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-342"
   },
   {
@@ -3076,7 +3076,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$27.55",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-343"
   },
   {
@@ -3090,7 +3090,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$41.55",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-344"
   },
   {
@@ -3104,7 +3104,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-345"
   },
   {
@@ -3118,7 +3118,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$512.94",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-346"
   },
   {
@@ -3132,7 +3132,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$350.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-347"
   },
   {
@@ -3146,7 +3146,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-348"
   },
   {
@@ -3160,7 +3160,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$89.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-349"
   },
   {
@@ -3174,7 +3174,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$190.74",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-350"
   },
   {
@@ -3188,7 +3188,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$338.07",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-351"
   },
   {
@@ -3202,7 +3202,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-352"
   },
   {
@@ -3216,7 +3216,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-353"
   },
   {
@@ -3230,7 +3230,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$30.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-354"
   },
   {
@@ -3244,7 +3244,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$314.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-355"
   },
   {
@@ -3258,7 +3258,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$63.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-356"
   },
   {
@@ -3272,7 +3272,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$842.30",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-357"
   },
   {
@@ -3286,7 +3286,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$193.31",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-358"
   },
   {
@@ -3300,7 +3300,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-359"
   },
   {
@@ -3314,7 +3314,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-360"
   },
   {
@@ -3328,7 +3328,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-361"
   },
   {
@@ -3342,7 +3342,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$470.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-362"
   },
   {
@@ -3356,7 +3356,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-363"
   },
   {
@@ -3370,7 +3370,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$218.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-364"
   },
   {
@@ -3384,7 +3384,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-365"
   },
   {
@@ -3398,7 +3398,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$130.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-366"
   },
   {
@@ -3412,7 +3412,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$145.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-367"
   },
   {
@@ -3426,7 +3426,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$349.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-368"
   },
   {
@@ -3440,7 +3440,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$416.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-369"
   },
   {
@@ -3454,7 +3454,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$47.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-370"
   },
   {
@@ -3468,7 +3468,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$185.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-371"
   },
   {
@@ -3482,7 +3482,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$375.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-372"
   },
   {
@@ -3496,7 +3496,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$280.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-373"
   },
   {
@@ -3510,7 +3510,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$499.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-374"
   },
   {
@@ -3524,7 +3524,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-375"
   },
   {
@@ -3538,7 +3538,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-376"
   },
   {
@@ -3552,7 +3552,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$14.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-377"
   },
   {
@@ -3566,7 +3566,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$298.51",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-378"
   },
   {
@@ -3580,7 +3580,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$49.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-379"
   },
   {
@@ -3594,7 +3594,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-380"
   },
   {
@@ -3608,7 +3608,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$47.85",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-381"
   },
   {
@@ -3622,7 +3622,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-382"
   },
   {
@@ -3636,7 +3636,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$115.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-383"
   },
   {
@@ -3650,7 +3650,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-384"
   },
   {
@@ -3664,7 +3664,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$489.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-385"
   },
   {
@@ -3678,7 +3678,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-386"
   },
   {
@@ -3692,7 +3692,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-387"
   },
   {
@@ -3706,7 +3706,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-388"
   },
   {
@@ -3720,7 +3720,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-389"
   },
   {
@@ -3734,7 +3734,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-390"
   },
   {
@@ -3748,7 +3748,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-391"
   },
   {
@@ -3762,7 +3762,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$73.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-392"
   },
   {
@@ -3776,7 +3776,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$302.58",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-393"
   },
   {
@@ -3790,7 +3790,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$29.48",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-394"
   },
   {
@@ -3804,7 +3804,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$119.55",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-395"
   },
   {
@@ -3818,7 +3818,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-396"
   },
   {
@@ -3832,7 +3832,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-397"
   },
   {
@@ -3846,7 +3846,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-398"
   },
   {
@@ -3860,7 +3860,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-399"
   },
   {
@@ -3874,7 +3874,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$769.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-400"
   },
   {
@@ -3888,7 +3888,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-401"
   },
   {
@@ -3902,7 +3902,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$125.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-402"
   },
   {
@@ -3916,7 +3916,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$148.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-403"
   },
   {
@@ -3930,7 +3930,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-404"
   },
   {
@@ -3944,7 +3944,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$129.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-405"
   },
   {
@@ -3958,7 +3958,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-406"
   },
   {
@@ -3972,7 +3972,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-407"
   },
   {
@@ -3986,7 +3986,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-408"
   },
   {
@@ -4000,7 +4000,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-409"
   },
   {
@@ -4014,7 +4014,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$234.98",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-410"
   },
   {
@@ -4028,7 +4028,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$529.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-411"
   },
   {
@@ -4042,7 +4042,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1150.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-412"
   },
   {
@@ -4056,7 +4056,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-413"
   },
   {
@@ -4070,7 +4070,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$45.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-414"
   },
   {
@@ -4084,7 +4084,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$58.24",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-415"
   },
   {
@@ -4098,7 +4098,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-416"
   },
   {
@@ -4112,7 +4112,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$187.81",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-417"
   },
   {
@@ -4126,7 +4126,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-418"
   },
   {
@@ -4140,7 +4140,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$123.84",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-419"
   },
   {
@@ -4154,7 +4154,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$201.42",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-420"
   },
   {
@@ -4168,7 +4168,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$395.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-421"
   },
   {
@@ -4182,7 +4182,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-422"
   },
   {
@@ -4196,7 +4196,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$399.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-423"
   },
   {
@@ -4210,7 +4210,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$285.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-424"
   },
   {
@@ -4224,7 +4224,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$78.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-425"
   },
   {
@@ -4238,7 +4238,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$54.59",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-426"
   },
   {
@@ -4252,7 +4252,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$205.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-427"
   },
   {
@@ -4266,7 +4266,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$185.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-428"
   },
   {
@@ -4280,7 +4280,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$52.55",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-429"
   },
   {
@@ -4294,7 +4294,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-430"
   },
   {
@@ -4308,7 +4308,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$58.53",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-431"
   },
   {
@@ -4322,7 +4322,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-432"
   },
   {
@@ -4336,7 +4336,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$850.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-433"
   },
   {
@@ -4350,7 +4350,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$375.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-434"
   },
   {
@@ -4364,7 +4364,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$220.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-435"
   },
   {
@@ -4378,7 +4378,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$39.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-436"
   },
   {
@@ -4392,7 +4392,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1000.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-437"
   },
   {
@@ -4406,7 +4406,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$90.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-438"
   },
   {
@@ -4420,7 +4420,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-439"
   },
   {
@@ -4434,7 +4434,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-440"
   },
   {
@@ -4448,7 +4448,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-441"
   },
   {
@@ -4462,7 +4462,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$981.57",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-442"
   },
   {
@@ -4476,7 +4476,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-443"
   },
   {
@@ -4490,7 +4490,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-444"
   },
   {
@@ -4504,7 +4504,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-445"
   },
   {
@@ -4518,7 +4518,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$175.44",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-446"
   },
   {
@@ -4532,7 +4532,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-447"
   },
   {
@@ -4546,7 +4546,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-448"
   },
   {
@@ -4560,7 +4560,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$72.80",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-449"
   },
   {
@@ -4574,7 +4574,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$43.30",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-450"
   },
   {
@@ -4588,7 +4588,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$335.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-451"
   },
   {
@@ -4602,7 +4602,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-452"
   },
   {
@@ -4616,7 +4616,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$97.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-453"
   },
   {
@@ -4630,7 +4630,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-454"
   },
   {
@@ -4644,7 +4644,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-455"
   },
   {
@@ -4658,7 +4658,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$30.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-456"
   },
   {
@@ -4672,7 +4672,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-457"
   },
   {
@@ -4686,7 +4686,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$250.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-458"
   },
   {
@@ -4700,7 +4700,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$334.70",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-459"
   },
   {
@@ -4714,7 +4714,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-460"
   },
   {
@@ -4728,7 +4728,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-461"
   },
   {
@@ -4742,7 +4742,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-462"
   },
   {
@@ -4756,7 +4756,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-463"
   },
   {
@@ -4770,7 +4770,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-464"
   },
   {
@@ -4784,7 +4784,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-465"
   },
   {
@@ -4798,7 +4798,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-466"
   },
   {
@@ -4812,7 +4812,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-467"
   },
   {
@@ -4826,7 +4826,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-468"
   },
   {
@@ -4840,7 +4840,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-469"
   },
   {
@@ -4854,7 +4854,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-470"
   },
   {
@@ -4868,7 +4868,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1969.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-471"
   },
   {
@@ -4882,7 +4882,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$75.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-472"
   },
   {
@@ -4896,7 +4896,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-473"
   },
   {
@@ -4910,7 +4910,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1186.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-474"
   },
   {
@@ -4924,7 +4924,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$210.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-475"
   },
   {
@@ -4938,7 +4938,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$45.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-476"
   },
   {
@@ -4952,7 +4952,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$185.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-477"
   },
   {
@@ -4966,7 +4966,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$161.06",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-478"
   },
   {
@@ -4980,7 +4980,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$99.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-479"
   },
   {
@@ -4994,7 +4994,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$202.57",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-480"
   },
   {
@@ -5008,7 +5008,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-481"
   },
   {
@@ -5022,7 +5022,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-482"
   },
   {
@@ -5036,7 +5036,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$92.86",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-483"
   },
   {
@@ -5050,7 +5050,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$195.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-484"
   },
   {
@@ -5064,7 +5064,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1073.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-485"
   },
   {
@@ -5078,7 +5078,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-486"
   },
   {
@@ -5092,7 +5092,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-487"
   },
   {
@@ -5106,7 +5106,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-488"
   },
   {
@@ -5120,7 +5120,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-489"
   },
   {
@@ -5134,7 +5134,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$269.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-490"
   },
   {
@@ -5148,7 +5148,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-491"
   },
   {
@@ -5162,7 +5162,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$153.64",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-492"
   },
   {
@@ -5176,7 +5176,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$113.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-493"
   },
   {
@@ -5190,7 +5190,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-494"
   },
   {
@@ -5204,7 +5204,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$138.51",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-495"
   },
   {
@@ -5218,7 +5218,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$195.24",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-496"
   },
   {
@@ -5232,7 +5232,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$133.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-497"
   },
   {
@@ -5246,7 +5246,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$139.84",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-498"
   },
   {
@@ -5260,7 +5260,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$69.11",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-499"
   },
   {
@@ -5274,7 +5274,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$46.79",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-500"
   },
   {
@@ -5288,7 +5288,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$146.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-501"
   },
   {
@@ -5302,7 +5302,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$89.95",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-502"
   },
   {
@@ -5316,7 +5316,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$81.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-503"
   },
   {
@@ -5330,7 +5330,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$30.21",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-504"
   },
   {
@@ -5344,7 +5344,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-505"
   },
   {
@@ -5358,7 +5358,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-506"
   },
   {
@@ -5372,7 +5372,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-507"
   },
   {
@@ -5386,7 +5386,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$230.61",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-508"
   },
   {
@@ -5400,7 +5400,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$66.50",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-509"
   },
   {
@@ -5414,7 +5414,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-510"
   },
   {
@@ -5428,7 +5428,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$122.96",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-511"
   },
   {
@@ -5442,7 +5442,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$68.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-512"
   },
   {
@@ -5456,7 +5456,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-513"
   },
   {
@@ -5470,7 +5470,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$54.54",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-514"
   },
   {
@@ -5484,7 +5484,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$95.87",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-515"
   },
   {
@@ -5498,7 +5498,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$245.33",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-516"
   },
   {
@@ -5512,7 +5512,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-517"
   },
   {
@@ -5526,7 +5526,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$97.92",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-518"
   },
   {
@@ -5540,7 +5540,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$150.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-519"
   },
   {
@@ -5554,7 +5554,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$90.31",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-520"
   },
   {
@@ -5568,7 +5568,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-521"
   },
   {
@@ -5582,7 +5582,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$76.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-522"
   },
   {
@@ -5596,7 +5596,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$85.72",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-523"
   },
   {
@@ -5610,7 +5610,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-524"
   },
   {
@@ -5624,7 +5624,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$277.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-525"
   },
   {
@@ -5638,7 +5638,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$78.51",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-526"
   },
   {
@@ -5652,7 +5652,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-527"
   },
   {
@@ -5666,7 +5666,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-528"
   },
   {
@@ -5680,7 +5680,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-529"
   },
   {
@@ -5694,7 +5694,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$309.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-530"
   },
   {
@@ -5708,7 +5708,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-531"
   },
   {
@@ -5722,7 +5722,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-532"
   },
   {
@@ -5736,7 +5736,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-533"
   },
   {
@@ -5750,7 +5750,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-534"
   },
   {
@@ -5764,7 +5764,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$380.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-535"
   },
   {
@@ -5778,7 +5778,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-536"
   },
   {
@@ -5792,7 +5792,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-537"
   },
   {
@@ -5806,7 +5806,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-538"
   },
   {
@@ -5820,7 +5820,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$998.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-539"
   },
   {
@@ -5834,7 +5834,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$90.03",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-540"
   },
   {
@@ -5848,7 +5848,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-541"
   },
   {
@@ -5862,7 +5862,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-542"
   },
   {
@@ -5876,7 +5876,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$57.01",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-543"
   },
   {
@@ -5890,7 +5890,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$335.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-544"
   },
   {
@@ -5904,7 +5904,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$339.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-545"
   },
   {
@@ -5918,7 +5918,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$100.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-546"
   },
   {
@@ -5932,7 +5932,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-547"
   },
   {
@@ -5946,7 +5946,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-548"
   },
   {
@@ -5960,7 +5960,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-549"
   },
   {
@@ -5974,7 +5974,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$79.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-550"
   },
   {
@@ -5988,7 +5988,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-551"
   },
   {
@@ -6002,7 +6002,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$863.49",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-552"
   },
   {
@@ -6016,7 +6016,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-553"
   },
   {
@@ -6030,7 +6030,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-554"
   },
   {
@@ -6044,7 +6044,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$132.86",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-555"
   },
   {
@@ -6058,7 +6058,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-556"
   },
   {
@@ -6072,7 +6072,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-557"
   },
   {
@@ -6086,7 +6086,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-558"
   },
   {
@@ -6100,7 +6100,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-559"
   },
   {
@@ -6114,7 +6114,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$229.97",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-560"
   },
   {
@@ -6128,7 +6128,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$294.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-561"
   },
   {
@@ -6142,7 +6142,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-562"
   },
   {
@@ -6156,7 +6156,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-563"
   },
   {
@@ -6170,7 +6170,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-564"
   },
   {
@@ -6184,7 +6184,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$998.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-565"
   },
   {
@@ -6198,7 +6198,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$429.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-566"
   },
   {
@@ -6212,7 +6212,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$39.61",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-567"
   },
   {
@@ -6226,7 +6226,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$119.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-568"
   },
   {
@@ -6240,7 +6240,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$499.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-569"
   },
   {
@@ -6254,7 +6254,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-570"
   },
   {
@@ -6268,7 +6268,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$106.55",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-571"
   },
   {
@@ -6282,7 +6282,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$298.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-572"
   },
   {
@@ -6296,7 +6296,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-573"
   },
   {
@@ -6310,7 +6310,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$160.65",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-574"
   },
   {
@@ -6324,7 +6324,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-575"
   },
   {
@@ -6338,7 +6338,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-576"
   },
   {
@@ -6352,7 +6352,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-577"
   },
   {
@@ -6366,7 +6366,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-578"
   },
   {
@@ -6380,7 +6380,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-579"
   },
   {
@@ -6394,7 +6394,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-580"
   },
   {
@@ -6408,7 +6408,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$498.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-581"
   },
   {
@@ -6422,7 +6422,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-582"
   },
   {
@@ -6436,7 +6436,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1698.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-583"
   },
   {
@@ -6450,7 +6450,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$240.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-584"
   },
   {
@@ -6464,7 +6464,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-585"
   },
   {
@@ -6478,7 +6478,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-586"
   },
   {
@@ -6492,7 +6492,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$64.90",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-587"
   },
   {
@@ -6506,7 +6506,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$398.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-588"
   },
   {
@@ -6520,7 +6520,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$88.89",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-589"
   },
   {
@@ -6534,7 +6534,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$241.42",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-590"
   },
   {
@@ -6548,7 +6548,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$199.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-591"
   },
   {
@@ -6562,7 +6562,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-592"
   },
   {
@@ -6576,7 +6576,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-593"
   },
   {
@@ -6590,7 +6590,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$295.57",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-594"
   },
   {
@@ -6604,7 +6604,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-595"
   },
   {
@@ -6618,7 +6618,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$74.79",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-596"
   },
   {
@@ -6632,7 +6632,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$265.87",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-597"
   },
   {
@@ -6646,7 +6646,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$345.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-598"
   },
   {
@@ -6660,7 +6660,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-599"
   },
   {
@@ -6674,7 +6674,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-600"
   },
   {
@@ -6688,7 +6688,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-601"
   },
   {
@@ -6702,7 +6702,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-602"
   },
   {
@@ -6716,7 +6716,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-603"
   },
   {
@@ -6730,7 +6730,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$274.85",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-604"
   },
   {
@@ -6744,7 +6744,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$99.63",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-605"
   },
   {
@@ -6758,7 +6758,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-606"
   },
   {
@@ -6772,7 +6772,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-607"
   },
   {
@@ -6786,7 +6786,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$28.20",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-608"
   },
   {
@@ -6800,7 +6800,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$78.67",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-609"
   },
   {
@@ -6814,7 +6814,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$435.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-610"
   },
   {
@@ -6828,7 +6828,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-611"
   },
   {
@@ -6842,7 +6842,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-612"
   },
   {
@@ -6856,7 +6856,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-613"
   },
   {
@@ -6870,7 +6870,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-614"
   },
   {
@@ -6884,7 +6884,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$52.60",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-615"
   },
   {
@@ -6898,7 +6898,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$52.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-616"
   },
   {
@@ -6912,7 +6912,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-617"
   },
   {
@@ -6926,7 +6926,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-618"
   },
   {
@@ -6940,7 +6940,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-619"
   },
   {
@@ -6954,7 +6954,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$112.76",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-620"
   },
   {
@@ -6968,7 +6968,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-621"
   },
   {
@@ -6982,7 +6982,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-622"
   },
   {
@@ -6996,7 +6996,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-623"
   },
   {
@@ -7010,7 +7010,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$108.21",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-624"
   },
   {
@@ -7024,7 +7024,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$147.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-625"
   },
   {
@@ -7038,7 +7038,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-626"
   },
   {
@@ -7052,7 +7052,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$95.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-627"
   },
   {
@@ -7066,7 +7066,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$198.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-628"
   },
   {
@@ -7080,7 +7080,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$420.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-629"
   },
   {
@@ -7094,7 +7094,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$278.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-630"
   },
   {
@@ -7108,7 +7108,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-631"
   },
   {
@@ -7122,7 +7122,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-632"
   },
   {
@@ -7136,7 +7136,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-633"
   },
   {
@@ -7150,7 +7150,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$172.40",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-634"
   },
   {
@@ -7164,7 +7164,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$125.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-635"
   },
   {
@@ -7178,7 +7178,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-636"
   },
   {
@@ -7192,7 +7192,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-637"
   },
   {
@@ -7206,7 +7206,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-638"
   },
   {
@@ -7220,7 +7220,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-639"
   },
   {
@@ -7234,7 +7234,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$309.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-640"
   },
   {
@@ -7248,7 +7248,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-641"
   },
   {
@@ -7262,7 +7262,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-642"
   },
   {
@@ -7276,7 +7276,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-643"
   },
   {
@@ -7290,7 +7290,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$160.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-644"
   },
   {
@@ -7304,7 +7304,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$180.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-645"
   },
   {
@@ -7318,7 +7318,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$37.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-646"
   },
   {
@@ -7332,7 +7332,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$54.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-647"
   },
   {
@@ -7346,7 +7346,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-648"
   },
   {
@@ -7360,7 +7360,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-649"
   },
   {
@@ -7374,7 +7374,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$104.01",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-650"
   },
   {
@@ -7388,7 +7388,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$128.80",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-651"
   },
   {
@@ -7402,7 +7402,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$123.85",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-652"
   },
   {
@@ -7416,7 +7416,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-653"
   },
   {
@@ -7430,7 +7430,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-654"
   },
   {
@@ -7444,7 +7444,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-655"
   },
   {
@@ -7458,7 +7458,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-656"
   },
   {
@@ -7472,7 +7472,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$80.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-657"
   },
   {
@@ -7486,7 +7486,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-658"
   },
   {
@@ -7500,7 +7500,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-659"
   },
   {
@@ -7514,7 +7514,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-660"
   },
   {
@@ -7528,7 +7528,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1498.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-661"
   },
   {
@@ -7542,7 +7542,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$1495.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-662"
   },
   {
@@ -7556,7 +7556,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$247.98",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-663"
   },
   {
@@ -7570,7 +7570,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$56.64",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-664"
   },
   {
@@ -7584,7 +7584,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$298.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-665"
   },
   {
@@ -7598,7 +7598,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$184.47",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-666"
   },
   {
@@ -7612,7 +7612,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-667"
   },
   {
@@ -7626,7 +7626,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$32.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-668"
   },
   {
@@ -7640,7 +7640,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-669"
   },
   {
@@ -7654,7 +7654,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-670"
   },
   {
@@ -7668,7 +7668,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$85.60",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-671"
   },
   {
@@ -7682,7 +7682,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$403.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-672"
   },
   {
@@ -7696,7 +7696,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$149.94",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-673"
   },
   {
@@ -7710,7 +7710,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-674"
   },
   {
@@ -7724,7 +7724,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-675"
   },
   {
@@ -7738,7 +7738,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-676"
   },
   {
@@ -7752,7 +7752,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$256.06",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-677"
   },
   {
@@ -7766,7 +7766,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-678"
   },
   {
@@ -7780,7 +7780,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$72.51",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-679"
   },
   {
@@ -7794,7 +7794,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$409.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-680"
   },
   {
@@ -7808,7 +7808,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-681"
   },
   {
@@ -7822,7 +7822,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$179.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-682"
   },
   {
@@ -7836,7 +7836,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-683"
   },
   {
@@ -7850,7 +7850,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-684"
   },
   {
@@ -7864,7 +7864,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-685"
   },
   {
@@ -7878,7 +7878,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-686"
   },
   {
@@ -7892,7 +7892,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-687"
   },
   {
@@ -7906,7 +7906,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-688"
   },
   {
@@ -7920,7 +7920,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-689"
   },
   {
@@ -7934,7 +7934,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-690"
   },
   {
@@ -7948,7 +7948,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-691"
   },
   {
@@ -7962,7 +7962,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-692"
   },
   {
@@ -7976,7 +7976,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-693"
   },
   {
@@ -7990,7 +7990,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-694"
   },
   {
@@ -8004,7 +8004,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$283.33",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-695"
   },
   {
@@ -8018,7 +8018,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$59.49",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-696"
   },
   {
@@ -8032,7 +8032,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-697"
   },
   {
@@ -8046,7 +8046,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-698"
   },
   {
@@ -8060,7 +8060,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-699"
   },
   {
@@ -8074,7 +8074,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-700"
   },
   {
@@ -8088,7 +8088,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-701"
   },
   {
@@ -8102,7 +8102,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1229.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-702"
   },
   {
@@ -8116,7 +8116,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-703"
   },
   {
@@ -8130,7 +8130,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-704"
   },
   {
@@ -8144,7 +8144,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-705"
   },
   {
@@ -8158,7 +8158,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-706"
   },
   {
@@ -8172,7 +8172,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-707"
   },
   {
@@ -8186,7 +8186,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-708"
   },
   {
@@ -8200,7 +8200,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$148.01",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-709"
   },
   {
@@ -8214,7 +8214,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1205.04",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-710"
   },
   {
@@ -8228,7 +8228,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-711"
   },
   {
@@ -8242,7 +8242,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1399.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-712"
   },
   {
@@ -8256,7 +8256,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$355.29",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-713"
   },
   {
@@ -8270,7 +8270,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-714"
   },
   {
@@ -8284,7 +8284,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$50.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-715"
   },
   {
@@ -8298,7 +8298,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-716"
   },
   {
@@ -8312,7 +8312,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-717"
   },
   {
@@ -8326,7 +8326,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-718"
   },
   {
@@ -8340,7 +8340,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-719"
   },
   {
@@ -8354,7 +8354,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-720"
   },
   {
@@ -8368,7 +8368,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$345.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-721"
   },
   {
@@ -8382,7 +8382,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$374.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-722"
   },
   {
@@ -8396,7 +8396,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$147.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-723"
   },
   {
@@ -8410,7 +8410,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-724"
   },
   {
@@ -8424,7 +8424,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-725"
   },
   {
@@ -8438,7 +8438,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-726"
   },
   {
@@ -8452,7 +8452,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-727"
   },
   {
@@ -8466,7 +8466,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$452.66",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-728"
   },
   {
@@ -8480,7 +8480,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$57.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-729"
   },
   {
@@ -8494,7 +8494,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$121.55",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-730"
   },
   {
@@ -8508,7 +8508,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$131.97",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-731"
   },
   {
@@ -8522,7 +8522,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$257.27",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-732"
   },
   {
@@ -8536,7 +8536,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-733"
   },
   {
@@ -8550,7 +8550,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$250.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-734"
   },
   {
@@ -8564,7 +8564,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$453.41",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-735"
   },
   {
@@ -8578,7 +8578,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$83.22",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-736"
   },
   {
@@ -8592,7 +8592,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$82.51",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-737"
   },
   {
@@ -8606,7 +8606,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-738"
   },
   {
@@ -8620,7 +8620,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-739"
   },
   {
@@ -8634,7 +8634,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-740"
   },
   {
@@ -8648,7 +8648,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-741"
   },
   {
@@ -8662,7 +8662,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-742"
   },
   {
@@ -8676,7 +8676,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$410.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-743"
   },
   {
@@ -8690,7 +8690,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-744"
   },
   {
@@ -8704,7 +8704,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$753.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-745"
   },
   {
@@ -8718,7 +8718,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$625.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-746"
   },
   {
@@ -8732,7 +8732,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-747"
   },
   {
@@ -8746,7 +8746,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$90.03",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-748"
   },
   {
@@ -8760,7 +8760,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$295.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-749"
   },
   {
@@ -8774,7 +8774,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$105.97",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-750"
   },
   {
@@ -8788,7 +8788,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-751"
   },
   {
@@ -8802,7 +8802,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-752"
   },
   {
@@ -8816,7 +8816,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-753"
   },
   {
@@ -8830,7 +8830,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-754"
   },
   {
@@ -8844,7 +8844,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-755"
   },
   {
@@ -8858,7 +8858,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$798.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-756"
   },
   {
@@ -8872,7 +8872,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-757"
   },
   {
@@ -8886,7 +8886,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$153.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-758"
   },
   {
@@ -8900,7 +8900,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$355.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-759"
   },
   {
@@ -8914,7 +8914,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-760"
   },
   {
@@ -8928,7 +8928,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$505.02",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-761"
   },
   {
@@ -8942,7 +8942,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-762"
   },
   {
@@ -8956,7 +8956,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-763"
   },
   {
@@ -8970,7 +8970,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-764"
   },
   {
@@ -8984,7 +8984,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$324.60",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-765"
   },
   {
@@ -8998,7 +8998,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-766"
   },
   {
@@ -9012,7 +9012,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$149.94",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-767"
   },
   {
@@ -9026,7 +9026,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$165.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-768"
   },
   {
@@ -9040,7 +9040,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-769"
   },
   {
@@ -9054,7 +9054,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$188.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-770"
   },
   {
@@ -9068,7 +9068,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-771"
   },
   {
@@ -9082,7 +9082,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-772"
   },
   {
@@ -9096,7 +9096,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-773"
   },
   {
@@ -9110,7 +9110,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-774"
   },
   {
@@ -9124,7 +9124,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-775"
   },
   {
@@ -9138,7 +9138,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-776"
   },
   {
@@ -9152,7 +9152,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-777"
   },
   {
@@ -9166,7 +9166,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$367.50",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-778"
   },
   {
@@ -9180,7 +9180,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$100.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-779"
   },
   {
@@ -9194,7 +9194,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$64.77",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-780"
   },
   {
@@ -9208,7 +9208,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$35.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-781"
   },
   {
@@ -9222,7 +9222,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$108.02",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-782"
   },
   {
@@ -9236,7 +9236,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$362.84",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-783"
   },
   {
@@ -9250,7 +9250,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$905.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-784"
   },
   {
@@ -9264,7 +9264,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-785"
   },
   {
@@ -9278,7 +9278,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-786"
   },
   {
@@ -9292,7 +9292,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$449.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-787"
   },
   {
@@ -9306,7 +9306,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-788"
   },
   {
@@ -9320,7 +9320,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-789"
   },
   {
@@ -9334,7 +9334,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-790"
   },
   {
@@ -9348,7 +9348,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-791"
   },
   {
@@ -9362,7 +9362,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-792"
   },
   {
@@ -9376,7 +9376,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-793"
   },
   {
@@ -9390,7 +9390,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-794"
   },
   {
@@ -9404,7 +9404,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-795"
   },
   {
@@ -9418,7 +9418,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-796"
   },
   {
@@ -9432,7 +9432,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-797"
   },
   {
@@ -9446,7 +9446,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$98.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-798"
   },
   {
@@ -9460,7 +9460,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$489.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-799"
   },
   {
@@ -9474,7 +9474,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$229.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-800"
   },
   {
@@ -9488,7 +9488,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-801"
   },
   {
@@ -9502,7 +9502,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$209.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-802"
   },
   {
@@ -9516,7 +9516,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$474.39",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-803"
   },
   {
@@ -9530,7 +9530,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-804"
   },
   {
@@ -9544,7 +9544,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-805"
   },
   {
@@ -9558,7 +9558,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-806"
   },
   {
@@ -9572,7 +9572,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-807"
   },
   {
@@ -9586,7 +9586,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-808"
   },
   {
@@ -9600,7 +9600,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-809"
   },
   {
@@ -9614,7 +9614,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-810"
   },
   {
@@ -9628,7 +9628,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$65.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-811"
   },
   {
@@ -9642,7 +9642,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-812"
   },
   {
@@ -9656,7 +9656,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$138.02",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-813"
   },
   {
@@ -9670,7 +9670,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$256.50",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-814"
   },
   {
@@ -9684,7 +9684,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$286.27",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-815"
   },
   {
@@ -9698,7 +9698,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-816"
   },
   {
@@ -9712,7 +9712,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-817"
   },
   {
@@ -9726,7 +9726,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-818"
   },
   {
@@ -9740,7 +9740,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-819"
   },
   {
@@ -9754,7 +9754,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$80.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-820"
   },
   {
@@ -9768,7 +9768,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-821"
   },
   {
@@ -9782,7 +9782,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-822"
   },
   {
@@ -9796,7 +9796,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-823"
   },
   {
@@ -9810,7 +9810,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-824"
   },
   {
@@ -9824,7 +9824,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-825"
   },
   {
@@ -9838,7 +9838,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$79.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-826"
   },
   {
@@ -9852,7 +9852,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$534.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-827"
   },
   {
@@ -9866,7 +9866,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$715.11",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-828"
   },
   {
@@ -9880,7 +9880,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$429.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-829"
   },
   {
@@ -9894,7 +9894,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$60.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-830"
   },
   {
@@ -9908,7 +9908,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-831"
   },
   {
@@ -9922,7 +9922,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$549.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-832"
   },
   {
@@ -9936,7 +9936,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$299.88",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-833"
   },
   {
@@ -9950,7 +9950,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$37.49",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-834"
   },
   {
@@ -9964,7 +9964,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-835"
   },
   {
@@ -9978,7 +9978,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-836"
   },
   {
@@ -9992,7 +9992,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-837"
   },
   {
@@ -10006,7 +10006,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-838"
   },
   {
@@ -10020,7 +10020,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$229.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-839"
   },
   {
@@ -10034,7 +10034,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$184.91",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-840"
   },
   {
@@ -10048,7 +10048,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-841"
   },
   {
@@ -10062,7 +10062,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-842"
   },
   {
@@ -10076,7 +10076,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$398.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-843"
   },
   {
@@ -10090,7 +10090,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$1081.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-844"
   },
   {
@@ -10104,7 +10104,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-845"
   },
   {
@@ -10118,7 +10118,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-846"
   },
   {
@@ -10132,7 +10132,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-847"
   },
   {
@@ -10146,7 +10146,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-848"
   },
   {
@@ -10160,7 +10160,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-849"
   },
   {
@@ -10174,7 +10174,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-850"
   },
   {
@@ -10188,7 +10188,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-851"
   },
   {
@@ -10202,7 +10202,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-852"
   },
   {
@@ -10216,7 +10216,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$949.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-853"
   },
   {
@@ -10230,7 +10230,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.95",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-854"
   },
   {
@@ -10244,7 +10244,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-855"
   },
   {
@@ -10258,7 +10258,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$354.97",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-856"
   },
   {
@@ -10272,7 +10272,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$205.86",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-857"
   },
   {
@@ -10286,7 +10286,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$417.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-858"
   },
   {
@@ -10300,7 +10300,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$99.24",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-859"
   },
   {
@@ -10314,7 +10314,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$389.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-860"
   },
   {
@@ -10328,7 +10328,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$76.98",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-861"
   },
   {
@@ -10342,7 +10342,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-862"
   },
   {
@@ -10356,7 +10356,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-863"
   },
   {
@@ -10370,7 +10370,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-864"
   },
   {
@@ -10384,7 +10384,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-865"
   },
   {
@@ -10398,7 +10398,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-866"
   },
   {
@@ -10412,7 +10412,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-867"
   },
   {
@@ -10426,7 +10426,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-868"
   },
   {
@@ -10440,7 +10440,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$684.64",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-869"
   },
   {
@@ -10454,7 +10454,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-870"
   },
   {
@@ -10468,7 +10468,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$350.80",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-871"
   },
   {
@@ -10482,7 +10482,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$424.42",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-872"
   },
   {
@@ -10496,7 +10496,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$445.78",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-873"
   },
   {
@@ -10510,7 +10510,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$289.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-874"
   },
   {
@@ -10524,7 +10524,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$49.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-875"
   },
   {
@@ -10538,7 +10538,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-876"
   },
   {
@@ -10552,7 +10552,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-877"
   },
   {
@@ -10566,7 +10566,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-878"
   },
   {
@@ -10580,7 +10580,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$75.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-879"
   },
   {
@@ -10594,7 +10594,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$115.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-880"
   },
   {
@@ -10608,7 +10608,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-881"
   },
   {
@@ -10622,7 +10622,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-882"
   },
   {
@@ -10636,7 +10636,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-883"
   },
   {
@@ -10650,7 +10650,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-884"
   },
   {
@@ -10664,7 +10664,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-885"
   },
   {
@@ -10678,7 +10678,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-886"
   },
   {
@@ -10692,7 +10692,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-887"
   },
   {
@@ -10706,7 +10706,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-888"
   },
   {
@@ -10720,7 +10720,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$249.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-889"
   },
   {
@@ -10734,7 +10734,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$376.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-890"
   },
   {
@@ -10748,7 +10748,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$235.60",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-891"
   },
   {
@@ -10762,7 +10762,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$529.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-892"
   },
   {
@@ -10776,7 +10776,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$58.02",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-893"
   },
   {
@@ -10790,7 +10790,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$120.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-894"
   },
   {
@@ -10804,7 +10804,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-895"
   },
   {
@@ -10818,7 +10818,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-896"
   },
   {
@@ -10832,7 +10832,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-897"
   },
   {
@@ -10846,7 +10846,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-898"
   },
   {
@@ -10860,7 +10860,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-899"
   },
   {
@@ -10874,7 +10874,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-900"
   },
   {
@@ -10888,7 +10888,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-901"
   },
   {
@@ -10902,7 +10902,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-902"
   },
   {
@@ -10916,7 +10916,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-903"
   },
   {
@@ -10930,7 +10930,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-904"
   },
   {
@@ -10944,7 +10944,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-905"
   },
   {
@@ -10958,7 +10958,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-906"
   },
   {
@@ -10972,7 +10972,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-907"
   },
   {
@@ -10986,7 +10986,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cpu-908"
   },
   {
@@ -11000,7 +11000,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-909"
   },
   {
@@ -11014,7 +11014,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-910"
   },
   {
@@ -11028,7 +11028,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$88.67",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-911"
   },
   {
@@ -11042,7 +11042,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$605.64",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-912"
   },
   {
@@ -11056,7 +11056,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$77.00",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-913"
   },
   {
@@ -11070,7 +11070,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$229.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-914"
   },
   {
@@ -11084,7 +11084,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$304.29",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-915"
   },
   {
@@ -11098,7 +11098,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "$125.36",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-916"
   },
   {
@@ -11112,7 +11112,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-917"
   },
   {
@@ -11126,7 +11126,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-918"
   },
   {
@@ -11140,7 +11140,7 @@
     "smt": "No",
     "rating": "0",
     "price": "$198.95",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-919"
   },
   {
@@ -11154,7 +11154,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-920"
   },
   {
@@ -11168,7 +11168,7 @@
     "smt": "Yes",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-921"
   },
   {
@@ -11182,7 +11182,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-922"
   },
   {
@@ -11196,7 +11196,7 @@
     "smt": "No",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cpu-923"
   }
 ]

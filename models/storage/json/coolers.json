@@ -8,7 +8,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-124"
   },
   {
@@ -20,7 +20,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$90.35",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-125"
   },
   {
@@ -32,7 +32,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-126"
   },
   {
@@ -44,7 +44,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$33.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-127"
   },
   {
@@ -56,7 +56,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-128"
   },
   {
@@ -68,7 +68,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$119.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-129"
   },
   {
@@ -80,7 +80,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-130"
   },
   {
@@ -92,7 +92,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-131"
   },
   {
@@ -104,7 +104,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-132"
   },
   {
@@ -116,7 +116,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$122.50",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-133"
   },
   {
@@ -128,7 +128,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-134"
   },
   {
@@ -140,7 +140,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$108.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-135"
   },
   {
@@ -152,7 +152,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$109.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-136"
   },
   {
@@ -164,7 +164,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$287.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-137"
   },
   {
@@ -176,7 +176,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$89.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-138"
   },
   {
@@ -188,7 +188,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$224.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-139"
   },
   {
@@ -200,7 +200,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-140"
   },
   {
@@ -212,7 +212,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$94.73",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-141"
   },
   {
@@ -224,7 +224,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-142"
   },
   {
@@ -236,7 +236,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$35.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-143"
   },
   {
@@ -248,7 +248,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$36.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-144"
   },
   {
@@ -260,7 +260,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$17.89",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-145"
   },
   {
@@ -272,7 +272,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$63.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-146"
   },
   {
@@ -284,7 +284,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-147"
   },
   {
@@ -296,7 +296,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$137.68",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-148"
   },
   {
@@ -308,7 +308,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-149"
   },
   {
@@ -320,7 +320,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-150"
   },
   {
@@ -332,7 +332,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$83.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-151"
   },
   {
@@ -344,7 +344,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-152"
   },
   {
@@ -356,7 +356,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-153"
   },
   {
@@ -368,7 +368,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-154"
   },
   {
@@ -380,7 +380,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$129.94",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-155"
   },
   {
@@ -392,7 +392,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-156"
   },
   {
@@ -404,7 +404,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-157"
   },
   {
@@ -416,7 +416,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$168.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-158"
   },
   {
@@ -428,7 +428,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$161.80",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-159"
   },
   {
@@ -440,7 +440,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$35.99",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-160"
   },
   {
@@ -452,7 +452,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$103.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-161"
   },
   {
@@ -464,7 +464,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-162"
   },
   {
@@ -476,7 +476,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$126.77",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-163"
   },
   {
@@ -488,7 +488,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-164"
   },
   {
@@ -500,7 +500,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$57.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-165"
   },
   {
@@ -512,7 +512,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-166"
   },
   {
@@ -524,7 +524,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-167"
   },
   {
@@ -536,7 +536,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-168"
   },
   {
@@ -548,7 +548,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-169"
   },
   {
@@ -560,7 +560,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-170"
   },
   {
@@ -572,7 +572,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-171"
   },
   {
@@ -584,7 +584,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$18.89",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-172"
   },
   {
@@ -596,7 +596,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-173"
   },
   {
@@ -608,7 +608,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$8.99",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cooler-174"
   },
   {
@@ -620,7 +620,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-175"
   },
   {
@@ -632,7 +632,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-176"
   },
   {
@@ -644,7 +644,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-177"
   },
   {
@@ -656,7 +656,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$586.97",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-178"
   },
   {
@@ -668,7 +668,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-179"
   },
   {
@@ -680,7 +680,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-180"
   },
   {
@@ -692,7 +692,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-181"
   },
   {
@@ -704,7 +704,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-182"
   },
   {
@@ -716,7 +716,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-183"
   },
   {
@@ -728,7 +728,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$179.38",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-184"
   },
   {
@@ -740,7 +740,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-185"
   },
   {
@@ -752,7 +752,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-186"
   },
   {
@@ -764,7 +764,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$438.81",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-187"
   },
   {
@@ -776,7 +776,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-188"
   },
   {
@@ -788,7 +788,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-189"
   },
   {
@@ -800,7 +800,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$40.99",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-190"
   },
   {
@@ -812,7 +812,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$82.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-191"
   },
   {
@@ -824,7 +824,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-192"
   },
   {
@@ -836,7 +836,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$74.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-193"
   },
   {
@@ -848,7 +848,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-194"
   },
   {
@@ -860,7 +860,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-195"
   },
   {
@@ -872,7 +872,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$138.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-196"
   },
   {
@@ -884,7 +884,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$109.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-197"
   },
   {
@@ -896,7 +896,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-198"
   },
   {
@@ -908,7 +908,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$142.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-199"
   },
   {
@@ -920,7 +920,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$81.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-200"
   },
   {
@@ -932,7 +932,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$37.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-201"
   },
   {
@@ -944,7 +944,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-202"
   },
   {
@@ -956,7 +956,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$337.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-203"
   },
   {
@@ -968,7 +968,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-204"
   },
   {
@@ -980,7 +980,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-205"
   },
   {
@@ -992,7 +992,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$697.50",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-206"
   },
   {
@@ -1004,7 +1004,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$250.66",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-207"
   },
   {
@@ -1016,7 +1016,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-208"
   },
   {
@@ -1028,7 +1028,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-209"
   },
   {
@@ -1040,7 +1040,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$407.09",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-210"
   },
   {
@@ -1052,7 +1052,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$208.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-211"
   },
   {
@@ -1064,7 +1064,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-212"
   },
   {
@@ -1076,7 +1076,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$95.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-213"
   },
   {
@@ -1088,7 +1088,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-214"
   },
   {
@@ -1100,7 +1100,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$84.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-215"
   },
   {
@@ -1112,7 +1112,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-216"
   },
   {
@@ -1124,7 +1124,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$21.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-217"
   },
   {
@@ -1136,7 +1136,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-218"
   },
   {
@@ -1148,7 +1148,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-219"
   },
   {
@@ -1160,7 +1160,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-220"
   },
   {
@@ -1172,7 +1172,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$87.18",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-221"
   },
   {
@@ -1184,7 +1184,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$43.49",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-222"
   },
   {
@@ -1196,7 +1196,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$122.50",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-223"
   },
   {
@@ -1208,7 +1208,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-224"
   },
   {
@@ -1220,7 +1220,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$77.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-225"
   },
   {
@@ -1232,7 +1232,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-226"
   },
   {
@@ -1244,7 +1244,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-227"
   },
   {
@@ -1256,7 +1256,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$37.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-228"
   },
   {
@@ -1268,7 +1268,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-229"
   },
   {
@@ -1280,7 +1280,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-230"
   },
   {
@@ -1292,7 +1292,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-231"
   },
   {
@@ -1304,7 +1304,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-232"
   },
   {
@@ -1316,7 +1316,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$250.38",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-233"
   },
   {
@@ -1328,7 +1328,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-234"
   },
   {
@@ -1340,7 +1340,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$119.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-235"
   },
   {
@@ -1352,7 +1352,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.50",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-236"
   },
   {
@@ -1364,7 +1364,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-237"
   },
   {
@@ -1376,7 +1376,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-238"
   },
   {
@@ -1388,7 +1388,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$74.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-239"
   },
   {
@@ -1400,7 +1400,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$89.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-240"
   },
   {
@@ -1412,7 +1412,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-241"
   },
   {
@@ -1424,7 +1424,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-242"
   },
   {
@@ -1436,7 +1436,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$273.79",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-243"
   },
   {
@@ -1448,7 +1448,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-244"
   },
   {
@@ -1460,7 +1460,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$52.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-245"
   },
   {
@@ -1472,7 +1472,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-246"
   },
   {
@@ -1484,7 +1484,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-247"
   },
   {
@@ -1496,7 +1496,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-248"
   },
   {
@@ -1508,7 +1508,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$42.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-249"
   },
   {
@@ -1520,7 +1520,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-250"
   },
   {
@@ -1532,7 +1532,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.98",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-251"
   },
   {
@@ -1544,7 +1544,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-252"
   },
   {
@@ -1556,7 +1556,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-253"
   },
   {
@@ -1568,7 +1568,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$95.56",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-254"
   },
   {
@@ -1580,7 +1580,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$23.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-255"
   },
   {
@@ -1592,7 +1592,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$20.98",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-256"
   },
   {
@@ -1604,7 +1604,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$133.41",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-257"
   },
   {
@@ -1616,7 +1616,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$254.51",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-258"
   },
   {
@@ -1628,7 +1628,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-259"
   },
   {
@@ -1640,7 +1640,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$390.80",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-260"
   },
   {
@@ -1652,7 +1652,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.89",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-261"
   },
   {
@@ -1664,7 +1664,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-262"
   },
   {
@@ -1676,7 +1676,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-263"
   },
   {
@@ -1688,7 +1688,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$399.07",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-264"
   },
   {
@@ -1700,7 +1700,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-265"
   },
   {
@@ -1712,7 +1712,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-266"
   },
   {
@@ -1724,7 +1724,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$41.28",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-267"
   },
   {
@@ -1736,7 +1736,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$135.63",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-268"
   },
   {
@@ -1748,7 +1748,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-269"
   },
   {
@@ -1760,7 +1760,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-270"
   },
   {
@@ -1772,7 +1772,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$8.16",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-271"
   },
   {
@@ -1784,7 +1784,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$46.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-272"
   },
   {
@@ -1796,7 +1796,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-273"
   },
   {
@@ -1808,7 +1808,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$14.99",
-    "manufactor": "StarTech",
+    "manufacturer": "StarTech",
     "id": "cooler-274"
   },
   {
@@ -1820,7 +1820,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-275"
   },
   {
@@ -1832,7 +1832,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-276"
   },
   {
@@ -1844,7 +1844,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-277"
   },
   {
@@ -1856,7 +1856,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$120.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-278"
   },
   {
@@ -1868,7 +1868,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$94.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-279"
   },
   {
@@ -1880,7 +1880,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$233.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-280"
   },
   {
@@ -1892,7 +1892,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-281"
   },
   {
@@ -1904,7 +1904,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-282"
   },
   {
@@ -1916,7 +1916,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.69",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-283"
   },
   {
@@ -1928,7 +1928,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-284"
   },
   {
@@ -1940,7 +1940,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$99.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-285"
   },
   {
@@ -1952,7 +1952,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-286"
   },
   {
@@ -1964,7 +1964,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-287"
   },
   {
@@ -1976,7 +1976,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-288"
   },
   {
@@ -1988,7 +1988,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$316.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-289"
   },
   {
@@ -2000,7 +2000,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$72.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-290"
   },
   {
@@ -2012,7 +2012,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-291"
   },
   {
@@ -2024,7 +2024,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$220.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-292"
   },
   {
@@ -2036,7 +2036,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-293"
   },
   {
@@ -2048,7 +2048,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$64.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-294"
   },
   {
@@ -2060,7 +2060,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-295"
   },
   {
@@ -2072,7 +2072,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-296"
   },
   {
@@ -2084,7 +2084,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-297"
   },
   {
@@ -2096,7 +2096,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-298"
   },
   {
@@ -2108,7 +2108,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$120.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-299"
   },
   {
@@ -2120,7 +2120,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$157.84",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-300"
   },
   {
@@ -2132,7 +2132,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$129.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-301"
   },
   {
@@ -2144,7 +2144,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$99.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-302"
   },
   {
@@ -2156,7 +2156,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-303"
   },
   {
@@ -2168,7 +2168,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-304"
   },
   {
@@ -2180,7 +2180,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$204.32",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-305"
   },
   {
@@ -2192,7 +2192,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-306"
   },
   {
@@ -2204,7 +2204,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-307"
   },
   {
@@ -2216,7 +2216,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-308"
   },
   {
@@ -2228,7 +2228,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-309"
   },
   {
@@ -2240,7 +2240,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-310"
   },
   {
@@ -2252,7 +2252,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$186.23",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-311"
   },
   {
@@ -2264,7 +2264,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-312"
   },
   {
@@ -2276,7 +2276,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.00",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-313"
   },
   {
@@ -2288,7 +2288,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-314"
   },
   {
@@ -2300,7 +2300,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$113.98",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-315"
   },
   {
@@ -2312,7 +2312,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$302.27",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-316"
   },
   {
@@ -2324,7 +2324,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$328.34",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-317"
   },
   {
@@ -2336,7 +2336,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-318"
   },
   {
@@ -2348,7 +2348,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$95.50",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-319"
   },
   {
@@ -2360,7 +2360,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-320"
   },
   {
@@ -2372,7 +2372,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-321"
   },
   {
@@ -2384,7 +2384,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-322"
   },
   {
@@ -2396,7 +2396,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$132.80",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-323"
   },
   {
@@ -2408,7 +2408,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$250.38",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-324"
   },
   {
@@ -2420,7 +2420,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$28.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-325"
   },
   {
@@ -2432,7 +2432,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-326"
   },
   {
@@ -2444,7 +2444,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$52.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-327"
   },
   {
@@ -2456,7 +2456,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$52.64",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-328"
   },
   {
@@ -2468,7 +2468,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$191.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-329"
   },
   {
@@ -2480,7 +2480,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-330"
   },
   {
@@ -2492,7 +2492,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$30.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-331"
   },
   {
@@ -2504,7 +2504,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-332"
   },
   {
@@ -2516,7 +2516,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$52.30",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-333"
   },
   {
@@ -2528,7 +2528,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$105.50",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-334"
   },
   {
@@ -2540,7 +2540,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$47.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-335"
   },
   {
@@ -2552,7 +2552,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-336"
   },
   {
@@ -2564,7 +2564,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$87.85",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-337"
   },
   {
@@ -2576,7 +2576,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-338"
   },
   {
@@ -2588,7 +2588,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-339"
   },
   {
@@ -2600,7 +2600,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-340"
   },
   {
@@ -2612,7 +2612,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-341"
   },
   {
@@ -2624,7 +2624,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-342"
   },
   {
@@ -2636,7 +2636,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$234.00",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-343"
   },
   {
@@ -2648,7 +2648,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-344"
   },
   {
@@ -2660,7 +2660,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-345"
   },
   {
@@ -2672,7 +2672,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$58.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-346"
   },
   {
@@ -2684,7 +2684,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$114.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-347"
   },
   {
@@ -2696,7 +2696,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-348"
   },
   {
@@ -2708,7 +2708,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-349"
   },
   {
@@ -2720,7 +2720,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-350"
   },
   {
@@ -2732,7 +2732,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$79.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-351"
   },
   {
@@ -2744,7 +2744,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.29",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-352"
   },
   {
@@ -2756,7 +2756,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$11.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-353"
   },
   {
@@ -2768,7 +2768,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-354"
   },
   {
@@ -2780,7 +2780,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-355"
   },
   {
@@ -2792,7 +2792,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$244.88",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-356"
   },
   {
@@ -2804,7 +2804,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.42",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-357"
   },
   {
@@ -2816,7 +2816,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-358"
   },
   {
@@ -2828,7 +2828,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-359"
   },
   {
@@ -2840,7 +2840,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$295.00",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-360"
   },
   {
@@ -2852,7 +2852,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-361"
   },
   {
@@ -2864,7 +2864,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-362"
   },
   {
@@ -2876,7 +2876,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-363"
   },
   {
@@ -2888,7 +2888,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-364"
   },
   {
@@ -2900,7 +2900,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$127.75",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-365"
   },
   {
@@ -2912,7 +2912,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-366"
   },
   {
@@ -2924,7 +2924,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-367"
   },
   {
@@ -2936,7 +2936,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-368"
   },
   {
@@ -2948,7 +2948,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$58.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-369"
   },
   {
@@ -2960,7 +2960,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-370"
   },
   {
@@ -2972,7 +2972,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-371"
   },
   {
@@ -2984,7 +2984,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-372"
   },
   {
@@ -2996,7 +2996,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-373"
   },
   {
@@ -3008,7 +3008,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.98",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-374"
   },
   {
@@ -3020,7 +3020,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-375"
   },
   {
@@ -3032,7 +3032,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$99.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-376"
   },
   {
@@ -3044,7 +3044,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$226.99",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-377"
   },
   {
@@ -3056,7 +3056,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-378"
   },
   {
@@ -3068,7 +3068,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-379"
   },
   {
@@ -3080,7 +3080,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$20.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-380"
   },
   {
@@ -3092,7 +3092,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-381"
   },
   {
@@ -3104,7 +3104,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-382"
   },
   {
@@ -3116,7 +3116,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$87.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-383"
   },
   {
@@ -3128,7 +3128,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-384"
   },
   {
@@ -3140,7 +3140,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-385"
   },
   {
@@ -3152,7 +3152,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-386"
   },
   {
@@ -3164,7 +3164,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$23.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-387"
   },
   {
@@ -3176,7 +3176,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-388"
   },
   {
@@ -3188,7 +3188,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$12.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-389"
   },
   {
@@ -3200,7 +3200,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.59",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-390"
   },
   {
@@ -3212,7 +3212,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$65.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-391"
   },
   {
@@ -3224,7 +3224,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-392"
   },
   {
@@ -3236,7 +3236,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-393"
   },
   {
@@ -3248,7 +3248,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$51.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-394"
   },
   {
@@ -3260,7 +3260,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-395"
   },
   {
@@ -3272,7 +3272,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-396"
   },
   {
@@ -3284,7 +3284,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$96.14",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-397"
   },
   {
@@ -3296,7 +3296,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$226.94",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-398"
   },
   {
@@ -3308,7 +3308,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-399"
   },
   {
@@ -3320,7 +3320,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$48.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-400"
   },
   {
@@ -3332,7 +3332,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-401"
   },
   {
@@ -3344,7 +3344,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$103.19",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-402"
   },
   {
@@ -3356,7 +3356,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$109.90",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-403"
   },
   {
@@ -3368,7 +3368,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-404"
   },
   {
@@ -3380,7 +3380,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-405"
   },
   {
@@ -3392,7 +3392,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-406"
   },
   {
@@ -3404,7 +3404,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$51.35",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-407"
   },
   {
@@ -3416,7 +3416,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-408"
   },
   {
@@ -3428,7 +3428,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-409"
   },
   {
@@ -3440,7 +3440,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$32.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-410"
   },
   {
@@ -3452,7 +3452,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-411"
   },
   {
@@ -3464,7 +3464,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ENDORFY",
+    "manufacturer": "ENDORFY",
     "id": "cooler-412"
   },
   {
@@ -3476,7 +3476,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$214.95",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-413"
   },
   {
@@ -3488,7 +3488,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-414"
   },
   {
@@ -3500,7 +3500,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$135.00",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-415"
   },
   {
@@ -3512,7 +3512,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$54.50",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-416"
   },
   {
@@ -3524,7 +3524,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$15.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-417"
   },
   {
@@ -3536,7 +3536,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.93",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-418"
   },
   {
@@ -3548,7 +3548,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$43.50",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-419"
   },
   {
@@ -3560,7 +3560,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-420"
   },
   {
@@ -3572,7 +3572,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-421"
   },
   {
@@ -3584,7 +3584,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-422"
   },
   {
@@ -3596,7 +3596,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$152.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-423"
   },
   {
@@ -3608,7 +3608,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$250.38",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-424"
   },
   {
@@ -3620,7 +3620,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$28.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-425"
   },
   {
@@ -3632,7 +3632,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-426"
   },
   {
@@ -3644,7 +3644,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$52.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-427"
   },
   {
@@ -3656,7 +3656,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$52.64",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-428"
   },
   {
@@ -3668,7 +3668,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$191.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-429"
   },
   {
@@ -3680,7 +3680,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-430"
   },
   {
@@ -3692,7 +3692,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$30.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-431"
   },
   {
@@ -3704,7 +3704,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-432"
   },
   {
@@ -3716,7 +3716,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$52.30",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-433"
   },
   {
@@ -3728,7 +3728,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$105.50",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-434"
   },
   {
@@ -3740,7 +3740,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$47.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-435"
   },
   {
@@ -3752,7 +3752,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-436"
   },
   {
@@ -3764,7 +3764,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$87.85",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-437"
   },
   {
@@ -3776,7 +3776,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-438"
   },
   {
@@ -3788,7 +3788,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-439"
   },
   {
@@ -3800,7 +3800,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-440"
   },
   {
@@ -3812,7 +3812,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-441"
   },
   {
@@ -3824,7 +3824,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-442"
   },
   {
@@ -3836,7 +3836,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$234.00",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-443"
   },
   {
@@ -3848,7 +3848,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-444"
   },
   {
@@ -3860,7 +3860,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$349.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-445"
   },
   {
@@ -3872,7 +3872,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$58.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-446"
   },
   {
@@ -3884,7 +3884,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$114.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-447"
   },
   {
@@ -3896,7 +3896,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-448"
   },
   {
@@ -3908,7 +3908,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-449"
   },
   {
@@ -3920,7 +3920,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-450"
   },
   {
@@ -3932,7 +3932,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$79.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-451"
   },
   {
@@ -3944,7 +3944,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.29",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-452"
   },
   {
@@ -3956,7 +3956,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$11.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-453"
   },
   {
@@ -3968,7 +3968,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-454"
   },
   {
@@ -3980,7 +3980,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-455"
   },
   {
@@ -3992,7 +3992,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$244.88",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-456"
   },
   {
@@ -4004,7 +4004,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.42",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-457"
   },
   {
@@ -4016,7 +4016,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-458"
   },
   {
@@ -4028,7 +4028,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-459"
   },
   {
@@ -4040,7 +4040,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$295.00",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-460"
   },
   {
@@ -4052,7 +4052,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-461"
   },
   {
@@ -4064,7 +4064,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-462"
   },
   {
@@ -4076,7 +4076,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-463"
   },
   {
@@ -4088,7 +4088,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-464"
   },
   {
@@ -4100,7 +4100,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$127.75",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-465"
   },
   {
@@ -4112,7 +4112,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-466"
   },
   {
@@ -4124,7 +4124,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-467"
   },
   {
@@ -4136,7 +4136,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-468"
   },
   {
@@ -4148,7 +4148,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$58.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-469"
   },
   {
@@ -4160,7 +4160,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-470"
   },
   {
@@ -4172,7 +4172,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-471"
   },
   {
@@ -4184,7 +4184,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-472"
   },
   {
@@ -4196,7 +4196,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-473"
   },
   {
@@ -4208,7 +4208,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.98",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-474"
   },
   {
@@ -4220,7 +4220,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-475"
   },
   {
@@ -4232,7 +4232,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$99.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-476"
   },
   {
@@ -4244,7 +4244,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$226.99",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-477"
   },
   {
@@ -4256,7 +4256,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-478"
   },
   {
@@ -4268,7 +4268,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-479"
   },
   {
@@ -4280,7 +4280,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$20.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-480"
   },
   {
@@ -4292,7 +4292,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-481"
   },
   {
@@ -4304,7 +4304,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-482"
   },
   {
@@ -4316,7 +4316,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$87.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-483"
   },
   {
@@ -4328,7 +4328,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-484"
   },
   {
@@ -4340,7 +4340,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-485"
   },
   {
@@ -4352,7 +4352,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-486"
   },
   {
@@ -4364,7 +4364,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$23.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-487"
   },
   {
@@ -4376,7 +4376,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-488"
   },
   {
@@ -4388,7 +4388,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$12.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-489"
   },
   {
@@ -4400,7 +4400,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.59",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-490"
   },
   {
@@ -4412,7 +4412,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$65.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-491"
   },
   {
@@ -4424,7 +4424,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-492"
   },
   {
@@ -4436,7 +4436,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-493"
   },
   {
@@ -4448,7 +4448,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$51.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-494"
   },
   {
@@ -4460,7 +4460,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-495"
   },
   {
@@ -4472,7 +4472,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-496"
   },
   {
@@ -4484,7 +4484,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$96.14",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-497"
   },
   {
@@ -4496,7 +4496,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$226.94",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-498"
   },
   {
@@ -4508,7 +4508,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-499"
   },
   {
@@ -4520,7 +4520,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$48.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-500"
   },
   {
@@ -4532,7 +4532,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-501"
   },
   {
@@ -4544,7 +4544,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$103.19",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-502"
   },
   {
@@ -4556,7 +4556,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$109.90",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-503"
   },
   {
@@ -4568,7 +4568,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-504"
   },
   {
@@ -4580,7 +4580,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-505"
   },
   {
@@ -4592,7 +4592,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-506"
   },
   {
@@ -4604,7 +4604,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$51.35",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-507"
   },
   {
@@ -4616,7 +4616,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-508"
   },
   {
@@ -4628,7 +4628,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-509"
   },
   {
@@ -4640,7 +4640,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$32.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-510"
   },
   {
@@ -4652,7 +4652,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-511"
   },
   {
@@ -4664,7 +4664,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ENDORFY",
+    "manufacturer": "ENDORFY",
     "id": "cooler-512"
   },
   {
@@ -4676,7 +4676,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$214.95",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-513"
   },
   {
@@ -4688,7 +4688,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-514"
   },
   {
@@ -4700,7 +4700,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$135.00",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-515"
   },
   {
@@ -4712,7 +4712,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$54.50",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-516"
   },
   {
@@ -4724,7 +4724,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$15.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-517"
   },
   {
@@ -4736,7 +4736,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.93",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-518"
   },
   {
@@ -4748,7 +4748,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$43.50",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-519"
   },
   {
@@ -4760,7 +4760,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-520"
   },
   {
@@ -4772,7 +4772,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-521"
   },
   {
@@ -4784,7 +4784,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-522"
   },
   {
@@ -4796,7 +4796,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$152.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-523"
   },
   {
@@ -4808,7 +4808,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-524"
   },
   {
@@ -4820,7 +4820,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-525"
   },
   {
@@ -4832,7 +4832,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$28.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-526"
   },
   {
@@ -4844,7 +4844,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-527"
   },
   {
@@ -4856,7 +4856,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-528"
   },
   {
@@ -4868,7 +4868,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$62.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-529"
   },
   {
@@ -4880,7 +4880,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$188.96",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-530"
   },
   {
@@ -4892,7 +4892,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-531"
   },
   {
@@ -4904,7 +4904,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-532"
   },
   {
@@ -4916,7 +4916,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-533"
   },
   {
@@ -4928,7 +4928,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$111.90",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-534"
   },
   {
@@ -4940,7 +4940,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$274.14",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-535"
   },
   {
@@ -4952,7 +4952,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-536"
   },
   {
@@ -4964,7 +4964,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$205.38",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-537"
   },
   {
@@ -4976,7 +4976,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-538"
   },
   {
@@ -4988,7 +4988,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-539"
   },
   {
@@ -5000,7 +5000,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-540"
   },
   {
@@ -5012,7 +5012,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$89.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-541"
   },
   {
@@ -5024,7 +5024,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-542"
   },
   {
@@ -5036,7 +5036,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$10.02",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-543"
   },
   {
@@ -5048,7 +5048,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$64.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-544"
   },
   {
@@ -5060,7 +5060,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$60.39",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-545"
   },
   {
@@ -5072,7 +5072,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-546"
   },
   {
@@ -5084,7 +5084,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$289.24",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-547"
   },
   {
@@ -5096,7 +5096,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$123.19",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-548"
   },
   {
@@ -5108,7 +5108,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$55.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-549"
   },
   {
@@ -5120,7 +5120,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$63.59",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-550"
   },
   {
@@ -5132,7 +5132,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-551"
   },
   {
@@ -5144,7 +5144,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$118.89",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-552"
   },
   {
@@ -5156,7 +5156,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-553"
   },
   {
@@ -5168,7 +5168,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$31.66",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-554"
   },
   {
@@ -5180,7 +5180,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-555"
   },
   {
@@ -5192,7 +5192,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-556"
   },
   {
@@ -5204,7 +5204,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-557"
   },
   {
@@ -5216,7 +5216,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-558"
   },
   {
@@ -5228,7 +5228,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$25.49",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-559"
   },
   {
@@ -5240,7 +5240,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-560"
   },
   {
@@ -5252,7 +5252,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-561"
   },
   {
@@ -5264,7 +5264,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-562"
   },
   {
@@ -5276,7 +5276,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$45.50",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cooler-563"
   },
   {
@@ -5288,7 +5288,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-564"
   },
   {
@@ -5300,7 +5300,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$51.99",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-565"
   },
   {
@@ -5312,7 +5312,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.74",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-566"
   },
   {
@@ -5324,7 +5324,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$59.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-567"
   },
   {
@@ -5336,7 +5336,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.90",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-568"
   },
   {
@@ -5348,7 +5348,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$38.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-569"
   },
   {
@@ -5360,7 +5360,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-570"
   },
   {
@@ -5372,7 +5372,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$41.31",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-571"
   },
   {
@@ -5384,7 +5384,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$170.72",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-572"
   },
   {
@@ -5396,7 +5396,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-573"
   },
   {
@@ -5408,7 +5408,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-574"
   },
   {
@@ -5420,7 +5420,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-575"
   },
   {
@@ -5432,7 +5432,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$32.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-576"
   },
   {
@@ -5444,7 +5444,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-577"
   },
   {
@@ -5456,7 +5456,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-578"
   },
   {
@@ -5468,7 +5468,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-579"
   },
   {
@@ -5480,7 +5480,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-580"
   },
   {
@@ -5492,7 +5492,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$21.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-581"
   },
   {
@@ -5504,7 +5504,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$131.49",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-582"
   },
   {
@@ -5516,7 +5516,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-583"
   },
   {
@@ -5528,7 +5528,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-584"
   },
   {
@@ -5540,7 +5540,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-585"
   },
   {
@@ -5552,7 +5552,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$201.99",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-586"
   },
   {
@@ -5564,7 +5564,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$27.99",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-587"
   },
   {
@@ -5576,7 +5576,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-588"
   },
   {
@@ -5588,7 +5588,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ENDORFY",
+    "manufacturer": "ENDORFY",
     "id": "cooler-589"
   },
   {
@@ -5600,7 +5600,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-590"
   },
   {
@@ -5612,7 +5612,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$259.00",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-591"
   },
   {
@@ -5624,7 +5624,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-592"
   },
   {
@@ -5636,7 +5636,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-593"
   },
   {
@@ -5648,7 +5648,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-594"
   },
   {
@@ -5660,7 +5660,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-595"
   },
   {
@@ -5672,7 +5672,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$207.25",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-596"
   },
   {
@@ -5684,7 +5684,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-597"
   },
   {
@@ -5696,7 +5696,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-598"
   },
   {
@@ -5708,7 +5708,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-599"
   },
   {
@@ -5720,7 +5720,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$60.12",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-600"
   },
   {
@@ -5732,7 +5732,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "CRYORIG",
+    "manufacturer": "CRYORIG",
     "id": "cooler-601"
   },
   {
@@ -5744,7 +5744,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-602"
   },
   {
@@ -5756,7 +5756,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$120.67",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-603"
   },
   {
@@ -5768,7 +5768,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-604"
   },
   {
@@ -5780,7 +5780,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$89.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-605"
   },
   {
@@ -5792,7 +5792,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-606"
   },
   {
@@ -5804,7 +5804,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-607"
   },
   {
@@ -5816,7 +5816,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-608"
   },
   {
@@ -5828,7 +5828,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$148.39",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-609"
   },
   {
@@ -5840,7 +5840,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-610"
   },
   {
@@ -5852,7 +5852,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$89.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-611"
   },
   {
@@ -5864,7 +5864,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$214.90",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-612"
   },
   {
@@ -5876,7 +5876,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$225.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-613"
   },
   {
@@ -5888,7 +5888,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-614"
   },
   {
@@ -5900,7 +5900,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$189.95",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-615"
   },
   {
@@ -5912,7 +5912,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-616"
   },
   {
@@ -5924,7 +5924,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-617"
   },
   {
@@ -5936,7 +5936,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$132.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-618"
   },
   {
@@ -5948,7 +5948,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$30.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-619"
   },
   {
@@ -5960,7 +5960,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$38.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-620"
   },
   {
@@ -5972,7 +5972,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$163.18",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "cooler-621"
   },
   {
@@ -5984,7 +5984,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-622"
   },
   {
@@ -5996,7 +5996,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-623"
   },
   {
@@ -6008,7 +6008,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$115.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-624"
   },
   {
@@ -6020,7 +6020,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$181.67",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "cooler-625"
   },
   {
@@ -6032,7 +6032,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$251.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-626"
   },
   {
@@ -6044,7 +6044,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-627"
   },
   {
@@ -6056,7 +6056,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-628"
   },
   {
@@ -6068,7 +6068,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-629"
   },
   {
@@ -6080,7 +6080,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$224.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-630"
   },
   {
@@ -6092,7 +6092,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$23.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-631"
   },
   {
@@ -6104,7 +6104,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-632"
   },
   {
@@ -6116,7 +6116,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-633"
   },
   {
@@ -6128,7 +6128,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$213.19",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-634"
   },
   {
@@ -6140,7 +6140,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$37.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-635"
   },
   {
@@ -6152,7 +6152,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$115.65",
-    "manufactor": "ENDORFY",
+    "manufacturer": "ENDORFY",
     "id": "cooler-636"
   },
   {
@@ -6164,7 +6164,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-637"
   },
   {
@@ -6176,7 +6176,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-638"
   },
   {
@@ -6188,7 +6188,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-639"
   },
   {
@@ -6200,7 +6200,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$245.40",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-640"
   },
   {
@@ -6212,7 +6212,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$89.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-641"
   },
   {
@@ -6224,7 +6224,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$123.19",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-642"
   },
   {
@@ -6236,7 +6236,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-643"
   },
   {
@@ -6248,7 +6248,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$319.81",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-644"
   },
   {
@@ -6260,7 +6260,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-645"
   },
   {
@@ -6272,7 +6272,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$27.99",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-646"
   },
   {
@@ -6284,7 +6284,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$23.99",
-    "manufactor": "Gelid Solutions",
+    "manufacturer": "Gelid Solutions",
     "id": "cooler-647"
   },
   {
@@ -6296,7 +6296,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-648"
   },
   {
@@ -6308,7 +6308,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-649"
   },
   {
@@ -6320,7 +6320,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-650"
   },
   {
@@ -6332,7 +6332,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-651"
   },
   {
@@ -6344,7 +6344,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-652"
   },
   {
@@ -6356,7 +6356,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$244.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-653"
   },
   {
@@ -6368,7 +6368,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-654"
   },
   {
@@ -6380,7 +6380,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$300.00",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-655"
   },
   {
@@ -6392,7 +6392,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-656"
   },
   {
@@ -6404,7 +6404,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$205.88",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-657"
   },
   {
@@ -6416,7 +6416,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-658"
   },
   {
@@ -6428,7 +6428,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.50",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-659"
   },
   {
@@ -6440,7 +6440,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-660"
   },
   {
@@ -6452,7 +6452,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$133.88",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-661"
   },
   {
@@ -6464,7 +6464,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-662"
   },
   {
@@ -6476,7 +6476,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-663"
   },
   {
@@ -6488,7 +6488,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-664"
   },
   {
@@ -6500,7 +6500,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$77.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-665"
   },
   {
@@ -6512,7 +6512,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-666"
   },
   {
@@ -6524,7 +6524,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-667"
   },
   {
@@ -6536,7 +6536,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$269.35",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-668"
   },
   {
@@ -6548,7 +6548,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$198.44",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-669"
   },
   {
@@ -6560,7 +6560,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$74.90",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-670"
   },
   {
@@ -6572,7 +6572,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-671"
   },
   {
@@ -6584,7 +6584,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-672"
   },
   {
@@ -6596,7 +6596,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-673"
   },
   {
@@ -6608,7 +6608,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$87.42",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-674"
   },
   {
@@ -6620,7 +6620,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-675"
   },
   {
@@ -6632,7 +6632,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-676"
   },
   {
@@ -6644,7 +6644,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "cooler-677"
   },
   {
@@ -6656,7 +6656,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$154.95",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-678"
   },
   {
@@ -6668,7 +6668,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$230.00",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-679"
   },
   {
@@ -6680,7 +6680,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-680"
   },
   {
@@ -6692,7 +6692,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$31.99",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-681"
   },
   {
@@ -6704,7 +6704,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-682"
   },
   {
@@ -6716,7 +6716,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-683"
   },
   {
@@ -6728,7 +6728,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.10",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-684"
   },
   {
@@ -6740,7 +6740,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-685"
   },
   {
@@ -6752,7 +6752,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-686"
   },
   {
@@ -6764,7 +6764,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$123.39",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-687"
   },
   {
@@ -6776,7 +6776,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-688"
   },
   {
@@ -6788,7 +6788,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$153.96",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-689"
   },
   {
@@ -6800,7 +6800,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-690"
   },
   {
@@ -6812,7 +6812,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-691"
   },
   {
@@ -6824,7 +6824,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.99",
-    "manufactor": "Gelid Solutions",
+    "manufacturer": "Gelid Solutions",
     "id": "cooler-692"
   },
   {
@@ -6836,7 +6836,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-693"
   },
   {
@@ -6848,7 +6848,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-694"
   },
   {
@@ -6860,7 +6860,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$24.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-695"
   },
   {
@@ -6872,7 +6872,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.55",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "cooler-696"
   },
   {
@@ -6884,7 +6884,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$205.95",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-697"
   },
   {
@@ -6896,7 +6896,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-698"
   },
   {
@@ -6908,7 +6908,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$38.88",
-    "manufactor": "Zalman",
+    "manufacturer": "Zalman",
     "id": "cooler-699"
   },
   {
@@ -6920,7 +6920,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Aerocool",
+    "manufacturer": "Aerocool",
     "id": "cooler-700"
   },
   {
@@ -6932,7 +6932,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$59.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-701"
   },
   {
@@ -6944,7 +6944,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-702"
   },
   {
@@ -6956,7 +6956,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$18.57",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-703"
   },
   {
@@ -6968,7 +6968,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-704"
   },
   {
@@ -6980,7 +6980,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$34.98",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-705"
   },
   {
@@ -6992,7 +6992,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$109.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-706"
   },
   {
@@ -7004,7 +7004,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-707"
   },
   {
@@ -7016,7 +7016,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$279.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-708"
   },
   {
@@ -7028,7 +7028,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-709"
   },
   {
@@ -7040,7 +7040,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-710"
   },
   {
@@ -7052,7 +7052,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-711"
   },
   {
@@ -7064,7 +7064,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-712"
   },
   {
@@ -7076,7 +7076,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$124.00",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-713"
   },
   {
@@ -7088,7 +7088,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-714"
   },
   {
@@ -7100,7 +7100,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$148.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-715"
   },
   {
@@ -7112,7 +7112,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-716"
   },
   {
@@ -7124,7 +7124,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$180.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-717"
   },
   {
@@ -7136,7 +7136,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-718"
   },
   {
@@ -7148,7 +7148,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$209.00",
-    "manufactor": "Lian Li",
+    "manufacturer": "Lian Li",
     "id": "cooler-719"
   },
   {
@@ -7160,7 +7160,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-720"
   },
   {
@@ -7172,7 +7172,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$146.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-721"
   },
   {
@@ -7184,7 +7184,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-722"
   },
   {
@@ -7196,7 +7196,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-723"
   },
   {
@@ -7208,7 +7208,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-724"
   },
   {
@@ -7220,7 +7220,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$157.09",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-725"
   },
   {
@@ -7232,7 +7232,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-726"
   },
   {
@@ -7244,7 +7244,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$67.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-727"
   },
   {
@@ -7256,7 +7256,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-728"
   },
   {
@@ -7268,7 +7268,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$216.00",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-729"
   },
   {
@@ -7280,7 +7280,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-730"
   },
   {
@@ -7292,7 +7292,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$74.95",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-731"
   },
   {
@@ -7304,7 +7304,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-732"
   },
   {
@@ -7316,7 +7316,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$77.98",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-733"
   },
   {
@@ -7328,7 +7328,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$166.41",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-734"
   },
   {
@@ -7340,7 +7340,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-735"
   },
   {
@@ -7352,7 +7352,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SilentiumPC",
+    "manufacturer": "SilentiumPC",
     "id": "cooler-736"
   },
   {
@@ -7364,7 +7364,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$102.41",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-737"
   },
   {
@@ -7376,7 +7376,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$133.39",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-738"
   },
   {
@@ -7388,7 +7388,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$101.99",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "cooler-739"
   },
   {
@@ -7400,7 +7400,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$172.49",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-740"
   },
   {
@@ -7412,7 +7412,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-741"
   },
   {
@@ -7424,7 +7424,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-742"
   },
   {
@@ -7436,7 +7436,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$173.97",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-743"
   },
   {
@@ -7448,7 +7448,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-744"
   },
   {
@@ -7460,7 +7460,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$51.78",
-    "manufactor": "Silverstone",
+    "manufacturer": "Silverstone",
     "id": "cooler-745"
   },
   {
@@ -7472,7 +7472,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-746"
   },
   {
@@ -7484,7 +7484,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-747"
   },
   {
@@ -7496,7 +7496,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Xilence",
+    "manufacturer": "Xilence",
     "id": "cooler-748"
   },
   {
@@ -7508,7 +7508,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-749"
   },
   {
@@ -7520,7 +7520,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$38.92",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-750"
   },
   {
@@ -7532,7 +7532,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-751"
   },
   {
@@ -7544,7 +7544,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$127.22",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-752"
   },
   {
@@ -7556,7 +7556,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "CRYORIG",
+    "manufacturer": "CRYORIG",
     "id": "cooler-753"
   },
   {
@@ -7568,7 +7568,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Vetroo",
+    "manufacturer": "Vetroo",
     "id": "cooler-754"
   },
   {
@@ -7580,7 +7580,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-755"
   },
   {
@@ -7592,7 +7592,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$387.82",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-756"
   },
   {
@@ -7604,7 +7604,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "cooler-757"
   },
   {
@@ -7616,7 +7616,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-758"
   },
   {
@@ -7628,7 +7628,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-759"
   },
   {
@@ -7640,7 +7640,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$75.31",
-    "manufactor": "Silverstone",
+    "manufacturer": "Silverstone",
     "id": "cooler-760"
   },
   {
@@ -7652,7 +7652,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-761"
   },
   {
@@ -7664,7 +7664,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-762"
   },
   {
@@ -7676,7 +7676,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$191.58",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-763"
   },
   {
@@ -7688,7 +7688,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$269.00",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-764"
   },
   {
@@ -7700,7 +7700,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-765"
   },
   {
@@ -7712,7 +7712,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$170.99",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-766"
   },
   {
@@ -7724,7 +7724,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-767"
   },
   {
@@ -7736,7 +7736,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-768"
   },
   {
@@ -7748,7 +7748,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-769"
   },
   {
@@ -7760,7 +7760,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-770"
   },
   {
@@ -7772,7 +7772,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-771"
   },
   {
@@ -7784,7 +7784,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-772"
   },
   {
@@ -7796,7 +7796,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$38.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-773"
   },
   {
@@ -7808,7 +7808,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-774"
   },
   {
@@ -7820,7 +7820,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-775"
   },
   {
@@ -7832,7 +7832,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-776"
   },
   {
@@ -7844,7 +7844,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.90",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-777"
   },
   {
@@ -7856,7 +7856,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$71.90",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-778"
   },
   {
@@ -7868,7 +7868,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-779"
   },
   {
@@ -7880,7 +7880,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-780"
   },
   {
@@ -7892,7 +7892,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-781"
   },
   {
@@ -7904,7 +7904,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$217.29",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-782"
   },
   {
@@ -7916,7 +7916,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-783"
   },
   {
@@ -7928,7 +7928,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$153.19",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "cooler-784"
   },
   {
@@ -7940,7 +7940,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$126.98",
-    "manufactor": "Silverstone",
+    "manufacturer": "Silverstone",
     "id": "cooler-785"
   },
   {
@@ -7952,7 +7952,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$162.06",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-786"
   },
   {
@@ -7964,7 +7964,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-787"
   },
   {
@@ -7976,7 +7976,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-788"
   },
   {
@@ -7988,7 +7988,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Alpenf\u00f6hn",
+    "manufacturer": "Alpenf\u00f6hn",
     "id": "cooler-789"
   },
   {
@@ -8000,7 +8000,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-790"
   },
   {
@@ -8012,7 +8012,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$19.47",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-791"
   },
   {
@@ -8024,7 +8024,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.79",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-792"
   },
   {
@@ -8036,7 +8036,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Intel",
+    "manufacturer": "Intel",
     "id": "cooler-793"
   },
   {
@@ -8048,7 +8048,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-794"
   },
   {
@@ -8060,7 +8060,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-795"
   },
   {
@@ -8072,7 +8072,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$9.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-796"
   },
   {
@@ -8084,7 +8084,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$132.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-797"
   },
   {
@@ -8096,7 +8096,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-798"
   },
   {
@@ -8108,7 +8108,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-799"
   },
   {
@@ -8120,7 +8120,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$152.99",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-800"
   },
   {
@@ -8132,7 +8132,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-801"
   },
   {
@@ -8144,7 +8144,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-802"
   },
   {
@@ -8156,7 +8156,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "APNX",
+    "manufacturer": "APNX",
     "id": "cooler-803"
   },
   {
@@ -8168,7 +8168,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-804"
   },
   {
@@ -8180,7 +8180,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-805"
   },
   {
@@ -8192,7 +8192,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-806"
   },
   {
@@ -8204,7 +8204,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "CRYORIG",
+    "manufacturer": "CRYORIG",
     "id": "cooler-807"
   },
   {
@@ -8216,7 +8216,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-808"
   },
   {
@@ -8228,7 +8228,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SilentiumPC",
+    "manufacturer": "SilentiumPC",
     "id": "cooler-809"
   },
   {
@@ -8240,7 +8240,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$119.98",
-    "manufactor": "Gelid Solutions",
+    "manufacturer": "Gelid Solutions",
     "id": "cooler-810"
   },
   {
@@ -8252,7 +8252,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Antec",
+    "manufacturer": "Antec",
     "id": "cooler-811"
   },
   {
@@ -8264,7 +8264,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$246.00",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-812"
   },
   {
@@ -8276,7 +8276,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.61",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-813"
   },
   {
@@ -8288,7 +8288,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$239.00",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-814"
   },
   {
@@ -8300,7 +8300,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-815"
   },
   {
@@ -8312,7 +8312,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$237.44",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-816"
   },
   {
@@ -8324,7 +8324,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-817"
   },
   {
@@ -8336,7 +8336,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-818"
   },
   {
@@ -8348,7 +8348,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$32.19",
-    "manufactor": "Gelid Solutions",
+    "manufacturer": "Gelid Solutions",
     "id": "cooler-819"
   },
   {
@@ -8360,7 +8360,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-820"
   },
   {
@@ -8372,7 +8372,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-821"
   },
   {
@@ -8384,7 +8384,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$84.98",
-    "manufactor": "Gelid Solutions",
+    "manufacturer": "Gelid Solutions",
     "id": "cooler-822"
   },
   {
@@ -8396,7 +8396,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-823"
   },
   {
@@ -8408,7 +8408,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-824"
   },
   {
@@ -8420,7 +8420,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-825"
   },
   {
@@ -8432,7 +8432,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-826"
   },
   {
@@ -8444,7 +8444,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Mars Gaming",
+    "manufacturer": "Mars Gaming",
     "id": "cooler-827"
   },
   {
@@ -8456,7 +8456,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-828"
   },
   {
@@ -8468,7 +8468,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-829"
   },
   {
@@ -8480,7 +8480,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-830"
   },
   {
@@ -8492,7 +8492,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-831"
   },
   {
@@ -8504,7 +8504,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-832"
   },
   {
@@ -8516,7 +8516,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-833"
   },
   {
@@ -8528,7 +8528,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$237.27",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-834"
   },
   {
@@ -8540,7 +8540,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-835"
   },
   {
@@ -8552,7 +8552,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-836"
   },
   {
@@ -8564,7 +8564,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-837"
   },
   {
@@ -8576,7 +8576,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$27.99",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-838"
   },
   {
@@ -8588,7 +8588,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-839"
   },
   {
@@ -8600,7 +8600,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$370.00",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-840"
   },
   {
@@ -8612,7 +8612,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-841"
   },
   {
@@ -8624,7 +8624,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$99.00",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-842"
   },
   {
@@ -8636,7 +8636,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-843"
   },
   {
@@ -8648,7 +8648,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-844"
   },
   {
@@ -8660,7 +8660,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-845"
   },
   {
@@ -8672,7 +8672,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$67.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-846"
   },
   {
@@ -8684,7 +8684,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-847"
   },
   {
@@ -8696,7 +8696,7 @@
     "radiatorSize": "140 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "cooler-848"
   },
   {
@@ -8708,7 +8708,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$108.33",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-849"
   },
   {
@@ -8720,7 +8720,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-850"
   },
   {
@@ -8732,7 +8732,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "EVGA",
+    "manufacturer": "EVGA",
     "id": "cooler-851"
   },
   {
@@ -8744,7 +8744,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$57.00",
-    "manufactor": "Montech",
+    "manufacturer": "Montech",
     "id": "cooler-852"
   },
   {
@@ -8756,7 +8756,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$239.00",
-    "manufactor": "EK",
+    "manufacturer": "EK",
     "id": "cooler-853"
   },
   {
@@ -8768,7 +8768,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Alpenf\u00f6hn",
+    "manufacturer": "Alpenf\u00f6hn",
     "id": "cooler-854"
   },
   {
@@ -8780,7 +8780,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-855"
   },
   {
@@ -8792,7 +8792,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-856"
   },
   {
@@ -8804,7 +8804,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-857"
   },
   {
@@ -8816,7 +8816,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-858"
   },
   {
@@ -8828,7 +8828,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "upHere",
+    "manufacturer": "upHere",
     "id": "cooler-859"
   },
   {
@@ -8840,7 +8840,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$22.90",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-860"
   },
   {
@@ -8852,7 +8852,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$47.59",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-861"
   },
   {
@@ -8864,7 +8864,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-862"
   },
   {
@@ -8876,7 +8876,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.98",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-863"
   },
   {
@@ -8888,7 +8888,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "cooler-864"
   },
   {
@@ -8900,7 +8900,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Azza",
+    "manufacturer": "Azza",
     "id": "cooler-865"
   },
   {
@@ -8912,7 +8912,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$182.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-866"
   },
   {
@@ -8924,7 +8924,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-867"
   },
   {
@@ -8936,7 +8936,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "be quiet!",
+    "manufacturer": "be quiet!",
     "id": "cooler-868"
   },
   {
@@ -8948,7 +8948,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-869"
   },
   {
@@ -8960,7 +8960,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-870"
   },
   {
@@ -8972,7 +8972,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$113.50",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-871"
   },
   {
@@ -8984,7 +8984,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Noua",
+    "manufacturer": "Noua",
     "id": "cooler-872"
   },
   {
@@ -8996,7 +8996,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.97",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-873"
   },
   {
@@ -9008,7 +9008,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Azza",
+    "manufacturer": "Azza",
     "id": "cooler-874"
   },
   {
@@ -9020,7 +9020,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-875"
   },
   {
@@ -9032,7 +9032,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-876"
   },
   {
@@ -9044,7 +9044,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermalright",
+    "manufacturer": "Thermalright",
     "id": "cooler-877"
   },
   {
@@ -9056,7 +9056,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-878"
   },
   {
@@ -9068,7 +9068,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.90",
-    "manufactor": "APNX",
+    "manufacturer": "APNX",
     "id": "cooler-879"
   },
   {
@@ -9080,7 +9080,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.75",
-    "manufactor": "Dynatron",
+    "manufacturer": "Dynatron",
     "id": "cooler-880"
   },
   {
@@ -9092,7 +9092,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-881"
   },
   {
@@ -9104,7 +9104,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-882"
   },
   {
@@ -9116,7 +9116,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SilentiumPC",
+    "manufacturer": "SilentiumPC",
     "id": "cooler-883"
   },
   {
@@ -9128,7 +9128,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$88.74",
-    "manufactor": "Montech",
+    "manufacturer": "Montech",
     "id": "cooler-884"
   },
   {
@@ -9140,7 +9140,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-885"
   },
   {
@@ -9152,7 +9152,7 @@
     "radiatorSize": "280 mm",
     "rating": "0",
     "price": "$99.40",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-886"
   },
   {
@@ -9164,7 +9164,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$90.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "cooler-887"
   },
   {
@@ -9176,7 +9176,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-888"
   },
   {
@@ -9188,7 +9188,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$54.10",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-889"
   },
   {
@@ -9200,7 +9200,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-890"
   },
   {
@@ -9212,7 +9212,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "cooler-891"
   },
   {
@@ -9224,7 +9224,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-892"
   },
   {
@@ -9236,7 +9236,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-893"
   },
   {
@@ -9248,7 +9248,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$106.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-894"
   },
   {
@@ -9260,7 +9260,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-895"
   },
   {
@@ -9272,7 +9272,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-896"
   },
   {
@@ -9284,7 +9284,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-897"
   },
   {
@@ -9296,7 +9296,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$37.36",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-898"
   },
   {
@@ -9308,7 +9308,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-899"
   },
   {
@@ -9320,7 +9320,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SilentiumPC",
+    "manufacturer": "SilentiumPC",
     "id": "cooler-900"
   },
   {
@@ -9332,7 +9332,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$156.00",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-901"
   },
   {
@@ -9344,7 +9344,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$182.63",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "cooler-902"
   },
   {
@@ -9356,7 +9356,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Mars Gaming",
+    "manufacturer": "Mars Gaming",
     "id": "cooler-903"
   },
   {
@@ -9368,7 +9368,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Deepcool",
+    "manufacturer": "Deepcool",
     "id": "cooler-904"
   },
   {
@@ -9380,7 +9380,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$79.89",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-905"
   },
   {
@@ -9392,7 +9392,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$68.00",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "cooler-906"
   },
   {
@@ -9404,7 +9404,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Fractal Design",
+    "manufacturer": "Fractal Design",
     "id": "cooler-907"
   },
   {
@@ -9416,7 +9416,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Enermax",
+    "manufacturer": "Enermax",
     "id": "cooler-908"
   },
   {
@@ -9428,7 +9428,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$196.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-909"
   },
   {
@@ -9440,7 +9440,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "darkFlash",
+    "manufacturer": "darkFlash",
     "id": "cooler-910"
   },
   {
@@ -9452,7 +9452,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$113.99",
-    "manufactor": "Jonsbo",
+    "manufacturer": "Jonsbo",
     "id": "cooler-911"
   },
   {
@@ -9464,7 +9464,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$26.99",
-    "manufactor": "ID-COOLING",
+    "manufacturer": "ID-COOLING",
     "id": "cooler-912"
   },
   {
@@ -9476,7 +9476,7 @@
     "radiatorSize": "240 mm",
     "rating": "0",
     "price": "$180.15",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-913"
   },
   {
@@ -9488,7 +9488,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$18.50",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-914"
   },
   {
@@ -9500,7 +9500,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Scythe",
+    "manufacturer": "Scythe",
     "id": "cooler-915"
   },
   {
@@ -9512,7 +9512,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "cooler-916"
   },
   {
@@ -9524,7 +9524,7 @@
     "radiatorSize": "420 mm",
     "rating": "0",
     "price": "$150.70",
-    "manufactor": "Alphacool",
+    "manufacturer": "Alphacool",
     "id": "cooler-917"
   },
   {
@@ -9536,7 +9536,7 @@
     "radiatorSize": "360 mm",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "cooler-918"
   },
   {
@@ -9548,7 +9548,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Titan",
+    "manufacturer": "Titan",
     "id": "cooler-919"
   },
   {
@@ -9560,7 +9560,7 @@
     "radiatorSize": "120 mm",
     "rating": "0",
     "price": "$213.05",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "cooler-920"
   },
   {
@@ -9572,7 +9572,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SilentiumPC",
+    "manufacturer": "SilentiumPC",
     "id": "cooler-921"
   },
   {
@@ -9584,7 +9584,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$75.18",
-    "manufactor": "ARCTIC",
+    "manufacturer": "ARCTIC",
     "id": "cooler-922"
   },
   {
@@ -9596,7 +9596,7 @@
     "radiatorSize": "Radiator Size",
     "rating": "0",
     "price": "$88.32",
-    "manufactor": "Noctua",
+    "manufacturer": "Noctua",
     "id": "cooler-923"
   }
 ]

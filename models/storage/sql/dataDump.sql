@@ -34,7 +34,7 @@ CREATE TABLE `cases` (
   `internalBays` int DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=801 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -67,7 +67,7 @@ CREATE TABLE `coolers` (
   `radiatorSize` varchar(50) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=801 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -102,7 +102,7 @@ CREATE TABLE `cpus` (
   `smt` varchar(3) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=801 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -137,7 +137,7 @@ CREATE TABLE `gpus` (
   `length` varchar(30) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=901 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -172,7 +172,7 @@ CREATE TABLE `headphones` (
   `color` varchar(50) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=201 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -207,7 +207,7 @@ CREATE TABLE `keyboards` (
   `color` varchar(50) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=601 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -241,7 +241,7 @@ CREATE TABLE `mices` (
   `color` varchar(50) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=301 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -276,7 +276,7 @@ CREATE TABLE `monitors` (
   `aspectRatio` varchar(30) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=501 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -310,7 +310,7 @@ CREATE TABLE `motherboards` (
   `color` varchar(50) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=901 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -344,7 +344,7 @@ CREATE TABLE `powersupplies` (
   `color` varchar(50) DEFAULT NULL,
   `rating` decimal(5,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=901 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -491,7 +491,7 @@ CREATE TABLE `rams` (
   `casLatency` int DEFAULT NULL,
   `rating` decimal(5,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1001 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -526,7 +526,7 @@ CREATE TABLE `storages` (
   `interface` varchar(20) DEFAULT NULL,
   `rating` decimal(2,1) DEFAULT '0.0',
   `price` decimal(10,2) DEFAULT NULL,
-  `manufactor` varchar(255) DEFAULT NULL,
+  `manufacturer` varchar(255) DEFAULT NULL,
   `stock` int DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1001 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;

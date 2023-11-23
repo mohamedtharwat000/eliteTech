@@ -10,7 +10,7 @@
     "color": "Silver / Brown",
     "rating": "0",
     "price": "$5999.00",
-    "manufactor": "HiFiMAN",
+    "manufacturer": "HiFiMAN",
     "id": "headphone-124"
   },
   {
@@ -24,7 +24,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$77.98",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-125"
   },
   {
@@ -38,7 +38,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-126"
   },
   {
@@ -52,7 +52,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$310.18",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-127"
   },
   {
@@ -66,7 +66,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$81.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-128"
   },
   {
@@ -80,7 +80,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$39.95",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-129"
   },
   {
@@ -94,7 +94,7 @@
     "color": "Gray",
     "rating": "0",
     "price": "$159.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-130"
   },
   {
@@ -108,7 +108,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$196.00",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-131"
   },
   {
@@ -122,7 +122,7 @@
     "color": "Black / White",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-132"
   },
   {
@@ -136,7 +136,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-133"
   },
   {
@@ -150,7 +150,7 @@
     "color": "White / Gray",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-134"
   },
   {
@@ -164,7 +164,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$70.00",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-135"
   },
   {
@@ -178,7 +178,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$1799.95",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-136"
   },
   {
@@ -192,7 +192,7 @@
     "color": "White",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-137"
   },
   {
@@ -206,7 +206,7 @@
     "color": "Black / Yellow",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-138"
   },
   {
@@ -220,7 +220,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$36.50",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-139"
   },
   {
@@ -234,7 +234,7 @@
     "color": "White",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-140"
   },
   {
@@ -248,7 +248,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$328.00",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-141"
   },
   {
@@ -262,7 +262,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-142"
   },
   {
@@ -276,7 +276,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$149.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-143"
   },
   {
@@ -290,7 +290,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-144"
   },
   {
@@ -304,7 +304,7 @@
     "color": "White",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-145"
   },
   {
@@ -318,7 +318,7 @@
     "color": "Black / Gold",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-146"
   },
   {
@@ -332,7 +332,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$142.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-147"
   },
   {
@@ -346,7 +346,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$19.88",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-148"
   },
   {
@@ -360,7 +360,7 @@
     "color": "Gunmetal",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-149"
   },
   {
@@ -374,7 +374,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-150"
   },
   {
@@ -388,7 +388,7 @@
     "color": "White",
     "rating": "0",
     "price": "$3.99",
-    "manufactor": "Koss",
+    "manufacturer": "Koss",
     "id": "headphone-151"
   },
   {
@@ -402,7 +402,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-152"
   },
   {
@@ -416,7 +416,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$111.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-153"
   },
   {
@@ -430,7 +430,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-154"
   },
   {
@@ -444,7 +444,7 @@
     "color": "Pink",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-155"
   },
   {
@@ -458,7 +458,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$1379.19",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-156"
   },
   {
@@ -472,7 +472,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-157"
   },
   {
@@ -486,7 +486,7 @@
     "color": "White",
     "rating": "0",
     "price": "$100.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-158"
   },
   {
@@ -500,7 +500,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$70.98",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-159"
   },
   {
@@ -514,7 +514,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$149.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-160"
   },
   {
@@ -528,7 +528,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$252.60",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-161"
   },
   {
@@ -542,7 +542,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-162"
   },
   {
@@ -556,7 +556,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-163"
   },
   {
@@ -570,7 +570,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$529.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-164"
   },
   {
@@ -584,7 +584,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-165"
   },
   {
@@ -598,7 +598,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-166"
   },
   {
@@ -612,7 +612,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-167"
   },
   {
@@ -626,7 +626,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$216.27",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-168"
   },
   {
@@ -640,7 +640,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-169"
   },
   {
@@ -654,7 +654,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$169.00",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-170"
   },
   {
@@ -668,7 +668,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$248.00",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-171"
   },
   {
@@ -682,7 +682,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$309.00",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-172"
   },
   {
@@ -696,7 +696,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-173"
   },
   {
@@ -710,7 +710,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$96.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-174"
   },
   {
@@ -724,7 +724,7 @@
     "color": "Silver / Brown",
     "rating": "0",
     "price": "$1999.00",
-    "manufactor": "HiFiMAN",
+    "manufacturer": "HiFiMAN",
     "id": "headphone-175"
   },
   {
@@ -738,7 +738,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$28.98",
-    "manufactor": "Turtle Beach",
+    "manufacturer": "Turtle Beach",
     "id": "headphone-176"
   },
   {
@@ -752,7 +752,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-177"
   },
   {
@@ -766,7 +766,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-178"
   },
   {
@@ -780,7 +780,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$180.00",
-    "manufactor": "DROP",
+    "manufacturer": "DROP",
     "id": "headphone-179"
   },
   {
@@ -794,7 +794,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-180"
   },
   {
@@ -808,7 +808,7 @@
     "color": "White / Black",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-181"
   },
   {
@@ -822,7 +822,7 @@
     "color": "White",
     "rating": "0",
     "price": "$52.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-182"
   },
   {
@@ -836,7 +836,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$299.95",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-183"
   },
   {
@@ -850,7 +850,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-184"
   },
   {
@@ -864,7 +864,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$192.17",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-185"
   },
   {
@@ -878,7 +878,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-186"
   },
   {
@@ -892,7 +892,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-187"
   },
   {
@@ -906,7 +906,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-188"
   },
   {
@@ -920,7 +920,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-189"
   },
   {
@@ -934,7 +934,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-190"
   },
   {
@@ -948,7 +948,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$49.00",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-191"
   },
   {
@@ -962,7 +962,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-192"
   },
   {
@@ -976,7 +976,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$138.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-193"
   },
   {
@@ -990,7 +990,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$529.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-194"
   },
   {
@@ -1004,7 +1004,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$99.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-195"
   },
   {
@@ -1018,7 +1018,7 @@
     "color": "White / Blue",
     "rating": "0",
     "price": "$79.00",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-196"
   },
   {
@@ -1032,7 +1032,7 @@
     "color": "White / Gray",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-197"
   },
   {
@@ -1046,7 +1046,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$106.98",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-198"
   },
   {
@@ -1060,7 +1060,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$35.77",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-199"
   },
   {
@@ -1074,7 +1074,7 @@
     "color": "Black / Gold",
     "rating": "0",
     "price": "$394.95",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-200"
   },
   {
@@ -1088,7 +1088,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-201"
   },
   {
@@ -1102,7 +1102,7 @@
     "color": "Silver",
     "rating": "0",
     "price": "$449.88",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-202"
   },
   {
@@ -1116,7 +1116,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$166.80",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-203"
   },
   {
@@ -1130,7 +1130,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$511.26",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-204"
   },
   {
@@ -1144,7 +1144,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Turtle Beach",
+    "manufacturer": "Turtle Beach",
     "id": "headphone-205"
   },
   {
@@ -1158,7 +1158,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$65.26",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-206"
   },
   {
@@ -1172,7 +1172,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-207"
   },
   {
@@ -1186,7 +1186,7 @@
     "color": "White / Gray",
     "rating": "0",
     "price": "$152.49",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-208"
   },
   {
@@ -1200,7 +1200,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$38.89",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-209"
   },
   {
@@ -1214,7 +1214,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$125.37",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-210"
   },
   {
@@ -1228,7 +1228,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$3799.00",
-    "manufactor": "Final",
+    "manufacturer": "Final",
     "id": "headphone-211"
   },
   {
@@ -1242,7 +1242,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-212"
   },
   {
@@ -1256,7 +1256,7 @@
     "color": "Pink / White",
     "rating": "0",
     "price": "$5.99",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "headphone-213"
   },
   {
@@ -1270,7 +1270,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-214"
   },
   {
@@ -1284,7 +1284,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "MSI",
+    "manufacturer": "MSI",
     "id": "headphone-215"
   },
   {
@@ -1298,7 +1298,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Audeze",
+    "manufacturer": "Audeze",
     "id": "headphone-216"
   },
   {
@@ -1312,7 +1312,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "$99.95",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-217"
   },
   {
@@ -1326,7 +1326,7 @@
     "color": "Silver",
     "rating": "0",
     "price": "$328.00",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-218"
   },
   {
@@ -1340,7 +1340,7 @@
     "color": "Gray / Black",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-219"
   },
   {
@@ -1354,7 +1354,7 @@
     "color": "White",
     "rating": "0",
     "price": "$12.98",
-    "manufactor": "Apple",
+    "manufacturer": "Apple",
     "id": "headphone-220"
   },
   {
@@ -1368,7 +1368,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$198.94",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-221"
   },
   {
@@ -1382,7 +1382,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$209.00",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-222"
   },
   {
@@ -1396,7 +1396,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Apple",
+    "manufacturer": "Apple",
     "id": "headphone-223"
   },
   {
@@ -1410,7 +1410,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$160.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-224"
   },
   {
@@ -1424,7 +1424,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$37.79",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-225"
   },
   {
@@ -1438,7 +1438,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-226"
   },
   {
@@ -1452,7 +1452,7 @@
     "color": "White / Gray",
     "rating": "0",
     "price": "$54.00",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-227"
   },
   {
@@ -1466,7 +1466,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$299.00",
-    "manufactor": "HiFiMAN",
+    "manufacturer": "HiFiMAN",
     "id": "headphone-228"
   },
   {
@@ -1480,7 +1480,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$9.99",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-229"
   },
   {
@@ -1494,7 +1494,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-230"
   },
   {
@@ -1508,7 +1508,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-231"
   },
   {
@@ -1522,7 +1522,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$92.23",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-232"
   },
   {
@@ -1536,7 +1536,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-233"
   },
   {
@@ -1550,7 +1550,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$280.00",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-234"
   },
   {
@@ -1564,7 +1564,7 @@
     "color": "Blue / Black",
     "rating": "0",
     "price": "$799.66",
-    "manufactor": "Audeze",
+    "manufacturer": "Audeze",
     "id": "headphone-235"
   },
   {
@@ -1578,7 +1578,7 @@
     "color": "Brown",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-236"
   },
   {
@@ -1592,7 +1592,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-237"
   },
   {
@@ -1606,7 +1606,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$110.00",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-238"
   },
   {
@@ -1620,7 +1620,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Bose",
+    "manufacturer": "Bose",
     "id": "headphone-239"
   },
   {
@@ -1634,7 +1634,7 @@
     "color": "Black / Purple",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "headphone-240"
   },
   {
@@ -1648,7 +1648,7 @@
     "color": "Silver / Brown",
     "rating": "0",
     "price": "$1399.00",
-    "manufactor": "HiFiMAN",
+    "manufacturer": "HiFiMAN",
     "id": "headphone-241"
   },
   {
@@ -1662,7 +1662,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$16.63",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-242"
   },
   {
@@ -1676,7 +1676,7 @@
     "color": "Black / White",
     "rating": "0",
     "price": "$108.00",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-243"
   },
   {
@@ -1690,7 +1690,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$494.44",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-244"
   },
   {
@@ -1704,7 +1704,7 @@
     "color": "White / Brown",
     "rating": "0",
     "price": "$129.94",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-245"
   },
   {
@@ -1718,7 +1718,7 @@
     "color": "White",
     "rating": "0",
     "price": "$133.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-246"
   },
   {
@@ -1732,7 +1732,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Audeze",
+    "manufacturer": "Audeze",
     "id": "headphone-247"
   },
   {
@@ -1746,7 +1746,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$229.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-248"
   },
   {
@@ -1760,7 +1760,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-249"
   },
   {
@@ -1774,7 +1774,7 @@
     "color": "Color",
     "rating": "0",
     "price": "$228.00",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-250"
   },
   {
@@ -1788,7 +1788,7 @@
     "color": "White / Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-251"
   },
   {
@@ -1802,7 +1802,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-252"
   },
   {
@@ -1816,7 +1816,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-253"
   },
   {
@@ -1830,7 +1830,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$87.40",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-254"
   },
   {
@@ -1844,7 +1844,7 @@
     "color": "Blue / Black",
     "rating": "0",
     "price": "$66.98",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-255"
   },
   {
@@ -1858,7 +1858,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "$198.99",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-256"
   },
   {
@@ -1872,7 +1872,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$130.00",
-    "manufactor": "DROP",
+    "manufacturer": "DROP",
     "id": "headphone-257"
   },
   {
@@ -1886,7 +1886,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$12.12",
-    "manufactor": "Sades",
+    "manufacturer": "Sades",
     "id": "headphone-258"
   },
   {
@@ -1900,7 +1900,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$149.94",
-    "manufactor": "JBL",
+    "manufacturer": "JBL",
     "id": "headphone-259"
   },
   {
@@ -1914,7 +1914,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Philips",
+    "manufacturer": "Philips",
     "id": "headphone-260"
   },
   {
@@ -1928,7 +1928,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$42.95",
-    "manufactor": "Superlux",
+    "manufacturer": "Superlux",
     "id": "headphone-261"
   },
   {
@@ -1942,7 +1942,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-262"
   },
   {
@@ -1956,7 +1956,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$99.95",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-263"
   },
   {
@@ -1970,7 +1970,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-264"
   },
   {
@@ -1984,7 +1984,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-265"
   },
   {
@@ -1998,7 +1998,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-266"
   },
   {
@@ -2012,7 +2012,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-267"
   },
   {
@@ -2026,7 +2026,7 @@
     "color": "Purple / Green",
     "rating": "0",
     "price": "$167.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-268"
   },
   {
@@ -2040,7 +2040,7 @@
     "color": "Black / Blue",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-269"
   },
   {
@@ -2054,7 +2054,7 @@
     "color": "White / Blue",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-270"
   },
   {
@@ -2068,7 +2068,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-271"
   },
   {
@@ -2082,7 +2082,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$159.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-272"
   },
   {
@@ -2096,7 +2096,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-273"
   },
   {
@@ -2110,7 +2110,7 @@
     "color": "Silver",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Apple",
+    "manufacturer": "Apple",
     "id": "headphone-274"
   },
   {
@@ -2124,7 +2124,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$80.48",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-275"
   },
   {
@@ -2138,7 +2138,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$49.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-276"
   },
   {
@@ -2152,7 +2152,7 @@
     "color": "Pink / White",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-277"
   },
   {
@@ -2166,7 +2166,7 @@
     "color": "White",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-278"
   },
   {
@@ -2180,7 +2180,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$81.34",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-279"
   },
   {
@@ -2194,7 +2194,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$24.95",
-    "manufactor": "Turtle Beach",
+    "manufacturer": "Turtle Beach",
     "id": "headphone-280"
   },
   {
@@ -2208,7 +2208,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$118.50",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-281"
   },
   {
@@ -2222,7 +2222,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-282"
   },
   {
@@ -2236,7 +2236,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$592.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-283"
   },
   {
@@ -2250,7 +2250,7 @@
     "color": "White / Black",
     "rating": "0",
     "price": "$89.98",
-    "manufactor": "NZXT",
+    "manufacturer": "NZXT",
     "id": "headphone-284"
   },
   {
@@ -2264,7 +2264,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$149.01",
-    "manufactor": "Cooler Master",
+    "manufacturer": "Cooler Master",
     "id": "headphone-285"
   },
   {
@@ -2278,7 +2278,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-286"
   },
   {
@@ -2292,7 +2292,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "DROP",
+    "manufacturer": "DROP",
     "id": "headphone-287"
   },
   {
@@ -2306,7 +2306,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$349.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-288"
   },
   {
@@ -2320,7 +2320,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$249.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-289"
   },
   {
@@ -2334,7 +2334,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$93.82",
-    "manufactor": "ROCCAT",
+    "manufacturer": "ROCCAT",
     "id": "headphone-290"
   },
   {
@@ -2348,7 +2348,7 @@
     "color": "Pink / Gray",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-291"
   },
   {
@@ -2362,7 +2362,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Sony",
+    "manufacturer": "Sony",
     "id": "headphone-292"
   },
   {
@@ -2376,7 +2376,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$289.98",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-293"
   },
   {
@@ -2390,7 +2390,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-294"
   },
   {
@@ -2404,7 +2404,7 @@
     "color": "White",
     "rating": "0",
     "price": "$19.95",
-    "manufactor": "JBL",
+    "manufacturer": "JBL",
     "id": "headphone-295"
   },
   {
@@ -2418,7 +2418,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$67.48",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-296"
   },
   {
@@ -2432,7 +2432,7 @@
     "color": "Color",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-297"
   },
   {
@@ -2446,7 +2446,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$179.00",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-298"
   },
   {
@@ -2460,7 +2460,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$999.99",
-    "manufactor": "Beyerdynamic",
+    "manufacturer": "Beyerdynamic",
     "id": "headphone-299"
   },
   {
@@ -2474,7 +2474,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$589.99",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-300"
   },
   {
@@ -2488,7 +2488,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-301"
   },
   {
@@ -2502,7 +2502,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$354.96",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-302"
   },
   {
@@ -2516,7 +2516,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$394.95",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-303"
   },
   {
@@ -2530,7 +2530,7 @@
     "color": "White",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Apple",
+    "manufacturer": "Apple",
     "id": "headphone-304"
   },
   {
@@ -2544,7 +2544,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$77.94",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-305"
   },
   {
@@ -2558,7 +2558,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$899.00",
-    "manufactor": "Audeze",
+    "manufacturer": "Audeze",
     "id": "headphone-306"
   },
   {
@@ -2572,7 +2572,7 @@
     "color": "White",
     "rating": "0",
     "price": "$169.00",
-    "manufactor": "Audio-Technica",
+    "manufacturer": "Audio-Technica",
     "id": "headphone-307"
   },
   {
@@ -2586,7 +2586,7 @@
     "color": "White",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "headphone-308"
   },
   {
@@ -2600,7 +2600,7 @@
     "color": "White / Blue",
     "rating": "0",
     "price": "$38.99",
-    "manufactor": "Logitech",
+    "manufacturer": "Logitech",
     "id": "headphone-309"
   },
   {
@@ -2614,7 +2614,7 @@
     "color": "Black / White",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "headphone-310"
   },
   {
@@ -2628,7 +2628,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Skullcandy",
+    "manufacturer": "Skullcandy",
     "id": "headphone-311"
   },
   {
@@ -2642,7 +2642,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-312"
   },
   {
@@ -2656,7 +2656,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$94.90",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-313"
   },
   {
@@ -2670,7 +2670,7 @@
     "color": "Pink / White",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-314"
   },
   {
@@ -2684,7 +2684,7 @@
     "color": "Black / Silver",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Koss",
+    "manufacturer": "Koss",
     "id": "headphone-315"
   },
   {
@@ -2698,7 +2698,7 @@
     "color": "Black / Green",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "SteelSeries",
+    "manufacturer": "SteelSeries",
     "id": "headphone-316"
   },
   {
@@ -2712,7 +2712,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$100.99",
-    "manufactor": "Razer",
+    "manufacturer": "Razer",
     "id": "headphone-317"
   },
   {
@@ -2726,7 +2726,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$199.49",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-318"
   },
   {
@@ -2740,7 +2740,7 @@
     "color": "Black / Gray",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Asus",
+    "manufacturer": "Asus",
     "id": "headphone-319"
   },
   {
@@ -2754,7 +2754,7 @@
     "color": "Black",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Astro",
+    "manufacturer": "Astro",
     "id": "headphone-320"
   },
   {
@@ -2768,7 +2768,7 @@
     "color": "Black / Red",
     "rating": "0",
     "price": "$70.48",
-    "manufactor": "Sennheiser",
+    "manufacturer": "Sennheiser",
     "id": "headphone-321"
   },
   {
@@ -2782,7 +2782,7 @@
     "color": "Black / Copper",
     "rating": "0",
     "price": "$67.48",
-    "manufactor": "HP",
+    "manufacturer": "HP",
     "id": "headphone-322"
   },
   {
@@ -2796,7 +2796,7 @@
     "color": "Black",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "headphone-323"
   }
 ]

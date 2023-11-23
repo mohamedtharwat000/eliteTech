@@ -10,7 +10,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-124"
   },
   {
@@ -24,7 +24,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-125"
   },
   {
@@ -38,7 +38,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-126"
   },
   {
@@ -52,7 +52,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-127"
   },
   {
@@ -66,7 +66,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-128"
   },
   {
@@ -80,7 +80,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-129"
   },
   {
@@ -94,7 +94,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$122.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-130"
   },
   {
@@ -108,7 +108,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$53.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-131"
   },
   {
@@ -122,7 +122,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-132"
   },
   {
@@ -136,7 +136,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$95.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-133"
   },
   {
@@ -150,7 +150,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-134"
   },
   {
@@ -164,7 +164,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-135"
   },
   {
@@ -178,7 +178,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$30.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-136"
   },
   {
@@ -192,7 +192,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-137"
   },
   {
@@ -206,7 +206,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-138"
   },
   {
@@ -220,7 +220,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-139"
   },
   {
@@ -234,7 +234,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-140"
   },
   {
@@ -248,7 +248,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-141"
   },
   {
@@ -262,7 +262,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$1674.47",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-142"
   },
   {
@@ -276,7 +276,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-143"
   },
   {
@@ -290,7 +290,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-144"
   },
   {
@@ -304,7 +304,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-145"
   },
   {
@@ -318,7 +318,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-146"
   },
   {
@@ -332,7 +332,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-147"
   },
   {
@@ -346,7 +346,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$67.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-148"
   },
   {
@@ -360,7 +360,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$50.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-149"
   },
   {
@@ -374,7 +374,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$46.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-150"
   },
   {
@@ -388,7 +388,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$107.78",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-151"
   },
   {
@@ -402,7 +402,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$47.77",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-152"
   },
   {
@@ -416,7 +416,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-153"
   },
   {
@@ -430,7 +430,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-154"
   },
   {
@@ -444,7 +444,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-155"
   },
   {
@@ -458,7 +458,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$81.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-156"
   },
   {
@@ -472,7 +472,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$67.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-157"
   },
   {
@@ -486,7 +486,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$102.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-158"
   },
   {
@@ -500,7 +500,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$127.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-159"
   },
   {
@@ -514,7 +514,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-160"
   },
   {
@@ -528,7 +528,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$43.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-161"
   },
   {
@@ -542,7 +542,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-162"
   },
   {
@@ -556,7 +556,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-163"
   },
   {
@@ -570,7 +570,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-164"
   },
   {
@@ -584,7 +584,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-165"
   },
   {
@@ -598,7 +598,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-166"
   },
   {
@@ -612,7 +612,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-167"
   },
   {
@@ -626,7 +626,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-168"
   },
   {
@@ -640,7 +640,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$73.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-169"
   },
   {
@@ -654,7 +654,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$112.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-170"
   },
   {
@@ -668,7 +668,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-171"
   },
   {
@@ -682,7 +682,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$30.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-172"
   },
   {
@@ -696,7 +696,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$45.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-173"
   },
   {
@@ -710,7 +710,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$65.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-174"
   },
   {
@@ -724,7 +724,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$95.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-175"
   },
   {
@@ -738,7 +738,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-176"
   },
   {
@@ -752,7 +752,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-177"
   },
   {
@@ -766,7 +766,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$57.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-178"
   },
   {
@@ -780,7 +780,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-179"
   },
   {
@@ -794,7 +794,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-180"
   },
   {
@@ -808,7 +808,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-181"
   },
   {
@@ -822,7 +822,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-182"
   },
   {
@@ -836,7 +836,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$444.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-183"
   },
   {
@@ -850,7 +850,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-184"
   },
   {
@@ -864,7 +864,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$45.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-185"
   },
   {
@@ -878,7 +878,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$76.44",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-186"
   },
   {
@@ -892,7 +892,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-187"
   },
   {
@@ -906,7 +906,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$1499.00",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-188"
   },
   {
@@ -920,7 +920,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-189"
   },
   {
@@ -934,7 +934,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-190"
   },
   {
@@ -948,7 +948,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-191"
   },
   {
@@ -962,7 +962,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-192"
   },
   {
@@ -976,7 +976,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$138.05",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-193"
   },
   {
@@ -990,7 +990,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-194"
   },
   {
@@ -1004,7 +1004,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-195"
   },
   {
@@ -1018,7 +1018,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$65.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-196"
   },
   {
@@ -1032,7 +1032,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-197"
   },
   {
@@ -1046,7 +1046,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$43.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-198"
   },
   {
@@ -1060,7 +1060,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-199"
   },
   {
@@ -1074,7 +1074,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$459.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-200"
   },
   {
@@ -1088,7 +1088,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-201"
   },
   {
@@ -1102,7 +1102,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-202"
   },
   {
@@ -1116,7 +1116,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-203"
   },
   {
@@ -1130,7 +1130,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$719.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-204"
   },
   {
@@ -1144,7 +1144,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-205"
   },
   {
@@ -1158,7 +1158,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-206"
   },
   {
@@ -1172,7 +1172,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-207"
   },
   {
@@ -1186,7 +1186,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-208"
   },
   {
@@ -1200,7 +1200,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-209"
   },
   {
@@ -1214,7 +1214,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-210"
   },
   {
@@ -1228,7 +1228,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$79.84",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-211"
   },
   {
@@ -1242,7 +1242,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-212"
   },
   {
@@ -1256,7 +1256,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$53.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-213"
   },
   {
@@ -1270,7 +1270,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$754.94",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-214"
   },
   {
@@ -1284,7 +1284,7 @@
     "casLatency": "5",
     "rating": "0",
     "price": "$10.00",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-215"
   },
   {
@@ -1298,7 +1298,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$109.39",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-216"
   },
   {
@@ -1312,7 +1312,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$48.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-217"
   },
   {
@@ -1326,7 +1326,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$28.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-218"
   },
   {
@@ -1340,7 +1340,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-219"
   },
   {
@@ -1354,7 +1354,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-220"
   },
   {
@@ -1368,7 +1368,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-221"
   },
   {
@@ -1382,7 +1382,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$439.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-222"
   },
   {
@@ -1396,7 +1396,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$7.09",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-223"
   },
   {
@@ -1410,7 +1410,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-224"
   },
   {
@@ -1424,7 +1424,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-225"
   },
   {
@@ -1438,7 +1438,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-226"
   },
   {
@@ -1452,7 +1452,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$28.40",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-227"
   },
   {
@@ -1466,7 +1466,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$66.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-228"
   },
   {
@@ -1480,7 +1480,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-229"
   },
   {
@@ -1494,7 +1494,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$18.02",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-230"
   },
   {
@@ -1508,7 +1508,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-231"
   },
   {
@@ -1522,7 +1522,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-232"
   },
   {
@@ -1536,7 +1536,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-233"
   },
   {
@@ -1550,7 +1550,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$236.45",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-234"
   },
   {
@@ -1564,7 +1564,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$50.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-235"
   },
   {
@@ -1578,7 +1578,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$97.97",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-236"
   },
   {
@@ -1592,7 +1592,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-237"
   },
   {
@@ -1606,7 +1606,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-238"
   },
   {
@@ -1620,7 +1620,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-239"
   },
   {
@@ -1634,7 +1634,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-240"
   },
   {
@@ -1648,7 +1648,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-241"
   },
   {
@@ -1662,7 +1662,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-242"
   },
   {
@@ -1676,7 +1676,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-243"
   },
   {
@@ -1690,7 +1690,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$35.99",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-244"
   },
   {
@@ -1704,7 +1704,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-245"
   },
   {
@@ -1718,7 +1718,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$454.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-246"
   },
   {
@@ -1732,7 +1732,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-247"
   },
   {
@@ -1746,7 +1746,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-248"
   },
   {
@@ -1760,7 +1760,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-249"
   },
   {
@@ -1774,7 +1774,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-250"
   },
   {
@@ -1788,7 +1788,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-251"
   },
   {
@@ -1802,7 +1802,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-252"
   },
   {
@@ -1816,7 +1816,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-253"
   },
   {
@@ -1830,7 +1830,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-254"
   },
   {
@@ -1844,7 +1844,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-255"
   },
   {
@@ -1858,7 +1858,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-256"
   },
   {
@@ -1872,7 +1872,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-257"
   },
   {
@@ -1886,7 +1886,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$90.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-258"
   },
   {
@@ -1900,7 +1900,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-259"
   },
   {
@@ -1914,7 +1914,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$81.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-260"
   },
   {
@@ -1928,7 +1928,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$1588.72",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-261"
   },
   {
@@ -1942,7 +1942,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-262"
   },
   {
@@ -1956,7 +1956,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-263"
   },
   {
@@ -1970,7 +1970,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-264"
   },
   {
@@ -1984,7 +1984,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$77.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-265"
   },
   {
@@ -1998,7 +1998,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-266"
   },
   {
@@ -2012,7 +2012,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-267"
   },
   {
@@ -2026,7 +2026,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-268"
   },
   {
@@ -2040,7 +2040,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-269"
   },
   {
@@ -2054,7 +2054,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-270"
   },
   {
@@ -2068,7 +2068,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-271"
   },
   {
@@ -2082,7 +2082,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$82.59",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-272"
   },
   {
@@ -2096,7 +2096,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-273"
   },
   {
@@ -2110,7 +2110,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$75.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-274"
   },
   {
@@ -2124,7 +2124,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$75.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-275"
   },
   {
@@ -2138,7 +2138,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-276"
   },
   {
@@ -2152,7 +2152,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-277"
   },
   {
@@ -2166,7 +2166,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-278"
   },
   {
@@ -2180,7 +2180,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-279"
   },
   {
@@ -2194,7 +2194,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-280"
   },
   {
@@ -2208,7 +2208,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$225.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-281"
   },
   {
@@ -2222,7 +2222,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$61.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-282"
   },
   {
@@ -2236,7 +2236,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-283"
   },
   {
@@ -2250,7 +2250,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.16",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-284"
   },
   {
@@ -2264,7 +2264,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$669.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-285"
   },
   {
@@ -2278,7 +2278,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$57.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-286"
   },
   {
@@ -2292,7 +2292,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$50.22",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-287"
   },
   {
@@ -2306,7 +2306,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-288"
   },
   {
@@ -2320,7 +2320,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$18.70",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-289"
   },
   {
@@ -2334,7 +2334,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$51.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-290"
   },
   {
@@ -2348,7 +2348,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-291"
   },
   {
@@ -2362,7 +2362,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-292"
   },
   {
@@ -2376,7 +2376,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$40.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-293"
   },
   {
@@ -2390,7 +2390,7 @@
     "casLatency": "48",
     "rating": "0",
     "price": "$73.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-294"
   },
   {
@@ -2404,7 +2404,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-295"
   },
   {
@@ -2418,7 +2418,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-296"
   },
   {
@@ -2432,7 +2432,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-297"
   },
   {
@@ -2446,7 +2446,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-298"
   },
   {
@@ -2460,7 +2460,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$53.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-299"
   },
   {
@@ -2474,7 +2474,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-300"
   },
   {
@@ -2488,7 +2488,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-301"
   },
   {
@@ -2502,7 +2502,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.86",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-302"
   },
   {
@@ -2516,7 +2516,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-303"
   },
   {
@@ -2530,7 +2530,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-304"
   },
   {
@@ -2544,7 +2544,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$72.81",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-305"
   },
   {
@@ -2558,7 +2558,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$108.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-306"
   },
   {
@@ -2572,7 +2572,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Neo Forza",
+    "manufacturer": "Neo Forza",
     "id": "ram-307"
   },
   {
@@ -2586,7 +2586,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-308"
   },
   {
@@ -2600,7 +2600,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-309"
   },
   {
@@ -2614,7 +2614,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$71.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-310"
   },
   {
@@ -2628,7 +2628,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-311"
   },
   {
@@ -2642,7 +2642,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-312"
   },
   {
@@ -2656,7 +2656,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-313"
   },
   {
@@ -2670,7 +2670,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$454.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-314"
   },
   {
@@ -2684,7 +2684,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$153.88",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-315"
   },
   {
@@ -2698,7 +2698,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-316"
   },
   {
@@ -2712,7 +2712,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-317"
   },
   {
@@ -2726,7 +2726,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-318"
   },
   {
@@ -2740,7 +2740,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$95.03",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-319"
   },
   {
@@ -2754,7 +2754,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-320"
   },
   {
@@ -2768,7 +2768,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-321"
   },
   {
@@ -2782,7 +2782,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$255.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-322"
   },
   {
@@ -2796,7 +2796,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "ram-323"
   },
   {
@@ -2810,7 +2810,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-324"
   },
   {
@@ -2824,7 +2824,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-325"
   },
   {
@@ -2838,7 +2838,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-326"
   },
   {
@@ -2852,7 +2852,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$81.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-327"
   },
   {
@@ -2866,7 +2866,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-328"
   },
   {
@@ -2880,7 +2880,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-329"
   },
   {
@@ -2894,7 +2894,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$82.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-330"
   },
   {
@@ -2908,7 +2908,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-331"
   },
   {
@@ -2922,7 +2922,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-332"
   },
   {
@@ -2936,7 +2936,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-333"
   },
   {
@@ -2950,7 +2950,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-334"
   },
   {
@@ -2964,7 +2964,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-335"
   },
   {
@@ -2978,7 +2978,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-336"
   },
   {
@@ -2992,7 +2992,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$64.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-337"
   },
   {
@@ -3006,7 +3006,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$10.06",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-338"
   },
   {
@@ -3020,7 +3020,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-339"
   },
   {
@@ -3034,7 +3034,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-340"
   },
   {
@@ -3048,7 +3048,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "ram-341"
   },
   {
@@ -3062,7 +3062,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$107.33",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-342"
   },
   {
@@ -3076,7 +3076,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-343"
   },
   {
@@ -3090,7 +3090,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$34.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-344"
   },
   {
@@ -3104,7 +3104,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-345"
   },
   {
@@ -3118,7 +3118,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$77.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-346"
   },
   {
@@ -3132,7 +3132,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-347"
   },
   {
@@ -3146,7 +3146,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-348"
   },
   {
@@ -3160,7 +3160,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$85.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-349"
   },
   {
@@ -3174,7 +3174,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-350"
   },
   {
@@ -3188,7 +3188,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-351"
   },
   {
@@ -3202,7 +3202,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$224.49",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-352"
   },
   {
@@ -3216,7 +3216,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-353"
   },
   {
@@ -3230,7 +3230,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-354"
   },
   {
@@ -3244,7 +3244,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Supermicro",
+    "manufacturer": "Supermicro",
     "id": "ram-355"
   },
   {
@@ -3258,7 +3258,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$81.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-356"
   },
   {
@@ -3272,7 +3272,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-357"
   },
   {
@@ -3286,7 +3286,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-358"
   },
   {
@@ -3300,7 +3300,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-359"
   },
   {
@@ -3314,7 +3314,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-360"
   },
   {
@@ -3328,7 +3328,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-361"
   },
   {
@@ -3342,7 +3342,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-362"
   },
   {
@@ -3356,7 +3356,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-363"
   },
   {
@@ -3370,7 +3370,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-364"
   },
   {
@@ -3384,7 +3384,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-365"
   },
   {
@@ -3398,7 +3398,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-366"
   },
   {
@@ -3412,7 +3412,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-367"
   },
   {
@@ -3426,7 +3426,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-368"
   },
   {
@@ -3440,7 +3440,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-369"
   },
   {
@@ -3454,7 +3454,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-370"
   },
   {
@@ -3468,7 +3468,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-371"
   },
   {
@@ -3482,7 +3482,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-372"
   },
   {
@@ -3496,7 +3496,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-373"
   },
   {
@@ -3510,7 +3510,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-374"
   },
   {
@@ -3524,7 +3524,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-375"
   },
   {
@@ -3538,7 +3538,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-376"
   },
   {
@@ -3552,7 +3552,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-377"
   },
   {
@@ -3566,7 +3566,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-378"
   },
   {
@@ -3580,7 +3580,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$494.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-379"
   },
   {
@@ -3594,7 +3594,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-380"
   },
   {
@@ -3608,7 +3608,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-381"
   },
   {
@@ -3622,7 +3622,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-382"
   },
   {
@@ -3636,7 +3636,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$17.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-383"
   },
   {
@@ -3650,7 +3650,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$163.01",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-384"
   },
   {
@@ -3664,7 +3664,7 @@
     "casLatency": "13",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-385"
   },
   {
@@ -3678,7 +3678,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-386"
   },
   {
@@ -3692,7 +3692,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-387"
   },
   {
@@ -3706,7 +3706,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-388"
   },
   {
@@ -3720,7 +3720,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$234.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-389"
   },
   {
@@ -3734,7 +3734,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$51.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-390"
   },
   {
@@ -3748,7 +3748,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-391"
   },
   {
@@ -3762,7 +3762,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-392"
   },
   {
@@ -3776,7 +3776,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$30.98",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-393"
   },
   {
@@ -3790,7 +3790,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$36.58",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-394"
   },
   {
@@ -3804,7 +3804,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-395"
   },
   {
@@ -3818,7 +3818,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-396"
   },
   {
@@ -3832,7 +3832,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-397"
   },
   {
@@ -3846,7 +3846,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$309.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-398"
   },
   {
@@ -3860,7 +3860,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-399"
   },
   {
@@ -3874,7 +3874,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$264.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-400"
   },
   {
@@ -3888,7 +3888,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-401"
   },
   {
@@ -3902,7 +3902,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-402"
   },
   {
@@ -3916,7 +3916,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-403"
   },
   {
@@ -3930,7 +3930,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$117.59",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-404"
   },
   {
@@ -3944,7 +3944,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-405"
   },
   {
@@ -3958,7 +3958,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$384.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-406"
   },
   {
@@ -3972,7 +3972,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-407"
   },
   {
@@ -3986,7 +3986,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-408"
   },
   {
@@ -4000,7 +4000,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-409"
   },
   {
@@ -4014,7 +4014,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-410"
   },
   {
@@ -4028,7 +4028,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-411"
   },
   {
@@ -4042,7 +4042,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-412"
   },
   {
@@ -4056,7 +4056,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-413"
   },
   {
@@ -4070,7 +4070,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$354.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-414"
   },
   {
@@ -4084,7 +4084,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$254.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-415"
   },
   {
@@ -4098,7 +4098,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$113.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-416"
   },
   {
@@ -4112,7 +4112,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$147.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-417"
   },
   {
@@ -4126,7 +4126,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$93.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-418"
   },
   {
@@ -4140,7 +4140,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$117.60",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-419"
   },
   {
@@ -4154,7 +4154,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-420"
   },
   {
@@ -4168,7 +4168,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$60.86",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-421"
   },
   {
@@ -4182,7 +4182,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$294.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-422"
   },
   {
@@ -4196,7 +4196,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$45.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-423"
   },
   {
@@ -4210,7 +4210,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-424"
   },
   {
@@ -4224,7 +4224,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-425"
   },
   {
@@ -4238,7 +4238,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-426"
   },
   {
@@ -4252,7 +4252,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-427"
   },
   {
@@ -4266,7 +4266,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-428"
   },
   {
@@ -4280,7 +4280,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$45.40",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-429"
   },
   {
@@ -4294,7 +4294,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-430"
   },
   {
@@ -4308,7 +4308,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$78.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-431"
   },
   {
@@ -4322,7 +4322,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-432"
   },
   {
@@ -4336,7 +4336,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-433"
   },
   {
@@ -4350,7 +4350,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-434"
   },
   {
@@ -4364,7 +4364,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-435"
   },
   {
@@ -4378,7 +4378,7 @@
     "casLatency": "13",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-436"
   },
   {
@@ -4392,7 +4392,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-437"
   },
   {
@@ -4406,7 +4406,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-438"
   },
   {
@@ -4420,7 +4420,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-439"
   },
   {
@@ -4434,7 +4434,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-440"
   },
   {
@@ -4448,7 +4448,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-441"
   },
   {
@@ -4462,7 +4462,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-442"
   },
   {
@@ -4476,7 +4476,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-443"
   },
   {
@@ -4490,7 +4490,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-444"
   },
   {
@@ -4504,7 +4504,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-445"
   },
   {
@@ -4518,7 +4518,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$224.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-446"
   },
   {
@@ -4532,7 +4532,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$699.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-447"
   },
   {
@@ -4546,7 +4546,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-448"
   },
   {
@@ -4560,7 +4560,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$93.14",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-449"
   },
   {
@@ -4574,7 +4574,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-450"
   },
   {
@@ -4588,7 +4588,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$132.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-451"
   },
   {
@@ -4602,7 +4602,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-452"
   },
   {
@@ -4616,7 +4616,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-453"
   },
   {
@@ -4630,7 +4630,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-454"
   },
   {
@@ -4644,7 +4644,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-455"
   },
   {
@@ -4658,7 +4658,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-456"
   },
   {
@@ -4672,7 +4672,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-457"
   },
   {
@@ -4686,7 +4686,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$60.66",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-458"
   },
   {
@@ -4700,7 +4700,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-459"
   },
   {
@@ -4714,7 +4714,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-460"
   },
   {
@@ -4728,7 +4728,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-461"
   },
   {
@@ -4742,7 +4742,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-462"
   },
   {
@@ -4756,7 +4756,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$67.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-463"
   },
   {
@@ -4770,7 +4770,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-464"
   },
   {
@@ -4784,7 +4784,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-465"
   },
   {
@@ -4798,7 +4798,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$55.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-466"
   },
   {
@@ -4812,7 +4812,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$995.00",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-467"
   },
   {
@@ -4826,7 +4826,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-468"
   },
   {
@@ -4840,7 +4840,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-469"
   },
   {
@@ -4854,7 +4854,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "$46.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-470"
   },
   {
@@ -4868,7 +4868,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-471"
   },
   {
@@ -4882,7 +4882,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-472"
   },
   {
@@ -4896,7 +4896,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-473"
   },
   {
@@ -4910,7 +4910,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-474"
   },
   {
@@ -4924,7 +4924,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-475"
   },
   {
@@ -4938,7 +4938,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-476"
   },
   {
@@ -4952,7 +4952,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-477"
   },
   {
@@ -4966,7 +4966,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-478"
   },
   {
@@ -4980,7 +4980,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$649.95",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-479"
   },
   {
@@ -4994,7 +4994,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-480"
   },
   {
@@ -5008,7 +5008,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "$29.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-481"
   },
   {
@@ -5022,7 +5022,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$850.00",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-482"
   },
   {
@@ -5036,7 +5036,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$21.49",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-483"
   },
   {
@@ -5050,7 +5050,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-484"
   },
   {
@@ -5064,7 +5064,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$136.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-485"
   },
   {
@@ -5078,7 +5078,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$399.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-486"
   },
   {
@@ -5092,7 +5092,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-487"
   },
   {
@@ -5106,7 +5106,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-488"
   },
   {
@@ -5120,7 +5120,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-489"
   },
   {
@@ -5134,7 +5134,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$21.80",
-    "manufactor": "Micron",
+    "manufacturer": "Micron",
     "id": "ram-490"
   },
   {
@@ -5148,7 +5148,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-491"
   },
   {
@@ -5162,7 +5162,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-492"
   },
   {
@@ -5176,7 +5176,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$329.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-493"
   },
   {
@@ -5190,7 +5190,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-494"
   },
   {
@@ -5204,7 +5204,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-495"
   },
   {
@@ -5218,7 +5218,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-496"
   },
   {
@@ -5232,7 +5232,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-497"
   },
   {
@@ -5246,7 +5246,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$32.00",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-498"
   },
   {
@@ -5260,7 +5260,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-499"
   },
   {
@@ -5274,7 +5274,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-500"
   },
   {
@@ -5288,7 +5288,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-501"
   },
   {
@@ -5302,7 +5302,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-502"
   },
   {
@@ -5316,7 +5316,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-503"
   },
   {
@@ -5330,7 +5330,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-504"
   },
   {
@@ -5344,7 +5344,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-505"
   },
   {
@@ -5358,7 +5358,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-506"
   },
   {
@@ -5372,7 +5372,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-507"
   },
   {
@@ -5386,7 +5386,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-508"
   },
   {
@@ -5400,7 +5400,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-509"
   },
   {
@@ -5414,7 +5414,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-510"
   },
   {
@@ -5428,7 +5428,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-511"
   },
   {
@@ -5442,7 +5442,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-512"
   },
   {
@@ -5456,7 +5456,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$35.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-513"
   },
   {
@@ -5470,7 +5470,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-514"
   },
   {
@@ -5484,7 +5484,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$141.69",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-515"
   },
   {
@@ -5498,7 +5498,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-516"
   },
   {
@@ -5512,7 +5512,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-517"
   },
   {
@@ -5526,7 +5526,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$85.74",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-518"
   },
   {
@@ -5540,7 +5540,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$25.24",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-519"
   },
   {
@@ -5554,7 +5554,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-520"
   },
   {
@@ -5568,7 +5568,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-521"
   },
   {
@@ -5582,7 +5582,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-522"
   },
   {
@@ -5596,7 +5596,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$61.75",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-523"
   },
   {
@@ -5610,7 +5610,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-524"
   },
   {
@@ -5624,7 +5624,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$76.29",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-525"
   },
   {
@@ -5638,7 +5638,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-526"
   },
   {
@@ -5652,7 +5652,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-527"
   },
   {
@@ -5666,7 +5666,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-528"
   },
   {
@@ -5680,7 +5680,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-529"
   },
   {
@@ -5694,7 +5694,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$1200.40",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-530"
   },
   {
@@ -5708,7 +5708,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-531"
   },
   {
@@ -5722,7 +5722,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-532"
   },
   {
@@ -5736,7 +5736,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-533"
   },
   {
@@ -5750,7 +5750,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-534"
   },
   {
@@ -5764,7 +5764,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-535"
   },
   {
@@ -5778,7 +5778,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-536"
   },
   {
@@ -5792,7 +5792,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-537"
   },
   {
@@ -5806,7 +5806,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-538"
   },
   {
@@ -5820,7 +5820,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-539"
   },
   {
@@ -5834,7 +5834,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$67.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-540"
   },
   {
@@ -5848,7 +5848,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-541"
   },
   {
@@ -5862,7 +5862,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-542"
   },
   {
@@ -5876,7 +5876,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$67.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-543"
   },
   {
@@ -5890,7 +5890,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-544"
   },
   {
@@ -5904,7 +5904,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$61.40",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-545"
   },
   {
@@ -5918,7 +5918,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-546"
   },
   {
@@ -5932,7 +5932,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-547"
   },
   {
@@ -5946,7 +5946,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$369.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-548"
   },
   {
@@ -5960,7 +5960,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-549"
   },
   {
@@ -5974,7 +5974,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$100.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-550"
   },
   {
@@ -5988,7 +5988,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-551"
   },
   {
@@ -6002,7 +6002,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$71.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-552"
   },
   {
@@ -6016,7 +6016,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$145.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-553"
   },
   {
@@ -6030,7 +6030,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-554"
   },
   {
@@ -6044,7 +6044,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$15.90",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-555"
   },
   {
@@ -6058,7 +6058,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$634.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-556"
   },
   {
@@ -6072,7 +6072,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-557"
   },
   {
@@ -6086,7 +6086,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-558"
   },
   {
@@ -6100,7 +6100,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-559"
   },
   {
@@ -6114,7 +6114,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-560"
   },
   {
@@ -6128,7 +6128,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-561"
   },
   {
@@ -6142,7 +6142,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-562"
   },
   {
@@ -6156,7 +6156,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-563"
   },
   {
@@ -6170,7 +6170,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$60.86",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-564"
   },
   {
@@ -6184,7 +6184,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-565"
   },
   {
@@ -6198,7 +6198,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$58.99",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-566"
   },
   {
@@ -6212,7 +6212,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$203.77",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-567"
   },
   {
@@ -6226,7 +6226,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$147.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-568"
   },
   {
@@ -6240,7 +6240,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-569"
   },
   {
@@ -6254,7 +6254,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-570"
   },
   {
@@ -6268,7 +6268,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-571"
   },
   {
@@ -6282,7 +6282,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-572"
   },
   {
@@ -6296,7 +6296,7 @@
     "casLatency": "5",
     "rating": "0",
     "price": "$11.00",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-573"
   },
   {
@@ -6310,7 +6310,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$58.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-574"
   },
   {
@@ -6324,7 +6324,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-575"
   },
   {
@@ -6338,7 +6338,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$26.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-576"
   },
   {
@@ -6352,7 +6352,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-577"
   },
   {
@@ -6366,7 +6366,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-578"
   },
   {
@@ -6380,7 +6380,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-579"
   },
   {
@@ -6394,7 +6394,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-580"
   },
   {
@@ -6408,7 +6408,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$78.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-581"
   },
   {
@@ -6422,7 +6422,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-582"
   },
   {
@@ -6436,7 +6436,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-583"
   },
   {
@@ -6450,7 +6450,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$15.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-584"
   },
   {
@@ -6464,7 +6464,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Neo Forza",
+    "manufacturer": "Neo Forza",
     "id": "ram-585"
   },
   {
@@ -6478,7 +6478,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-586"
   },
   {
@@ -6492,7 +6492,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-587"
   },
   {
@@ -6506,7 +6506,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$25.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-588"
   },
   {
@@ -6520,7 +6520,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-589"
   },
   {
@@ -6534,7 +6534,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-590"
   },
   {
@@ -6548,7 +6548,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-591"
   },
   {
@@ -6562,7 +6562,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-592"
   },
   {
@@ -6576,7 +6576,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-593"
   },
   {
@@ -6590,7 +6590,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-594"
   },
   {
@@ -6604,7 +6604,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-595"
   },
   {
@@ -6618,7 +6618,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-596"
   },
   {
@@ -6632,7 +6632,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-597"
   },
   {
@@ -6646,7 +6646,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GeIL",
+    "manufacturer": "GeIL",
     "id": "ram-598"
   },
   {
@@ -6660,7 +6660,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$294.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-599"
   },
   {
@@ -6674,7 +6674,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-600"
   },
   {
@@ -6688,7 +6688,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$86.24",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-601"
   },
   {
@@ -6702,7 +6702,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-602"
   },
   {
@@ -6716,7 +6716,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-603"
   },
   {
@@ -6730,7 +6730,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-604"
   },
   {
@@ -6744,7 +6744,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$106.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-605"
   },
   {
@@ -6758,7 +6758,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$21.60",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-606"
   },
   {
@@ -6772,7 +6772,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-607"
   },
   {
@@ -6786,7 +6786,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-608"
   },
   {
@@ -6800,7 +6800,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$77.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-609"
   },
   {
@@ -6814,7 +6814,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-610"
   },
   {
@@ -6828,7 +6828,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-611"
   },
   {
@@ -6842,7 +6842,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$40.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-612"
   },
   {
@@ -6856,7 +6856,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$89.00",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-613"
   },
   {
@@ -6870,7 +6870,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-614"
   },
   {
@@ -6884,7 +6884,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$152.26",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-615"
   },
   {
@@ -6898,7 +6898,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$442.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-616"
   },
   {
@@ -6912,7 +6912,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-617"
   },
   {
@@ -6926,7 +6926,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$21.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-618"
   },
   {
@@ -6940,7 +6940,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-619"
   },
   {
@@ -6954,7 +6954,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-620"
   },
   {
@@ -6968,7 +6968,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$344.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-621"
   },
   {
@@ -6982,7 +6982,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-622"
   },
   {
@@ -6996,7 +6996,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-623"
   },
   {
@@ -7010,7 +7010,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-624"
   },
   {
@@ -7024,7 +7024,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$14.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-625"
   },
   {
@@ -7038,7 +7038,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "ram-626"
   },
   {
@@ -7052,7 +7052,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-627"
   },
   {
@@ -7066,7 +7066,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$91.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-628"
   },
   {
@@ -7080,7 +7080,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-629"
   },
   {
@@ -7094,7 +7094,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-630"
   },
   {
@@ -7108,7 +7108,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$374.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-631"
   },
   {
@@ -7122,7 +7122,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-632"
   },
   {
@@ -7136,7 +7136,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$185.19",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-633"
   },
   {
@@ -7150,7 +7150,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-634"
   },
   {
@@ -7164,7 +7164,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-635"
   },
   {
@@ -7178,7 +7178,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-636"
   },
   {
@@ -7192,7 +7192,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "$9.00",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-637"
   },
   {
@@ -7206,7 +7206,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-638"
   },
   {
@@ -7220,7 +7220,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-639"
   },
   {
@@ -7234,7 +7234,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$153.52",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-640"
   },
   {
@@ -7248,7 +7248,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$62.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-641"
   },
   {
@@ -7262,7 +7262,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$72.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-642"
   },
   {
@@ -7276,7 +7276,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-643"
   },
   {
@@ -7290,7 +7290,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-644"
   },
   {
@@ -7304,7 +7304,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-645"
   },
   {
@@ -7318,7 +7318,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-646"
   },
   {
@@ -7332,7 +7332,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$69.93",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-647"
   },
   {
@@ -7346,7 +7346,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-648"
   },
   {
@@ -7360,7 +7360,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-649"
   },
   {
@@ -7374,7 +7374,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-650"
   },
   {
@@ -7388,7 +7388,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$135.68",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-651"
   },
   {
@@ -7402,7 +7402,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-652"
   },
   {
@@ -7416,7 +7416,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$43.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-653"
   },
   {
@@ -7430,7 +7430,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-654"
   },
   {
@@ -7444,7 +7444,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$324.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-655"
   },
   {
@@ -7458,7 +7458,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$110.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-656"
   },
   {
@@ -7472,7 +7472,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$1323.00",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-657"
   },
   {
@@ -7486,7 +7486,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-658"
   },
   {
@@ -7500,7 +7500,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-659"
   },
   {
@@ -7514,7 +7514,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-660"
   },
   {
@@ -7528,7 +7528,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-661"
   },
   {
@@ -7542,7 +7542,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-662"
   },
   {
@@ -7556,7 +7556,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$1099.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-663"
   },
   {
@@ -7570,7 +7570,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-664"
   },
   {
@@ -7584,7 +7584,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-665"
   },
   {
@@ -7598,7 +7598,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$144.79",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-666"
   },
   {
@@ -7612,7 +7612,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-667"
   },
   {
@@ -7626,7 +7626,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-668"
   },
   {
@@ -7640,7 +7640,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$379.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-669"
   },
   {
@@ -7654,7 +7654,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$126.34",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-670"
   },
   {
@@ -7668,7 +7668,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-671"
   },
   {
@@ -7682,7 +7682,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$142.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-672"
   },
   {
@@ -7696,7 +7696,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-673"
   },
   {
@@ -7710,7 +7710,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$28.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-674"
   },
   {
@@ -7724,7 +7724,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-675"
   },
   {
@@ -7738,7 +7738,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-676"
   },
   {
@@ -7752,7 +7752,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-677"
   },
   {
@@ -7766,7 +7766,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-678"
   },
   {
@@ -7780,7 +7780,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-679"
   },
   {
@@ -7794,7 +7794,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$224.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-680"
   },
   {
@@ -7808,7 +7808,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$66.98",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-681"
   },
   {
@@ -7822,7 +7822,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$64.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-682"
   },
   {
@@ -7836,7 +7836,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "ram-683"
   },
   {
@@ -7850,7 +7850,7 @@
     "casLatency": "6",
     "rating": "0",
     "price": "$35.56",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-684"
   },
   {
@@ -7864,7 +7864,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$104.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-685"
   },
   {
@@ -7878,7 +7878,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-686"
   },
   {
@@ -7892,7 +7892,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-687"
   },
   {
@@ -7906,7 +7906,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-688"
   },
   {
@@ -7920,7 +7920,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-689"
   },
   {
@@ -7934,7 +7934,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-690"
   },
   {
@@ -7948,7 +7948,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$30.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-691"
   },
   {
@@ -7962,7 +7962,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$26.49",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-692"
   },
   {
@@ -7976,7 +7976,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$189.30",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-693"
   },
   {
@@ -7990,7 +7990,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-694"
   },
   {
@@ -8004,7 +8004,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-695"
   },
   {
@@ -8018,7 +8018,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$65.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-696"
   },
   {
@@ -8032,7 +8032,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$47.77",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-697"
   },
   {
@@ -8046,7 +8046,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$151.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-698"
   },
   {
@@ -8060,7 +8060,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-699"
   },
   {
@@ -8074,7 +8074,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$46.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-700"
   },
   {
@@ -8088,7 +8088,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-701"
   },
   {
@@ -8102,7 +8102,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-702"
   },
   {
@@ -8116,7 +8116,7 @@
     "casLatency": "21",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-703"
   },
   {
@@ -8130,7 +8130,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$294.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-704"
   },
   {
@@ -8144,7 +8144,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$104.13",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-705"
   },
   {
@@ -8158,7 +8158,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$179.00",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-706"
   },
   {
@@ -8172,7 +8172,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-707"
   },
   {
@@ -8186,7 +8186,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-708"
   },
   {
@@ -8200,7 +8200,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-709"
   },
   {
@@ -8214,7 +8214,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-710"
   },
   {
@@ -8228,7 +8228,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-711"
   },
   {
@@ -8242,7 +8242,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-712"
   },
   {
@@ -8256,7 +8256,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-713"
   },
   {
@@ -8270,7 +8270,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$187.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-714"
   },
   {
@@ -8284,7 +8284,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$122.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-715"
   },
   {
@@ -8298,7 +8298,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-716"
   },
   {
@@ -8312,7 +8312,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-717"
   },
   {
@@ -8326,7 +8326,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$89.26",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-718"
   },
   {
@@ -8340,7 +8340,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$78.06",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-719"
   },
   {
@@ -8354,7 +8354,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-720"
   },
   {
@@ -8368,7 +8368,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-721"
   },
   {
@@ -8382,7 +8382,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-722"
   },
   {
@@ -8396,7 +8396,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-723"
   },
   {
@@ -8410,7 +8410,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-724"
   },
   {
@@ -8424,7 +8424,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-725"
   },
   {
@@ -8438,7 +8438,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-726"
   },
   {
@@ -8452,7 +8452,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-727"
   },
   {
@@ -8466,7 +8466,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-728"
   },
   {
@@ -8480,7 +8480,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-729"
   },
   {
@@ -8494,7 +8494,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-730"
   },
   {
@@ -8508,7 +8508,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-731"
   },
   {
@@ -8522,7 +8522,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-732"
   },
   {
@@ -8536,7 +8536,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-733"
   },
   {
@@ -8550,7 +8550,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-734"
   },
   {
@@ -8564,7 +8564,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-735"
   },
   {
@@ -8578,7 +8578,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "$38.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-736"
   },
   {
@@ -8592,7 +8592,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-737"
   },
   {
@@ -8606,7 +8606,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-738"
   },
   {
@@ -8620,7 +8620,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$453.22",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-739"
   },
   {
@@ -8634,7 +8634,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$147.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-740"
   },
   {
@@ -8648,7 +8648,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$145.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-741"
   },
   {
@@ -8662,7 +8662,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$114.75",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-742"
   },
   {
@@ -8676,7 +8676,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-743"
   },
   {
@@ -8690,7 +8690,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-744"
   },
   {
@@ -8704,7 +8704,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-745"
   },
   {
@@ -8718,7 +8718,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-746"
   },
   {
@@ -8732,7 +8732,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-747"
   },
   {
@@ -8746,7 +8746,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-748"
   },
   {
@@ -8760,7 +8760,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$19.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-749"
   },
   {
@@ -8774,7 +8774,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$286.30",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-750"
   },
   {
@@ -8788,7 +8788,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-751"
   },
   {
@@ -8802,7 +8802,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$32.72",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-752"
   },
   {
@@ -8816,7 +8816,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$65.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-753"
   },
   {
@@ -8830,7 +8830,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "$55.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-754"
   },
   {
@@ -8844,7 +8844,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$389.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-755"
   },
   {
@@ -8858,7 +8858,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-756"
   },
   {
@@ -8872,7 +8872,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$222.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-757"
   },
   {
@@ -8886,7 +8886,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$72.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-758"
   },
   {
@@ -8900,7 +8900,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$24.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-759"
   },
   {
@@ -8914,7 +8914,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-760"
   },
   {
@@ -8928,7 +8928,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-761"
   },
   {
@@ -8942,7 +8942,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-762"
   },
   {
@@ -8956,7 +8956,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-763"
   },
   {
@@ -8970,7 +8970,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-764"
   },
   {
@@ -8984,7 +8984,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$204.35",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-765"
   },
   {
@@ -8998,7 +8998,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-766"
   },
   {
@@ -9012,7 +9012,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-767"
   },
   {
@@ -9026,7 +9026,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-768"
   },
   {
@@ -9040,7 +9040,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$35.49",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-769"
   },
   {
@@ -9054,7 +9054,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$14.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-770"
   },
   {
@@ -9068,7 +9068,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-771"
   },
   {
@@ -9082,7 +9082,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-772"
   },
   {
@@ -9096,7 +9096,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$95.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-773"
   },
   {
@@ -9110,7 +9110,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-774"
   },
   {
@@ -9124,7 +9124,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-775"
   },
   {
@@ -9138,7 +9138,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-776"
   },
   {
@@ -9152,7 +9152,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-777"
   },
   {
@@ -9166,7 +9166,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$18.48",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-778"
   },
   {
@@ -9180,7 +9180,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$1170.64",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-779"
   },
   {
@@ -9194,7 +9194,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Gigabyte",
+    "manufacturer": "Gigabyte",
     "id": "ram-780"
   },
   {
@@ -9208,7 +9208,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-781"
   },
   {
@@ -9222,7 +9222,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "SK Hynix",
+    "manufacturer": "SK Hynix",
     "id": "ram-782"
   },
   {
@@ -9236,7 +9236,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-783"
   },
   {
@@ -9250,7 +9250,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-784"
   },
   {
@@ -9264,7 +9264,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-785"
   },
   {
@@ -9278,7 +9278,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-786"
   },
   {
@@ -9292,7 +9292,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$121.81",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-787"
   },
   {
@@ -9306,7 +9306,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$85.99",
-    "manufactor": "GeIL",
+    "manufacturer": "GeIL",
     "id": "ram-788"
   },
   {
@@ -9320,7 +9320,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$87.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-789"
   },
   {
@@ -9334,7 +9334,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$449.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-790"
   },
   {
@@ -9348,7 +9348,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$38.98",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-791"
   },
   {
@@ -9362,7 +9362,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$219.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-792"
   },
   {
@@ -9376,7 +9376,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-793"
   },
   {
@@ -9390,7 +9390,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$75.65",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-794"
   },
   {
@@ -9404,7 +9404,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$233.62",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-795"
   },
   {
@@ -9418,7 +9418,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-796"
   },
   {
@@ -9432,7 +9432,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$319.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-797"
   },
   {
@@ -9446,7 +9446,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$208.49",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-798"
   },
   {
@@ -9460,7 +9460,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$488.52",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-799"
   },
   {
@@ -9474,7 +9474,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$187.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-800"
   },
   {
@@ -9488,7 +9488,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$117.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-801"
   },
   {
@@ -9502,7 +9502,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-802"
   },
   {
@@ -9516,7 +9516,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$41.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-803"
   },
   {
@@ -9530,7 +9530,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-804"
   },
   {
@@ -9544,7 +9544,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$98.99",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-805"
   },
   {
@@ -9558,7 +9558,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-806"
   },
   {
@@ -9572,7 +9572,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$259.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-807"
   },
   {
@@ -9586,7 +9586,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-808"
   },
   {
@@ -9600,7 +9600,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$112.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-809"
   },
   {
@@ -9614,7 +9614,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$50.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-810"
   },
   {
@@ -9628,7 +9628,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$214.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-811"
   },
   {
@@ -9642,7 +9642,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.86",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-812"
   },
   {
@@ -9656,7 +9656,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-813"
   },
   {
@@ -9670,7 +9670,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-814"
   },
   {
@@ -9684,7 +9684,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$9.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-815"
   },
   {
@@ -9698,7 +9698,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-816"
   },
   {
@@ -9712,7 +9712,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-817"
   },
   {
@@ -9726,7 +9726,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-818"
   },
   {
@@ -9740,7 +9740,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-819"
   },
   {
@@ -9754,7 +9754,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-820"
   },
   {
@@ -9768,7 +9768,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$34.15",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-821"
   },
   {
@@ -9782,7 +9782,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$77.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-822"
   },
   {
@@ -9796,7 +9796,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-823"
   },
   {
@@ -9810,7 +9810,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$63.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-824"
   },
   {
@@ -9824,7 +9824,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$534.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-825"
   },
   {
@@ -9838,7 +9838,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-826"
   },
   {
@@ -9852,7 +9852,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-827"
   },
   {
@@ -9866,7 +9866,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$107.35",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-828"
   },
   {
@@ -9880,7 +9880,7 @@
     "casLatency": "21",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-829"
   },
   {
@@ -9894,7 +9894,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-830"
   },
   {
@@ -9908,7 +9908,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$43.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-831"
   },
   {
@@ -9922,7 +9922,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-832"
   },
   {
@@ -9936,7 +9936,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-833"
   },
   {
@@ -9950,7 +9950,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$254.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-834"
   },
   {
@@ -9964,7 +9964,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-835"
   },
   {
@@ -9978,7 +9978,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$155.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-836"
   },
   {
@@ -9992,7 +9992,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$364.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-837"
   },
   {
@@ -10006,7 +10006,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-838"
   },
   {
@@ -10020,7 +10020,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-839"
   },
   {
@@ -10034,7 +10034,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$404.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-840"
   },
   {
@@ -10048,7 +10048,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$314.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-841"
   },
   {
@@ -10062,7 +10062,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-842"
   },
   {
@@ -10076,7 +10076,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-843"
   },
   {
@@ -10090,7 +10090,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$294.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-844"
   },
   {
@@ -10104,7 +10104,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$44.69",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-845"
   },
   {
@@ -10118,7 +10118,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$71.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-846"
   },
   {
@@ -10132,7 +10132,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$9.47",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-847"
   },
   {
@@ -10146,7 +10146,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-848"
   },
   {
@@ -10160,7 +10160,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-849"
   },
   {
@@ -10174,7 +10174,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-850"
   },
   {
@@ -10188,7 +10188,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$93.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-851"
   },
   {
@@ -10202,7 +10202,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "GeIL",
+    "manufacturer": "GeIL",
     "id": "ram-852"
   },
   {
@@ -10216,7 +10216,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$55.86",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-853"
   },
   {
@@ -10230,7 +10230,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$18.26",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-854"
   },
   {
@@ -10244,7 +10244,7 @@
     "casLatency": "48",
     "rating": "0",
     "price": "$154.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-855"
   },
   {
@@ -10258,7 +10258,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$249.99",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "ram-856"
   },
   {
@@ -10272,7 +10272,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-857"
   },
   {
@@ -10286,7 +10286,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$250.00",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-858"
   },
   {
@@ -10300,7 +10300,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-859"
   },
   {
@@ -10314,7 +10314,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-860"
   },
   {
@@ -10328,7 +10328,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$669.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-861"
   },
   {
@@ -10342,7 +10342,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$142.99",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-862"
   },
   {
@@ -10356,7 +10356,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$20.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-863"
   },
   {
@@ -10370,7 +10370,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$11.99",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-864"
   },
   {
@@ -10384,7 +10384,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-865"
   },
   {
@@ -10398,7 +10398,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-866"
   },
   {
@@ -10412,7 +10412,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-867"
   },
   {
@@ -10426,7 +10426,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-868"
   },
   {
@@ -10440,7 +10440,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$86.90",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-869"
   },
   {
@@ -10454,7 +10454,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$129.30",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-870"
   },
   {
@@ -10468,7 +10468,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$129.29",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-871"
   },
   {
@@ -10482,7 +10482,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$189.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-872"
   },
   {
@@ -10496,7 +10496,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-873"
   },
   {
@@ -10510,7 +10510,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-874"
   },
   {
@@ -10524,7 +10524,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$43.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-875"
   },
   {
@@ -10538,7 +10538,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-876"
   },
   {
@@ -10552,7 +10552,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$28.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-877"
   },
   {
@@ -10566,7 +10566,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$91.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-878"
   },
   {
@@ -10580,7 +10580,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$100.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-879"
   },
   {
@@ -10594,7 +10594,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-880"
   },
   {
@@ -10608,7 +10608,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-881"
   },
   {
@@ -10622,7 +10622,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-882"
   },
   {
@@ -10636,7 +10636,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$28.33",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-883"
   },
   {
@@ -10650,7 +10650,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-884"
   },
   {
@@ -10664,7 +10664,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$60.80",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-885"
   },
   {
@@ -10678,7 +10678,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$234.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-886"
   },
   {
@@ -10692,7 +10692,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-887"
   },
   {
@@ -10706,7 +10706,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-888"
   },
   {
@@ -10720,7 +10720,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-889"
   },
   {
@@ -10734,7 +10734,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$33.20",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-890"
   },
   {
@@ -10748,7 +10748,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "GeIL",
+    "manufacturer": "GeIL",
     "id": "ram-891"
   },
   {
@@ -10762,7 +10762,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-892"
   },
   {
@@ -10776,7 +10776,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-893"
   },
   {
@@ -10790,7 +10790,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$17.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-894"
   },
   {
@@ -10804,7 +10804,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$43.97",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-895"
   },
   {
@@ -10818,7 +10818,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-896"
   },
   {
@@ -10832,7 +10832,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$48.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-897"
   },
   {
@@ -10846,7 +10846,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-898"
   },
   {
@@ -10860,7 +10860,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$17.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-899"
   },
   {
@@ -10874,7 +10874,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$92.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-900"
   },
   {
@@ -10888,7 +10888,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$229.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-901"
   },
   {
@@ -10902,7 +10902,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-902"
   },
   {
@@ -10916,7 +10916,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-903"
   },
   {
@@ -10930,7 +10930,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-904"
   },
   {
@@ -10944,7 +10944,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$54.99",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-905"
   },
   {
@@ -10958,7 +10958,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-906"
   },
   {
@@ -10972,7 +10972,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-907"
   },
   {
@@ -10986,7 +10986,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-908"
   },
   {
@@ -11000,7 +11000,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-909"
   },
   {
@@ -11014,7 +11014,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-910"
   },
   {
@@ -11028,7 +11028,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$274.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-911"
   },
   {
@@ -11042,7 +11042,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$69.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-912"
   },
   {
@@ -11056,7 +11056,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-913"
   },
   {
@@ -11070,7 +11070,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-914"
   },
   {
@@ -11084,7 +11084,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-915"
   },
   {
@@ -11098,7 +11098,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-916"
   },
   {
@@ -11112,7 +11112,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.69",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-917"
   },
   {
@@ -11126,7 +11126,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$28.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-918"
   },
   {
@@ -11140,7 +11140,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$57.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-919"
   },
   {
@@ -11154,7 +11154,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$39.36",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-920"
   },
   {
@@ -11168,7 +11168,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$46.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-921"
   },
   {
@@ -11182,7 +11182,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-922"
   },
   {
@@ -11196,7 +11196,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-923"
   },
   {
@@ -11210,7 +11210,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-924"
   },
   {
@@ -11224,7 +11224,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-925"
   },
   {
@@ -11238,7 +11238,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$29.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-926"
   },
   {
@@ -11252,7 +11252,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "AMD",
+    "manufacturer": "AMD",
     "id": "ram-927"
   },
   {
@@ -11266,7 +11266,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-928"
   },
   {
@@ -11280,7 +11280,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$53.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-929"
   },
   {
@@ -11294,7 +11294,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-930"
   },
   {
@@ -11308,7 +11308,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$269.88",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-931"
   },
   {
@@ -11322,7 +11322,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.95",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-932"
   },
   {
@@ -11336,7 +11336,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-933"
   },
   {
@@ -11350,7 +11350,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$29.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-934"
   },
   {
@@ -11364,7 +11364,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$131.78",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-935"
   },
   {
@@ -11378,7 +11378,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-936"
   },
   {
@@ -11392,7 +11392,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-937"
   },
   {
@@ -11406,7 +11406,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-938"
   },
   {
@@ -11420,7 +11420,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$49.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-939"
   },
   {
@@ -11434,7 +11434,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$41.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-940"
   },
   {
@@ -11448,7 +11448,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$289.06",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-941"
   },
   {
@@ -11462,7 +11462,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$15.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-942"
   },
   {
@@ -11476,7 +11476,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-943"
   },
   {
@@ -11490,7 +11490,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-944"
   },
   {
@@ -11504,7 +11504,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-945"
   },
   {
@@ -11518,7 +11518,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$71.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-946"
   },
   {
@@ -11532,7 +11532,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$46.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-947"
   },
   {
@@ -11546,7 +11546,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$344.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-948"
   },
   {
@@ -11560,7 +11560,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-949"
   },
   {
@@ -11574,7 +11574,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$109.67",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-950"
   },
   {
@@ -11588,7 +11588,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-951"
   },
   {
@@ -11602,7 +11602,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "$40.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-952"
   },
   {
@@ -11616,7 +11616,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "Lexar",
+    "manufacturer": "Lexar",
     "id": "ram-953"
   },
   {
@@ -11630,7 +11630,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$63.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-954"
   },
   {
@@ -11644,7 +11644,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-955"
   },
   {
@@ -11658,7 +11658,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-956"
   },
   {
@@ -11672,7 +11672,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-957"
   },
   {
@@ -11686,7 +11686,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-958"
   },
   {
@@ -11700,7 +11700,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$16.48",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-959"
   },
   {
@@ -11714,7 +11714,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-960"
   },
   {
@@ -11728,7 +11728,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-961"
   },
   {
@@ -11742,7 +11742,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-962"
   },
   {
@@ -11756,7 +11756,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$86.99",
-    "manufactor": "GeIL",
+    "manufacturer": "GeIL",
     "id": "ram-963"
   },
   {
@@ -11770,7 +11770,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$179.75",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-964"
   },
   {
@@ -11784,7 +11784,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$45.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-965"
   },
   {
@@ -11798,7 +11798,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$43.98",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-966"
   },
   {
@@ -11812,7 +11812,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$37.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-967"
   },
   {
@@ -11826,7 +11826,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$93.02",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-968"
   },
   {
@@ -11840,7 +11840,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$64.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-969"
   },
   {
@@ -11854,7 +11854,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-970"
   },
   {
@@ -11868,7 +11868,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$1353.00",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-971"
   },
   {
@@ -11882,7 +11882,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-972"
   },
   {
@@ -11896,7 +11896,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-973"
   },
   {
@@ -11910,7 +11910,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$118.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-974"
   },
   {
@@ -11924,7 +11924,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-975"
   },
   {
@@ -11938,7 +11938,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-976"
   },
   {
@@ -11952,7 +11952,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-977"
   },
   {
@@ -11966,7 +11966,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-978"
   },
   {
@@ -11980,7 +11980,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$18.98",
-    "manufactor": "Timetec",
+    "manufacturer": "Timetec",
     "id": "ram-979"
   },
   {
@@ -11994,7 +11994,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$72.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-980"
   },
   {
@@ -12008,7 +12008,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-981"
   },
   {
@@ -12022,7 +12022,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-982"
   },
   {
@@ -12036,7 +12036,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-983"
   },
   {
@@ -12050,7 +12050,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$64.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-984"
   },
   {
@@ -12064,7 +12064,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-985"
   },
   {
@@ -12078,7 +12078,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-986"
   },
   {
@@ -12092,7 +12092,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-987"
   },
   {
@@ -12106,7 +12106,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$21.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-988"
   },
   {
@@ -12120,7 +12120,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-989"
   },
   {
@@ -12134,7 +12134,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-990"
   },
   {
@@ -12148,7 +12148,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$124.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-991"
   },
   {
@@ -12162,7 +12162,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-992"
   },
   {
@@ -12176,7 +12176,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$73.98",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-993"
   },
   {
@@ -12190,7 +12190,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-994"
   },
   {
@@ -12204,7 +12204,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-995"
   },
   {
@@ -12218,7 +12218,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$26.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-996"
   },
   {
@@ -12232,7 +12232,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-997"
   },
   {
@@ -12246,7 +12246,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-998"
   },
   {
@@ -12260,7 +12260,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$16.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-999"
   },
   {
@@ -12274,7 +12274,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$269.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1000"
   },
   {
@@ -12288,7 +12288,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$244.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1001"
   },
   {
@@ -12302,7 +12302,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$107.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1002"
   },
   {
@@ -12316,7 +12316,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-1003"
   },
   {
@@ -12330,7 +12330,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1004"
   },
   {
@@ -12344,7 +12344,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1005"
   },
   {
@@ -12358,7 +12358,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$179.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1006"
   },
   {
@@ -12372,7 +12372,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$73.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1007"
   },
   {
@@ -12386,7 +12386,7 @@
     "casLatency": "6",
     "rating": "0",
     "price": "$31.49",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-1008"
   },
   {
@@ -12400,7 +12400,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$132.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1009"
   },
   {
@@ -12414,7 +12414,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1010"
   },
   {
@@ -12428,7 +12428,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1011"
   },
   {
@@ -12442,7 +12442,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1012"
   },
   {
@@ -12456,7 +12456,7 @@
     "casLatency": "10",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1013"
   },
   {
@@ -12470,7 +12470,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$111.97",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1014"
   },
   {
@@ -12484,7 +12484,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$32.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1015"
   },
   {
@@ -12498,7 +12498,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1016"
   },
   {
@@ -12512,7 +12512,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1017"
   },
   {
@@ -12526,7 +12526,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1018"
   },
   {
@@ -12540,7 +12540,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1019"
   },
   {
@@ -12554,7 +12554,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$152.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1020"
   },
   {
@@ -12568,7 +12568,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1021"
   },
   {
@@ -12582,7 +12582,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$52.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1022"
   },
   {
@@ -12596,7 +12596,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$204.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1023"
   },
   {
@@ -12610,7 +12610,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1024"
   },
   {
@@ -12624,7 +12624,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$99.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1025"
   },
   {
@@ -12638,7 +12638,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1026"
   },
   {
@@ -12652,7 +12652,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$258.60",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1027"
   },
   {
@@ -12666,7 +12666,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$394.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1028"
   },
   {
@@ -12680,7 +12680,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1029"
   },
   {
@@ -12694,7 +12694,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$36.98",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-1030"
   },
   {
@@ -12708,7 +12708,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$289.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1031"
   },
   {
@@ -12722,7 +12722,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$186.69",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1032"
   },
   {
@@ -12736,7 +12736,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$60.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1033"
   },
   {
@@ -12750,7 +12750,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$97.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1034"
   },
   {
@@ -12764,7 +12764,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1035"
   },
   {
@@ -12778,7 +12778,7 @@
     "casLatency": "28",
     "rating": "0",
     "price": "$114.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1036"
   },
   {
@@ -12792,7 +12792,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$10.99",
-    "manufactor": "Samsung",
+    "manufacturer": "Samsung",
     "id": "ram-1037"
   },
   {
@@ -12806,7 +12806,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$182.28",
-    "manufactor": "Crucial",
+    "manufacturer": "Crucial",
     "id": "ram-1038"
   },
   {
@@ -12820,7 +12820,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$34.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1039"
   },
   {
@@ -12834,7 +12834,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1040"
   },
   {
@@ -12848,7 +12848,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1041"
   },
   {
@@ -12862,7 +12862,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "$239.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1042"
   },
   {
@@ -12876,7 +12876,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "$17.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1043"
   },
   {
@@ -12890,7 +12890,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1044"
   },
   {
@@ -12904,7 +12904,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$33.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1045"
   },
   {
@@ -12918,7 +12918,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1046"
   },
   {
@@ -12932,7 +12932,7 @@
     "casLatency": "17",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1047"
   },
   {
@@ -12946,7 +12946,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$102.48",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1048"
   },
   {
@@ -12960,7 +12960,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$209.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1049"
   },
   {
@@ -12974,7 +12974,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$42.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1050"
   },
   {
@@ -12988,7 +12988,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1051"
   },
   {
@@ -13002,7 +13002,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1052"
   },
   {
@@ -13016,7 +13016,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$31.99",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-1053"
   },
   {
@@ -13030,7 +13030,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$76.55",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1054"
   },
   {
@@ -13044,7 +13044,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1055"
   },
   {
@@ -13058,7 +13058,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$44.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1056"
   },
   {
@@ -13072,7 +13072,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1057"
   },
   {
@@ -13086,7 +13086,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1058"
   },
   {
@@ -13100,7 +13100,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Silicon Power",
+    "manufacturer": "Silicon Power",
     "id": "ram-1059"
   },
   {
@@ -13114,7 +13114,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$47.99",
-    "manufactor": "Klevv",
+    "manufacturer": "Klevv",
     "id": "ram-1060"
   },
   {
@@ -13128,7 +13128,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-1061"
   },
   {
@@ -13142,7 +13142,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$159.85",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1062"
   },
   {
@@ -13156,7 +13156,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$25.69",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1063"
   },
   {
@@ -13170,7 +13170,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$121.99",
-    "manufactor": "PNY",
+    "manufacturer": "PNY",
     "id": "ram-1064"
   },
   {
@@ -13184,7 +13184,7 @@
     "casLatency": "38",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1065"
   },
   {
@@ -13198,7 +13198,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1066"
   },
   {
@@ -13212,7 +13212,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$339.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1067"
   },
   {
@@ -13226,7 +13226,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$35.97",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1068"
   },
   {
@@ -13240,7 +13240,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$70.77",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1069"
   },
   {
@@ -13254,7 +13254,7 @@
     "casLatency": "9",
     "rating": "0",
     "price": "$21.22",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1070"
   },
   {
@@ -13268,7 +13268,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$109.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1071"
   },
   {
@@ -13282,7 +13282,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$78.77",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1072"
   },
   {
@@ -13296,7 +13296,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$57.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1073"
   },
   {
@@ -13310,7 +13310,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$314.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1074"
   },
   {
@@ -13324,7 +13324,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$74.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1075"
   },
   {
@@ -13338,7 +13338,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$386.19",
-    "manufactor": "ADATA",
+    "manufacturer": "ADATA",
     "id": "ram-1076"
   },
   {
@@ -13352,7 +13352,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1077"
   },
   {
@@ -13366,7 +13366,7 @@
     "casLatency": "34",
     "rating": "0",
     "price": "$119.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1078"
   },
   {
@@ -13380,7 +13380,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$90.69",
-    "manufactor": "GOODRAM",
+    "manufacturer": "GOODRAM",
     "id": "ram-1079"
   },
   {
@@ -13394,7 +13394,7 @@
     "casLatency": "42",
     "rating": "0",
     "price": "$78.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1080"
   },
   {
@@ -13408,7 +13408,7 @@
     "casLatency": "46",
     "rating": "0",
     "price": "$38.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1081"
   },
   {
@@ -13422,7 +13422,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$65.98",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1082"
   },
   {
@@ -13436,7 +13436,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$169.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1083"
   },
   {
@@ -13450,7 +13450,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$36.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1084"
   },
   {
@@ -13464,7 +13464,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$47.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-1085"
   },
   {
@@ -13478,7 +13478,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$59.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1086"
   },
   {
@@ -13492,7 +13492,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$149.99",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1087"
   },
   {
@@ -13506,7 +13506,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$299.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1088"
   },
   {
@@ -13520,7 +13520,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$164.99",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-1089"
   },
   {
@@ -13534,7 +13534,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "$48.46",
-    "manufactor": "Neo Forza",
+    "manufacturer": "Neo Forza",
     "id": "ram-1090"
   },
   {
@@ -13548,7 +13548,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$199.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1091"
   },
   {
@@ -13562,7 +13562,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$144.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1092"
   },
   {
@@ -13576,7 +13576,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$76.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1093"
   },
   {
@@ -13590,7 +13590,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$280.25",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1094"
   },
   {
@@ -13604,7 +13604,7 @@
     "casLatency": "30",
     "rating": "0",
     "price": "$174.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1095"
   },
   {
@@ -13618,7 +13618,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$279.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1096"
   },
   {
@@ -13632,7 +13632,7 @@
     "casLatency": "20",
     "rating": "0",
     "price": "$68.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1097"
   },
   {
@@ -13646,7 +13646,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$184.99",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1098"
   },
   {
@@ -13660,7 +13660,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$129.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1099"
   },
   {
@@ -13674,7 +13674,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$48.57",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1100"
   },
   {
@@ -13688,7 +13688,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$159.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1101"
   },
   {
@@ -13702,7 +13702,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$67.98",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1102"
   },
   {
@@ -13716,7 +13716,7 @@
     "casLatency": "22",
     "rating": "0",
     "price": "$28.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1103"
   },
   {
@@ -13730,7 +13730,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$79.98",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-1104"
   },
   {
@@ -13744,7 +13744,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$56.99",
-    "manufactor": "Neo Forza",
+    "manufacturer": "Neo Forza",
     "id": "ram-1105"
   },
   {
@@ -13758,7 +13758,7 @@
     "casLatency": "15",
     "rating": "0",
     "price": "$334.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1106"
   },
   {
@@ -13772,7 +13772,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$331.00",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1107"
   },
   {
@@ -13786,7 +13786,7 @@
     "casLatency": "19",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "Thermaltake",
+    "manufacturer": "Thermaltake",
     "id": "ram-1108"
   },
   {
@@ -13800,7 +13800,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$134.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1109"
   },
   {
@@ -13814,7 +13814,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$99.98",
-    "manufactor": "Mushkin",
+    "manufacturer": "Mushkin",
     "id": "ram-1110"
   },
   {
@@ -13828,7 +13828,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$610.00",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1111"
   },
   {
@@ -13842,7 +13842,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "NULL",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1112"
   },
   {
@@ -13856,7 +13856,7 @@
     "casLatency": "36",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "OLOy",
+    "manufacturer": "OLOy",
     "id": "ram-1113"
   },
   {
@@ -13870,7 +13870,7 @@
     "casLatency": "11",
     "rating": "0",
     "price": "$62.17",
-    "manufactor": "G.Skill",
+    "manufacturer": "G.Skill",
     "id": "ram-1114"
   },
   {
@@ -13884,7 +13884,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$94.99",
-    "manufactor": "Patriot",
+    "manufacturer": "Patriot",
     "id": "ram-1115"
   },
   {
@@ -13898,7 +13898,7 @@
     "casLatency": "14",
     "rating": "0",
     "price": "$139.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1116"
   },
   {
@@ -13912,7 +13912,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$75.48",
-    "manufactor": "Kingston",
+    "manufacturer": "Kingston",
     "id": "ram-1117"
   },
   {
@@ -13926,7 +13926,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$84.99",
-    "manufactor": "TEAMGROUP",
+    "manufacturer": "TEAMGROUP",
     "id": "ram-1118"
   },
   {
@@ -13940,7 +13940,7 @@
     "casLatency": "18",
     "rating": "0",
     "price": "$69.98",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1119"
   },
   {
@@ -13954,7 +13954,7 @@
     "casLatency": "40",
     "rating": "0",
     "price": "$194.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1120"
   },
   {
@@ -13968,7 +13968,7 @@
     "casLatency": "32",
     "rating": "0",
     "price": "$359.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1121"
   },
   {
@@ -13982,7 +13982,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1122"
   },
   {
@@ -13996,7 +13996,7 @@
     "casLatency": "16",
     "rating": "0",
     "price": "$89.99",
-    "manufactor": "Corsair",
+    "manufacturer": "Corsair",
     "id": "ram-1123"
   }
 ]

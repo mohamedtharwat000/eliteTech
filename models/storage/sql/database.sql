@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS cases (
     internalBays INT,
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS cpus (
     smt VARCHAR(3),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -63,7 +63,7 @@ CREATE TABLE IF NOT EXISTS coolers (
     radiatorSize VARCHAR(50),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -79,7 +79,7 @@ CREATE TABLE IF NOT EXISTS gpus (
     length VARCHAR(30),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -95,7 +95,7 @@ CREATE TABLE IF NOT EXISTS headphones (
     color VARCHAR(50),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -111,7 +111,7 @@ CREATE TABLE IF NOT EXISTS keyboards (
     color VARCHAR(50),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -126,7 +126,7 @@ CREATE TABLE IF NOT EXISTS mices (
     color VARCHAR(50),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -142,7 +142,7 @@ CREATE TABLE IF NOT EXISTS monitors (
     aspectRatio VARCHAR(30),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -157,7 +157,7 @@ CREATE TABLE IF NOT EXISTS motherboards (
     color VARCHAR(50),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -172,7 +172,7 @@ CREATE TABLE IF NOT EXISTS powersupplies (
     color VARCHAR(50),
     rating DECIMAL(5, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -188,7 +188,7 @@ CREATE TABLE IF NOT EXISTS rams (
     casLatency INT,
     rating DECIMAL(5, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
@@ -204,7 +204,7 @@ CREATE TABLE IF NOT EXISTS storages (
     interface VARCHAR(20),
     rating DECIMAL(2, 1) DEFAULT 0.0,
     price DECIMAL(10, 2),
-    manufactor VARCHAR(255),
+    manufacturer VARCHAR(255),
     stock INT DEFAULT 0
 );
 
