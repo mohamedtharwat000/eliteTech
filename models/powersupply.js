@@ -11,7 +11,7 @@ export default class PowerSupply extends Base {
    */
   constructor(obj = {}) {
     // Call the constructor of the Base class to set the unique identifier.
-    super(obj);
+    super();
 
     this.manufacturer = obj.manufacturer ?? null;
     this.name = obj.name ?? null;

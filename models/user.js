@@ -12,7 +12,7 @@ export default class User extends Base {
   constructor(obj = {}) {
     // Call the constructor of the Base class to set the unique identifier.
     if (obj.username && obj.email && obj.password) {
-      super(obj);
+      super();
       this.username = obj.username;
       this.email = obj.email;
       this.password = obj.password;

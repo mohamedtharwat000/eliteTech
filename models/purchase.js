@@ -11,7 +11,7 @@ export default class Purchase extends Base {
    */
   constructor(obj = {}) {
     // Call the constructor of the Base class to set the unique identifier.
-    super(obj);
+    super();
 
     // Validate and set properties for the purchase.
     if (obj.userID && obj.purchaseDate && obj.totalAmount) {
