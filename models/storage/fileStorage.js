@@ -15,3 +15,47 @@ import User from '../user.js';
 import Purchase from '../purchase.js';
 import PurchaseItem from '../purchaseItem.js';
 import ProductRating from '../productRating.js';
+import { readFileSync } from 'fs';
+
+const classes = {
+  Base,
+  Case,
+  Cooler,
+  CPU,
+  GPU,
+  Headphone,
+  Keyboard,
+  Mice,
+  Monitor,
+  Motherboard,
+  Powersupply,
+  Ram,
+  Storage,
+  User,
+  Purchase,
+  PurchaseItem,
+  ProductRating,
+};
+
+export default class FileStorage {
+  constructor() {
+    this.data = {};
+    this.path = '';
+  }
+
+  all() {
+    try {
+      const all = readFileSync(
+        process.cwd() + '/models/storage/json/productTypes.json',
+        'utf8'
+      );
+      return JSON.parse(all);
+    } catch (err) {
+      throw err;
+    }
+  }
+
+  close() {
+    this.data = {};
+  }
+}
