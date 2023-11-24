@@ -5,9 +5,9 @@ const dbType = process.env.db;
 let Storage = null;
 
 if (dbType) {
-  Storage = MysqlStorage;
+  Storage = new MysqlStorage();
 } else {
-  Storage = FileStorage;
+  Storage = new FileStorage();
 }
 
 export default Storage;

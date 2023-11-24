@@ -1,5 +1,5 @@
-// import {new, save, delete} from './storage/db.js';
-import { v4 as uuidv4 } from 'uuid';
+import Storage from './storage/storage.js';
+import { v4 } from 'uuid';
 
 /**
  * Base class for creating objects with a unique identifier.
@@ -7,10 +7,10 @@ import { v4 as uuidv4 } from 'uuid';
 export default class Base {
   /**
    * Constructor for the Base class.
+   * Generates a unique identifier using the 'uuid' library.
    */
   constructor() {
-    // Generate a unique identifier using the uuid library.
-    this.id = uuidv4();
+    this.id = v4();
   }
 
   /**
@@ -19,5 +19,12 @@ export default class Base {
    */
   toString() {
     return JSON.stringify(this);
+  }
+
+  /**
+   * Saves the object using the 'Storage' module.
+   */
+  save() {
+    Storage.save(this);
   }
 }
