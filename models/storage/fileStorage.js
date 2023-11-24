@@ -55,6 +55,12 @@ export default class FileStorage {
     }
   }
 
+  save() {}
+
+  delete() {}
+
+  get() {}
+
   close() {
     this.data = {};
   }
