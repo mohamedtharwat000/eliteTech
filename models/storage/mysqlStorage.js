@@ -1,22 +1,6 @@
-// import Base from '../base.js';
-// import Case from '../case.js';
-// import Cooler from '../cooler.js';
-// import CPU from '../cpu.js';
-// import GPU from '../gpu.js';
-// import Headphone from '../headphone.js';
-// import Keyboard from '../keyboard.js';
-// import Mice from '../mice.js';
-// import Monitor from '../monitor.js';
-// import Motherboard from '../motherboard.js';
-// import Powersupply from '../powersupply.js';
-// import Ram from '../ram.js';
-// import Storage from '../storage.js';
-// import User from '../user.js';
-// import Purchase from '../purchase.js';
-// import PurchaseItem from '../purchaseItem.js';
-// import ProductRating from '../productRating.js';
-
 import mysql from 'mysql2/promise';
+
+
 const tables = {Case: 'cases', Cooler: 'coolers', CPU: 'cpus',
 				GPU: 'gpus', Headphone: 'headphone', Keyboard: 'keyboards',
 				Mice: 'mices', Monitor: 'monitors', Motherboard: 'motherboards',
@@ -31,12 +15,17 @@ const tables = {Case: 'cases', Cooler: 'coolers', CPU: 'cpus',
  * @class
  * @public
  */
-
 export default class MysqlStorage {
 	constructor() {
 		this.connect();
 	};
 
+	/**
+	 * connect to the database
+	 *
+	 * @async
+	 * @returns {Promise<[TODO:type]>} database Connection
+	 */
 	async connect() {
 		try {
 			this.db = await mysql.createConnection({
@@ -54,19 +43,101 @@ export default class MysqlStorage {
 	}
 
 	
-	async all(cls){
+	/**
+	 * get all the entries in a table
+	 *
+	 * @async
+	 * @param {Class object} cls - a clase object
+	 * @returns {Promise<[TODO:type]>} return the query results 
+	 */
+	async all(cls) {
 		if (!this.db) {
 	        await this.connect();
 		};
-		console.log('cls.name: ',cls.name);
-		console.log('tables[cls.name]: ', tables[cls.name]);
-		let sql = `SELECT * FROM ${tables[cls.name]}`;
-		const [rows, fields] = await this.db.execute(sql);
-		console.log('SQL runs!');
-	    return rows;
+		try {
+			let sql = `SELECT * FROM ${tables[cls.name]}`;
+			const [rows, fields] = await this.db.execute(sql);
+			console.log('SQL runs!');
+			return (rows);
+		} catch(err) {
+			console.log(`Error Fetching Data from ${tables[cls.name]}: `, err);
+			throw err;
+		};
 	}
 
+	/**
+	 * get an entry from the database
+	 *
+	 * @async
+	 * @param {class object} cls - a class object
+	 * @param {map} obj - a map contains the entry id
+	 * @returns the query result
+	 */
+	async get(cls, obj) {
+		if (!this.db) {
+			await this.connect();
+		}
+		try {
+			let sql = `SELECT * FROM ${tables[cls.name]} WHERE ID = ${obj.id}`;
+			const [rows, fields] = await this.db.execute(sql);
 
+			return (rows);
+		} catch (err) {
+			console.log('Error! ', err);
+			throw err;
+		};
+	}
+
+	/**
+	 * delete an entry from a table
+	 *
+	 * @async
+	 * @param {class object} cls - a class object
+	 * @param {map} obj - a map that contains the entry id
+	 * @returns 0 on success
+	 */
+	async delete(cls, obj) {
+		if (!this.db) {
+			await this.connect();
+		}
+		try {
+			let sql = `DELETE FROM ${tables[cls.name]} WHERE ID = ${obj.id}`;
+			const [rows, fields] = await this.db.execute(sql);
+
+			return (0);
+		} catch (err) {
+			console.error(`Error deleting from ${tables[cls.name]}:`, err);
+			throw err;
+		};
+	}
+
+	async save(obj) {
+		if (!this.db) {
+			await this.connect();
+		}
+		let cls = obj.constructor.name
+		
+		try {
+			// console.log(obj.toString())
+			const columns = Object.keys(JSON.parse(obj.toString())).join(', ');
+			const values = Object.values(JSON.parse(obj.toString())).map(value => this.db.escape(value)).join(', ');
+			// console.log('cols: ', columns);
+			// console.log('rows: ', values);
+			let sql = `INSERT INTO ${tables[cls]} (${columns}) VALUES (${values})`;
+			const [result] = await this.db.execute(sql);
+		} catch (err){
+			console.error(`Error inserting into ${tables[cls.name]}:`, err);
+		    throw err;
+		};
+
+		// await this.close();
+	} 
+
+	/**
+	 * close the db connection
+	 *
+	 * @async
+	 */
 	async close() {
 		try {
 		    await this.db.end();
@@ -74,6 +145,7 @@ export default class MysqlStorage {
 		} catch (err) {
 		    console.error('Error closing MySQL:', err);
 		}
-}
+	}
+
 	
 };
