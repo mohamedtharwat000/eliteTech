@@ -1,6 +1,10 @@
 import Storage from './storage/storage.js';
 import { v4 } from 'uuid';
 
+
+const dbType = process.env.db;
+
+
 /**
  * @summary Base class for creating objects with a unique identifier.
  * @class
@@ -14,7 +18,9 @@ export default class Base {
    * @public
    */
   constructor() {
-    this.id = v4();
+	if (!dbType) {
+		this.id = v4();
+	}
   }
 
   /**
@@ -42,8 +48,10 @@ export default class Base {
    * @returns {Array} Array containing all stored objects of the current type.
    * @public
    */
-  static all() {
-    return Storage.all(this);
+  static async all() {
+	const result = await Storage.all(this);
+    return result;
+
   }
 
   /**
