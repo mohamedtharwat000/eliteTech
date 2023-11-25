@@ -38,7 +38,7 @@ export default class Base {
    * @method
    * @public
    */
-  save() {
+  async save() {
     Storage.save(this);
   }
 
@@ -49,8 +49,7 @@ export default class Base {
    * @public
    */
   static async all() {
-	const result = await Storage.all(this);
-    return result;
+    return Storage.all(this);
 
   }
 
@@ -61,7 +60,7 @@ export default class Base {
    * @returns {Object|null} The retrieved object or null if not found.
    * @public
    */
-  static get(obj) {
+  static async get(obj) {
     return Storage.get(this, obj);
   }
 
@@ -71,7 +70,7 @@ export default class Base {
    * @param {Object} obj - The object to be deleted.
    * @public
    */
-  static delete(obj) {
+  static async delete(obj) {
     return Storage.delete(this, obj);
   }
 
