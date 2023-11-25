@@ -18,7 +18,7 @@ import ProductRating from './productRating.js';
 
 
 
-let user = new User({username: 'Ali', email: 'test@yahoo.com', password: '512158@123'});
+let user = new User({username: 'Ahmed', email: 'test13123@gmail.com', password: 'PASSWORD123'});
 
 user.save();
 
@@ -31,5 +31,9 @@ await User.delete({id: 6});
 await User.delete({id: 7});
 
 let allUsers = await User.all();
-
 console.log('all users:', allUsers);
+
+
+let getUser = await User.get({id: 17});
+
+console.log('getuser: ', getUser);
