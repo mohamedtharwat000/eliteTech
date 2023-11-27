@@ -1,86 +1,79 @@
 import Storage from './storage/storage.js';
-import { v4 } from 'uuid';
-
-
-const dbType = process.env.db;
-
 
 /**
- * @summary Base class for creating objects with a unique identifier.
- * @class
- * @public
+ * Base class serving as a foundation for other classes with CRUD operations.
  */
 export default class Base {
   /**
-   * @summary Constructor for the Base class.
-   * Generates a unique identifier using the 'uuid' library.
-   * @constructor
-   * @public
+   * Constructs a new Base instance. Generates an ID if the Storage is of type FileStorage.
    */
   constructor() {
-	if (!dbType) {
-		this.id = v4();
-	}
+    if (Storage.constructor.name === 'FileStorage') {
+      this.id = Math.floor(Math.random() * 10000000000);
+    }
   }
 
   /**
-   * @summary Converts the object to a JSON string.
-   * @method
-   * @returns {string} JSON representation of the object.
-   * @public
+   * Converts the object to a JSON string.
+   * @returns {string} - The JSON representation of the object.
    */
   toString() {
     return JSON.stringify(this);
   }
 
   /**
-   * @summary Saves the object using the 'Storage' module.
-   * @method
-   * @public
+   * Retrieves the type of the object using the associated Storage.
+   * @returns {Object|null} - The type information or null if not found.
    */
-  async save() {
-    Storage.save(this);
+  type() {
+    return Storage.type(this);
   }
 
   /**
-   * @summary Gets all data from storage.
-   * @method
-   * @returns {Array} Array containing all stored objects of the current type.
-   * @public
+   * Retrieves all records of the current class using the associated Storage.
+   * @returns {Array} - An array of records.
    */
-  static async all() {
+  static all() {
     return Storage.all(this);
-
   }
 
   /**
-   * @summary Gets data from storage based on the provided object.
-   * @method
-   * @param {Object} obj - The object to be retrieved.
-   * @returns {Object|null} The retrieved object or null if not found.
-   * @public
+   * Retrieves a specific record based on the provided object using the associated Storage.
+   * @param {Object} obj - The object to retrieve.
+   * @returns {Object|null} - The retrieved record or null if not found.
    */
-  static async get(obj) {
+  static get(obj) {
     return Storage.get(this, obj);
   }
 
   /**
-   * @summary delete data from storage based on the provided object.
-   * @method
-   * @param {Object} obj - The object to be deleted.
-   * @public
+   * Adds a new record to the current class using the associated Storage.
+   * @param {Object} obj - The object to add.
+   * @returns {number} - The ID of the added object.
    */
-  static async delete(obj) {
-    return Storage.delete(this, obj);
+  static add(obj) {
+    if (this instanceof this.constructor) {
+      return Storage.add(this, obj);
+    } else {
+      throw new Error('Cannot add record to a non-class object');
+    }
   }
 
   /**
-   * @summary Gets all stored data.
-   * @method
-   * @returns {Array} Array containing all stored objects.
-   * @public
+   * Updates an existing record in the current class using the associated Storage.
+   * @param {Object} obj - The object with updated values.
+   * @returns {number|null} - The ID of the updated object or null if not found.
    */
-  static data() {
-    return Storage.data();
+  static update(obj) {
+    return Storage.update(this, obj);
+  }
+
+  /**
+   * Deletes a record from the current class using the associated Storage.
+   * @param {Object} obj - The object to delete.
+   * @returns {number|null} - The ID of the deleted object or null if not found.
+   */
+  static delete(obj) {
+    return Storage.delete(this, obj);
   }
 }

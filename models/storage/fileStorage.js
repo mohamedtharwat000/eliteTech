@@ -1,74 +1,67 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { readFile, writeFile } from 'fs/promises';
 
 /**
- * @summary Class for handling file-based storage operations.
- * @class
- * @public
+ * FileStorage class for handling CRUD operations on JSON files.
  */
 export default class FileStorage {
   /**
-   * @summary Constructor for the FileStorage class.
-   * @constructor
-   * @public
+   * Constructs a new FileStorage instance and triggers a data reload.
    */
-  constructor() {}
-
-  /**
-   * @summary Retrieves all data from the specified JSON file.
-   * @method
-   * @returns {Array} Array containing all stored objects.
-   * @public
-   */
-  data() {
-    const data = readFileSync(
-      process.cwd() + '/models/storage/json/productType.json',
-      'utf8'
-    );
-    return JSON.parse(data);
+  constructor() {
+    this.reload();
   }
 
   /**
-   * @summary Retrieves all objects of a specific class from the corresponding JSON file.
-   * @method
+   * Reloads the data by setting it to null.
+   */
+  reload() {
+    this.data = null;
+  }
+
+  /**
+   * Retrieves a record based on the type of the provided object.
+   * @param {Object} obj - The object whose type is used for retrieval.
+   * @returns {Object|null} - The retrieved record or null if not found.
+   */
+  async type(obj) {
+    this.reload();
+    this.data = JSON.parse(
+      await readFile(`${process.cwd()}/models/storage/json/type.json`, 'utf8')
+    );
+    for (const record of this.data) {
+      if (record.type === obj.constructor.name.toLowerCase()) {
+        return record;
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Retrieves all records of a specified class.
    * @param {Function} cls - The class of objects to retrieve.
-   * @returns {Array} Array containing all stored objects of the specified class.
-   * @public
+   * @returns {Array} - An array of records.
    */
-  all(cls) {
-    const data = readFileSync(
-      `${process.cwd()}/models/storage/json/${cls.name.toLowerCase()}.json`,
-      'utf8'
+  async all(cls) {
+    this.reload();
+    this.data = JSON.parse(
+      await readFile(
+        `${process.cwd()}/models/storage/json/${cls.name.toLowerCase()}.json`,
+        'utf8'
+      )
     );
-    return JSON.parse(data);
+    return this.data;
   }
 
   /**
-   * @summary Saves the provided object to the corresponding JSON file.
-   * @method
-   * @param {Object} obj - The object to be saved.
-   * @public
-   */
-  save(obj) {
-    const data = this.all(obj.constructor);
-    data.push(JSON.parse(obj.toString()));
-    writeFileSync(
-      `${process.cwd()}/models/storage/json/${obj.constructor.name.toLowerCase()}.json`,
-      JSON.stringify(data),
-      'utf8'
-    );
-  }
-
-  /**
-   * @summary Retrieves a specific object from the specified class based on the provided object.
-   * @method
-   * @param {Function} cls - The class of objects to search.
+   * Retrieves a specific record based on class and object ID.
+   * @param {Function} cls - The class of the object.
    * @param {Object} obj - The object to retrieve.
-   * @returns {Object|null} The retrieved object or null if not found.
-   * @public
+   * @returns {Object|null} - The retrieved record or null if not found.
    */
-  get(cls, obj) {
-    const data = this.all(cls);
-    for (const record of data) {
+  async get(cls, obj) {
+    this.reload();
+    await this.all(cls);
+    for (const record of this.data) {
       if (record.id == obj.id) {
         return record;
       }
@@ -77,21 +70,68 @@ export default class FileStorage {
   }
 
   /**
-   * @summary Deletes a specific object from the specified class based on the provided object.
-   * @method
-   * @param {Function} cls - The class of objects to search.
-   * @param {Object} obj - The object to delete.
-   * @public
+   * Adds a new record to the specified class.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object to add.
+   * @returns {number} - The ID of the added object.
    */
-  delete(cls, obj) {
-    const data = this.all(cls);
-    for (const record of data) {
+  async add(cls, obj) {
+    this.reload();
+    await this.all(cls);
+    this.data.push(JSON.parse(obj.toString()));
+    await this.save(cls, this.data);
+    return obj.id;
+  }
+
+  /**
+   * Updates an existing record in the specified class.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object with updated values.
+   * @returns {number|null} - The ID of the updated object or null if not found.
+   */
+  async update(cls, obj) {
+    this.reload();
+    await this.all(cls);
+    for (const record of this.data) {
       if (record.id == obj.id) {
-        data.splice(data.indexOf(record), 1);
+        for (const property in obj) {
+          if (property == 'id') continue;
+          record[property] = obj[property];
+        }
+        await this.save(cls, this.data);
+        return obj.id;
       }
     }
-    writeFileSync(
-      `${process.cwd()}/models/storage/json/${cls.name.toLowerCase()}.json`,
+    return null;
+  }
+
+  /**
+   * Deletes a record from the specified class.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object to delete.
+   * @returns {number|null} - The ID of the deleted object or null if not found.
+   */
+  async delete(cls, obj) {
+    this.reload();
+    await this.all(cls);
+    for (const record of this.data) {
+      if (record.id == obj.id) {
+        this.data.splice(this.data.indexOf(record), 1);
+        await this.save(cls, this.data);
+        return obj.id;
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Saves data to a JSON file based on the product name.
+   * @param {Function} product - The class representing the product.
+   * @param {Array} data - The data to be saved.
+   */
+  async save(product, data) {
+    await writeFile(
+      `${process.cwd()}/models/storage/json/${product.name.toLowerCase()}.json`,
       JSON.stringify(data),
       'utf8'
     );

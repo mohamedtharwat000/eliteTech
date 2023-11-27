@@ -2,26 +2,30 @@ CREATE DATABASE IF NOT EXISTS elite_tech;
 
 USE elite_tech;
 
-CREATE TABLE IF NOT EXISTS productTypes (
+CREATE TABLE IF NOT EXISTS `type` (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    productType VARCHAR(50) NOT NULL
+    type VARCHAR(50) NOT NULL
 );
 
-INSERT INTO productTypes (productType) VALUES
+INSERT INTO `type` (type) VALUES
+('user'),
+('purchase'),
+('purchaseItem'),
+('productRating'),
 ('case'),
 ('cpu'),
 ('cooler'),
 ('gpu'),
-('headphone'),
-('keyboards'),
-('mice'),
-('monitor'),
-('motherboards'),
-('powersupply'),
 ('ram'),
-('storage');
+('storage'),
+('motherboard'),
+('powersupply'),
+('monitor'),
+('mice'),
+('keyboard'),
+('headphone');
 
-CREATE TABLE IF NOT EXISTS cases (
+CREATE TABLE IF NOT EXISTS `case` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -37,7 +41,7 @@ CREATE TABLE IF NOT EXISTS cases (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS cpus (
+CREATE TABLE IF NOT EXISTS `cpu` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -53,7 +57,7 @@ CREATE TABLE IF NOT EXISTS cpus (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS coolers (
+CREATE TABLE IF NOT EXISTS `cooler` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -67,7 +71,7 @@ CREATE TABLE IF NOT EXISTS coolers (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS gpus (
+CREATE TABLE IF NOT EXISTS `gpu` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -83,7 +87,7 @@ CREATE TABLE IF NOT EXISTS gpus (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS headphones (
+CREATE TABLE IF NOT EXISTS `headphone` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -99,7 +103,7 @@ CREATE TABLE IF NOT EXISTS headphones (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS keyboards (
+CREATE TABLE IF NOT EXISTS `keyboard` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -115,7 +119,7 @@ CREATE TABLE IF NOT EXISTS keyboards (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS mices (
+CREATE TABLE IF NOT EXISTS `mice` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -130,7 +134,7 @@ CREATE TABLE IF NOT EXISTS mices (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS monitors (
+CREATE TABLE IF NOT EXISTS `monitor` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -146,7 +150,7 @@ CREATE TABLE IF NOT EXISTS monitors (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS motherboards (
+CREATE TABLE IF NOT EXISTS `motherboard` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -161,7 +165,7 @@ CREATE TABLE IF NOT EXISTS motherboards (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS powersupplies (
+CREATE TABLE IF NOT EXISTS `powersupply` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -176,7 +180,7 @@ CREATE TABLE IF NOT EXISTS powersupplies (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS rams (
+CREATE TABLE IF NOT EXISTS `ram` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -192,7 +196,7 @@ CREATE TABLE IF NOT EXISTS rams (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS storages (
+CREATE TABLE IF NOT EXISTS `storage` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     imageURL VARCHAR(255),
     name VARCHAR(255),
@@ -208,38 +212,38 @@ CREATE TABLE IF NOT EXISTS storages (
     stock INT DEFAULT 0
 );
 
-CREATE TABLE IF NOT EXISTS users (
+CREATE TABLE IF NOT EXISTS `user` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL,
     password VARCHAR(255) NOT NULL
 );
 
-CREATE TABLE IF NOT EXISTS purchases (
+CREATE TABLE IF NOT EXISTS `purchase` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     userID INT NOT NULL,
     purchaseDate DATETIME DEFAULT CURRENT_TIMESTAMP,
     totalAmount DECIMAL(15, 2) NOT NULL,
-    FOREIGN KEY (userID) REFERENCES users(id)
+    FOREIGN KEY (userID) REFERENCES user(id)
 );
 
-CREATE TABLE IF NOT EXISTS purchaseItems (
+CREATE TABLE IF NOT EXISTS `purchaseItem` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     purchaseID INT NOT NULL,
     productID INT NOT NULL,
-    productType INT NOT NULL,
+    type INT NOT NULL,
     quantity INT NOT NULL,
     subtotal DECIMAL(15, 2) NOT NULL,
-    FOREIGN KEY (purchaseID) REFERENCES purchases(id),
-    FOREIGN KEY (productType) REFERENCES productTypes(id)
+    FOREIGN KEY (purchaseID) REFERENCES purchase(id),
+    FOREIGN KEY (type) REFERENCES type(id)
 );
 
-CREATE TABLE IF NOT EXISTS productRating (
+CREATE TABLE IF NOT EXISTS `productRating` (
     id INT PRIMARY KEY AUTO_INCREMENT,
     userID INT NOT NULL,
     productID INT NOT NULL,
-    productType INT NOT NULL,
+    type INT NOT NULL,
     rating DECIMAL(3, 1) NOT NULL,
-    FOREIGN KEY (userID) REFERENCES users(id),
-    FOREIGN KEY (productType) REFERENCES productTypes(id)
+    FOREIGN KEY (userID) REFERENCES user(id),
+    FOREIGN KEY (type) REFERENCES type(id)
 );

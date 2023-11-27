@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "type": "user"
+  },
+  {
+    "id": 2,
+    "type": "purchase"
+  },
+  {
+    "id": 3,
+    "type": "purchaseItem"
+  },
+  {
+    "id": 4,
+    "type": "productRating"
+  },
+  {
+    "id": 5,
+    "type": "case"
+  },
+  {
+    "id": 6,
+    "type": "cpu"
+  },
+  {
+    "id": 7,
+    "type": "cooler"
+  },
+  {
+    "id": 8,
+    "type": "gpu"
+  },
+  {
+    "id": 9,
+    "type": "ram"
+  },
+  {
+    "id": 10,
+    "type": "storage"
+  },
+  {
+    "id": 11,
+    "type": "motherboard"
+  },
+  {
+    "id": 12,
+    "type": "powersupply"
+  },
+  {
+    "id": 13,
+    "type": "monitor"
+  },
+  {
+    "id": 14,
+    "type": "mice"
+  },
+  {
+    "id": 15,
+    "type": "keyboard"
+  },
+  {
+    "id": 16,
+    "type": "headphone"
+  }
+]

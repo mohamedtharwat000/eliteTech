@@ -14,10 +14,10 @@ export default class ProductRating extends Base {
     super();
 
     // Validate and set properties for the product rating.
-    if (obj.userID && obj.productID && obj.productType && obj.rating) {
+    if (obj.userID && obj.productID && obj.type && obj.rating) {
       this.userID = obj.userID;
       this.productID = obj.productID;
-      this.productType = obj.productType;
+      this.type = obj.type;
       this.rating = obj.rating;
     } else {
       throw new Error('Incomplete product rating information.');

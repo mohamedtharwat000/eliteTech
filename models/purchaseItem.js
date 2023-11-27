@@ -17,13 +17,13 @@ export default class PurchaseItem extends Base {
     if (
       obj.purchaseID &&
       obj.productID &&
-      obj.productType &&
+      obj.type &&
       obj.quantity &&
       obj.subtotal
     ) {
       this.purchaseID = obj.purchaseID;
       this.productID = obj.productID;
-      this.productType = obj.productType;
+      this.type = obj.type;
       this.quantity = obj.quantity;
       this.subtotal = obj.subtotal;
     } else {

@@ -1,151 +1,131 @@
-import mysql from 'mysql2/promise';
-
-
-const tables = {Case: 'cases', Cooler: 'coolers', CPU: 'cpus',
-				GPU: 'gpus', Headphone: 'headphone', Keyboard: 'keyboards',
-				Mice: 'mices', Monitor: 'monitors', Motherboard: 'motherboards',
-				Powersupply: 'powersupplies', Ram: 'rams', Storage: 'storages',
-				User: 'users', Purchase: 'purchases', PurchaseItem: 'purchaseItems',
-				ProductRating: 'productRating'
-			}
-
+import mysql from 'mysql2';
 
 /**
- * @summary Class for handling db storage operations.
- * @class
- * @public
+ * MysqlStorage class for handling CRUD operations on a MySQL database.
  */
 export default class MysqlStorage {
-	constructor() {
-		this.connect();
-	};
+  /**
+   * Constructs a new MysqlStorage instance and initializes a MySQL connection.
+   */
+  constructor() {
+    this.data = null;
+    this.db = null;
+  }
 
-	/**
-	 * connect to the database
-	 *
-	 * @async
-	 * @returns {Promise<[TODO:type]>} database Connection
-	 */
-	async connect() {
-		try {
-			this.db = await mysql.createConnection({
-				host		: 'localhost',
-				user		: 'lordy',
-				password	: '',
-				database	: 'elite_tech',
-			});
+  /**
+   * Connects to the MySQL database.
+   */
+  connect() {
+    this.data = null;
+    this.db = mysql
+      .createConnection({
+        host: process.env.dbHost,
+        user: process.env.dbUser,
+        password: process.env.dbPassword,
+        database: process.env.dbDatabase,
+      })
+      .promise();
+  }
 
-			console.log("Connected to DB!");
-		} catch (err) {
-			  console.error('Error connecting to MySQL:', err);
-		      throw err;
-		}
-	}
+  /**
+   * Closes the MySQL database connection.
+   */
+  close() {
+    this.db.end();
+  }
 
-	
-	/**
-	 * get all the entries in a table
-	 *
-	 * @async
-	 * @param {Class object} cls - a clase object
-	 * @returns {Promise<[TODO:type]>} return the query results 
-	 */
-	async all(cls) {
-		if (!this.db) {
-	        await this.connect();
-		};
-		try {
-			let sql = `SELECT * FROM ${tables[cls.name]}`;
-			const [rows, fields] = await this.db.execute(sql);
-			console.log('SQL runs!');
-			return (rows);
-		} catch(err) {
-			console.log(`Error Fetching Data from ${tables[cls.name]}: `, err);
-			throw err;
-		};
-	}
+  /**
+   * Retrieves a record based on the type of the provided object.
+   * @param {Object} obj - The object whose type is used for retrieval.
+   * @returns {Object|null} - The retrieved record or null if not found.
+   */
+  async type(obj) {
+    this.connect();
+    this.data = await this.db.query(
+      `SELECT * FROM type WHERE type = '${obj.constructor.name.toLowerCase()}'`
+    );
+    this.close();
+    return this.data[0][0];
+  }
 
-	/**
-	 * get an entry from the database
-	 *
-	 * @async
-	 * @param {class object} cls - a class object
-	 * @param {map} obj - a map contains the entry id
-	 * @returns the query result
-	 */
-	async get(cls, obj) {
-		if (!this.db) {
-			await this.connect();
-		}
-		try {
-			let sql = `SELECT * FROM ${tables[cls.name]} WHERE ID = ${obj.id}`;
-			const [rows, fields] = await this.db.execute(sql);
+  /**
+   * Retrieves all records of a specified class from the MySQL database.
+   * @param {Function} cls - The class of objects to retrieve.
+   * @returns {Array} - An array of records.
+   */
+  async all(cls) {
+    this.connect();
+    this.data = await this.db.query(`SELECT * FROM ${cls.name.toLowerCase()}`);
+    this.close();
+    return this.data[0];
+  }
 
-			return (rows);
-		} catch (err) {
-			console.log('Error! ', err);
-			throw err;
-		};
-	}
+  /**
+   * Retrieves a specific record based on class and object ID from the MySQL database.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object to retrieve.
+   * @returns {Object|null} - The retrieved record or null if not found.
+   */
+  async get(cls, obj) {
+    this.connect();
+    this.data = await this.db.query(
+      `SELECT * FROM ${cls.name.toLowerCase()} WHERE id = ${obj.id}`
+    );
+    this.close();
+    return this.data[0][0];
+  }
 
-	/**
-	 * delete an entry from a table
-	 *
-	 * @async
-	 * @param {class object} cls - a class object
-	 * @param {map} obj - a map that contains the entry id
-	 * @returns 0 on success
-	 */
-	async delete(cls, obj) {
-		if (!this.db) {
-			await this.connect();
-		}
-		try {
-			let sql = `DELETE FROM ${tables[cls.name]} WHERE ID = ${obj.id}`;
-			const [rows, fields] = await this.db.execute(sql);
+  /**
+   * Adds a new record to the specified class in the MySQL database.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object to add.
+   * @returns {number} - The ID of the added object.
+   */
+  async add(cls, obj) {
+    const columns = Object.keys(obj).join(',');
+    const values = Object.values(obj)
+      .map((value) => `'${value}'`)
+      .join(',');
 
-			return (0);
-		} catch (err) {
-			console.error(`Error deleting from ${tables[cls.name]}:`, err);
-			throw err;
-		};
-	}
+    this.connect();
+    this.data = await this.db.query(
+      `INSERT INTO ${cls.name.toLowerCase()} (${columns}) VALUES (${values})`
+    );
+    this.close();
+    return obj.id;
+  }
 
-	async save(obj) {
-		if (!this.db) {
-			await this.connect();
-		}
-		let cls = obj.constructor.name
-		
-		try {
-			// console.log(obj.toString())
-			const columns = Object.keys(JSON.parse(obj.toString())).join(', ');
-			const values = Object.values(JSON.parse(obj.toString())).map(value => this.db.escape(value)).join(', ');
-			// console.log('cols: ', columns);
-			// console.log('rows: ', values);
-			let sql = `INSERT INTO ${tables[cls]} (${columns}) VALUES (${values})`;
-			const [result] = await this.db.execute(sql);
-		} catch (err){
-			console.error(`Error inserting into ${tables[cls.name]}:`, err);
-		    throw err;
-		};
+  /**
+   * Updates an existing record in the specified class in the MySQL database.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object with updated values.
+   * @returns {number|null} - The ID of the updated object or null if not found.
+   */
+  async update(cls, obj) {
+    const updates = Object.entries(obj)
+      .map(([key, value]) => `${key} = '${value}'`)
+      .join(',');
 
-		// await this.close();
-	} 
+    this.connect();
+    this.data = await this.db.query(
+      `UPDATE ${cls.name.toLowerCase()} SET ${updates} WHERE id = ${obj.id}`
+    );
+    this.close();
+    return obj.id;
+  }
 
-	/**
-	 * close the db connection
-	 *
-	 * @async
-	 */
-	async close() {
-		try {
-		    await this.db.end();
-		    console.log('Connection Closed.');
-		} catch (err) {
-		    console.error('Error closing MySQL:', err);
-		}
-	}
-
-	
-};
+  /**
+   * Deletes a record from the specified class in the MySQL database.
+   * @param {Function} cls - The class of the object.
+   * @param {Object} obj - The object to delete.
+   * @returns {number|null} - The ID of the deleted object or null if not found.
+   */
+  async delete(cls, obj) {
+    this.connect();
+    this.data = await this.db.query(
+      `DELETE FROM ${cls.name.toLowerCase()} WHERE id = ${obj.id}`
+    );
+    this.close();
+    return obj.id;
+  }
+}
