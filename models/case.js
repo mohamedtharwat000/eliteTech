@@ -16,14 +16,14 @@ export default class Case extends Base {
     this.manufacturer = obj.manufacturer ?? null;
     this.name = obj.name ?? null;
     this.imageURL = obj.imageURL ?? null;
-    this.price = obj.price ?? null;
-    this.rating = obj.rating ?? null;
-    this.stock = obj.stock ?? null;
+    this.price = obj.price ?? 0.0;
+    this.rating = obj.rating ?? 0.0;
+    this.stock = obj.stock ?? 0;
     this.type = obj.type ?? null;
     this.color = obj.color ?? null;
     this.powerSupply = obj.powerSupply ?? null;
     this.sidePanel = obj.sidePanel ?? null;
     this.externalVolume = obj.externalVolume ?? null;
-    this.internalBays = obj.internalBays ?? null;
+    this.internalBays = obj.internalBays ?? 0;
   }
 }

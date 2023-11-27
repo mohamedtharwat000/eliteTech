@@ -16,9 +16,9 @@ export default class Keyboard extends Base {
     this.manufacturer = obj.manufacturer ?? null;
     this.name = obj.name ?? null;
     this.imageURL = obj.imageURL ?? null;
-    this.price = obj.price ?? null;
-    this.rating = obj.rating ?? null;
-    this.stock = obj.stock ?? null;
+    this.price = obj.price ?? 0.0;
+    this.rating = obj.rating ?? 0.0;
+    this.stock = obj.stock ?? 0;
     this.style = obj.style ?? null;
     this.switchType = obj.switchType ?? null;
     this.backlit = obj.backlit ?? null;

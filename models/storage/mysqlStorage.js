@@ -21,7 +21,7 @@ export default class MysqlStorage {
       .createConnection({
         host: process.env.dbHost,
         user: process.env.dbUser,
-        password: process.env.dbPassword,
+        password: process.env.dbPassword || null,
         database: process.env.dbDatabase,
       })
       .promise();

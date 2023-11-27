@@ -16,14 +16,14 @@ export default class Ram extends Base {
     this.manufacturer = obj.manufacturer ?? null;
     this.name = obj.name ?? null;
     this.imageURL = obj.imageURL ?? null;
-    this.price = obj.price ?? null;
-    this.rating = obj.rating ?? null;
-    this.stock = obj.stock ?? null;
+    this.price = obj.price ?? 0.0;
+    this.rating = obj.rating ?? 0.0;
+    this.stock = obj.stock ?? 0;
     this.speed = obj.speed ?? null;
     this.modules = obj.modules ?? null;
-    this.pricePerGb = obj.pricePerGb ?? null;
+    this.pricePerGb = obj.pricePerGb ?? 0.0;
     this.color = obj.color ?? null;
     this.firstWordLatency = obj.firstWordLatency ?? null;
-    this.casLatency = obj.casLatency ?? null;
+    this.casLatency = obj.casLatency ?? 0;
   }
 }
