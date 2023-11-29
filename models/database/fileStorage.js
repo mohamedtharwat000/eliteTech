@@ -26,7 +26,7 @@ export default class FileStorage {
   async type(obj) {
     this.reload();
     this.data = JSON.parse(
-      await readFile(`${process.cwd()}/models/storage/json/type.json`, 'utf8')
+      await readFile(`${process.cwd()}/models/database/json/type.json`, 'utf8')
     );
     for (const record of this.data) {
       if (record.type === obj.constructor.name.toLowerCase()) {
@@ -41,14 +41,15 @@ export default class FileStorage {
    * @param {Function} cls - The class of objects to retrieve.
    * @returns {Array} - An array of records.
    */
-  async all(cls) {
+  async getAll(cls) {
     this.reload();
-    this.data = JSON.parse(
-      await readFile(
-        `${process.cwd()}/models/storage/json/${cls.name.toLowerCase()}.json`,
-        'utf8'
-      )
-    );
+    this.data =
+      JSON.parse(
+        await readFile(
+          `${process.cwd()}/models/database/json/${cls.name.toLowerCase()}.json`,
+          'utf8'
+        )
+      ) ?? [];
     return this.data;
   }
 
@@ -60,7 +61,7 @@ export default class FileStorage {
    */
   async get(cls, obj) {
     this.reload();
-    await this.all(cls);
+    await this.getAll(cls);
     for (const record of this.data) {
       if (record.id == obj.id) {
         return record;
@@ -77,7 +78,7 @@ export default class FileStorage {
    */
   async add(cls, obj) {
     this.reload();
-    await this.all(cls);
+    await this.getAll(cls);
     this.data.push(JSON.parse(obj.toString()));
     await this.save(cls, this.data);
     return obj.id;
@@ -91,7 +92,7 @@ export default class FileStorage {
    */
   async update(cls, obj) {
     this.reload();
-    await this.all(cls);
+    await this.getAll(cls);
     for (const record of this.data) {
       if (record.id == obj.id) {
         for (const property in obj) {
@@ -113,7 +114,7 @@ export default class FileStorage {
    */
   async delete(cls, obj) {
     this.reload();
-    await this.all(cls);
+    await this.getAll(cls);
     for (const record of this.data) {
       if (record.id == obj.id) {
         this.data.splice(this.data.indexOf(record), 1);
@@ -131,7 +132,7 @@ export default class FileStorage {
    */
   async save(product, data) {
     await writeFile(
-      `${process.cwd()}/models/storage/json/${product.name.toLowerCase()}.json`,
+      `${process.cwd()}/models/database/json/${product.name.toLowerCase()}.json`,
       JSON.stringify(data),
       'utf8'
     );

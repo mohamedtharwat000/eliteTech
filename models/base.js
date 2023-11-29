@@ -1,4 +1,4 @@
-import Storage from './storage/storage.js';
+import Storage from './database/storage.js';
 
 /**
  * Base class serving as a foundation for other classes with CRUD operations.
@@ -9,7 +9,7 @@ export default class Base {
    */
   constructor() {
     if (Storage.constructor.name === 'FileStorage') {
-      this.id = Math.floor(Math.random() * 10000000000);
+      this.id = Math.floor(Math.random() * 1_000_000);
     }
   }
 
@@ -33,8 +33,8 @@ export default class Base {
    * Retrieves all records of the current class using the associated Storage.
    * @returns {Array} - An array of records.
    */
-  static all() {
-    return Storage.all(this);
+  static getAll() {
+    return Storage.getAll(this);
   }
 
   /**

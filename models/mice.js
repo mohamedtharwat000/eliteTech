@@ -17,11 +17,11 @@ export default class Mice extends Base {
     this.name = obj.name ?? null;
     this.imageURL = obj.imageURL ?? null;
     this.price = obj.price ?? null;
-    this.rating = obj.rating ?? 0.0;
-    this.stock = obj.stock ?? 0.0;
+    this.rating = obj.rating ?? null;
+    this.stock = obj.stock ?? null;
     this.trackingMethod = obj.trackingMethod ?? null;
     this.connectionType = obj.connectionType ?? null;
-    this.maximumDPI = obj.maximumDPI ?? 0;
+    this.maximumDPI = obj.maximumDPI ?? null;
     this.handOrientation = obj.handOrientation ?? null;
     this.color = obj.color ?? null;
   }

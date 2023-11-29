@@ -53,7 +53,7 @@ export default class MysqlStorage {
    * @param {Function} cls - The class of objects to retrieve.
    * @returns {Array} - An array of records.
    */
-  async all(cls) {
+  async getAll(cls) {
     this.connect();
     this.data = await this.db.query(`SELECT * FROM ${cls.name.toLowerCase()}`);
     this.close();
@@ -84,15 +84,18 @@ export default class MysqlStorage {
   async add(cls, obj) {
     const columns = Object.keys(obj).join(',');
     const values = Object.values(obj)
-      .map((value) => `'${value}'`)
+      .map((value) => (typeof value === 'number' ? value : `'${value}'`))
       .join(',');
 
     this.connect();
     this.data = await this.db.query(
-      `INSERT INTO ${cls.name.toLowerCase()} (${columns}) VALUES (${values})`
+      `INSERT INTO ${cls.name.toLowerCase()} (${columns}) VALUES (${values.replaceAll(
+        `'null'`,
+        `NULL`
+      )})`
     );
     this.close();
-    return obj.id;
+    return this.data[0].insertId;
   }
 
   /**

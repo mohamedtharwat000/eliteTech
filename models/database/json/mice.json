@@ -7,10 +7,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Logitech",
-    "id": "mice-124"
+    "id": 124,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/575c76df1ce4d5588c5749e289515e4c.256p.jpg",
@@ -20,10 +21,11 @@
     "maximumDPI": "25400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Logitech",
-    "id": "mice-125"
+    "id": 125,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0041ec7f09c5b96850347e2254991f73.256p.jpg",
@@ -33,10 +35,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$34.97",
+    "rating": 0,
+    "price": 34.97,
     "manufacturer": "Logitech",
-    "id": "mice-126"
+    "id": 126,
+    "stock": 0
   },
   {
     "imageURL": "/static/forever/img/no-image.png",
@@ -46,10 +49,11 @@
     "maximumDPI": "3200",
     "handOrientation": "Right",
     "color": "Blue",
-    "rating": "0",
-    "price": "$587.50",
+    "rating": 0,
+    "price": 587.5,
     "manufacturer": "FinalMouse",
-    "id": "mice-127"
+    "id": 127,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d662cc7b90e3fd45502f7c77d9b54269.256p.jpg",
@@ -59,10 +63,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Razer",
-    "id": "mice-128"
+    "id": 128,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b8e80e45051e0b167cbda318107448f9.256p.jpg",
@@ -72,10 +77,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Logitech",
-    "id": "mice-129"
+    "id": 129,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/688ab5cb5e71622cfe889c082d784cdb.256p.jpg",
@@ -85,10 +91,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.99",
+    "rating": 0,
+    "price": 79.99,
     "manufacturer": "Logitech",
-    "id": "mice-130"
+    "id": 130,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21VN-QxrIAL.jpg",
@@ -98,10 +105,11 @@
     "maximumDPI": "32000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$149.99",
+    "rating": 0,
+    "price": 149.99,
     "manufacturer": "Logitech",
-    "id": "mice-131"
+    "id": 131,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31Hn3R2Vv5L.jpg",
@@ -111,10 +119,11 @@
     "maximumDPI": "25400",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Logitech",
-    "id": "mice-132"
+    "id": 132,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41oOvmaIzYL.jpg",
@@ -124,10 +133,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$34.98",
+    "rating": 0,
+    "price": 34.98,
     "manufacturer": "Razer",
-    "id": "mice-133"
+    "id": 133,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4224f428c644018d89a196bc67631462.256p.jpg",
@@ -137,10 +147,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$79.98",
+    "rating": 0,
+    "price": 79.98,
     "manufacturer": "Glorious",
-    "id": "mice-134"
+    "id": 134,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31iFF1KbkpL.jpg",
@@ -150,10 +161,11 @@
     "maximumDPI": "800",
     "handOrientation": "Hand Orientation",
     "color": "Black",
-    "rating": "0",
-    "price": "$7.99",
+    "rating": 0,
+    "price": 7.99,
     "manufacturer": "Logitech",
-    "id": "mice-135"
+    "id": 135,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/800bb5629053de7c02501a11b4e0f87d.256p.jpg",
@@ -163,10 +175,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$74.99",
+    "rating": 0,
+    "price": 74.99,
     "manufacturer": "Logitech",
-    "id": "mice-136"
+    "id": 136,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/313vjNMPw3L.jpg",
@@ -176,10 +189,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$134.55",
+    "rating": 0,
+    "price": 134.55,
     "manufacturer": "Logitech",
-    "id": "mice-137"
+    "id": 137,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/24c3004e0bf166466ca2e8cf1ab55490.256p.jpg",
@@ -189,10 +203,11 @@
     "maximumDPI": "8500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$28.95",
+    "rating": 0,
+    "price": 28.95,
     "manufacturer": "SteelSeries",
-    "id": "mice-138"
+    "id": 138,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e5ae54669b6dc857c4d03a26e70ed9d5.256p.jpg",
@@ -202,10 +217,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Logitech",
-    "id": "mice-139"
+    "id": 139,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3ac232d47683dd615b3d89f99e1bba2.256p.jpg",
@@ -215,10 +231,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$199.99",
+    "rating": 0,
+    "price": 199.99,
     "manufacturer": "Razer",
-    "id": "mice-140"
+    "id": 140,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1435c1dd5733f7443c14b484e733224e.256p.jpg",
@@ -228,10 +245,11 @@
     "maximumDPI": "6400",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$21.22",
+    "rating": 0,
+    "price": 21.22,
     "manufacturer": "Razer",
-    "id": "mice-141"
+    "id": 141,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21XiYjJQcXL.jpg",
@@ -241,10 +259,11 @@
     "maximumDPI": "32000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$149.99",
+    "rating": 0,
+    "price": 149.99,
     "manufacturer": "Logitech",
-    "id": "mice-142"
+    "id": 142,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3ece5106e64716cae7c9023a8bdf8d59.256p.jpg",
@@ -254,10 +273,11 @@
     "maximumDPI": "17997",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Corsair",
-    "id": "mice-143"
+    "id": 143,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/51VdAZz7I9L.jpg",
@@ -267,10 +287,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$390.44",
+    "rating": 0,
+    "price": 390.44,
     "manufacturer": "Logitech",
-    "id": "mice-144"
+    "id": 144,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ab7f3f6e7b4d49a7dbaec72d7ec00b2b.256p.jpg",
@@ -280,10 +301,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$49.99",
+    "rating": 0,
+    "price": 49.99,
     "manufacturer": "Glorious",
-    "id": "mice-145"
+    "id": 145,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21RzGl38CsL.jpg",
@@ -293,10 +315,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$143.40",
+    "rating": 0,
+    "price": 143.4,
     "manufacturer": "Razer",
-    "id": "mice-146"
+    "id": 146,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0164b1a008c25224ac32d76cd1223380.256p.jpg",
@@ -306,10 +329,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$81.99",
+    "rating": 0,
+    "price": 81.99,
     "manufacturer": "Razer",
-    "id": "mice-147"
+    "id": 147,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/417xBYp8x+L.jpg",
@@ -319,10 +343,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$158.00",
+    "rating": 0,
+    "price": 158.0,
     "manufacturer": "Logitech",
-    "id": "mice-148"
+    "id": 148,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ebd01f57718386a246255ef19d9aa3da.256p.jpg",
@@ -332,10 +357,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$114.99",
+    "rating": 0,
+    "price": 114.99,
     "manufacturer": "Razer",
-    "id": "mice-149"
+    "id": 149,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/314e9xMJUhL.jpg",
@@ -345,10 +371,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Razer",
-    "id": "mice-150"
+    "id": 150,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31+IkIfrZGL.jpg",
@@ -358,10 +385,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$155.08",
+    "rating": 0,
+    "price": 155.08,
     "manufacturer": "Logitech",
-    "id": "mice-151"
+    "id": 151,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b5ae883a17a1d332780a63f64f8df4b0.256p.jpg",
@@ -371,10 +399,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$145.19",
+    "rating": 0,
+    "price": 145.19,
     "manufacturer": "Razer",
-    "id": "mice-152"
+    "id": 152,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/80f5ae114fd88013fa45e170e1098214.256p.jpg",
@@ -384,10 +413,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Gray",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Logitech",
-    "id": "mice-153"
+    "id": 153,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c748e9772c96c374259e4badb8a2a34a.256p.jpg",
@@ -397,10 +427,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Blue",
-    "rating": "0",
-    "price": "$4.99",
+    "rating": 0,
+    "price": 4.99,
     "manufacturer": "Verbatim",
-    "id": "mice-154"
+    "id": 154,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41puSbyNS7L.jpg",
@@ -410,10 +441,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$68.97",
+    "rating": 0,
+    "price": 68.97,
     "manufacturer": "Corsair",
-    "id": "mice-155"
+    "id": 155,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ed20fdc4053c1979e2f89767aafda5d1.256p.jpg",
@@ -423,10 +455,11 @@
     "maximumDPI": "10000",
     "handOrientation": "Right",
     "color": "Black / Multicolor",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Cobra",
-    "id": "mice-156"
+    "id": 156,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/57e54358c52493a49f369c4374aaf201.256p.jpg",
@@ -436,10 +469,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.97",
+    "rating": 0,
+    "price": 39.97,
     "manufacturer": "Razer",
-    "id": "mice-157"
+    "id": 157,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41sMQGodbiL.jpg",
@@ -449,10 +483,11 @@
     "maximumDPI": "4000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$32.00",
+    "rating": 0,
+    "price": 32.0,
     "manufacturer": "Logitech",
-    "id": "mice-158"
+    "id": 158,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/527a2ec03a543912ea15c59764aeb279.256p.jpg",
@@ -462,10 +497,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Razer",
-    "id": "mice-159"
+    "id": 159,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ba1a67b453a9652426848c59b396c2cf.256p.jpg",
@@ -475,10 +511,11 @@
     "maximumDPI": "36000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$139.99",
+    "rating": 0,
+    "price": 139.99,
     "manufacturer": "Asus",
-    "id": "mice-160"
+    "id": 160,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/31ad0dccffff39f176c038672c8fb2cd.256p.jpg",
@@ -488,10 +525,11 @@
     "maximumDPI": "8500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$45.00",
+    "rating": 0,
+    "price": 45.0,
     "manufacturer": "Razer",
-    "id": "mice-161"
+    "id": 161,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fbeb5a62840993fa50c1836186087dfc.256p.jpg",
@@ -501,10 +539,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.98",
+    "rating": 0,
+    "price": 79.98,
     "manufacturer": "Corsair",
-    "id": "mice-162"
+    "id": 162,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9c7bb4a616fae14e76530d835a82f12d.256p.jpg",
@@ -514,10 +553,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$64.59",
+    "rating": 0,
+    "price": 64.59,
     "manufacturer": "Logitech",
-    "id": "mice-163"
+    "id": 163,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a3ff804c87be83ea9e268dd26afe13da.256p.jpg",
@@ -527,10 +567,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$65.48",
+    "rating": 0,
+    "price": 65.48,
     "manufacturer": "Logitech",
-    "id": "mice-164"
+    "id": 164,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/196cfc73981cd14257b11cc3b0a3b8f9.256p.jpg",
@@ -540,10 +581,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$62.99",
+    "rating": 0,
+    "price": 62.99,
     "manufacturer": "Logitech",
-    "id": "mice-165"
+    "id": 165,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bc83693b4c2c338e8bcb261cf33466bb.256p.jpg",
@@ -553,10 +595,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Razer",
-    "id": "mice-166"
+    "id": 166,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/430bfeab57e003dfb6c1d292339e1df8.256p.jpg",
@@ -566,10 +609,11 @@
     "maximumDPI": "6400",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$22.99",
+    "rating": 0,
+    "price": 22.99,
     "manufacturer": "Razer",
-    "id": "mice-167"
+    "id": 167,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dbe9bbba752e18178e12f24bbe6ed196.256p.jpg",
@@ -579,10 +623,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Logitech",
-    "id": "mice-168"
+    "id": 168,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/99a256af2fe5bb228f2fcd17e2d6b544.256p.jpg",
@@ -592,10 +637,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$94.99",
+    "rating": 0,
+    "price": 94.99,
     "manufacturer": "Logitech",
-    "id": "mice-169"
+    "id": 169,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/89c77ccaf0bdca3bde6bcc2d3890f6cb.256p.jpg",
@@ -605,10 +651,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$49.99",
+    "rating": 0,
+    "price": 49.99,
     "manufacturer": "Glorious",
-    "id": "mice-170"
+    "id": 170,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dfb52b07215736a9d55388366a53d86a.256p.jpg",
@@ -618,10 +665,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Corsair",
-    "id": "mice-171"
+    "id": 171,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31PR+RfutWL.jpg",
@@ -631,10 +679,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$53.72",
+    "rating": 0,
+    "price": 53.72,
     "manufacturer": "Razer",
-    "id": "mice-172"
+    "id": 172,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8c2320c4b1f286232ed2e0765180589c.256p.jpg",
@@ -644,10 +693,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$114.99",
+    "rating": 0,
+    "price": 114.99,
     "manufacturer": "Corsair",
-    "id": "mice-173"
+    "id": 173,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e081ddfb8c66371eb0d090672f19af59.256p.jpg",
@@ -657,10 +707,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$61.99",
+    "rating": 0,
+    "price": 61.99,
     "manufacturer": "Razer",
-    "id": "mice-174"
+    "id": 174,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21YrdnICAjL.jpg",
@@ -670,10 +721,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$144.99",
+    "rating": 0,
+    "price": 144.99,
     "manufacturer": "Razer",
-    "id": "mice-175"
+    "id": 175,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/537ce12656df1226e255de55d217996e.256p.jpg",
@@ -683,10 +735,11 @@
     "maximumDPI": "6000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$27.99",
+    "rating": 0,
+    "price": 27.99,
     "manufacturer": "Corsair",
-    "id": "mice-176"
+    "id": 176,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5c388ef9bdfd2933f0cef41aa21ad5a1.256p.jpg",
@@ -696,10 +749,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$6.99",
+    "rating": 0,
+    "price": 6.99,
     "manufacturer": "Verbatim",
-    "id": "mice-177"
+    "id": 177,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41lFMOZt-9L.jpg",
@@ -709,10 +763,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$79.99",
+    "rating": 0,
+    "price": 79.99,
     "manufacturer": "Glorious",
-    "id": "mice-178"
+    "id": 178,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6fac52c0af1c72f84bf579025945c2a3.256p.jpg",
@@ -722,10 +777,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Logitech",
-    "id": "mice-179"
+    "id": 179,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/39f5483248fb55771d174204732924e7.256p.jpg",
@@ -735,10 +791,11 @@
     "maximumDPI": "36000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$119.99",
+    "rating": 0,
+    "price": 119.99,
     "manufacturer": "Asus",
-    "id": "mice-180"
+    "id": 180,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2d8a80560eb714c71d668a6ec1bf4f96.256p.jpg",
@@ -748,10 +805,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Glorious",
-    "id": "mice-181"
+    "id": 181,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d2dbffeb64fc0566b7db5ea37b02ed0c.256p.jpg",
@@ -761,10 +819,11 @@
     "maximumDPI": "14000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$54.90",
+    "rating": 0,
+    "price": 54.9,
     "manufacturer": "Razer",
-    "id": "mice-182"
+    "id": 182,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b398a22dedb28c16624f46920fd0c4f.256p.jpg",
@@ -774,10 +833,11 @@
     "maximumDPI": "17995",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$45.99",
+    "rating": 0,
+    "price": 45.99,
     "manufacturer": "Corsair",
-    "id": "mice-183"
+    "id": 183,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6d35eedc32891db22347dce86786474e.256p.jpg",
@@ -787,10 +847,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$26.48",
+    "rating": 0,
+    "price": 26.48,
     "manufacturer": "SteelSeries",
-    "id": "mice-184"
+    "id": 184,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41ZiHvROOGL.jpg",
@@ -800,10 +861,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.97",
+    "rating": 0,
+    "price": 39.97,
     "manufacturer": "HP",
-    "id": "mice-185"
+    "id": 185,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41Ys1r4Uq0L.jpg",
@@ -813,10 +875,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$172.35",
+    "rating": 0,
+    "price": 172.35,
     "manufacturer": "Razer",
-    "id": "mice-186"
+    "id": 186,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31QOGAqr2cL.jpg",
@@ -826,10 +889,11 @@
     "maximumDPI": "7200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Redragon",
-    "id": "mice-187"
+    "id": 187,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d3a9b615f187bce607d610088fbbfdfd.256p.jpg",
@@ -839,10 +903,11 @@
     "maximumDPI": "4000",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$99.95",
+    "rating": 0,
+    "price": 99.95,
     "manufacturer": "Logitech",
-    "id": "mice-188"
+    "id": 188,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b19f57b195a5e41b53e03b3717f4cd08.256p.jpg",
@@ -852,10 +917,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-189"
+    "id": 189,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/90c241b37e2769547937082a24d468e2.256p.jpg",
@@ -865,10 +931,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "White / Black",
-    "rating": "0",
-    "price": "$159.99",
+    "rating": 0,
+    "price": 159.99,
     "manufacturer": "Razer",
-    "id": "mice-190"
+    "id": 190,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d86fec800f132dbefa676d13d0d9a7a4.256p.jpg",
@@ -878,10 +945,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Logitech",
-    "id": "mice-191"
+    "id": 191,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6b73ce755ef3fdebd30ac433ab829664.256p.jpg",
@@ -891,10 +959,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$66.98",
+    "rating": 0,
+    "price": 66.98,
     "manufacturer": "Razer",
-    "id": "mice-192"
+    "id": 192,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3769ffe225dff8702ca903ffce27846f.256p.jpg",
@@ -904,10 +973,11 @@
     "maximumDPI": "10000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Corsair",
-    "id": "mice-193"
+    "id": 193,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/178a8d67052dc8ac01b07c8b84924a0b.256p.jpg",
@@ -917,10 +987,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-194"
+    "id": 194,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9f6b69ae376d3d89ec24b134f9a08a9b.256p.jpg",
@@ -930,10 +1001,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black / Orange",
-    "rating": "0",
-    "price": "$7.99",
+    "rating": 0,
+    "price": 7.99,
     "manufacturer": "Lenovo",
-    "id": "mice-195"
+    "id": 195,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4611b6fcf9461c6763d8b18af78d4f2a.256p.jpg",
@@ -943,10 +1015,11 @@
     "maximumDPI": "4200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$17.98",
+    "rating": 0,
+    "price": 17.98,
     "manufacturer": "MSI",
-    "id": "mice-196"
+    "id": 196,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d6fd43322f07dedde7c5c3d9e53706d1.256p.jpg",
@@ -956,10 +1029,11 @@
     "maximumDPI": "6400",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$23.18",
+    "rating": 0,
+    "price": 23.18,
     "manufacturer": "Razer",
-    "id": "mice-197"
+    "id": 197,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3942bf430d7f5b33bd01e2b0d0b7abdb.256p.jpg",
@@ -969,10 +1043,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$8.50",
+    "rating": 0,
+    "price": 8.5,
     "manufacturer": "Logitech",
-    "id": "mice-198"
+    "id": 198,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1e8c3800a012015b0400211b5d370aa0.256p.jpg",
@@ -982,10 +1057,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black / Blue",
-    "rating": "0",
-    "price": "$41.99",
+    "rating": 0,
+    "price": 41.99,
     "manufacturer": "Logitech",
-    "id": "mice-199"
+    "id": 199,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0615b1c07cbb01bb91060e0517d95dcd.256p.jpg",
@@ -995,10 +1071,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$84.99",
+    "rating": 0,
+    "price": 84.99,
     "manufacturer": "Razer",
-    "id": "mice-200"
+    "id": 200,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/487d6f4109b89a3e2c44fa934dd43b2c.256p.jpg",
@@ -1008,10 +1085,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$91.95",
+    "rating": 0,
+    "price": 91.95,
     "manufacturer": "Logitech",
-    "id": "mice-201"
+    "id": 201,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/83448f14ea7aad477596baf8ae892723.256p.jpg",
@@ -1021,10 +1099,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "White",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Razer",
-    "id": "mice-202"
+    "id": 202,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/583a9bd5ac3a80049bc09075e2bca5c1.256p.jpg",
@@ -1034,10 +1113,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$54.99",
+    "rating": 0,
+    "price": 54.99,
     "manufacturer": "Logitech",
-    "id": "mice-203"
+    "id": 203,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41mm4VViRNL.jpg",
@@ -1047,10 +1127,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$72.29",
+    "rating": 0,
+    "price": 72.29,
     "manufacturer": "Glorious",
-    "id": "mice-204"
+    "id": 204,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1854a0026f919a1085b9b9f3ee6d1f2d.256p.jpg",
@@ -1060,10 +1141,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-205"
+    "id": 205,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f590fc9f4c2b9f5a456df7aa1c1ee509.256p.jpg",
@@ -1073,10 +1155,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$139.99",
+    "rating": 0,
+    "price": 139.99,
     "manufacturer": "Corsair",
-    "id": "mice-206"
+    "id": 206,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3b425661832992431efa165c454bd178.256p.jpg",
@@ -1086,10 +1169,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Asus",
-    "id": "mice-207"
+    "id": 207,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41M52yTK5+L.jpg",
@@ -1099,10 +1183,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Corsair",
-    "id": "mice-208"
+    "id": 208,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8bfceabbacf615b7b5f0cd2b6a88f47c.256p.jpg",
@@ -1112,10 +1197,11 @@
     "maximumDPI": "7000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.99",
+    "rating": 0,
+    "price": 19.99,
     "manufacturer": "Asus",
-    "id": "mice-209"
+    "id": 209,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bcef1163cebeee9d3001d5bafcf7d3d7.256p.jpg",
@@ -1125,10 +1211,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Logitech",
-    "id": "mice-210"
+    "id": 210,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/67068c12e8020ae7c28be8e9202ad900.256p.jpg",
@@ -1138,10 +1225,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Glorious",
-    "id": "mice-211"
+    "id": 211,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae9b1b9c8d6363d03e17b77e51343e45.256p.jpg",
@@ -1151,10 +1239,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "Pink",
-    "rating": "0",
-    "price": "$74.98",
+    "rating": 0,
+    "price": 74.98,
     "manufacturer": "Razer",
-    "id": "mice-212"
+    "id": 212,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/80f5ae114fd88013fa45e170e1098214.256p.jpg",
@@ -1164,10 +1253,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$94.99",
+    "rating": 0,
+    "price": 94.99,
     "manufacturer": "Logitech",
-    "id": "mice-213"
+    "id": 213,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3af6a83672ccc3c3c73a158f711fecd5.256p.jpg",
@@ -1177,10 +1267,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$61.99",
+    "rating": 0,
+    "price": 61.99,
     "manufacturer": "Corsair",
-    "id": "mice-214"
+    "id": 214,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e6b1321a41a45046d750977befefa388.256p.jpg",
@@ -1190,10 +1281,11 @@
     "maximumDPI": "36000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$149.99",
+    "rating": 0,
+    "price": 149.99,
     "manufacturer": "Asus",
-    "id": "mice-215"
+    "id": 215,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7ec3d99e13b9e17b324d53e507b9b5d9.256p.jpg",
@@ -1203,10 +1295,11 @@
     "maximumDPI": "6200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$20.48",
+    "rating": 0,
+    "price": 20.48,
     "manufacturer": "HP",
-    "id": "mice-216"
+    "id": 216,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e53580d579186aabe0bad312bfeae3ee.256p.jpg",
@@ -1216,10 +1309,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Glorious",
-    "id": "mice-217"
+    "id": 217,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/99afea687df00d826a57119589f5487c.256p.jpg",
@@ -1229,10 +1323,11 @@
     "maximumDPI": "25400",
     "handOrientation": "Right",
     "color": "Pink",
-    "rating": "0",
-    "price": "$109.99",
+    "rating": 0,
+    "price": 109.99,
     "manufacturer": "Logitech",
-    "id": "mice-218"
+    "id": 218,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31ejEOSBIHL.jpg",
@@ -1242,10 +1337,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$77.98",
+    "rating": 0,
+    "price": 77.98,
     "manufacturer": "Razer",
-    "id": "mice-219"
+    "id": 219,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/aa5f7764bd01a4136c66c6980fccd89e.256p.jpg",
@@ -1255,10 +1351,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "SteelSeries",
-    "id": "mice-220"
+    "id": 220,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4ca5b63fecc2a7fc4094c9da2c127ac8.256p.jpg",
@@ -1268,10 +1365,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$34.99",
+    "rating": 0,
+    "price": 34.99,
     "manufacturer": "Corsair",
-    "id": "mice-221"
+    "id": 221,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31M0d96SuSL.jpg",
@@ -1281,10 +1379,11 @@
     "maximumDPI": "6400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.97",
+    "rating": 0,
+    "price": 39.97,
     "manufacturer": "Razer",
-    "id": "mice-222"
+    "id": 222,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b65da659333a26f6624d15733414fff.256p.jpg",
@@ -1294,10 +1393,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$32.48",
+    "rating": 0,
+    "price": 32.48,
     "manufacturer": "Razer",
-    "id": "mice-223"
+    "id": 223,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41Z1mu4vIIL.jpg",
@@ -1307,10 +1407,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "GE",
-    "id": "mice-224"
+    "id": 224,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/517SZJN9D-L.jpg",
@@ -1320,10 +1421,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Corsair",
-    "id": "mice-225"
+    "id": 225,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4900404b54773d05701076de0388ae7f.256p.jpg",
@@ -1333,10 +1435,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$139.99",
+    "rating": 0,
+    "price": 139.99,
     "manufacturer": "Corsair",
-    "id": "mice-226"
+    "id": 226,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c2346112fa183f5096da60261edf05c2.256p.jpg",
@@ -1346,10 +1449,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$42.95",
+    "rating": 0,
+    "price": 42.95,
     "manufacturer": "Razer",
-    "id": "mice-227"
+    "id": 227,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e44e0fffdc546ccc18ec9db334d7c71f.256p.jpg",
@@ -1359,10 +1463,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$57.99",
+    "rating": 0,
+    "price": 57.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-228"
+    "id": 228,
+    "stock": 0
   },
   {
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/410%2Bet-QgFL.jpg",
@@ -1372,10 +1477,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$9.99",
+    "rating": 0,
+    "price": 9.99,
     "manufacturer": "Logitech",
-    "id": "mice-229"
+    "id": 229,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41-F2flhq6L.jpg",
@@ -1385,10 +1491,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$46.00",
+    "rating": 0,
+    "price": 46.0,
     "manufacturer": "SteelSeries",
-    "id": "mice-230"
+    "id": 230,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21ly+bIj1gS.jpg",
@@ -1398,10 +1505,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$41.98",
+    "rating": 0,
+    "price": 41.98,
     "manufacturer": "Razer",
-    "id": "mice-231"
+    "id": 231,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/417jvRpyYJL.jpg",
@@ -1411,10 +1519,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$395.00",
+    "rating": 0,
+    "price": 395.0,
     "manufacturer": "Logitech",
-    "id": "mice-232"
+    "id": 232,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4c9e6e00f1b0f4df34f37fb8d0bf0fdf.256p.jpg",
@@ -1424,10 +1533,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Razer",
-    "id": "mice-233"
+    "id": 233,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0dd8486ae196d3bd49621b0647075be6.256p.jpg",
@@ -1437,10 +1547,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$9.99",
+    "rating": 0,
+    "price": 9.99,
     "manufacturer": "Logitech",
-    "id": "mice-234"
+    "id": 234,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31hR2kTeYoL.jpg",
@@ -1450,10 +1561,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$56.99",
+    "rating": 0,
+    "price": 56.99,
     "manufacturer": "Corsair",
-    "id": "mice-235"
+    "id": 235,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/df80faa0d23b1fe5c177ec8d9c1bd718.256p.jpg",
@@ -1463,10 +1575,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black / Red",
-    "rating": "0",
-    "price": "$56.99",
+    "rating": 0,
+    "price": 56.99,
     "manufacturer": "Glorious",
-    "id": "mice-236"
+    "id": 236,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f413ef023ef6470d1fc4e581ee15314a.256p.jpg",
@@ -1476,10 +1589,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "NZXT",
-    "id": "mice-237"
+    "id": 237,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4702f2380d91265aab43664f32e7cb8f.256p.jpg",
@@ -1489,10 +1603,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$41.00",
+    "rating": 0,
+    "price": 41.0,
     "manufacturer": "Corsair",
-    "id": "mice-238"
+    "id": 238,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1bb09ad5b3b239b0aeebb8aa47a91339.256p.jpg",
@@ -1502,10 +1617,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$69.98",
+    "rating": 0,
+    "price": 69.98,
     "manufacturer": "Razer",
-    "id": "mice-239"
+    "id": 239,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31hxJ6DC5gL.jpg",
@@ -1515,10 +1631,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Corsair",
-    "id": "mice-240"
+    "id": 240,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41Pj5G1slUL.jpg",
@@ -1528,10 +1645,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$18.98",
+    "rating": 0,
+    "price": 18.98,
     "manufacturer": "Cooler Master",
-    "id": "mice-241"
+    "id": 241,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5a0b81f9c97725d59a487e01def162ee.256p.jpg",
@@ -1541,10 +1659,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$65.99",
+    "rating": 0,
+    "price": 65.99,
     "manufacturer": "HP",
-    "id": "mice-242"
+    "id": 242,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41wXoP6BIYL.jpg",
@@ -1554,10 +1673,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$236.94",
+    "rating": 0,
+    "price": 236.94,
     "manufacturer": "Razer",
-    "id": "mice-243"
+    "id": 243,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2972e192f88a1e76547f11e9741e1f77.256p.jpg",
@@ -1567,10 +1687,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$94.99",
+    "rating": 0,
+    "price": 94.99,
     "manufacturer": "Logitech",
-    "id": "mice-244"
+    "id": 244,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/61d6197f3a799244678955291f16eda6.256p.jpg",
@@ -1580,10 +1701,11 @@
     "maximumDPI": "32000",
     "handOrientation": "Right",
     "color": "Pink",
-    "rating": "0",
-    "price": "$159.00",
+    "rating": 0,
+    "price": 159.0,
     "manufacturer": "Logitech",
-    "id": "mice-245"
+    "id": 245,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bb729714463c3fab1f634852315a1e87.256p.jpg",
@@ -1593,10 +1715,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$25.99",
+    "rating": 0,
+    "price": 25.99,
     "manufacturer": "Cooler Master",
-    "id": "mice-246"
+    "id": 246,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41qc6XU1MWL.jpg",
@@ -1606,10 +1729,11 @@
     "maximumDPI": "4000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$64.98",
+    "rating": 0,
+    "price": 64.98,
     "manufacturer": "Logitech",
-    "id": "mice-247"
+    "id": 247,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/001f947a6bca968b8791442b6884fb70.256p.jpg",
@@ -1619,10 +1743,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$148.61",
+    "rating": 0,
+    "price": 148.61,
     "manufacturer": "Asus",
-    "id": "mice-248"
+    "id": 248,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41zEY42v1tL.jpg",
@@ -1632,10 +1757,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$31.90",
+    "rating": 0,
+    "price": 31.9,
     "manufacturer": "Logitech",
-    "id": "mice-249"
+    "id": 249,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41A7DU1gGuL.jpg",
@@ -1645,10 +1771,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Right",
     "color": "Multicolor",
-    "rating": "0",
-    "price": "$299.99",
+    "rating": 0,
+    "price": 299.99,
     "manufacturer": "Razer",
-    "id": "mice-250"
+    "id": 250,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3733de46a75b40d61a0afcf6098db3ad.256p.jpg",
@@ -1658,10 +1785,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Cobra",
-    "id": "mice-251"
+    "id": 251,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b3d7045e6ffc8815548d2254bc90850b.256p.jpg",
@@ -1671,10 +1799,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$72.76",
+    "rating": 0,
+    "price": 72.76,
     "manufacturer": "Logitech",
-    "id": "mice-252"
+    "id": 252,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e68c83700ec204d722f08c0a5c2a0b81.256p.jpg",
@@ -1684,10 +1813,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$4.99",
+    "rating": 0,
+    "price": 4.99,
     "manufacturer": "Verbatim",
-    "id": "mice-253"
+    "id": 253,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31SAvZTFu1L.jpg",
@@ -1697,10 +1827,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$35.48",
+    "rating": 0,
+    "price": 35.48,
     "manufacturer": "ROCCAT",
-    "id": "mice-254"
+    "id": 254,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1efdd26f156eb6049d460446bd407a41.256p.jpg",
@@ -1710,10 +1841,11 @@
     "maximumDPI": "5000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "MSI",
-    "id": "mice-255"
+    "id": 255,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4b43a0e33b204485e067ccf661329449.256p.jpg",
@@ -1723,10 +1855,11 @@
     "maximumDPI": "8500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "SteelSeries",
-    "id": "mice-256"
+    "id": 256,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/61eb5935b25d0e35424629b707f22c03.256p.jpg",
@@ -1736,10 +1869,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.99",
+    "rating": 0,
+    "price": 79.99,
     "manufacturer": "Razer",
-    "id": "mice-257"
+    "id": 257,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4130018c9bec92f1cf1731baeadc8fea.256p.jpg",
@@ -1749,10 +1883,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Color",
-    "rating": "0",
-    "price": "$108.95",
+    "rating": 0,
+    "price": 108.95,
     "manufacturer": "Corsair",
-    "id": "mice-258"
+    "id": 258,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a7b3569bd05187fd56ea87990243adb0.256p.jpg",
@@ -1762,10 +1897,11 @@
     "maximumDPI": "12400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$38.65",
+    "rating": 0,
+    "price": 38.65,
     "manufacturer": "Redragon",
-    "id": "mice-259"
+    "id": 259,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/531cd071fdf21a28a4d86d7b993b6359.256p.jpg",
@@ -1775,10 +1911,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$81.75",
+    "rating": 0,
+    "price": 81.75,
     "manufacturer": "Logitech",
-    "id": "mice-260"
+    "id": 260,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ad9401e96d9e27c42986361ae31c9e5f.256p.jpg",
@@ -1788,10 +1925,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black / Purple",
-    "rating": "0",
-    "price": "$106.99",
+    "rating": 0,
+    "price": 106.99,
     "manufacturer": "Asus",
-    "id": "mice-261"
+    "id": 261,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1352f08a307d6d717b48bdaf666e6fb4.256p.jpg",
@@ -1801,10 +1939,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$52.98",
+    "rating": 0,
+    "price": 52.98,
     "manufacturer": "Logitech",
-    "id": "mice-262"
+    "id": 262,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e431d091bcba7186452cea180f60fd6d.256p.jpg",
@@ -1814,10 +1953,11 @@
     "maximumDPI": "4000",
     "handOrientation": "Right",
     "color": "Gray / Silver",
-    "rating": "0",
-    "price": "$85.99",
+    "rating": 0,
+    "price": 85.99,
     "manufacturer": "Logitech",
-    "id": "mice-263"
+    "id": 263,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9a117701f1c74289cebf34b2b6c92e51.256p.jpg",
@@ -1827,10 +1967,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Blue / Green",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Logitech",
-    "id": "mice-264"
+    "id": 264,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/acbce37375c116bbe3ac190540d51214.256p.jpg",
@@ -1840,10 +1981,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Gray / Black",
-    "rating": "0",
-    "price": "$23.99",
+    "rating": 0,
+    "price": 23.99,
     "manufacturer": "EVGA",
-    "id": "mice-265"
+    "id": 265,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c175cfa38e491b6a305b0129abf1a676.256p.jpg",
@@ -1853,10 +1995,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$119.99",
+    "rating": 0,
+    "price": 119.99,
     "manufacturer": "Corsair",
-    "id": "mice-266"
+    "id": 266,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1841b82340846f04a4fac12d496ca7a7.256p.jpg",
@@ -1866,10 +2009,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.93",
+    "rating": 0,
+    "price": 79.93,
     "manufacturer": "Razer",
-    "id": "mice-267"
+    "id": 267,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/312ZJeGlCwL.jpg",
@@ -1879,10 +2023,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$194.00",
+    "rating": 0,
+    "price": 194.0,
     "manufacturer": "Logitech",
-    "id": "mice-268"
+    "id": 268,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/00e769353f0709a4be734e1d29450dcb.256p.jpg",
@@ -1892,10 +2037,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$38.00",
+    "rating": 0,
+    "price": 38.0,
     "manufacturer": "HP",
-    "id": "mice-269"
+    "id": 269,
+    "stock": 0
   },
   {
     "imageURL": "/static/forever/img/no-image.png",
@@ -1905,10 +2051,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "White / Blue",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Lamzu",
-    "id": "mice-270"
+    "id": 270,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ac7bf44c403ab6ef05ef225f2a1fc468.256p.jpg",
@@ -1918,10 +2065,11 @@
     "maximumDPI": "10000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.83",
+    "rating": 0,
+    "price": 19.83,
     "manufacturer": "Rosewill",
-    "id": "mice-271"
+    "id": 271,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/51C0WpswuDL.jpg",
@@ -1931,10 +2079,11 @@
     "maximumDPI": "2500",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$179.90",
+    "rating": 0,
+    "price": 179.9,
     "manufacturer": "Logitech",
-    "id": "mice-272"
+    "id": 272,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/210af8afefd556ec530cecb5f7eb5cbd.256p.jpg",
@@ -1944,10 +2093,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Corsair",
-    "id": "mice-273"
+    "id": 273,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/34a857f722cd627c17685e6d697fd49d.256p.jpg",
@@ -1957,10 +2107,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Red / Black",
-    "rating": "0",
-    "price": "$169.99",
+    "rating": 0,
+    "price": 169.99,
     "manufacturer": "Razer",
-    "id": "mice-274"
+    "id": 274,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/314qtgeYpmL.jpg",
@@ -1970,10 +2121,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "$17.98",
+    "rating": 0,
+    "price": 17.98,
     "manufacturer": "EVGA",
-    "id": "mice-275"
+    "id": 275,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41SZ9-ENLxL.jpg",
@@ -1983,10 +2135,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$57.96",
+    "rating": 0,
+    "price": 57.96,
     "manufacturer": "Corsair",
-    "id": "mice-276"
+    "id": 276,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/55969ea55c2b09765c261ac25b181aba.256p.jpg",
@@ -1996,10 +2149,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Razer",
-    "id": "mice-277"
+    "id": 277,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0dfd77aad137727f2bfa6e03304a001.256p.jpg",
@@ -2009,10 +2163,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Glorious",
-    "id": "mice-278"
+    "id": 278,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/da1e1dcc66ed57f9fb76ccc13753c426.256p.jpg",
@@ -2022,10 +2177,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.98",
+    "rating": 0,
+    "price": 79.98,
     "manufacturer": "Glorious",
-    "id": "mice-279"
+    "id": 279,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a1714b5aaa4781f251c62fcf9d3d0969.256p.jpg",
@@ -2035,10 +2191,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$44.88",
+    "rating": 0,
+    "price": 44.88,
     "manufacturer": "Razer",
-    "id": "mice-280"
+    "id": 280,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ba40c3a1b92ccff32a257c46f9151722.256p.jpg",
@@ -2048,10 +2205,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$55.99",
+    "rating": 0,
+    "price": 55.99,
     "manufacturer": "Corsair",
-    "id": "mice-281"
+    "id": 281,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/29199c247cc59afd2e9a6825c6df98f2.256p.jpg",
@@ -2061,10 +2219,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$29.00",
+    "rating": 0,
+    "price": 29.0,
     "manufacturer": "Aorus",
-    "id": "mice-282"
+    "id": 282,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/24d9f29129e65af8aa4188f3f0a7371b.256p.jpg",
@@ -2074,10 +2233,11 @@
     "maximumDPI": "25000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Logitech",
-    "id": "mice-283"
+    "id": 283,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/82959eefb4e00fe12bf0c9ae9c6ea5dc.256p.jpg",
@@ -2087,10 +2247,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Logitech",
-    "id": "mice-284"
+    "id": 284,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/310wAHIQkbL.jpg",
@@ -2100,10 +2261,11 @@
     "maximumDPI": "3200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "HP",
-    "id": "mice-285"
+    "id": 285,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d3386a7f3320b71c375d53436c318077.256p.jpg",
@@ -2113,10 +2275,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$113.99",
+    "rating": 0,
+    "price": 113.99,
     "manufacturer": "Asus",
-    "id": "mice-286"
+    "id": 286,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e32b9e2d5144b118afe0cb32c5b83fed.256p.jpg",
@@ -2126,10 +2289,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$120.39",
+    "rating": 0,
+    "price": 120.39,
     "manufacturer": "Logitech",
-    "id": "mice-287"
+    "id": 287,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4c94f0c19b22a7b2cde5bf3eeef7feca.256p.jpg",
@@ -2139,10 +2303,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$35.98",
+    "rating": 0,
+    "price": 35.98,
     "manufacturer": "Razer",
-    "id": "mice-288"
+    "id": 288,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8458ad5df5503d34ffac55c9488632af.256p.jpg",
@@ -2152,10 +2317,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$24.18",
+    "rating": 0,
+    "price": 24.18,
     "manufacturer": "Logitech",
-    "id": "mice-289"
+    "id": 289,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fdd0eda804ab449d82a7ba947e0d78f7.256p.jpg",
@@ -2165,10 +2331,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$199.99",
+    "rating": 0,
+    "price": 199.99,
     "manufacturer": "Logitech",
-    "id": "mice-290"
+    "id": 290,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/78cac0f965e6d5c7470bc0095bcc1eca.256p.jpg",
@@ -2178,10 +2345,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Glorious",
-    "id": "mice-291"
+    "id": 291,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/542a3096628553b5d55d79c3e6db1124.256p.jpg",
@@ -2191,10 +2359,11 @@
     "maximumDPI": "25400",
     "handOrientation": "Right",
     "color": "Red",
-    "rating": "0",
-    "price": "$109.99",
+    "rating": 0,
+    "price": 109.99,
     "manufacturer": "Logitech",
-    "id": "mice-292"
+    "id": 292,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f1bb90df546cc0b6a99cfb526e080018.256p.jpg",
@@ -2204,10 +2373,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$79.99",
+    "rating": 0,
+    "price": 79.99,
     "manufacturer": "Glorious",
-    "id": "mice-293"
+    "id": 293,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3ad2553f3e156d361701f6e32a4accd.256p.jpg",
@@ -2217,10 +2387,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Glorious",
-    "id": "mice-294"
+    "id": 294,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/31EE-UB14FL.jpg",
@@ -2230,10 +2401,11 @@
     "maximumDPI": "3500",
     "handOrientation": "Left",
     "color": "Black",
-    "rating": "0",
-    "price": "$199.99",
+    "rating": 0,
+    "price": 199.99,
     "manufacturer": "Razer",
-    "id": "mice-295"
+    "id": 295,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd5649e9e2cb9155c9be5f50ec16e077.256p.jpg",
@@ -2243,10 +2415,11 @@
     "maximumDPI": "12400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$34.99",
+    "rating": 0,
+    "price": 34.99,
     "manufacturer": "Corsair",
-    "id": "mice-296"
+    "id": 296,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f808244a462ff7e42390ac7de53aa346.256p.jpg",
@@ -2256,10 +2429,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$74.98",
+    "rating": 0,
+    "price": 74.98,
     "manufacturer": "Asus",
-    "id": "mice-297"
+    "id": 297,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41hj-bvIpbL.jpg",
@@ -2269,10 +2443,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Both",
     "color": "Black / Blue",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Logitech",
-    "id": "mice-298"
+    "id": 298,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5427199f410131967602f3fc7a0b2c7a.256p.jpg",
@@ -2282,10 +2457,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "HP",
-    "id": "mice-299"
+    "id": 299,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41kPeQjZtfL.jpg",
@@ -2295,10 +2471,11 @@
     "maximumDPI": "6000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$37.59",
+    "rating": 0,
+    "price": 37.59,
     "manufacturer": "Logitech",
-    "id": "mice-300"
+    "id": 300,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/07f9f6801868673c97d663d4d3b63c2f.256p.jpg",
@@ -2308,10 +2485,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$110.00",
+    "rating": 0,
+    "price": 110.0,
     "manufacturer": "Logitech",
-    "id": "mice-301"
+    "id": 301,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/901be2ebe905621356b89d4ce7ff142f.256p.jpg",
@@ -2321,10 +2499,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Purple",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Logitech",
-    "id": "mice-302"
+    "id": 302,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/63c4b5efa625cd67a2e4771c8cfd0f38.256p.jpg",
@@ -2334,10 +2513,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$149.94",
+    "rating": 0,
+    "price": 149.94,
     "manufacturer": "Corsair",
-    "id": "mice-303"
+    "id": 303,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41tn5aC1LQL.jpg",
@@ -2347,10 +2527,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "ROCCAT",
-    "id": "mice-304"
+    "id": 304,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d7d2ca768f6446600a406c5840bcec5e.256p.jpg",
@@ -2360,10 +2541,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$169.99",
+    "rating": 0,
+    "price": 169.99,
     "manufacturer": "Razer",
-    "id": "mice-305"
+    "id": 305,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca401841556b253b4afe17e22519fc06.256p.jpg",
@@ -2373,10 +2555,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$33.99",
+    "rating": 0,
+    "price": 33.99,
     "manufacturer": "Logitech",
-    "id": "mice-306"
+    "id": 306,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e1cb5ca3a8d93fa9ba0f6c76f9a1ca9b.256p.jpg",
@@ -2386,10 +2569,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$79.99",
+    "rating": 0,
+    "price": 79.99,
     "manufacturer": "Glorious",
-    "id": "mice-307"
+    "id": 307,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41ax5J2jmjL.jpg",
@@ -2399,10 +2583,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$73.00",
+    "rating": 0,
+    "price": 73.0,
     "manufacturer": "MSI",
-    "id": "mice-308"
+    "id": 308,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/797a4699088ae5e5a2a7bbd81cdc0c06.256p.jpg",
@@ -2412,10 +2597,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$86.94",
+    "rating": 0,
+    "price": 86.94,
     "manufacturer": "Logitech",
-    "id": "mice-309"
+    "id": 309,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69b25ac62b749810563a34bb34ce4a08.256p.jpg",
@@ -2425,10 +2611,11 @@
     "maximumDPI": "6200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$45.89",
+    "rating": 0,
+    "price": 45.89,
     "manufacturer": "Asus",
-    "id": "mice-310"
+    "id": 310,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31I5k9IMfWL.jpg",
@@ -2438,10 +2625,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$39.00",
+    "rating": 0,
+    "price": 39.0,
     "manufacturer": "ROCCAT",
-    "id": "mice-311"
+    "id": 311,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31O3fOiNrzL.jpg",
@@ -2451,10 +2639,11 @@
     "maximumDPI": "10000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$44.13",
+    "rating": 0,
+    "price": 44.13,
     "manufacturer": "Razer",
-    "id": "mice-312"
+    "id": 312,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3ab945d2593627d5e338010263e4460c.256p.jpg",
@@ -2464,10 +2653,11 @@
     "maximumDPI": "8500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$38.00",
+    "rating": 0,
+    "price": 38.0,
     "manufacturer": "Razer",
-    "id": "mice-313"
+    "id": 313,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21rBmKM824L.jpg",
@@ -2477,10 +2667,11 @@
     "maximumDPI": "12400",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Corsair",
-    "id": "mice-314"
+    "id": 314,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bfa34b4bb3415dff449afec8e50588f6.256p.jpg",
@@ -2490,10 +2681,11 @@
     "maximumDPI": "2000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "GameMax",
-    "id": "mice-315"
+    "id": 315,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/586fa682a2be333c55d81a657b68c4cd.256p.jpg",
@@ -2503,10 +2695,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Cooler Master",
-    "id": "mice-316"
+    "id": 316,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31euJ9HMK3L.jpg",
@@ -2516,10 +2709,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "ROCCAT",
-    "id": "mice-317"
+    "id": 317,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d3aaf0072a8df8d1eaf8af4391027b8a.256p.jpg",
@@ -2529,10 +2723,11 @@
     "maximumDPI": "7200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$33.25",
+    "rating": 0,
+    "price": 33.25,
     "manufacturer": "Razer",
-    "id": "mice-318"
+    "id": 318,
+    "stock": 0
   },
   {
     "imageURL": "/static/forever/img/no-image.png",
@@ -2542,10 +2737,11 @@
     "maximumDPI": "3200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "FinalMouse",
-    "id": "mice-319"
+    "id": 319,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/908eb3748658853e7faea9e895967ad9.256p.jpg",
@@ -2555,10 +2751,11 @@
     "maximumDPI": "10000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$34.98",
+    "rating": 0,
+    "price": 34.98,
     "manufacturer": "Corsair",
-    "id": "mice-320"
+    "id": 320,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31dNVZofv6L.jpg",
@@ -2568,10 +2765,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.98",
+    "rating": 0,
+    "price": 59.98,
     "manufacturer": "Logitech",
-    "id": "mice-321"
+    "id": 321,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/37130440ab0df18d2833cd588ec55c55.med.256p.jpg",
@@ -2581,10 +2779,11 @@
     "maximumDPI": "16400",
     "handOrientation": "Right",
     "color": "Black / Red",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Redragon",
-    "id": "mice-322"
+    "id": 322,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31XGR3rPnWL.jpg",
@@ -2594,10 +2793,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$34.99",
+    "rating": 0,
+    "price": 34.99,
     "manufacturer": "Asus",
-    "id": "mice-323"
+    "id": 323,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f10451c285ddfbb33fb2c803d08e1210.256p.jpg",
@@ -2607,10 +2807,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Corsair",
-    "id": "mice-324"
+    "id": 324,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31LmQGUX3WL.jpg",
@@ -2620,10 +2821,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Silver",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Logitech",
-    "id": "mice-325"
+    "id": 325,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/50cd6218c9deb8e8912c7cc143687c74.256p.jpg",
@@ -2633,10 +2835,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Cooler Master",
-    "id": "mice-326"
+    "id": 326,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6d58440846e603da098bccccc64b5f2e.med.256p.jpg",
@@ -2646,10 +2849,11 @@
     "maximumDPI": "16400",
     "handOrientation": "Right",
     "color": "Black / Red",
-    "rating": "0",
-    "price": "$35.99",
+    "rating": 0,
+    "price": 35.99,
     "manufacturer": "Redragon",
-    "id": "mice-327"
+    "id": 327,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f65e34cc471c7503c6aa1f730fcdf743.256p.jpg",
@@ -2659,10 +2863,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$69.30",
+    "rating": 0,
+    "price": 69.3,
     "manufacturer": "ROCCAT",
-    "id": "mice-328"
+    "id": 328,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31ha-jyxngL.jpg",
@@ -2672,10 +2877,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$193.40",
+    "rating": 0,
+    "price": 193.4,
     "manufacturer": "Microsoft",
-    "id": "mice-329"
+    "id": 329,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/29ae311850951f79cdf1e06d62f57ca4.256p.jpg",
@@ -2685,10 +2891,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-330"
+    "id": 330,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cb8ac15a6fea63a55444b5372912ff07.256p.jpg",
@@ -2698,10 +2905,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Logitech",
-    "id": "mice-331"
+    "id": 331,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a03f5f3afa7840a441a8cde24025d2aa.256p.jpg",
@@ -2711,10 +2919,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$142.80",
+    "rating": 0,
+    "price": 142.8,
     "manufacturer": "Asus",
-    "id": "mice-332"
+    "id": 332,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/312OIpFXp+L.jpg",
@@ -2724,10 +2933,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "Pink / Gray",
-    "rating": "0",
-    "price": "$47.99",
+    "rating": 0,
+    "price": 47.99,
     "manufacturer": "Razer",
-    "id": "mice-333"
+    "id": 333,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4879ecdbe40ad454456fbbbe8afaf079.256p.jpg",
@@ -2737,10 +2947,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black / Gold",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Endgame Gear",
-    "id": "mice-334"
+    "id": 334,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0bca7074e9e4993f03ba379aba386c3.256p.jpg",
@@ -2750,10 +2961,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Gray",
-    "rating": "0",
-    "price": "$14.99",
+    "rating": 0,
+    "price": 14.99,
     "manufacturer": "Logitech",
-    "id": "mice-335"
+    "id": 335,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b4fa6b9fba48f2a4bf9f1cd802ccf5dd.256p.jpg",
@@ -2763,10 +2975,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$7.98",
+    "rating": 0,
+    "price": 7.98,
     "manufacturer": "Kensington",
-    "id": "mice-336"
+    "id": 336,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31BTh9vRGjL.jpg",
@@ -2776,10 +2989,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "ROCCAT",
-    "id": "mice-337"
+    "id": 337,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31tLQpUyVGL.jpg",
@@ -2789,10 +3003,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Endgame Gear",
-    "id": "mice-338"
+    "id": 338,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31G+BNIJ1nS.jpg",
@@ -2802,10 +3017,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$28.99",
+    "rating": 0,
+    "price": 28.99,
     "manufacturer": "ROCCAT",
-    "id": "mice-339"
+    "id": 339,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2bec16dfb64902ad0056ecb9404e4f26.256p.jpg",
@@ -2815,10 +3031,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$29.99",
+    "rating": 0,
+    "price": 29.99,
     "manufacturer": "Logitech",
-    "id": "mice-340"
+    "id": 340,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/21Wr+351lFL.jpg",
@@ -2828,10 +3045,11 @@
     "maximumDPI": "8500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Razer",
-    "id": "mice-341"
+    "id": 341,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31g3+YjFw9L.jpg",
@@ -2841,10 +3059,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$29.90",
+    "rating": 0,
+    "price": 29.9,
     "manufacturer": "Logitech",
-    "id": "mice-342"
+    "id": 342,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2777f845bdb095a052d7dafbfc036de1.256p.jpg",
@@ -2854,10 +3073,11 @@
     "maximumDPI": "4000",
     "handOrientation": "Right",
     "color": "Gold",
-    "rating": "0",
-    "price": "$13.99",
+    "rating": 0,
+    "price": 13.99,
     "manufacturer": "SteelSeries",
-    "id": "mice-343"
+    "id": 343,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fbdfe976a64917706dd2197ed2596634.256p.jpg",
@@ -2867,10 +3087,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$65.45",
+    "rating": 0,
+    "price": 65.45,
     "manufacturer": "Asus",
-    "id": "mice-344"
+    "id": 344,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5ed98569977bbba314e151d5311bcebf.256p.jpg",
@@ -2880,10 +3101,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$60.85",
+    "rating": 0,
+    "price": 60.85,
     "manufacturer": "ROCCAT",
-    "id": "mice-345"
+    "id": 345,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/895d5ef0ff09cf0c574cadb25d746445.256p.jpg",
@@ -2893,10 +3115,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White / Red",
-    "rating": "0",
-    "price": "$83.78",
+    "rating": 0,
+    "price": 83.78,
     "manufacturer": "Glorious",
-    "id": "mice-346"
+    "id": 346,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/92b21a58cbd392a469a079679860e9d2.256p.jpg",
@@ -2906,10 +3129,11 @@
     "maximumDPI": "36000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Asus",
-    "id": "mice-347"
+    "id": 347,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1d819b4e9cc8d3d6b666d0ecd94e9d29.256p.jpg",
@@ -2919,10 +3143,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "Pink",
-    "rating": "0",
-    "price": "$79.00",
+    "rating": 0,
+    "price": 79.0,
     "manufacturer": "Razer",
-    "id": "mice-348"
+    "id": 348,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/312xtcQNTwL.jpg",
@@ -2932,10 +3157,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Hand Orientation",
     "color": "Black",
-    "rating": "0",
-    "price": "$6.99",
+    "rating": 0,
+    "price": 6.99,
     "manufacturer": "Targus",
-    "id": "mice-349"
+    "id": 349,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/61b88698fc168ad4ccac3286545a9666.256p.jpg",
@@ -2945,10 +3171,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black / Blue",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Logitech",
-    "id": "mice-350"
+    "id": 350,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/310P0d22E1L.jpg",
@@ -2958,10 +3185,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$207.21",
+    "rating": 0,
+    "price": 207.21,
     "manufacturer": "Microsoft",
-    "id": "mice-351"
+    "id": 351,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/31YlSKRydPL.jpg",
@@ -2971,10 +3199,11 @@
     "maximumDPI": "800",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$15.00",
+    "rating": 0,
+    "price": 15.0,
     "manufacturer": "Gigabyte",
-    "id": "mice-352"
+    "id": 352,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cae6f557ec07fea682e842511dd7e063.256p.jpg",
@@ -2984,10 +3213,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White / Gray",
-    "rating": "0",
-    "price": "$11.99",
+    "rating": 0,
+    "price": 11.99,
     "manufacturer": "Cooler Master",
-    "id": "mice-353"
+    "id": 353,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/200275a153ebdfa42c1bcdd248e3f6d8.256p.jpg",
@@ -2997,10 +3227,11 @@
     "maximumDPI": "2500",
     "handOrientation": "Both",
     "color": "Black / Blue",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Logitech",
-    "id": "mice-354"
+    "id": 354,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31wDFiIu6iL.jpg",
@@ -3010,10 +3241,11 @@
     "maximumDPI": "1600",
     "handOrientation": "Right",
     "color": "Brown / Black",
-    "rating": "0",
-    "price": "$157.24",
+    "rating": 0,
+    "price": 157.24,
     "manufacturer": "Logitech",
-    "id": "mice-355"
+    "id": 355,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/43989fc21b18bdf0af0c32485a21dd0c.256p.jpg",
@@ -3023,10 +3255,11 @@
     "maximumDPI": "4200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "Asus",
-    "id": "mice-356"
+    "id": 356,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/950f943f90e8f752068f9be97ecbccc9.256p.jpg",
@@ -3036,10 +3269,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Both",
     "color": "White / Gray",
-    "rating": "0",
-    "price": "$69.98",
+    "rating": 0,
+    "price": 69.98,
     "manufacturer": "Razer",
-    "id": "mice-357"
+    "id": 357,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31f5nSUa8pL.jpg",
@@ -3049,10 +3283,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$8.19",
+    "rating": 0,
+    "price": 8.19,
     "manufacturer": "GE",
-    "id": "mice-358"
+    "id": 358,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41nimPscnwL.jpg",
@@ -3062,10 +3297,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White / Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Logitech",
-    "id": "mice-359"
+    "id": 359,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31z9kQ8XzVL.jpg",
@@ -3075,10 +3311,11 @@
     "maximumDPI": "24000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Cobra",
-    "id": "mice-360"
+    "id": 360,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2387570f4abf2b48c7e17fdb6ba4aca5.256p.jpg",
@@ -3088,10 +3325,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$87.29",
+    "rating": 0,
+    "price": 87.29,
     "manufacturer": "SteelSeries",
-    "id": "mice-361"
+    "id": 361,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41TUE4mIcVL.jpg",
@@ -3101,10 +3339,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Silver / Black",
-    "rating": "0",
-    "price": "$14.98",
+    "rating": 0,
+    "price": 14.98,
     "manufacturer": "V7",
-    "id": "mice-362"
+    "id": 362,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31skBDQ0KAL.jpg",
@@ -3114,10 +3353,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$24.99",
+    "rating": 0,
+    "price": 24.99,
     "manufacturer": "EVGA",
-    "id": "mice-363"
+    "id": 363,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/52fd4b095f5e97b3225016ae6a94a08a.256p.jpg",
@@ -3127,10 +3367,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Purple",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "Logitech",
-    "id": "mice-364"
+    "id": 364,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/67844aacb68212f9e8a680c784c27702.256p.jpg",
@@ -3140,10 +3381,11 @@
     "maximumDPI": "440",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$92.99",
+    "rating": 0,
+    "price": 92.99,
     "manufacturer": "Logitech",
-    "id": "mice-365"
+    "id": 365,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41EaCtcC7oL.jpg",
@@ -3153,10 +3395,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black / Orange",
-    "rating": "0",
-    "price": "$279.99",
+    "rating": 0,
+    "price": 279.99,
     "manufacturer": "Logitech",
-    "id": "mice-366"
+    "id": 366,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41DAEMF8l-L.jpg",
@@ -3166,10 +3409,11 @@
     "maximumDPI": "3000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "TeckNet",
-    "id": "mice-367"
+    "id": 367,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/03039732785f968e34135a3ac9beee4d.256p.jpg",
@@ -3179,10 +3423,11 @@
     "maximumDPI": "1200",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$9.94",
+    "rating": 0,
+    "price": 9.94,
     "manufacturer": "Cherry",
-    "id": "mice-368"
+    "id": 368,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f5992de220ad1ae571bca69f15738bd3.256p.jpg",
@@ -3192,10 +3437,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$91.22",
+    "rating": 0,
+    "price": 91.22,
     "manufacturer": "Mad Catz",
-    "id": "mice-369"
+    "id": 369,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d71ae983cd0f7109069235daaef89830.256p.jpg",
@@ -3205,10 +3451,11 @@
     "maximumDPI": "8000",
     "handOrientation": "Right",
     "color": "Black / Yellow",
-    "rating": "0",
-    "price": "$24.99",
+    "rating": 0,
+    "price": 24.99,
     "manufacturer": "Asus",
-    "id": "mice-370"
+    "id": 370,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f61d3eb09fce8fcf679bd5f2227f369b.256p.jpg",
@@ -3218,10 +3465,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "White / Gray",
-    "rating": "0",
-    "price": "$19.98",
+    "rating": 0,
+    "price": 19.98,
     "manufacturer": "EVGA",
-    "id": "mice-371"
+    "id": 371,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c1a9b9b9b2c2b449a6a60d8d3a9f8072.256p.jpg",
@@ -3231,10 +3479,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Asus",
-    "id": "mice-372"
+    "id": 372,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/108f280d01ddb7262aaff0d80c612af6.256p.jpg",
@@ -3244,10 +3493,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$69.98",
+    "rating": 0,
+    "price": 69.98,
     "manufacturer": "HP",
-    "id": "mice-373"
+    "id": 373,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/75120f2a14328b7ac88b787b209d0a16.256p.jpg",
@@ -3257,10 +3507,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$51.99",
+    "rating": 0,
+    "price": 51.99,
     "manufacturer": "Glorious",
-    "id": "mice-374"
+    "id": 374,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/311uuE3uWrL.jpg",
@@ -3270,10 +3521,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$69.90",
+    "rating": 0,
+    "price": 69.9,
     "manufacturer": "Logitech",
-    "id": "mice-375"
+    "id": 375,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cbbf892bfb90fed19b24d5e0ae0a4221.256p.jpg",
@@ -3283,10 +3535,11 @@
     "maximumDPI": "1600",
     "handOrientation": "Right",
     "color": "Black / Copper",
-    "rating": "0",
-    "price": "$104.75",
+    "rating": 0,
+    "price": 104.75,
     "manufacturer": "Logitech",
-    "id": "mice-376"
+    "id": 376,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41XJlYaUwiL.jpg",
@@ -3296,10 +3549,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Gray",
-    "rating": "0",
-    "price": "$12.99",
+    "rating": 0,
+    "price": 12.99,
     "manufacturer": "Logitech",
-    "id": "mice-377"
+    "id": 377,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41FUstjMOLL.jpg",
@@ -3309,10 +3563,11 @@
     "maximumDPI": "1600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$25.00",
+    "rating": 0,
+    "price": 25.0,
     "manufacturer": "Anker",
-    "id": "mice-378"
+    "id": 378,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b939c712b35adaa92f993dd3a7b8cc08.256p.jpg",
@@ -3322,10 +3577,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$64.98",
+    "rating": 0,
+    "price": 64.98,
     "manufacturer": "Glorious",
-    "id": "mice-379"
+    "id": 379,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/34de22ab519984ae1b4d722cb575df2c.256p.jpg",
@@ -3335,10 +3591,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black / Gray",
-    "rating": "0",
-    "price": "$26.99",
+    "rating": 0,
+    "price": 26.99,
     "manufacturer": "EVGA",
-    "id": "mice-380"
+    "id": 380,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/158a8e31faf78eab8e8bf9b721534748.256p.jpg",
@@ -3348,10 +3605,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White / Gold",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "Endgame Gear",
-    "id": "mice-381"
+    "id": 381,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3b8b3628c4ec1a6dbbcdfa2f4a354981.256p.jpg",
@@ -3361,10 +3619,11 @@
     "maximumDPI": "7200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$63.99",
+    "rating": 0,
+    "price": 63.99,
     "manufacturer": "MSI",
-    "id": "mice-382"
+    "id": 382,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/517b6q04EjL.jpg",
@@ -3374,10 +3633,11 @@
     "maximumDPI": "3600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "SteelSeries",
-    "id": "mice-383"
+    "id": 383,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6502f3433ea325a35eef3486515a4a89.256p.jpg",
@@ -3387,10 +3647,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Glorious",
-    "id": "mice-384"
+    "id": 384,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/adf8113af43a614b618da5270993f0ff.256p.jpg",
@@ -3400,10 +3661,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "Green / Black",
-    "rating": "0",
-    "price": "$80.00",
+    "rating": 0,
+    "price": 80.0,
     "manufacturer": "Razer",
-    "id": "mice-385"
+    "id": 385,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dc9a9f2b26657f4ed6e65369f3ff6559.256p.jpg",
@@ -3413,10 +3675,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "White",
-    "rating": "0",
-    "price": "$10.95",
+    "rating": 0,
+    "price": 10.95,
     "manufacturer": "Verbatim",
-    "id": "mice-386"
+    "id": 386,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41yg%2BtnHXPL.jpg",
@@ -3426,10 +3689,11 @@
     "maximumDPI": "3500",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Mad Catz",
-    "id": "mice-387"
+    "id": 387,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/abeccb0e55e9d89692d366f4e3038a66.256p.jpg",
@@ -3439,10 +3703,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$19.99",
+    "rating": 0,
+    "price": 19.99,
     "manufacturer": "Dell",
-    "id": "mice-388"
+    "id": 388,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b533fbef352e56ad232c2575c3d3b910.256p.jpg",
@@ -3452,10 +3717,11 @@
     "maximumDPI": "16400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$32.99",
+    "rating": 0,
+    "price": 32.99,
     "manufacturer": "UtechSmart",
-    "id": "mice-389"
+    "id": 389,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f72f80f6b0df24b744289d3c89abfd69.256p.jpg",
@@ -3465,10 +3731,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Logitech",
-    "id": "mice-390"
+    "id": 390,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3edd079195dca58cb2243530df638a1c.256p.jpg",
@@ -3478,10 +3745,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White / Pink",
-    "rating": "0",
-    "price": "$37.99",
+    "rating": 0,
+    "price": 37.99,
     "manufacturer": "HP",
-    "id": "mice-391"
+    "id": 391,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41gHyYVxVwL.jpg",
@@ -3491,10 +3759,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "White / Gray",
-    "rating": "0",
-    "price": "$141.21",
+    "rating": 0,
+    "price": 141.21,
     "manufacturer": "Razer",
-    "id": "mice-392"
+    "id": 392,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1a663b5537c9f0563774cfed13b73d84.256p.jpg",
@@ -3504,10 +3773,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$47.49",
+    "rating": 0,
+    "price": 47.49,
     "manufacturer": "Glorious",
-    "id": "mice-393"
+    "id": 393,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f87c2e5e4cefbe8756376e9340557440.256p.jpg",
@@ -3517,10 +3787,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "SteelSeries",
-    "id": "mice-394"
+    "id": 394,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31iw3vG+16L.jpg",
@@ -3530,10 +3801,11 @@
     "maximumDPI": "3200",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "HP",
-    "id": "mice-395"
+    "id": 395,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c618293eb984a50bdc4efe037385ecf1.256p.jpg",
@@ -3543,10 +3815,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Both",
     "color": "White / Gray",
-    "rating": "0",
-    "price": "$70.44",
+    "rating": 0,
+    "price": 70.44,
     "manufacturer": "Razer",
-    "id": "mice-396"
+    "id": 396,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/514ed09a4e76c9430f252c293473b0b0.256p.jpg",
@@ -3556,10 +3829,11 @@
     "maximumDPI": "30000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$84.99",
+    "rating": 0,
+    "price": 84.99,
     "manufacturer": "Razer",
-    "id": "mice-397"
+    "id": 397,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/daff3cec35e5bdffee0353ce87c4f6c1.256p.jpg",
@@ -3569,10 +3843,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$48.95",
+    "rating": 0,
+    "price": 48.95,
     "manufacturer": "Cooler Master",
-    "id": "mice-398"
+    "id": 398,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3efa2d3eb67c1d95cebecef94b29948.256p.jpg",
@@ -3582,10 +3857,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Glorious",
-    "id": "mice-399"
+    "id": 399,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2333dfd5b27280747f295045811c90af.256p.jpg",
@@ -3595,10 +3871,11 @@
     "maximumDPI": "1200",
     "handOrientation": "Both",
     "color": "Gray",
-    "rating": "0",
-    "price": "$16.68",
+    "rating": 0,
+    "price": 16.68,
     "manufacturer": "Cherry",
-    "id": "mice-400"
+    "id": 400,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/41c599f3236a219aafe4d6c99f447c69.256p.jpg",
@@ -3608,10 +3885,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$39.99",
+    "rating": 0,
+    "price": 39.99,
     "manufacturer": "Cooler Master",
-    "id": "mice-401"
+    "id": 401,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b20a2922ca25c937719786e919d0f61.256p.jpg",
@@ -3621,10 +3899,11 @@
     "maximumDPI": "18000",
     "handOrientation": "Right",
     "color": "Pink / Gray",
-    "rating": "0",
-    "price": "$44.99",
+    "rating": 0,
+    "price": 44.99,
     "manufacturer": "Razer",
-    "id": "mice-402"
+    "id": 402,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/31G1YY0JlVL.jpg",
@@ -3634,10 +3913,11 @@
     "maximumDPI": "Maximum DPI",
     "handOrientation": "Both",
     "color": "Silver",
-    "rating": "0",
-    "price": "$257.38",
+    "rating": 0,
+    "price": 257.38,
     "manufacturer": "GE",
-    "id": "mice-403"
+    "id": 403,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d56a06d9797ae64646723ddad615ba65.256p.jpg",
@@ -3647,10 +3927,11 @@
     "maximumDPI": "6400",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$41.98",
+    "rating": 0,
+    "price": 41.98,
     "manufacturer": "MSI",
-    "id": "mice-404"
+    "id": 404,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/31AZVHX09SL.jpg",
@@ -3660,10 +3941,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$70.80",
+    "rating": 0,
+    "price": 70.8,
     "manufacturer": "Logitech",
-    "id": "mice-405"
+    "id": 405,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41VVocze9+L.jpg",
@@ -3673,10 +3955,11 @@
     "maximumDPI": "5040",
     "handOrientation": "Right",
     "color": "Black / Silver",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Perixx",
-    "id": "mice-406"
+    "id": 406,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6ab19588df86b95c4e0eb5ed5666915c.256p.jpg",
@@ -3686,10 +3969,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$27.00",
+    "rating": 0,
+    "price": 27.0,
     "manufacturer": "Cooler Master",
-    "id": "mice-407"
+    "id": 407,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7b2db2244cf35f05a815037f83a8c796.256p.jpg",
@@ -3699,10 +3983,11 @@
     "maximumDPI": "6200",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$24.99",
+    "rating": 0,
+    "price": 24.99,
     "manufacturer": "Aorus",
-    "id": "mice-408"
+    "id": 408,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b22b7d7c84585a38fee5baabf48e8979.256p.jpg",
@@ -3712,10 +3997,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Left",
     "color": "Black",
-    "rating": "0",
-    "price": "$99.99",
+    "rating": 0,
+    "price": 99.99,
     "manufacturer": "Razer",
-    "id": "mice-409"
+    "id": 409,
+    "stock": 0
   },
   {
     "imageURL": "/static/forever/img/no-image.png",
@@ -3725,10 +4011,11 @@
     "maximumDPI": "26000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Pulsar",
-    "id": "mice-410"
+    "id": 410,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b83adf5ed91833b102a3c58a8d0b0d7f.256p.jpg",
@@ -3738,10 +4025,11 @@
     "maximumDPI": "1000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$7.86",
+    "rating": 0,
+    "price": 7.86,
     "manufacturer": "Adesso",
-    "id": "mice-411"
+    "id": 411,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41kUYmrQyhL.jpg",
@@ -3751,10 +4039,11 @@
     "maximumDPI": "8200",
     "handOrientation": "Both",
     "color": "Black / White",
-    "rating": "0",
-    "price": "$176.47",
+    "rating": 0,
+    "price": 176.47,
     "manufacturer": "Razer",
-    "id": "mice-412"
+    "id": 412,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/34871aa0ac6fc75203c0deca876396f3.256p.jpg",
@@ -3764,10 +4053,11 @@
     "maximumDPI": "12000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$83.49",
+    "rating": 0,
+    "price": 83.49,
     "manufacturer": "SteelSeries",
-    "id": "mice-413"
+    "id": 413,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b01ae63d64b8873a4c341f148512ecd0.256p.jpg",
@@ -3777,10 +4067,11 @@
     "maximumDPI": "20000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$79.95",
+    "rating": 0,
+    "price": 79.95,
     "manufacturer": "Pulsar",
-    "id": "mice-414"
+    "id": 414,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/03da614f00a9d868998b3d52374525cd.256p.jpg",
@@ -3790,10 +4081,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Pink",
-    "rating": "0",
-    "price": "NULL",
+    "rating": 0,
+    "price": null,
     "manufacturer": "Razer",
-    "id": "mice-415"
+    "id": 415,
+    "stock": 0
   },
   {
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/31ACyIDOCXL.jpg",
@@ -3803,10 +4095,11 @@
     "maximumDPI": "25600",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Logitech",
-    "id": "mice-416"
+    "id": 416,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1aa75e2436e1a3902fd07e04a0a6a3f3.256p.jpg",
@@ -3816,10 +4109,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$109.84",
+    "rating": 0,
+    "price": 109.84,
     "manufacturer": "Asus",
-    "id": "mice-417"
+    "id": 417,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/313wkEt5EjS.jpg",
@@ -3829,10 +4123,11 @@
     "maximumDPI": "16000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$59.99",
+    "rating": 0,
+    "price": 59.99,
     "manufacturer": "HP",
-    "id": "mice-418"
+    "id": 418,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/314ZsG2XwzL.jpg",
@@ -3842,10 +4137,11 @@
     "maximumDPI": "7000",
     "handOrientation": "Right",
     "color": "Black / Green",
-    "rating": "0",
-    "price": "$20.99",
+    "rating": 0,
+    "price": 20.99,
     "manufacturer": "Asus",
-    "id": "mice-419"
+    "id": 419,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/31JSI4lH1WL.jpg",
@@ -3855,10 +4151,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$129.99",
+    "rating": 0,
+    "price": 129.99,
     "manufacturer": "ROCCAT",
-    "id": "mice-420"
+    "id": 420,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae5e526dd13bcfda496ae874641bde77.256p.jpg",
@@ -3868,10 +4165,11 @@
     "maximumDPI": "19000",
     "handOrientation": "Right",
     "color": "White",
-    "rating": "0",
-    "price": "$89.99",
+    "rating": 0,
+    "price": 89.99,
     "manufacturer": "Endgame Gear",
-    "id": "mice-421"
+    "id": 421,
+    "stock": 0
   },
   {
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/82e432b0dd31fc51d6ec05ecdd85cb75.256p.jpg",
@@ -3881,10 +4179,11 @@
     "maximumDPI": "5000",
     "handOrientation": "Both",
     "color": "Black",
-    "rating": "0",
-    "price": "$12.99",
+    "rating": 0,
+    "price": 12.99,
     "manufacturer": "AOC",
-    "id": "mice-422"
+    "id": 422,
+    "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/41ADC-FbNpL.jpg",
@@ -3894,9 +4193,10 @@
     "maximumDPI": "12000",
     "handOrientation": "Right",
     "color": "Black",
-    "rating": "0",
-    "price": "$61.18",
+    "rating": 0,
+    "price": 61.18,
     "manufacturer": "MSI",
-    "id": "mice-423"
+    "id": 423,
+    "stock": 0
   }
 ]
