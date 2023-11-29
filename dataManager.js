@@ -50,7 +50,7 @@ class DataManager {
    * @param {object} data - The data for the new record.
    * @returns {number} - The ID of the added object.
    */
-  dbCreate(type = '', data = {}) {
+  async dbCreate(type = '', data = {}) {
     const cls =
       typeof type === 'string'
         ? type in this.classes
@@ -67,7 +67,7 @@ class DataManager {
    * @param {string|number|object} data - Query parameter (e.g., 'all', record ID, or number of records).
    * @returns {object|array} - The retrieved record or records.
    */
-  dbRead(type = '', data = {}) {
+  async dbRead(type = '', data = {}) {
     const cls =
       typeof type === 'string'
         ? type in this.classes
@@ -80,7 +80,8 @@ class DataManager {
     }
 
     if (typeof data === 'number') {
-      return cls.getAll().slice(0, data);
+      const limit = await cls.getAll();
+      return limit.slice(0, data);
     }
 
     return cls.get(data);
@@ -92,7 +93,7 @@ class DataManager {
    * @param {object} data - The data for updating the record.
    * @returns {number|null} - The ID of the updated object or null if not found.
    */
-  dbUpdate(type = '', data = {}) {
+  async dbUpdate(type = '', data = {}) {
     const cls =
       typeof type === 'string'
         ? type in this.classes
@@ -109,7 +110,7 @@ class DataManager {
    * @param {object} data - The data for deleting the record.
    * @returns {number|null} - The ID of the deleted object or null if not found.
    */
-  dbDelete(type = '', data = {}) {
+  async dbDelete(type = '', data = {}) {
     const cls =
       typeof type === 'string'
         ? type in this.classes
@@ -121,4 +122,10 @@ class DataManager {
   }
 }
 
-export default new DataManager();
+const data = new DataManager();
+export default {
+  create: data.dbCreate.bind(data),
+  read: data.dbRead.bind(data),
+  update: data.dbUpdate.bind(data),
+  delete: data.dbDelete.bind(data),
+};

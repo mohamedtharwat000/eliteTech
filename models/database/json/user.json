@@ -1,1 +1,14 @@
-[{"id":4259643415,"username":"abc","email":"test","password":"test"},{"id":6781849744,"username":"test","email":"test","password":"test"},{"id":452821,"username":"hello","email":"hello","password":"hello"}]
+[
+  {
+    "id": 381740,
+    "username": "manager",
+    "email": "manager",
+    "password": "manager"
+  },
+  {
+    "id": 513270,
+    "username": "test2",
+    "email": "test2",
+    "password": "test2"
+  }
+]
