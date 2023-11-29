@@ -54,7 +54,7 @@
     "externalVolume": "60.8 L",
     "internalBays": "6",
     "rating": 0,
-    "price": 149.0,
+    "price": 149,
     "manufacturer": "Lian Li",
     "id": 127,
     "stock": 0
@@ -249,7 +249,7 @@
     "externalVolume": "98.9 L",
     "internalBays": "8",
     "rating": 0,
-    "price": 850.0,
+    "price": 850,
     "manufacturer": "Silverstone",
     "id": 140,
     "stock": 0
@@ -549,7 +549,7 @@
     "externalVolume": "55.6 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 89.0,
+    "price": 89,
     "manufacturer": "Lian Li",
     "id": 160,
     "stock": 0
@@ -1149,7 +1149,7 @@
     "externalVolume": "42.2 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 59.0,
+    "price": 59,
     "manufacturer": "Fractal Design",
     "id": 200,
     "stock": 0
@@ -1704,7 +1704,7 @@
     "externalVolume": "41.3 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 119.0,
+    "price": 119,
     "manufacturer": "NZXT",
     "id": 237,
     "stock": 0
@@ -2319,7 +2319,7 @@
     "externalVolume": "54.1 L",
     "internalBays": "3",
     "rating": 0,
-    "price": 99.0,
+    "price": 99,
     "manufacturer": "Lian Li",
     "id": 278,
     "stock": 0
@@ -2604,7 +2604,7 @@
     "externalVolume": "41.7 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 233.0,
+    "price": 233,
     "manufacturer": "Deepcool",
     "id": 297,
     "stock": 0
@@ -3234,7 +3234,7 @@
     "externalVolume": "External Volume",
     "internalBays": "2",
     "rating": 0,
-    "price": 420.0,
+    "price": 420,
     "manufacturer": "KOLINK",
     "id": 339,
     "stock": 0
@@ -3609,7 +3609,7 @@
     "externalVolume": "27.3 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "manufacturer": "NZXT",
     "id": 364,
     "stock": 0
@@ -4509,7 +4509,7 @@
     "externalVolume": "26.6 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 90.0,
+    "price": 90,
     "manufacturer": "Jonsbo",
     "id": 424,
     "stock": 0
@@ -4779,7 +4779,7 @@
     "externalVolume": "18.2 L",
     "internalBays": "8",
     "rating": 0,
-    "price": 152.0,
+    "price": 152,
     "manufacturer": "Jonsbo",
     "id": 442,
     "stock": 0
@@ -4809,7 +4809,7 @@
     "externalVolume": "External Volume",
     "internalBays": "3",
     "rating": 0,
-    "price": 410.0,
+    "price": 410,
     "manufacturer": "KOLINK",
     "id": 444,
     "stock": 0
@@ -5094,7 +5094,7 @@
     "externalVolume": "11.1 L",
     "internalBays": "5",
     "rating": 0,
-    "price": 130.0,
+    "price": 130,
     "manufacturer": "Jonsbo",
     "id": 463,
     "stock": 0
@@ -5334,7 +5334,7 @@
     "externalVolume": "40.2 L",
     "internalBays": "7",
     "rating": 0,
-    "price": 84.0,
+    "price": 84,
     "manufacturer": "Cooler Master",
     "id": 479,
     "stock": 0
@@ -5379,7 +5379,7 @@
     "externalVolume": "15.9 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 60.0,
+    "price": 60,
     "manufacturer": "Jonsbo",
     "id": 482,
     "stock": 0
@@ -5649,7 +5649,7 @@
     "externalVolume": "41.6 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 89.0,
+    "price": 89,
     "manufacturer": "NZXT",
     "id": 500,
     "stock": 0
@@ -5799,7 +5799,7 @@
     "externalVolume": "12.7 L",
     "internalBays": "5",
     "rating": 0,
-    "price": 150.0,
+    "price": 150,
     "manufacturer": "Jonsbo",
     "id": 510,
     "stock": 0
@@ -5949,7 +5949,7 @@
     "externalVolume": "External Volume",
     "internalBays": "0",
     "rating": 0,
-    "price": 220.0,
+    "price": 220,
     "manufacturer": "Fractal Design",
     "id": 520,
     "stock": 0
@@ -6234,7 +6234,7 @@
     "externalVolume": "43.0 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 199.0,
+    "price": 199,
     "manufacturer": "iBuypower",
     "id": 539,
     "stock": 0
@@ -6444,7 +6444,7 @@
     "externalVolume": "43.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 57.0,
+    "price": 57,
     "manufacturer": "GAMDIAS",
     "id": 553,
     "stock": 0
@@ -6969,7 +6969,7 @@
     "externalVolume": "34.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 352.0,
+    "price": 352,
     "manufacturer": "CiT",
     "id": 588,
     "stock": 0
@@ -7194,7 +7194,7 @@
     "externalVolume": "14.7 L",
     "internalBays": "0",
     "rating": 0,
-    "price": 200.0,
+    "price": 200,
     "manufacturer": "SSUPD",
     "id": 603,
     "stock": 0
@@ -7884,7 +7884,7 @@
     "externalVolume": "36.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 112.0,
+    "price": 112,
     "manufacturer": "Fractal Design",
     "id": 649,
     "stock": 0
@@ -7899,7 +7899,7 @@
     "externalVolume": "External Volume",
     "internalBays": "3",
     "rating": 0,
-    "price": 448.0,
+    "price": 448,
     "manufacturer": "Corsair",
     "id": 650,
     "stock": 0
@@ -7974,7 +7974,7 @@
     "externalVolume": "10.4 L",
     "internalBays": "0",
     "rating": 0,
-    "price": 99.0,
+    "price": 99,
     "manufacturer": "teenage engineering",
     "id": 655,
     "stock": 0
@@ -8049,7 +8049,7 @@
     "externalVolume": "15.9 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 50.0,
+    "price": 50,
     "manufacturer": "Jonsbo",
     "id": 660,
     "stock": 0
@@ -8064,7 +8064,7 @@
     "externalVolume": "39.9 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 337.0,
+    "price": 337,
     "manufacturer": "ENDORFY",
     "id": 661,
     "stock": 0
@@ -8259,7 +8259,7 @@
     "externalVolume": "35.3 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 86.0,
+    "price": 86,
     "manufacturer": "Aerocool",
     "id": 674,
     "stock": 0
@@ -8334,14 +8334,14 @@
     "externalVolume": "External Volume",
     "internalBays": "3",
     "rating": 0,
-    "price": 446.0,
+    "price": 446,
     "manufacturer": "KOLINK",
     "id": 679,
     "stock": 0
   },
   {
     "imageURL": "https://m.media-amazon.com/images/I/51CkZJio3mL.jpg",
-    "name": "MUSETEX \u200eTW8-S6 Mesh",
+    "name": "MUSETEX ‎TW8-S6 Mesh",
     "type": "ATX Mid Tower",
     "color": "Black",
     "powerSupply": "None",
@@ -8769,7 +8769,7 @@
     "externalVolume": "42.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 86.0,
+    "price": 86,
     "manufacturer": "MS",
     "id": 708,
     "stock": 0
@@ -9039,7 +9039,7 @@
     "externalVolume": "34.6 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "manufacturer": "Fractal Design",
     "id": 726,
     "stock": 0
@@ -9189,7 +9189,7 @@
     "externalVolume": "External Volume",
     "internalBays": "2",
     "rating": 0,
-    "price": 280.0,
+    "price": 280,
     "manufacturer": "HYTE",
     "id": 736,
     "stock": 0
@@ -9234,7 +9234,7 @@
     "externalVolume": "External Volume",
     "internalBays": "2",
     "rating": 0,
-    "price": 228.0,
+    "price": 228,
     "manufacturer": "Corsair",
     "id": 739,
     "stock": 0
@@ -9414,7 +9414,7 @@
     "externalVolume": "57.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 632.0,
+    "price": 632,
     "manufacturer": "Corsair",
     "id": 751,
     "stock": 0
@@ -10074,7 +10074,7 @@
     "externalVolume": "71.4 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "manufacturer": "Cooler Master",
     "id": 795,
     "stock": 0
@@ -10344,7 +10344,7 @@
     "externalVolume": "15.9 L",
     "internalBays": "1",
     "rating": 0,
-    "price": 56.0,
+    "price": 56,
     "manufacturer": "Jonsbo",
     "id": 813,
     "stock": 0
@@ -10494,7 +10494,7 @@
     "externalVolume": "32.7 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 398.0,
+    "price": 398,
     "manufacturer": "CiT",
     "id": 823,
     "stock": 0
@@ -10554,7 +10554,7 @@
     "externalVolume": "41.0 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "manufacturer": "Phanteks",
     "id": 827,
     "stock": 0
@@ -10779,7 +10779,7 @@
     "externalVolume": "75.5 L",
     "internalBays": "4",
     "rating": 0,
-    "price": 269.0,
+    "price": 269,
     "manufacturer": "Asus",
     "id": 842,
     "stock": 0
@@ -11439,7 +11439,7 @@
     "externalVolume": "External Volume",
     "internalBays": "0",
     "rating": 0,
-    "price": 482.0,
+    "price": 482,
     "manufacturer": "DAN Cases",
     "id": 886,
     "stock": 0
@@ -11829,7 +11829,7 @@
     "externalVolume": "37.5 L",
     "internalBays": "2",
     "rating": 0,
-    "price": 120.0,
+    "price": 120,
     "manufacturer": "Cougar",
     "id": 912,
     "stock": 0
@@ -11934,7 +11934,7 @@
     "externalVolume": "External Volume",
     "internalBays": "2",
     "rating": 0,
-    "price": 124.0,
+    "price": 124,
     "manufacturer": "Antec",
     "id": 919,
     "stock": 0

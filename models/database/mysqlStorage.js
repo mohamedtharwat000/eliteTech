@@ -37,15 +37,13 @@ export default class MysqlStorage {
   /**
    * Retrieves a record based on the type of the provided object.
    * @param {Object} obj - The object whose type is used for retrieval.
-   * @returns {Object|null} - The retrieved record or null if not found.
+   * @returns {Object} - The types information.
    */
-  async type(obj) {
+  async types(obj) {
     this.connect();
-    this.data = await this.db.query(
-      `SELECT * FROM type WHERE type = '${obj.constructor.name.toLowerCase()}'`
-    );
+    this.data = await this.db.query(`SELECT * FROM \`type\``);
     this.close();
-    return this.data[0][0];
+    return this.data[0];
   }
 
   /**
@@ -55,9 +53,11 @@ export default class MysqlStorage {
    */
   async getAll(cls) {
     this.connect();
-    this.data = await this.db.query(`SELECT * FROM ${cls.name.toLowerCase()}`);
+    this.data = await this.db.query(
+      `SELECT * FROM \`${cls.name.toLowerCase()}\``
+    );
     this.close();
-    return this.data[0];
+    return this.data[0] ?? null;
   }
 
   /**
@@ -69,10 +69,10 @@ export default class MysqlStorage {
   async get(cls, obj) {
     this.connect();
     this.data = await this.db.query(
-      `SELECT * FROM ${cls.name.toLowerCase()} WHERE id = ${obj.id}`
+      `SELECT * FROM \`${cls.name.toLowerCase()}\` WHERE id = ${obj.id}`
     );
     this.close();
-    return this.data[0][0];
+    return this.data[0][0] ?? null;
   }
 
   /**
@@ -89,7 +89,7 @@ export default class MysqlStorage {
 
     this.connect();
     this.data = await this.db.query(
-      `INSERT INTO ${cls.name.toLowerCase()} (${columns}) VALUES (${values.replaceAll(
+      `INSERT INTO \`${cls.name.toLowerCase()}\` (${columns}) VALUES (${values.replaceAll(
         `'null'`,
         `NULL`
       )})`
@@ -111,7 +111,7 @@ export default class MysqlStorage {
 
     this.connect();
     this.data = await this.db.query(
-      `UPDATE ${cls.name.toLowerCase()} SET ${updates} WHERE id = ${obj.id}`
+      `UPDATE \`${cls.name.toLowerCase()}\` SET ${updates} WHERE id = ${obj.id}`
     );
     this.close();
     return obj.id;
@@ -126,7 +126,7 @@ export default class MysqlStorage {
   async delete(cls, obj) {
     this.connect();
     this.data = await this.db.query(
-      `DELETE FROM ${cls.name.toLowerCase()} WHERE id = ${obj.id}`
+      `DELETE FROM \`${cls.name.toLowerCase()}\` WHERE id = ${obj.id}`
     );
     this.close();
     return obj.id;

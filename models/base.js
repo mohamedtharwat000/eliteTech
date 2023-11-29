@@ -23,10 +23,10 @@ export default class Base {
 
   /**
    * Retrieves the type of the object using the associated Storage.
-   * @returns {Object|null} - The type information or null if not found.
+   * @returns {Object} - The types information.
    */
-  type() {
-    return Storage.type(this);
+  types() {
+    return Storage.types(this);
   }
 
   /**

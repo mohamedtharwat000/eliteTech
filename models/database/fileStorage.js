@@ -21,19 +21,14 @@ export default class FileStorage {
   /**
    * Retrieves a record based on the type of the provided object.
    * @param {Object} obj - The object whose type is used for retrieval.
-   * @returns {Object|null} - The retrieved record or null if not found.
+   * @returns {Object} - The types information.
    */
-  async type(obj) {
+  async types(obj) {
     this.reload();
     this.data = JSON.parse(
       await readFile(`${process.cwd()}/models/database/json/type.json`, 'utf8')
     );
-    for (const record of this.data) {
-      if (record.type === obj.constructor.name.toLowerCase()) {
-        return record;
-      }
-    }
-    return null;
+    return this.data;
   }
 
   /**
