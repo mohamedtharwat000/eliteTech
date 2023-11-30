@@ -64,3 +64,7 @@ This project seamlessly integrates with the `dataManager.js` module, providing a
 ### Get all products data from start to product number end with a specified count
 
 `console.log(await data.read('mice', { start: 1, count: 1 }));`
+
+### Get all products data from start to product number end
+
+`console.log(await data.read('mice', { start: 1, count: 1 }));`
