@@ -75,13 +75,17 @@ class DataManager {
           : Base
         : Base;
 
-    if (data === 'all') {
+    if (Object.keys(data).length === 0) {
       return cls.getAll();
     }
 
-    if (typeof data === 'number') {
+    if ('start' in data || 'end' in data || 'count' in data) {
       const limit = await cls.getAll();
-      return limit.slice(0, data);
+      if ('start' in data) {
+        return limit.slice(data.start, data.count + 1);
+      } else {
+        return limit.slice(data.start, data.end);
+      }
     }
 
     return cls.get(data);
