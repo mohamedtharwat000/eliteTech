@@ -81,8 +81,11 @@ class DataManager {
 
     if ('start' in data || 'end' in data || 'count' in data) {
       const limit = await cls.getAll();
-      if ('start' in data) {
-        return limit.slice(data.start, data.count + 1);
+      if ('count' in data) {
+        return limit.slice(
+          data.start,
+          'start' in data ? data.count + 1 : data.count
+        );
       } else {
         return limit.slice(data.start, data.end);
       }
