@@ -22,7 +22,7 @@ const cmdCreate = command('create')
     for (const key in obj[0]) {
       if (key === 'id') continue;
       let inputData = await prompt({
-        type: 'input',
+        type: key === 'password' ? 'password' : 'input',
         name: key,
         message: `input ${key}: `,
       });
