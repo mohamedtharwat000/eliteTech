@@ -40,6 +40,14 @@ router.get("/:type/", logger, async (req, res) => {
 });
 
 
+router.post("/:type/", logger, async (req, res) => {
+	let type = req.params.type;
+	let body = req.body;
+	let result = await data.create(type, body);
+	res.json(result ? {'id': result} : {'error': 'unknown error'});
+});
+
+
 router.get("/:type/limit/:sequence", sequenceLogger, async (req, res) => {
 	let type = req.params.type;
 	let result = await data.read(type, getSequnece(req.params.sequence));
