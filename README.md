@@ -1,70 +1,66 @@
-## Elite Tech
+# Elite Tech CLI: Seamless Database Configuration and Data Management
 
-### Seamless Database Configuration and Data Management
+This repository offers a user-friendly command-line interface (CLI) for managing database types and performing various data operations (CURD), ensuring a smooth and efficient development experience.
 
-This repository provides a user-friendly approach to managing database types and data operations, ensuring a smooth and efficient development experience.
+## Switching Database Types
 
-**Switching Database Types**
+By default , Elite Tech uses JSON files as the database type. If you want to switch to a MYSQL database type, you can do so using the following command:
 
-Effortlessly switch between different database types using environment variables:
+### but first
+
+- import the mysql file for creating the database and it's tables
 
 ```sh
-export db=<database type> # Choose between 'mysql' or 'file'. Default is 'file'.
+mysql -u <username> -p
 ```
 
-**using MYSQL Database**
-
 ```sh
-export dbHost=<database host> # Specify the host of your database. Default is 'localhost'.
+export db=<database type> # Choose between 'mysql' or 'file'. for example  'file'.
+export dbHost=<database host> # Specify the host of your database. for example 'localhost'.
 export dbUser=<database username> # Provide your database username.
 export dbPassword=<database user password> # Input your database user password.
-export dbDatabase=<database name> # Specify the database to be used, default is 'elite_tech'.
+export dbDatabase=<database name> # Specify the database to be used; for example 'elite_tech'.
 ```
 
-**Data Management with DataManager.js**
+## Data Management using CLI (console.js)
 
-This project seamlessly integrates with the `dataManager.js` module, providing a comprehensive set of functions for managing product data:
+### For interactive mode:
 
-### Import dataManager module
+```sh
+./console.js
+```
 
-`import data from './dataManager.js';`
+### For non-interactive mode:
 
-### Create and save a new product
+```sh
+./console.js create|update|read|delete
+```
 
-`console.log(await data.create('mice', { name: '', type: '' }));`
+CLI Commands
+Create - Add a New Product
+sh
+Copy code
+./console.js create
+This command allows you to add a new product to the database. You'll be prompted to input details such as the product type, and then further details about the product itself.
 
-### Update a product with id = 1 with new data
+Update - Update a Product
+sh
+Copy code
+./console.js update
+Use this command to update an existing product in the database. Provide the product type, and you'll be prompted to input updated details for the specified product.
 
-`console.log(await data.update('mice', { id: 1, name: 'new name' }));`
+Delete - Delete a Product
+sh
+Copy code
+./console.js delete
+This command lets you delete a product from the database. Specify the product type and provide the product ID when prompted.
 
-### Delete a product with id = 1
+Read - Read from the Database
+sh
+Copy code
+./console.js read
+Read data from the database based on the specified product type. You can input the product ID directly or provide start, end, and count values for a range of products.
 
-`console.log(await data.delete('mice', { id: 1 }));`
+```
 
-### Get product data with id = 1
-
-`console.log(await data.read('mice', { id: 1 }));`
-
-### Get all products data
-
-`console.log(await data.read('mice', {}));`
-
-### Get the count of products
-
-`console.log(await data.read('mice', { count: 1 }));`
-
-### Get all products data starting from product number start
-
-`console.log(await data.read('mice', { start: 299 }));`
-
-### Get all products data from start to product number end
-
-`console.log(await data.read('mice', { end: 1 }));`
-
-### Get all products data from start to product number end with a specified count
-
-`console.log(await data.read('mice', { start: 1, count: 1 }));`
-
-### Get all products data from start to product number end
-
-`console.log(await data.read('mice', { start: 1, count: 1 }));`
+```

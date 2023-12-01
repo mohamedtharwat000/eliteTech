@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "bandersnatch": "^1.12.13",
+    "enquirer": "^2.4.1",
     "express": "^4.18.2",
     "mysql2": "^3.6.5"
   }
