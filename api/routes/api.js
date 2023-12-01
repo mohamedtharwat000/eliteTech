@@ -18,15 +18,18 @@ router
 
 		res.json(result ? result : { 'error': 'not found' });
 	})
-	.put(async (req, res) => {
-		res.send(`update item ${req.params.id}`);
+	.put(logger, async (req, res) => {
+		let result = await data.update(req.params.type, { 'id': parseInt(req.params.id), ...req.body });
+		result = await data.read(req.params.type, { id: result });
+
+		res.json(result ? result : { 'error': 'not found' });
 	})
 	.delete(logger, async (req, res) => {
 		let type = req.params.type;
 		let id = req.params.id ? { 'id': parseInt(req.params.id) } : {};
 		let result = await data.delete(type, id);
 
-		res.json(result ? result : {'error': 'not found'});
+		res.json(result ? result : { 'error': 'not found' });
 	});
 
 
