@@ -21,8 +21,12 @@ router
 	.put(async (req, res) => {
 		res.send(`update item ${req.params.id}`);
 	})
-	.delete(async (req, res) => {
-		res.send(`delete item ${req.params.id}`);
+	.delete(logger, async (req, res) => {
+		let type = req.params.type;
+		let id = req.params.id ? { 'id': parseInt(req.params.id) } : {};
+		let result = await data.delete(type, id);
+
+		res.json(result ? result : {'error': 'not found'});
 	});
 
 
