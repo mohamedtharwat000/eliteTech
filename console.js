@@ -17,18 +17,22 @@ const cmdCreate = command('create')
     description: 'product type',
   })
   .action(async (args) => {
-    const obj = await data.read(args.type, { count: 1 });
+    let obj = await data.create(args.type);
+    obj = await data.read(args.type, { id: obj });
     const promptData = {};
-    for (const key in obj[0]) {
-      if (key === 'id') continue;
-      let inputData = await prompt({
-        type: key === 'password' ? 'password' : 'input',
-        name: key,
-        message: `input ${key}: `,
-      });
-      promptData[key] = inputData[key];
+    for (const key in obj) {
+      promptData[key] =
+        key === 'id'
+          ? obj[key]
+          : (
+              await prompt({
+                type: key === 'password' ? 'password' : 'input',
+                name: key,
+                message: `input ${key}: `,
+              })
+            )[key];
     }
-    console.log(await data.create(args.type, promptData));
+    console.log(await data.update(args.type, promptData));
   });
 
 const cmdUpdate = command('update')

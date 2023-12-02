@@ -18,6 +18,7 @@ import Monitor from './models/monitor.js';
 import Mice from './models/mice.js';
 import Keyboard from './models/keyboard.js';
 import Headphone from './models/headphone.js';
+import bcrypt from 'bcrypt';
 
 class DataManager {
   /**
@@ -57,6 +58,12 @@ class DataManager {
           ? this.classes[type]
           : Base
         : Base;
+
+    if (data.password) {
+      const salt = await bcrypt.genSalt(10);
+      const hash = await bcrypt.hash(data.password, salt);
+      data.password = hash;
+    }
 
     return cls.add(new cls(data));
   }
@@ -107,6 +114,12 @@ class DataManager {
           ? this.classes[type]
           : Base
         : Base;
+
+    if (data.password) {
+      const salt = await bcrypt.genSalt(10);
+      const hash = await bcrypt.hash(data.password, salt);
+      data.password = hash;
+    }
 
     return cls.update(data);
   }

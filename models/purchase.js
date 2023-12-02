@@ -13,13 +13,8 @@ export default class Purchase extends Base {
     // Call the constructor of the Base class to set the unique identifier.
     super();
 
-    // Validate and set properties for the purchase.
-    if (obj.userID && obj.purchaseDate && obj.totalAmount) {
-      this.userID = obj.userID;
-      this.purchaseDate = obj.purchaseDate;
-      this.totalAmount = obj.totalAmount;
-    } else {
-      throw new Error('Incomplete purchase information.');
-    }
+    this.userID = obj.userID ?? null;
+    this.purchaseDate = obj.purchaseDate ?? null;
+    this.totalAmount = obj.totalAmount ?? null;
   }
 }
