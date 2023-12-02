@@ -13,14 +13,9 @@ export default class ProductRating extends Base {
     // Call the constructor of the Base class to set the unique identifier.
     super();
 
-    // Validate and set properties for the product rating.
-    if (obj.userID && obj.productID && obj.type && obj.rating) {
-      this.userID = obj.userID;
-      this.productID = obj.productID;
-      this.type = obj.type;
-      this.rating = obj.rating;
-    } else {
-      throw new Error('Incomplete product rating information.');
-    }
+    this.userID = obj.userID ?? null;
+    this.productID = obj.productID ?? null;
+    this.type = obj.type ?? null;
+    this.rating = obj.rating ?? null;
   }
 }

@@ -4,15 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-		"devStart": "nodemon api/server.js",
-		"devStartDB": "db=mysql dbUser=lordy dbHost=localhost dbDatabase=elite_tech nodemon api/server.js"
-	},
+    "devStart": "nodemon api/server.js",
+    "devStartDB": "db=mysql dbUser=lordy dbHost=localhost dbDatabase=elite_tech nodemon api/server.js"
+  },
+  "bin": "./console.js",
   "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bandersnatch": "^1.12.13",
-    "expres": "^0.0.5",
+    "bcrypt": "^5.1.1",
+    "enquirer": "^2.4.1",
     "express": "^4.18.2",
     "mysql2": "^3.6.5",
     "nodemon": "^3.0.1"

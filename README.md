@@ -1,66 +1,77 @@
-## Elite Tech
+# Elite Tech
 
-### Seamless Database Configuration and Data Management
+This repository offers a user-friendly command-line interface (CLI) for managing database types and performing various data operations (CURD), ensuring a smooth and efficient development experience.
 
-This repository provides a user-friendly approach to managing database types and data operations, ensuring a smooth and efficient development experience.
+## Switching Database Types
 
-**Switching Database Types**
+By default , Elite Tech uses JSON files as the database type. If you want to switch to a MYSQL database type, you can do so using the following command:
 
-Effortlessly switch between different database types using environment variables:
-
-```sh
-export db=<database type> # Choose between 'mysql' or 'file'. Default is 'file'.
-```
-
-**using MYSQL Database**
+- import the mysql file for creating the database and it's tables
 
 ```sh
-export dbHost=<database host> # Specify the host of your database. Default is 'localhost'.
-export dbUser=<database username> # Provide your database username.
-export dbPassword=<database user password> # Input your database user password.
-export dbDatabase=<database name> # Specify the database to be used, default is 'elite_tech'.
+mysql -u <username> -p < ./modles/database/sql/database.sql
 ```
 
-**Data Management with DataManager.js**
+- then fill mysql database with data from json files
 
-This project seamlessly integrates with the `dataManager.js` module, providing a comprehensive set of functions for managing product data:
+```sh
+node ./modles/database/sql/fillDatabase.cjs
+```
 
-### Import dataManager module
+- switch between different database types using environment variables
 
-`import data from './dataManager.js';`
+```sh
+export db=<database type> # Choose between 'mysql' or 'file'.
+export dbHost=<database host> # Specify the host of mysql database. => 'localhost'.
+export dbUser=<database username> # Provide your mysql username.
+export dbPassword=<database user password> # your mysql database user password.
+export dbDatabase=<database name> # mysql database to be used =>'elite_tech'.
+```
 
-### Create and save a new product
+## Data Management using CLI (console.js)
 
-`console.log(await data.create('mice', { name: '', type: '' }));`
+### For interactive mode:
 
-### Update a product with id = 1 with new data
+```sh
+./console.js
+```
 
-`console.log(await data.update('mice', { id: 1, name: 'new name' }));`
+### For non-interactive mode:
 
-### Delete a product with id = 1
+```sh
+./console.js create|update|read|delete
+```
 
-`console.log(await data.delete('mice', { id: 1 }));`
+### CLI Commands
 
-### Get product data with id = 1
+- **Create - Add a New Product**
 
-`console.log(await data.read('mice', { id: 1 }));`
+```sh
+./console.js create
+```
 
-### Get all products data
+This command allows you to add a new product to the database. You'll be prompted to input details such as the product type, and then further details about the product itself.
 
-`console.log(await data.read('mice', {}));`
+- **Update - Update a Product**
 
-### Get the count of products
+```sh
+./console.js update
+```
 
-`console.log(await data.read('mice', { count: 1 }));`
+Use this command to update an existing product in the database. Provide the product type, and you'll be prompted to input updated details for the specified product.
 
-### Get all products data starting from product number start
+- **Delete - Delete a Product**
 
-`console.log(await data.read('mice', { start: 299 }));`
+```sh
+./console.js delete
+```
 
-### Get all products data from start to product number end
+This command lets you delete a product from the database. Specify the product type and provide the product ID when prompted.
 
-`console.log(await data.read('mice', { end: 1 }));`
+- **Read - Read from the Database**
 
-### Get all products data from start to product number end with a specified count
+```sh
+./console.js read
+```
 
-`console.log(await data.read('mice', { start: 1, count: 1 }));`
+Read data from the database based on the specified product type. You can input the product ID directly or provide start, end, and count values for a range of products.

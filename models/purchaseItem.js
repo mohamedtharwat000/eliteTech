@@ -13,21 +13,10 @@ export default class PurchaseItem extends Base {
     // Call the constructor of the Base class to set the unique identifier.
     super();
 
-    // Validate and set properties for the purchase item.
-    if (
-      obj.purchaseID &&
-      obj.productID &&
-      obj.type &&
-      obj.quantity &&
-      obj.subtotal
-    ) {
-      this.purchaseID = obj.purchaseID;
-      this.productID = obj.productID;
-      this.type = obj.type;
-      this.quantity = obj.quantity;
-      this.subtotal = obj.subtotal;
-    } else {
-      throw new Error('Incomplete purchase item information.');
-    }
+    this.purchaseID = obj.purchaseID ?? null;
+    this.productID = obj.productID ?? null;
+    this.type = obj.type ?? null;
+    this.quantity = obj.quantity ?? null;
+    this.subtotal = obj.subtotal ?? null;
   }
 }
