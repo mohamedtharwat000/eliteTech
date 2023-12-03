@@ -1,23 +1,23 @@
 /**
  * DataManager class for managing data operations with various models.
  */
-import Base from './models/base.js';
-import User from './models/user.js';
-import Purchase from './models/purchase.js';
-import PurchaseItem from './models/purchaseItem.js';
-import ProductRating from './models/productRating.js';
-import Case from './models/case.js';
-import CPU from './models/cpu.js';
-import Cooler from './models/cooler.js';
-import GPU from './models/gpu.js';
-import RAM from './models/ram.js';
-import Storage from './models/storage.js';
-import Motherboard from './models/motherboard.js';
-import PowerSupply from './models/powersupply.js';
-import Monitor from './models/monitor.js';
-import Mice from './models/mice.js';
-import Keyboard from './models/keyboard.js';
-import Headphone from './models/headphone.js';
+import Base from './products/base.js';
+import User from './products/user.js';
+import Purchase from './products/purchase.js';
+import PurchaseItem from './products/purchaseItem.js';
+import ProductRating from './products/productRating.js';
+import Case from './products/case.js';
+import CPU from './products/cpu.js';
+import Cooler from './products/cooler.js';
+import GPU from './products/gpu.js';
+import RAM from './products/ram.js';
+import Storage from './products/storage.js';
+import Motherboard from './products/motherboard.js';
+import PowerSupply from './products/powersupply.js';
+import Monitor from './products/monitor.js';
+import Mice from './products/mice.js';
+import Keyboard from './products/keyboard.js';
+import Headphone from './products/headphone.js';
 import bcrypt from 'bcrypt';
 
 class DataManager {
@@ -46,18 +46,22 @@ class DataManager {
   }
 
   /**
+   * Retrieves the types of all products.
+   * @returns {object|array} - The available types.
+   */
+  async dbTypes() {
+    return Base.types();
+  }
+
+  /**
    * Create a new record in the specified model.
    * @param {string} type - The model name.
    * @param {object} data - The data for the new record.
    * @returns {number} - The ID of the added object.
    */
   async dbCreate(type = '', data = {}) {
-    const cls =
-      typeof type === 'string'
-        ? type in this.classes
-          ? this.classes[type]
-          : Base
-        : Base;
+    const cls = this.classes[type];
+    if (!cls) throw new Error('product type not available');
 
     if (data.password) {
       const salt = await bcrypt.genSalt(10);
@@ -75,27 +79,23 @@ class DataManager {
    * @returns {object|array} - The retrieved record or records.
    */
   async dbRead(type = '', data = {}) {
-    const cls =
-      typeof type === 'string'
-        ? type in this.classes
-          ? this.classes[type]
-          : Base
-        : Base;
+    const cls = this.classes[type];
+    if (!cls) throw new Error('product type not available');
 
     if (Object.keys(data).length === 0) {
       return cls.getAll();
     }
 
     if ('start' in data || 'end' in data || 'count' in data) {
-      const limit = await cls.getAll();
-      if ('count' in data) {
-        return limit.slice(
-          data.start,
-          'start' in data ? data.count + 1 : data.count
-        );
+      let limit = await cls.getAll();
+      if ('count' in data && data.count) {
+        debugger;
+        data.count = data.start ? +data.start + +data.count : data.count;
+        limit = limit.slice(data.start, data.count);
       } else {
-        return limit.slice(data.start, data.end);
+        limit = limit.slice(data.start, data.end);
       }
+      return limit;
     }
 
     return cls.get(data);
@@ -108,12 +108,8 @@ class DataManager {
    * @returns {number|null} - The ID of the updated object or null if not found.
    */
   async dbUpdate(type = '', data = {}) {
-    const cls =
-      typeof type === 'string'
-        ? type in this.classes
-          ? this.classes[type]
-          : Base
-        : Base;
+    const cls = this.classes[type];
+    if (!cls) throw new Error('product type not available');
 
     if (data.password) {
       const salt = await bcrypt.genSalt(10);
@@ -131,12 +127,8 @@ class DataManager {
    * @returns {number|null} - The ID of the deleted object or null if not found.
    */
   async dbDelete(type = '', data = {}) {
-    const cls =
-      typeof type === 'string'
-        ? type in this.classes
-          ? this.classes[type]
-          : Base
-        : Base;
+    const cls = this.classes[type];
+    if (!cls) throw new Error('product type not available');
 
     return cls.delete(data);
   }
@@ -144,6 +136,7 @@ class DataManager {
 
 const data = new DataManager();
 export default {
+  types: data.dbTypes.bind(data),
   create: data.dbCreate.bind(data),
   read: data.dbRead.bind(data),
   update: data.dbUpdate.bind(data),

@@ -3,14 +3,14 @@ const path = require('path');
 const mysql = require('mysql2/promise');
 
 (async function processFiles() {
-  const files = fs.readdirSync(path.resolve(__dirname, '..') + '/json');
-
   const connection = await mysql.createConnection({
     host: process.env.dbHost,
     user: process.env.dbUser,
     password: process.env.dbPassword,
     database: process.env.dbDatabase,
   });
+
+  const files = fs.readdirSync(path.resolve(__dirname, '..') + '/json');
 
   for (const file of files) {
     if (file.endsWith('.json')) {

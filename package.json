@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "bin": "./console.js",
-  "scripts": {
-    "devStart": "nodemon api/server.js",
-    "devStartDB": "db=mysql dbUser=lordy dbHost=localhost dbDatabase=elite_tech nodemon api/server.js"
-  },
   "type": "module",
-  "author": "",
-  "license": "ISC",
+  "author": "Mohamed Tharwat, Mohammed Khalid",
+  "license": "MIT",
+  "scripts": {
+    "serverStart": "nodemon ./server.js",
+    "mysqlDB": "db=mysql dbHost=localhost dbUser='' dbPassword='' dbDatabase=elite_tech",
+    "console": "./console.js"
+  },
   "dependencies": {
     "bandersnatch": "^1.12.13",
     "bcrypt": "^5.1.1",

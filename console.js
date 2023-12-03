@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
+import data from './models/dataManager.js';
 import { program, command } from 'bandersnatch';
-import data from './dataManager.js';
 import enquirer from 'enquirer';
 const prompt = enquirer.prompt;
 
@@ -10,6 +10,14 @@ const cmdDefault = command()
   .description('CLI for managing the backend database.\n')
   .action(() => console.log('write <help> for usage info'));
 
+const cmdTypes = command('types')
+  .description('Retrieves the types of all products.')
+  .action(async () => {
+    (await data.types()).forEach((obj) => {
+      console.log(obj.id, obj.type);
+    });
+  });
+
 const cmdCreate = command('create')
   .description('Add a new product to the database.')
   .argument('type', {
@@ -17,53 +25,20 @@ const cmdCreate = command('create')
     description: 'product type',
   })
   .action(async (args) => {
-    let obj = await data.create(args.type);
-    obj = await data.read(args.type, { id: obj });
-    const promptData = {};
+    if (!args.type) throw new Error('please provide type');
+    const obj_id = await data.create(args.type);
+    const obj = await data.read(args.type, { id: obj_id });
     for (const key in obj) {
-      promptData[key] =
-        key === 'id'
-          ? obj[key]
-          : (
-              await prompt({
-                type: key === 'password' ? 'password' : 'input',
-                name: key,
-                message: `input ${key}: `,
-              })
-            )[key];
+      if (key === 'id') continue;
+      obj[key] = (
+        await prompt({
+          type: key === 'password' ? 'password' : 'input',
+          name: key,
+          message: `input ${key}: `,
+        })
+      )[key];
     }
-    console.log(await data.update(args.type, promptData));
-  });
-
-const cmdUpdate = command('update')
-  .description('Update a product in the database.')
-  .argument('type', {
-    prompt: 'product type: ',
-    description: 'product type',
-  })
-  .action(async (args) => {
-    const obj = await data.read(args.type, { count: 1 });
-    let promptData = {};
-    for (const key in obj[0]) {
-      let inputData = await prompt({
-        type: 'input',
-        name: key,
-        message: `input ${key}: `,
-      });
-      promptData[key] = inputData[key];
-    }
-    console.log(await data.update(args.type, promptData));
-  });
-
-const cmdDelete = command('delete')
-  .description('delete a product in the database.')
-  .argument('type', {
-    prompt: 'product type: ',
-    description: 'product type',
-  })
-  .option('id', { prompt: true })
-  .action(async (args) => {
-    console.log(await data.delete(args.type, { id: args.id }));
+    console.log(await data.update(args.type, obj));
   });
 
 const cmdRead = command('read')
@@ -73,31 +48,90 @@ const cmdRead = command('read')
     description: 'product type',
   })
   .action(async (args) => {
-    let product_id = await prompt({
-      type: 'input',
-      name: 'id',
-      message: 'input id: ',
-    });
-    if (product_id.id) {
-      console.log(await data.read(args.type, { id: product_id.id }));
+    if (!args.type) throw new Error('please provide type');
+    const product_id = (
+      await prompt({
+        type: 'input',
+        name: 'id',
+        message: 'input id: ',
+      })
+    )['id'];
+    if (product_id) {
+      console.log(await data.read(args.type, { id: product_id }));
       return;
     }
-
     const types = ['start', 'end', 'count'];
-    const promptData = {};
+    const limit = {};
     for (const key of types) {
-      let inputData = await prompt({
-        type: 'input',
-        name: key,
-        message: `input ${key}: `,
-      });
-      if (inputData[key]) promptData[key] = inputData[key];
+      limit[key] =
+        (
+          await prompt({
+            type: 'input',
+            name: key,
+            message: `input ${key}: `,
+          })
+        )[key] || undefined;
     }
-    console.log(await data.read(args.type, promptData));
+    console.log(await data.read(args.type, limit));
+  });
+
+const cmdUpdate = command('update')
+  .description('Update a product in the database.')
+  .argument('type', {
+    prompt: 'product type: ',
+    description: 'product type',
+  })
+  .action(async (args) => {
+    if (!args.type) throw new Error('please provide type');
+    const product_id = (
+      await prompt({
+        type: 'input',
+        name: 'id',
+        message: 'input id: ',
+      })
+    )['id'];
+    if (!product_id) {
+      throw new Error('please provide id');
+    }
+    const obj = await data.read(args.type, { id: product_id });
+    if (!obj) return;
+    for (const key in obj) {
+      if (key === 'id') continue;
+      obj[key] = (
+        await prompt({
+          type: key === 'password' ? 'password' : 'input',
+          name: key,
+          message: `input ${key}: `,
+        })
+      )[key];
+    }
+    console.log(await data.update(args.type, obj));
+  });
+
+const cmdDelete = command('delete')
+  .description('delete a product in the database.')
+  .argument('type', {
+    prompt: 'product type: ',
+    description: 'product type',
+  })
+  .action(async (args) => {
+    if (!args.type) throw new Error('please provide type');
+    const product_id = (
+      await prompt({
+        type: 'input',
+        name: 'id',
+        message: 'input id: ',
+      })
+    )['id'];
+    if (!product_id) {
+      throw new Error('please provide id');
+    }
+    console.log(await data.delete(args.type, { id: product_id }));
   });
 
 const app = program()
   .add(cmdDefault)
+  .add(cmdTypes)
   .add(cmdCreate)
   .add(cmdUpdate)
   .add(cmdDelete)

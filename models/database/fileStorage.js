@@ -12,18 +12,17 @@ export default class FileStorage {
   }
 
   /**
-   * Reloads the data by setting it to null.
+   * Reloads the data by setting it to [].
    */
   reload() {
-    this.data = null;
+    this.data = [];
   }
 
   /**
-   * Retrieves a record based on the type of the provided object.
-   * @param {Object} obj - The object whose type is used for retrieval.
+   * Retrieves the types of all products.
    * @returns {Object} - The types information.
    */
-  async types(obj) {
+  async types() {
     this.reload();
     this.data = JSON.parse(
       await readFile(`${process.cwd()}/models/database/json/type.json`, 'utf8')
@@ -38,13 +37,12 @@ export default class FileStorage {
    */
   async getAll(cls) {
     this.reload();
-    this.data =
-      JSON.parse(
-        await readFile(
-          `${process.cwd()}/models/database/json/${cls.name.toLowerCase()}.json`,
-          'utf8'
-        )
-      ) ?? [];
+    this.data = JSON.parse(
+      await readFile(
+        `${process.cwd()}/models/database/json/${cls.name.toLowerCase()}.json`,
+        'utf8'
+      )
+    );
     return this.data;
   }
 

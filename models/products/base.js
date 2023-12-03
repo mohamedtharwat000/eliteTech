@@ -1,4 +1,4 @@
-import Storage from './database/storage.js';
+import Storage from '../database/storage.js';
 
 /**
  * Base class serving as a foundation for other classes with CRUD operations.
@@ -25,8 +25,8 @@ export default class Base {
    * Retrieves the type of the object using the associated Storage.
    * @returns {Object} - The types information.
    */
-  types() {
-    return Storage.types(this);
+  static types() {
+    return Storage.types();
   }
 
   /**
