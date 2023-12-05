@@ -9,31 +9,16 @@ export default class Base {
    */
   constructor() {
     if (Storage.constructor.name === 'FileStorage') {
-      this.fileStorageId();
+      this.id = Math.floor(Math.random() * 10000);
     }
-  }
-
-  /**
-   * Generates an ID if the Storage is of type FileStorage.
-   */
-  async fileStorageId() {
-    this.id = (await this.constructor.get({})).length + 1;
-  }
-
-  /**
-   * Converts the object to a JSON string.
-   * @returns {string} - The JSON representation of the object.
-   */
-  toString() {
-    return JSON.stringify(this);
   }
 
   /**
    * Retrieves the type of the object using the associated Storage.
    * @returns {Object} - The types information.
    */
-  static types() {
-    return Storage.types();
+  static async types() {
+    return await Storage.types();
   }
 
   /**
@@ -41,8 +26,8 @@ export default class Base {
    * @param {Object} obj - The object to retrieve.
    * @returns {Object|null} - The retrieved record or null if not found.
    */
-  static get(obj) {
-    return Storage.get(this, obj);
+  static async get(obj) {
+    return await Storage.get(this, obj);
   }
 
   /**
@@ -50,8 +35,8 @@ export default class Base {
    * @param {Object} obj - The object to add.
    * @returns {number} - The ID of the added object.
    */
-  static add(obj) {
-    return Storage.add(this, obj);
+  static async add(obj) {
+    return await Storage.add(this, obj);
   }
 
   /**
@@ -59,8 +44,8 @@ export default class Base {
    * @param {Object} obj - The object with updated values.
    * @returns {number|null} - The ID of the updated object or null if not found.
    */
-  static update(obj) {
-    return Storage.update(this, obj);
+  static async update(obj) {
+    return await Storage.update(this, obj);
   }
 
   /**
@@ -68,7 +53,7 @@ export default class Base {
    * @param {Object} obj - The object to delete.
    * @returns {number|null} - The ID of the deleted object or null if not found.
    */
-  static delete(obj) {
-    return Storage.delete(this, obj);
+  static async delete(obj) {
+    return await Storage.delete(this, obj);
   }
 }

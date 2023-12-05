@@ -25,15 +25,13 @@ export default class FileStorage {
    */
   async read(cls) {
     this.reload();
-    const file =
-      (await readFile(
-        `${process.cwd()}/models/database/json/${
-          cls ? cls.name.toLowerCase() : 'type'
-        }.json`,
-        'utf8'
-      )) || '[]';
-    this.data = JSON.parse(file);
-    return this.data;
+    const file = await readFile(
+      `${process.cwd()}/models/database/json/${
+        cls ? cls.name.toLowerCase() : 'type'
+      }.json`,
+      'utf8'
+    );
+    this.data = file ? JSON.parse(file) : [];
   }
 
   /**
@@ -66,7 +64,7 @@ export default class FileStorage {
    */
   async add(cls, obj) {
     await this.read(cls);
-    this.data.push(JSON.parse(obj.toString()));
+    this.data.push(obj);
     await this.save(cls, this.data);
     return obj.id;
   }
@@ -109,78 +107,67 @@ export default class FileStorage {
    * Retrieves records from the storage based on specified criteria.
    *
    * @async
-   * @param {Function} cls - The class of objects should be retrieved.
+   * @param {Function} cls - The class of objects to be retrieved.
    * @param {Object} obj - Criteria for filtering, sorting, and pagination.
-   * @returns {Promise<Array|Object|null>} =>
-   *  Depending on the provided criteria, returns:
+   * @returns {Promise<Array|Object|null>} Depending on the provided criteria,
+   *  returns:
    *   - An array of records if pagination or no specific criteria are provided.
    *   - A single record if filtering by ID.
    *   - Null if no matching records are found.
    */
   async get(cls, obj) {
+    const options = ['price', 'rating'];
     await this.read(cls);
 
-    if (Object.keys(obj).length === 0) {
+    if (obj.id) {
+      this.data = this.data.filter((record) => record.id == obj.id) || [];
       return this.data;
     }
 
-    if (obj.id) {
-      return this.data.find((record) => record.id == obj.id) || null;
-    }
-
-    if (obj.start || obj.end || obj.count) {
-      this.data = this.data.slice(
-        obj.start || 0,
-        obj.count ? (obj.start ? +obj.start + +obj.count : +obj.count) : obj.end
+    if (obj.name) {
+      const partialName = obj.name.toLowerCase();
+      this.data = this.data.filter((record) =>
+        record.name.toLowerCase().includes(partialName)
       );
       return this.data;
     }
 
-    const options = ['name', 'price', 'rating'];
-
-    for (const option of options) {
-      if (!this.data.length || !option in this.data[0]) {
-        return this.data;
-      }
-    }
-
-    if (obj.sortBy && options.includes(obj.sortBy)) {
-      this.data.sort((a, b) => a[obj.sortBy] - b[obj.sortBy]);
-      if (obj.sortType === 'DESC') {
-        this.data.reverse();
-      }
-      return this.data;
-    }
-
-    const filterTypes = ['gt', 'lt', 'eq'];
+    let filteredData = [...this.data];
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
-      if (
-        filterTypes.includes(obj.filterType) &&
-        options.includes(obj.filterBy)
-      ) {
-        const filterFunction = (record) => {
-          const value = record[obj.filterBy];
-          const filterValue = Number(obj.filterValue)
-            ? +obj.filterValue
-            : obj.filterValue;
-          switch (obj.filterType) {
-            case 'gt':
-              return value > filterValue;
-            case 'lt':
-              return value < filterValue;
-            case 'eq':
-              return value == filterValue;
-            default:
-              return true;
-          }
-        };
-        this.data = this.data.filter(filterFunction);
-      }
-
-      return this.data;
+      const filterFunction = (record) => {
+        const value = record[obj.filterBy];
+        const filterValue = Number(obj.filterValue)
+          ? +obj.filterValue
+          : obj.filterValue;
+        switch (obj.filterType) {
+          case 'gt':
+            return value > filterValue;
+          case 'lt':
+            return value < filterValue;
+          case 'eq':
+            return value == filterValue;
+          default:
+            return true;
+        }
+      };
+      filteredData = filteredData.filter(filterFunction);
     }
 
-    return null;
+    if (obj.sort && options.includes(obj.sort)) {
+      filteredData.sort((a, b) => a[obj.sort] - b[obj.sort]);
+    }
+
+    if (obj.order === 'DESC') {
+      filteredData.reverse();
+    }
+
+    const start = +obj.start || 0;
+    const end = +obj.end || this.data.length;
+    const limit = obj.limit ? Math.min(+obj.limit, end - start) : end;
+
+    this.data = filteredData.slice(start, limit);
+
+    return this.data;
   }
 }

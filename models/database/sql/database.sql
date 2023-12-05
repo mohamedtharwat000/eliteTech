@@ -209,7 +209,7 @@ CREATE TABLE IF NOT EXISTS `purchase` (
     FOREIGN KEY (userID) REFERENCES user(id)
 );
 
-CREATE TABLE IF NOT EXISTS `purchaseItem` (
+CREATE TABLE IF NOT EXISTS `purchaseitem` (
     `id` INT PRIMARY KEY AUTO_INCREMENT,
     `purchaseID` INT NOT NULL,
     `productID` INT NOT NULL,
@@ -220,7 +220,7 @@ CREATE TABLE IF NOT EXISTS `purchaseItem` (
     FOREIGN KEY (type) REFERENCES type(id)
 );
 
-CREATE TABLE IF NOT EXISTS `productRating` (
+CREATE TABLE IF NOT EXISTS `productrating` (
     `id` INT PRIMARY KEY AUTO_INCREMENT,
     `userID` INT NOT NULL,
     `productID` INT NOT NULL,

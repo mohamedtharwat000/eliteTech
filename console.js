@@ -24,6 +24,7 @@ const cmdCreate = command('create')
     choices: (await data.types()).map((record) => record.type),
   })
   .action(async (args) => {
+    debugger;
     const obj_id = await data.create(args.type);
 
     const obj = await data.read(args.type, { id: obj_id });
@@ -38,7 +39,14 @@ const cmdCreate = command('create')
 
     const responses = await prompt(prompts);
 
-    const updatedId = await data.update(args.type, { ...responses, ...obj });
+    const filteredResponses = Object.fromEntries(
+      Object.entries(responses).filter(([key, value]) => value !== '')
+    );
+
+    const updatedId = await data.update(args.type, {
+      ...obj,
+      ...filteredResponses,
+    });
 
     console.log(`${args.type} created with ID: ${updatedId}`);
   });
@@ -61,10 +69,8 @@ const cmdUpdate = command('update')
     if (!args.id) throw new Error('Missing required argument: id');
 
     const obj = await data.read(args.type, { id: args.id });
-    if (!obj.id) {
-      console.log(`Product with ID ${obj.id} not found.`);
-      return;
-    }
+    if (!obj.id) return console.log(`Product with ID ${obj.id} not found.`);
+
     const prompts = Object.keys(obj)
       .filter((key) => key !== 'id')
       .map((key) => ({
@@ -75,7 +81,14 @@ const cmdUpdate = command('update')
 
     const responses = await prompt(prompts);
 
-    const updatedId = await data.update(args.type, { ...responses, ...obj });
+    const filteredResponses = Object.fromEntries(
+      Object.entries(responses).filter(([key, value]) => value !== '')
+    );
+
+    const updatedId = await data.update(args.type, {
+      ...obj,
+      ...filteredResponses,
+    });
 
     console.log(`Updated ${args.type} with ID ${updatedId}`);
   });
@@ -116,78 +129,81 @@ const cmdRead = command('read')
     prompt: true,
     choices: (await data.types()).map((record) => record.type),
   })
-  .option('id', {
-    description: 'id of product',
+  .argument('search', {
+    description: 'Search by',
+    choices: ['no search', 'name', 'id'],
+    default: 'no search',
     prompt: true,
   })
-  .option('sortBy', {
-    description: 'Choose field to sort by',
-    choices: ['name', 'price', 'rating'],
-    default: 'name',
-    prompt: true,
-  })
-  .option('sortType', {
-    description: 'Sort type (ASC or DESC)',
-    choices: ['ASC', 'DESC'],
-    default: 'ASC',
-    prompt: true,
-  })
-  .option('filterBy', {
-    description: 'Choose field to filter by',
-    choices: ['name', 'price', 'rating'],
-    default: 'name',
-    prompt: true,
-  })
-  .option('filterType', {
-    description: 'Filter type (gt, lt, eq)',
-    choices: ['gt', 'lt', 'eq'],
-    default: 'eq',
-    prompt: true,
-  })
-  .option('filterValue', {
-    description: 'Enter value for filtering',
-    default: '',
-    prompt: true,
-  })
-  .option('start', {
-    description: 'Enter start index for pagination',
-    default: 0,
-    prompt: true,
-  })
-  .option('end', {
-    description: 'Enter end index for pagination',
-    default: undefined,
-    prompt: true,
-  })
-  .option('count', {
-    description: 'Enter count for pagination',
-    default: undefined,
-    prompt: true,
-  })
-  .action(async (args, options) => {
+  .action(async (args) => {
     const criteria = {};
 
-    if (args.id) {
-      console.log(await data.read(args.type, { id: args.id }));
-      return;
+    if (args.search !== 'no search') {
+      const searchTerm = await prompt({
+        type: 'input',
+        name: 'searchTerm',
+        message: `Enter ${args.search}: `,
+      });
+      criteria[args.search] = searchTerm.searchTerm;
     }
 
-    // Handle pagination options
-    criteria.start = options.start;
-    criteria.end = options.end;
-    criteria.count = options.count;
+    if (args.search === 'no search') {
+      const options = await prompt([
+        {
+          type: 'select',
+          name: 'sort',
+          message: 'Choose field to sort by',
+          choices: ['no sort', 'price', 'rating'],
+        },
+        {
+          type: 'select',
+          name: 'order',
+          message: 'Sort type (ASC or DESC)',
+          choices: ['no order', 'ASC', 'DESC'],
+        },
+        {
+          type: 'select',
+          name: 'filterBy',
+          message: 'Choose field to filter by',
+          choices: ['no filter', 'price', 'rating'],
+        },
+        {
+          type: 'select',
+          name: 'filterType',
+          message: 'Filter type (gt, lt, eq)',
+          choices: ['no filter', 'gt', 'lt', 'eq'],
+        },
+        {
+          type: 'input',
+          name: 'filterValue',
+          message: 'Enter value for filtering',
+          default: '',
+        },
+        {
+          type: 'input',
+          name: 'start',
+          message: 'Enter start index for pagination',
+          default: 0,
+        },
+        {
+          type: 'input',
+          name: 'end',
+          message: 'Enter end index for pagination',
+          default: undefined,
+        },
+        {
+          type: 'input',
+          name: 'limit',
+          message: 'Enter count for pagination',
+          default: undefined,
+        },
+      ]);
 
-    // Set sorting options if provided
-    if (options.sortBy) {
-      criteria.sortBy = options.sortBy;
-      criteria.sortType = options.sortType;
-    }
-
-    // Set filtering options if provided
-    if (options.filterBy && options.filterType && options.filterValue) {
-      criteria.filterBy = options.filterBy;
-      criteria.filterType = options.filterType;
-      criteria.filterValue = options.filterValue;
+      for (const [key, value] of Object.entries(options)) {
+        if (value !== undefined && value !== null) {
+          criteria[key] = value;
+        }
+      }
     }
 
     console.log(await data.read(args.type, criteria));

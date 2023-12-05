@@ -9,11 +9,11 @@
   },
   {
     "id": 3,
-    "type": "purchaseItem"
+    "type": "purchaseitem"
   },
   {
     "id": 4,
-    "type": "productRating"
+    "type": "productrating"
   },
   {
     "id": 5,
