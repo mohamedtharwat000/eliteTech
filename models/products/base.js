@@ -5,12 +5,19 @@ import Storage from '../database/storage.js';
  */
 export default class Base {
   /**
-   * Constructs a new Base instance. Generates an ID if the Storage is of type FileStorage.
+   * Constructs a new Base instance.
    */
   constructor() {
     if (Storage.constructor.name === 'FileStorage') {
-      this.id = Math.floor(Math.random() * 1_000_000);
+      this.fileStorageId();
     }
+  }
+
+  /**
+   * Generates an ID if the Storage is of type FileStorage.
+   */
+  async fileStorageId() {
+    this.id = (await this.constructor.get({})).length + 1;
   }
 
   /**
@@ -30,14 +37,6 @@ export default class Base {
   }
 
   /**
-   * Retrieves all records of the current class using the associated Storage.
-   * @returns {Array} - An array of records.
-   */
-  static getAll() {
-    return Storage.getAll(this);
-  }
-
-  /**
    * Retrieves a specific record based on the provided object using the associated Storage.
    * @param {Object} obj - The object to retrieve.
    * @returns {Object|null} - The retrieved record or null if not found.
@@ -52,11 +51,7 @@ export default class Base {
    * @returns {number} - The ID of the added object.
    */
   static add(obj) {
-    if (this instanceof this.constructor) {
-      return Storage.add(this, obj);
-    } else {
-      throw new Error('Cannot add record to a non-class object');
-    }
+    return Storage.add(this, obj);
   }
 
   /**

@@ -75,28 +75,12 @@ class DataManager {
   /**
    * Read records from the specified model.
    * @param {string} type - The model name.
-   * @param {string|number|object} data - Query parameter (e.g., 'all', record ID, or number of records).
+   * @param {object} data - The data for reading the database.
    * @returns {object|array} - The retrieved record or records.
    */
   async dbRead(type = '', data = {}) {
     const cls = this.classes[type];
     if (!cls) throw new Error('product type not available');
-
-    if (Object.keys(data).length === 0) {
-      return cls.getAll();
-    }
-
-    if ('start' in data || 'end' in data || 'count' in data) {
-      let limit = await cls.getAll();
-      if ('count' in data && data.count) {
-        debugger;
-        data.count = data.start ? +data.start + +data.count : data.count;
-        limit = limit.slice(data.start, data.count);
-      } else {
-        limit = limit.slice(data.start, data.end);
-      }
-      return limit;
-    }
 
     return cls.get(data);
   }
