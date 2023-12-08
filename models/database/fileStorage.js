@@ -19,6 +19,15 @@ export default class FileStorage {
   }
 
   /**
+   * Retrieves the types of all products.
+   * @returns {Object} - The types information.
+   */
+  async types() {
+    await this.read();
+    return this.data;
+  }
+
+  /**
    * Retrieves all records of a specified class.
    * @param {Function} cls - The class of objects to retrieve.
    * @returns {Array} - An array of records.
@@ -48,15 +57,6 @@ export default class FileStorage {
   }
 
   /**
-   * Retrieves the types of all products.
-   * @returns {Object} - The types information.
-   */
-  async types() {
-    await this.read();
-    return this.data;
-  }
-
-  /**
    * Adds a new record to the specified class.
    * @param {Function} cls - The class of the object.
    * @param {Object} obj - The object to add.
@@ -77,9 +77,9 @@ export default class FileStorage {
    */
   async update(cls, obj) {
     await this.read(cls);
-    const record = this.data.find((product) => product.id === obj.id);
+    const record = this.data.find((product) => product.id == obj.id);
     if (record) {
-      this.data[this.data.indexOf(record)] = { ...obj };
+      this.data[this.data.indexOf(record)] = { ...record, ...obj };
       await this.save(cls, this.data);
       return obj.id;
     }
@@ -120,8 +120,15 @@ export default class FileStorage {
     await this.read(cls);
 
     if (obj.id) {
-      this.data = this.data.filter((record) => record.id == obj.id) || [];
+      this.data = this.data.filter((record) => record.id == obj.id);
       return this.data;
+    }
+
+    if (obj.manufacturer) {
+      const partialName = obj.name.toLowerCase();
+      this.data = this.data.filter(
+        (record) => record.manufacturer.toLowerCase() == partialName
+      );
     }
 
     if (obj.name) {
@@ -129,10 +136,7 @@ export default class FileStorage {
       this.data = this.data.filter((record) =>
         record.name.toLowerCase().includes(partialName)
       );
-      return this.data;
     }
-
-    let filteredData = [...this.data];
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
       const filterFunction = (record) => {
@@ -151,22 +155,22 @@ export default class FileStorage {
             return true;
         }
       };
-      filteredData = filteredData.filter(filterFunction);
+      this.data.filter(filterFunction);
     }
 
     if (obj.sort && options.includes(obj.sort)) {
-      filteredData.sort((a, b) => a[obj.sort] - b[obj.sort]);
+      this.data.sort((a, b) => a[obj.sort] - b[obj.sort]);
     }
 
     if (obj.order === 'DESC') {
-      filteredData.reverse();
+      this.data.reverse();
     }
 
     const start = +obj.start || 0;
     const end = +obj.end || this.data.length;
-    const limit = obj.limit ? Math.min(+obj.limit, end - start) : end;
+    const limit = obj.limit ? Math.min(+obj.limit, +end - +start) : end;
 
-    this.data = filteredData.slice(start, limit);
+    this.data.slice(start, limit);
 
     return this.data;
   }

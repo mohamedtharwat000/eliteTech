@@ -8,8 +8,7 @@
   "author": "Mohamed Tharwat, Mohammed Khalid",
   "license": "MIT",
   "scripts": {
-    "serverStart": "nodemon ./server.js",
-    "mysqlDB": "db=mysql dbHost=localhost dbUser='' dbPassword='' dbDatabase=elite_tech",
+    "serverStart": "nodemon ./api/server.js",
     "console": "./console.js"
   },
   "dependencies": {

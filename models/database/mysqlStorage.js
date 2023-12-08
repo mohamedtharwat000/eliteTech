@@ -47,35 +47,6 @@ export default class MysqlStorage {
   }
 
   /**
-   * Retrieves all records of a specified class from the MySQL database.
-   * @param {Function} cls - The class of objects to retrieve.
-   * @returns {Array} - An array of records.
-   */
-  async getAll(cls) {
-    this.connect();
-    this.data = await this.db.query(
-      `SELECT * FROM \`${cls.name.toLowerCase()}\``
-    );
-    this.close();
-    return this.data[0] ?? null;
-  }
-
-  /**
-   * Retrieves a specific record based on class and object ID from the MySQL database.
-   * @param {Function} cls - The class of the object.
-   * @param {Object} obj - The object to retrieve.
-   * @returns {Object|null} - The retrieved record or null if not found.
-   */
-  async get(cls, obj) {
-    this.connect();
-    this.data = await this.db.query(
-      `SELECT * FROM \`${cls.name.toLowerCase()}\` WHERE id = ${obj.id}`
-    );
-    this.close();
-    return this.data[0][0] ?? null;
-  }
-
-  /**
    * Adds a new record to the specified class in the MySQL database.
    * @param {Function} cls - The class of the object.
    * @param {Object} obj - The object to add.
@@ -130,5 +101,69 @@ export default class MysqlStorage {
     );
     this.close();
     return obj.id;
+  }
+
+  /**
+   * Retrieves records from the storage based on specified criteria.
+   *
+   * @async
+   * @param {Function} cls - The class of objects to be retrieved.
+   * @param {Object} obj - Criteria for filtering, sorting, and pagination.
+   * @returns {Promise<Array|Object|null>} Depending on the provided criteria,
+   *  returns:
+   *   - An array of records if pagination or no specific criteria are provided.
+   *   - A single record if filtering by ID.
+   *   - Null if no matching records are found.
+   */
+  async get(cls, obj) {
+    this.connect();
+
+    let sql = `SELECT * FROM \`${cls.name.toLowerCase()}\``;
+
+    if (obj.id) {
+      sql += ` WHERE id = ${obj.id}`;
+    }
+
+    if (obj.name && !obj.id) {
+      const partialName = obj.name.toLowerCase();
+      sql += ` WHERE name LIKE '%${partialName}%'`;
+    }
+
+    const options = ['price', 'rating'];
+
+    if (obj.filterBy && obj.filterType && obj.filterValue) {
+      sql += ` AND ${obj.filterBy} ${obj.filterType} `;
+      sql += Number(obj.filterValue)
+        ? +obj.filterValue
+        : `'${obj.filterValue}'`;
+    }
+
+    if (obj.sort && options.includes(obj.sort)) {
+      sql += ` ORDER BY ${obj.sort}`;
+    }
+
+    if (obj.order === 'ASC') {
+      sql += ' ASC';
+    }
+
+    if (obj.order === 'DESC') {
+      sql += ' DESC';
+    }
+
+    if (obj.end) {
+      sql += ` LIMIT ${+obj.end - +obj.start ? +obj.start : 0}`;
+    }
+    if (obj.limit) {
+      sql += ` LIMIT ${+obj.limit}`;
+    }
+
+    if (obj.start) {
+      sql += ` OFFSET ${+obj.start}`;
+    }
+
+    this.data = await this.db.query(sql);
+
+    this.close();
+    return this.data;
   }
 }

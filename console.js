@@ -5,6 +5,12 @@ import { program, command } from 'bandersnatch';
 import enquirer from 'enquirer';
 const prompt = enquirer.prompt;
 
+const typeArg = {
+  description: 'Product type',
+  prompt: true,
+  choices: (await data.types()).map((record) => record.type),
+};
+
 /**
  * Default command for the CLI.
  */
@@ -18,16 +24,11 @@ const cmdDefault = command()
  */
 const cmdCreate = command('create')
   .description('Add a new product to the database.')
-  .argument('type', {
-    description: 'Product type',
-    prompt: true,
-    choices: (await data.types()).map((record) => record.type),
-  })
+  .argument('type', typeArg)
   .action(async (args) => {
-    debugger;
     const obj_id = await data.create(args.type);
 
-    const obj = await data.read(args.type, { id: obj_id });
+    const obj = (await data.read(args.type, { id: obj_id }))[0];
 
     const prompts = Object.keys(obj)
       .filter((key) => key !== 'id')
@@ -39,14 +40,7 @@ const cmdCreate = command('create')
 
     const responses = await prompt(prompts);
 
-    const filteredResponses = Object.fromEntries(
-      Object.entries(responses).filter(([key, value]) => value !== '')
-    );
-
-    const updatedId = await data.update(args.type, {
-      ...obj,
-      ...filteredResponses,
-    });
+    const updatedId = await data.update(args.type, { ...obj, ...responses });
 
     console.log(`${args.type} created with ID: ${updatedId}`);
   });
@@ -56,20 +50,16 @@ const cmdCreate = command('create')
  */
 const cmdUpdate = command('update')
   .description('Update a product in the database.')
-  .argument('type', {
-    description: 'Product type',
-    prompt: true,
-    choices: (await data.types()).map((record) => record.type),
-  })
+  .argument('type', typeArg)
   .option('id', {
-    description: 'id of product',
+    description: 'id',
     prompt: true,
   })
   .action(async (args) => {
-    if (!args.id) throw new Error('Missing required argument: id');
+    if (!args.id) throw new Error('Missing id argument.');
 
-    const obj = await data.read(args.type, { id: args.id });
-    if (!obj.id) return console.log(`Product with ID ${obj.id} not found.`);
+    const obj = (await data.read(args.type, { id: args.id }))[0];
+    if (!obj.id) return console.log(`ID ${obj.id} not found.`);
 
     const prompts = Object.keys(obj)
       .filter((key) => key !== 'id')
@@ -81,14 +71,7 @@ const cmdUpdate = command('update')
 
     const responses = await prompt(prompts);
 
-    const filteredResponses = Object.fromEntries(
-      Object.entries(responses).filter(([key, value]) => value !== '')
-    );
-
-    const updatedId = await data.update(args.type, {
-      ...obj,
-      ...filteredResponses,
-    });
+    const updatedId = await data.update(args.type, { ...obj, ...responses });
 
     console.log(`Updated ${args.type} with ID ${updatedId}`);
   });
@@ -98,17 +81,13 @@ const cmdUpdate = command('update')
  */
 const cmdDelete = command('delete')
   .description('Delete a product from the database.')
-  .argument('type', {
-    description: 'Product type',
-    prompt: true,
-    choices: (await data.types()).map((record) => record.type),
-  })
+  .argument('type', typeArg)
   .option('id', {
-    description: 'id of product',
+    description: 'id',
     prompt: true,
   })
   .action(async (args) => {
-    if (!args.id) throw new Error('Missing required argument: id');
+    if (!args.id) throw new Error('Missing id argument.');
 
     const deletedId = await data.delete(args.type, { id: args.id });
 
@@ -124,15 +103,10 @@ const cmdDelete = command('delete')
  */
 const cmdRead = command('read')
   .description('Reads records from the database with options.')
-  .argument('type', {
-    description: 'Product type',
-    prompt: true,
-    choices: (await data.types()).map((record) => record.type),
-  })
-  .argument('search', {
+  .argument('type', typeArg)
+  .option('search', {
     description: 'Search by',
-    choices: ['no search', 'name', 'id'],
-    default: 'no search',
+    choices: ['no search', 'manufacturer', 'name', 'id'],
     prompt: true,
   })
   .action(async (args) => {
@@ -147,7 +121,7 @@ const cmdRead = command('read')
       criteria[args.search] = searchTerm.searchTerm;
     }
 
-    if (args.search === 'no search') {
+    if (args.search === 'no search' || args.search !== 'id') {
       const options = await prompt([
         {
           type: 'select',
@@ -177,32 +151,33 @@ const cmdRead = command('read')
           type: 'input',
           name: 'filterValue',
           message: 'Enter value for filtering',
-          default: '',
+          default: 'no value',
         },
         {
           type: 'input',
           name: 'start',
-          message: 'Enter start index for pagination',
-          default: 0,
+          message: 'Enter start index.',
+          default: 'start',
         },
         {
           type: 'input',
           name: 'end',
-          message: 'Enter end index for pagination',
-          default: undefined,
+          message: 'Enter end index.',
+          default: 'end',
         },
         {
           type: 'input',
           name: 'limit',
-          message: 'Enter count for pagination',
-          default: undefined,
+          message: 'Enter the limit.',
+          default: 'no limit',
         },
       ]);
 
       for (const [key, value] of Object.entries(options)) {
-        if (value !== undefined && value !== null) {
-          criteria[key] = value;
+        if (value.startsWith('no') || value == 'start' || value == 'end') {
+          continue;
         }
+        criteria[key] = value;
       }
     }
 

@@ -50,7 +50,7 @@ class DataManager {
    * @returns {object|array} - The available types.
    */
   async dbTypes() {
-    return Base.types();
+    return await Base.types();
   }
 
   /**
@@ -69,20 +69,7 @@ class DataManager {
       data.password = hash;
     }
 
-    return cls.add(new cls(data));
-  }
-
-  /**
-   * Read records from the specified model.
-   * @param {string} type - The model name.
-   * @param {object} data - The data for reading the database.
-   * @returns {object|array} - The retrieved record or records.
-   */
-  async dbRead(type = '', data = {}) {
-    const cls = this.classes[type];
-    if (!cls) throw new Error('product type not available');
-
-    return cls.get(data);
+    return await cls.add(new cls(data));
   }
 
   /**
@@ -95,13 +82,36 @@ class DataManager {
     const cls = this.classes[type];
     if (!cls) throw new Error('product type not available');
 
+    data = Object.fromEntries(
+      Object.entries(data).filter(
+        ([key, value]) => value || parseInt(value) === 0
+      )
+    );
+
     if (data.password) {
       const salt = await bcrypt.genSalt(10);
       const hash = await bcrypt.hash(data.password, salt);
       data.password = hash;
     }
 
-    return cls.update(data);
+    return await cls.update(data);
+  }
+
+  /**
+   * Read records from the specified model.
+   * @param {string} type - The model name.
+   * @param {object} data - The data for reading the database.
+   * @returns {object|array} - The retrieved record or records.
+   */
+  async dbRead(type = '', data = {}) {
+    const cls = this.classes[type];
+    if (!cls) throw new Error('product type not available');
+
+    data = Object.fromEntries(
+      Object.entries(data).filter(([key, value]) => value)
+    );
+
+    return await cls.get(data);
   }
 
   /**
@@ -114,7 +124,7 @@ class DataManager {
     const cls = this.classes[type];
     if (!cls) throw new Error('product type not available');
 
-    return cls.delete(data);
+    return await cls.delete(data);
   }
 }
 

@@ -9,7 +9,7 @@ export default class Base {
    */
   constructor() {
     if (Storage.constructor.name === 'FileStorage') {
-      this.id = Math.floor(Math.random() * 10000);
+      this.id = Math.floor(Math.random() * 10000000);
     }
   }
 
