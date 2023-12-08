@@ -180,7 +180,6 @@ const cmdRead = command('read')
         criteria[key] = value;
       }
     }
-
     console.log(await data.read(args.type, criteria));
   });
 

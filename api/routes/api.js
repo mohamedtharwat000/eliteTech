@@ -1,5 +1,5 @@
 import express from "express";
-import data from '../../dataManager.js';
+import data from '../../models/dataManager.js';
 const router = express.Router()
 const types = ['cpu', 'cooler', 'gpu', 'ram',
 	'storage', 'motherboard',
@@ -7,6 +7,15 @@ const types = ['cpu', 'cooler', 'gpu', 'ram',
 	'mice', 'keyboard',
 	'headphone'
 ];
+
+
+
+router.get("/search/:type/", logger, async (req, res) => {
+	let type = req.params.type;
+	let result = await data.read(type, req.query);
+
+	res.json(result);
+})
 
 
 router
@@ -44,7 +53,7 @@ router.post("/:type/", logger, async (req, res) => {
 	let type = req.params.type;
 	let body = req.body;
 	let result = await data.create(type, body);
-	res.json(result ? {'id': result} : {'error': 'unknown error'});
+	res.json(result ? { 'id': result } : { 'error': 'unknown error' });
 });
 
 
@@ -64,6 +73,7 @@ router.get("/:type/limit/:sequence", sequenceLogger, async (req, res) => {
  */
 function logger(req, res, next) {
 	console.log(req.originalUrl);
+	// console.log(req.params);
 	if (!types.includes(req.params.type)) {
 		res.status(404).json({ 'error': 'type not found' });
 	} else {
@@ -84,7 +94,7 @@ function sequenceLogger(req, res, next) {
 	if (!types.includes(req.params.type)) {
 		res.status(404).json({ 'error': 'type not found' });
 	} else if (checkSequence(req.params.sequence)) {
-		let message = { 'error': 'wrong limitation usage', 'usage': ['start:n:n', 'n:end:n', 'n:n:count', 'start:end:n', 'start:n:count'] }
+		let message = { 'error': 'wrong limitation usage', 'usage': ['start:n:n', 'n:end:n', 'n:n:limit', 'start:end:n', 'start:n:limit'] }
 		res.status(404).json(message);
 	} else {
 		next();
@@ -131,11 +141,11 @@ function getSequnece(sequence) {
 		case /^n\d+n$/i.test(sequence):
 			return ({ end: values[1] });
 		case /^nn\d+$/i.test(sequence):
-			return ({ count: values[2] });
+			return ({ limit: values[2] });
 		case /^\d+\d+n$/i.test(sequence):
 			return ({ start: values[0], end: values[1] });
 		case /^\d+n\d+$/i.test(sequence):
-			return ({ start: values[0], count: values[2] });
+			return ({ start: values[0], limit: values[2] });
 		default:
 			return ({});
 	}
