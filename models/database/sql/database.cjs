@@ -7,10 +7,15 @@ const mysql = require('mysql2/promise');
     host: process.env.dbHost,
     user: process.env.dbUser,
     password: process.env.dbPassword,
-    database: process.env.dbDatabase,
   });
 
   const files = fs.readdirSync(path.resolve(__dirname, '..') + '/json');
+
+  const sql = fs.readFileSync(__dirname + '/database.sql', 'utf8');
+  const statements = sql.split(';').filter((statement) => statement.trim());
+  for (const statement of statements) {
+    await connection.query(statement);
+  }
 
   for (const file of files) {
     if (file.endsWith('.json')) {

@@ -203,29 +203,29 @@ CREATE TABLE IF NOT EXISTS `user` (
 
 CREATE TABLE IF NOT EXISTS `purchase` (
     `id` INT PRIMARY KEY AUTO_INCREMENT,
-    `userID` INT NOT NULL,
-    `purchaseDate` DATETIME DEFAULT CURRENT_TIMESTAMP,
-    `totalAmount` DECIMAL(15, 2) NOT NULL,
-    FOREIGN KEY (userID) REFERENCES user(id)
+    `user` INT NOT NULL,
+    `date` DATETIME DEFAULT CURRENT_TIMESTAMP,
+    `price` DECIMAL(10, 2) NOT NULL,
+    FOREIGN KEY (user) REFERENCES user(id)
 );
 
 CREATE TABLE IF NOT EXISTS `purchaseitem` (
     `id` INT PRIMARY KEY AUTO_INCREMENT,
-    `purchaseID` INT NOT NULL,
-    `productID` INT NOT NULL,
+    `purchase` INT NOT NULL,
+    `product` INT NOT NULL,
     `type` INT NOT NULL,
     `quantity` INT NOT NULL,
-    `subtotal` DECIMAL(15, 2) NOT NULL,
-    FOREIGN KEY (purchaseID) REFERENCES purchase(id),
+    `price` DECIMAL(10, 2) NOT NULL,
+    FOREIGN KEY (purchase) REFERENCES purchase(id),
     FOREIGN KEY (type) REFERENCES type(id)
 );
 
 CREATE TABLE IF NOT EXISTS `productrating` (
     `id` INT PRIMARY KEY AUTO_INCREMENT,
-    `userID` INT NOT NULL,
-    `productID` INT NOT NULL,
+    `user` INT NOT NULL,
+    `product` INT NOT NULL,
     `type` INT NOT NULL,
-    `rating` DECIMAL(3, 1) NOT NULL,
-    FOREIGN KEY (userID) REFERENCES user(id),
+    `rating` DECIMAL(2, 1) NOT NULL,
+    FOREIGN KEY (user) REFERENCES user(id),
     FOREIGN KEY (type) REFERENCES type(id)
 );

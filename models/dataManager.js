@@ -63,6 +63,15 @@ class DataManager {
     const cls = this.classes[type];
     if (!cls) throw new Error('product type not available');
 
+    data = Object.fromEntries(
+      Object.entries(data).map(([key, value]) => {
+        if (key === 'rating' || key === 'price' || key === 'stock') {
+          value = parseFloat(value) || null;
+        }
+        return [key, value];
+      })
+    );
+
     if (data.password) {
       const salt = await bcrypt.genSalt(10);
       const hash = await bcrypt.hash(data.password, salt);
@@ -83,9 +92,7 @@ class DataManager {
     if (!cls) throw new Error('product type not available');
 
     data = Object.fromEntries(
-      Object.entries(data).filter(
-        ([key, value]) => value || parseInt(value) === 0
-      )
+      Object.entries(data).filter(([key, value]) => value)
     );
 
     if (data.password) {
@@ -93,6 +100,15 @@ class DataManager {
       const hash = await bcrypt.hash(data.password, salt);
       data.password = hash;
     }
+
+    data = Object.fromEntries(
+      Object.entries(data).map(([key, value]) => {
+        if (key === 'rating' || key === 'price' || key === 'stock') {
+          value = parseFloat(value) || null;
+        }
+        return [key, value];
+      })
+    );
 
     return await cls.update(data);
   }

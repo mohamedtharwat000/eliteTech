@@ -1,6 +1,8 @@
 [
   {
+    "id": 124,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/54fe0ca737c04afc856fa32912993f25.256p.jpg",
+    "manufacturer": "HiFiMAN",
     "name": "HiFiMAN Susvara",
     "type": "Circumaural",
     "frequencyResponse": "6 Hz - 75 kHz",
@@ -10,12 +12,12 @@
     "color": "Silver / Brown",
     "rating": 0,
     "price": 5999.0,
-    "manufacturer": "HiFiMAN",
-    "id": 124,
     "stock": 0
   },
   {
+    "id": 125,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/72a586f112591cd7b43f4b0dc244ba29.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 25 kHz",
@@ -25,12 +27,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 77.98,
-    "manufacturer": "HP",
-    "id": 125,
     "stock": 0
   },
   {
+    "id": 126,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6bfd83b70242125dd19a098b04deb9e1.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer BlackShark V2 X",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -40,12 +42,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 39.99,
-    "manufacturer": "Razer",
-    "id": 126,
     "stock": 0
   },
   {
+    "id": 127,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58e020a3f5cb57cf060804a8a9d1fd2f.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova Pro Wireless for PC, PS5, and PS4",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -55,12 +57,12 @@
     "color": "Black",
     "rating": 0,
     "price": 310.18,
-    "manufacturer": "SteelSeries",
-    "id": 127,
     "stock": 0
   },
   {
+    "id": 128,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c4927b86acf31ab403449e81673d56f7.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech Pro X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -70,12 +72,12 @@
     "color": "Black",
     "rating": 0,
     "price": 81.99,
-    "manufacturer": "Logitech",
-    "id": 128,
     "stock": 0
   },
   {
+    "id": 129,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e065a60cab5540bdf9e7a4e94f73fe7f.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -85,12 +87,12 @@
     "color": "Black",
     "rating": 0,
     "price": 39.95,
-    "manufacturer": "SteelSeries",
-    "id": 129,
     "stock": 0
   },
   {
+    "id": 130,
     "imageURL": "https://m.media-amazon.com/images/I/41VtlaeHvJL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 770 PRO",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -100,12 +102,12 @@
     "color": "Gray",
     "rating": 0,
     "price": 159.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 130,
     "stock": 0
   },
   {
+    "id": 131,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/618882d7efe9284c652d8009ef9ae80c.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro (2023)",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -115,12 +117,12 @@
     "color": "Black",
     "rating": 0,
     "price": 196.0,
-    "manufacturer": "Razer",
-    "id": 131,
     "stock": 0
   },
   {
+    "id": 132,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d50aa27717b083a1b1aa77c0754f43b3.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 25 kHz",
@@ -130,12 +132,12 @@
     "color": "Black / White",
     "rating": 0,
     "price": null,
-    "manufacturer": "HP",
-    "id": 132,
     "stock": 0
   },
   {
+    "id": 133,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0654c2062080ded169e6bdc820f168eb.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech PRO X 2 LIGHTSPEED",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -145,12 +147,12 @@
     "color": "Black",
     "rating": 0,
     "price": 249.99,
-    "manufacturer": "Logitech",
-    "id": 133,
     "stock": 0
   },
   {
+    "id": 134,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5db482ae872a1db027021064471a6a28.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G733",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -160,12 +162,12 @@
     "color": "White / Gray",
     "rating": 0,
     "price": 109.99,
-    "manufacturer": "Logitech",
-    "id": 134,
     "stock": 0
   },
   {
+    "id": 135,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/44ec0b598a332c50160a24e3800f6027.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -175,12 +177,12 @@
     "color": "Black",
     "rating": 0,
     "price": 70.0,
-    "manufacturer": "SteelSeries",
-    "id": 135,
     "stock": 0
   },
   {
+    "id": 136,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b3204b6469f27f1d492ccae40feeaa3b.256p.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 820",
     "type": "Circumaural",
     "frequencyResponse": "6 Hz - 48 kHz",
@@ -190,12 +192,12 @@
     "color": "Black",
     "rating": 0,
     "price": 1799.95,
-    "manufacturer": "Sennheiser",
-    "id": 136,
     "stock": 0
   },
   {
+    "id": 137,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/614f3f2375ec5c13f691e5176fb4c9d9.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -205,12 +207,12 @@
     "color": "White",
     "rating": 0,
     "price": 129.99,
-    "manufacturer": "Corsair",
-    "id": 137,
     "stock": 0
   },
   {
+    "id": 138,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a0f67686009b268eb9b537dfbbc3a4e0.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G435",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -220,12 +222,12 @@
     "color": "Black / Yellow",
     "rating": 0,
     "price": 42.99,
-    "manufacturer": "Logitech",
-    "id": 138,
     "stock": 0
   },
   {
+    "id": 139,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d0f1a5952e8d74d6590bdd46e0e4f07.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G432",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -235,12 +237,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 36.5,
-    "manufacturer": "Logitech",
-    "id": 139,
     "stock": 0
   },
   {
+    "id": 140,
     "imageURL": "https://m.media-amazon.com/images/I/41QEs2j+cBL.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro Wireless",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -250,12 +252,12 @@
     "color": "White",
     "rating": 0,
     "price": 399.99,
-    "manufacturer": "SteelSeries",
-    "id": 140,
     "stock": 0
   },
   {
+    "id": 141,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b141c21cb9624a2129f3a5a192c7792.256p.jpg",
+    "manufacturer": "Sony",
     "name": "Sony XM5",
     "type": "Circumaural",
     "frequencyResponse": "4 Hz - 40 kHz",
@@ -265,12 +267,12 @@
     "color": "Black",
     "rating": 0,
     "price": 328.0,
-    "manufacturer": "Sony",
-    "id": 141,
     "stock": 0
   },
   {
+    "id": 142,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/39bd7b4b72fdea1dee1726fb419dc1a2.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair VOID RGB ELITE",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 30 kHz",
@@ -280,12 +282,12 @@
     "color": "Black",
     "rating": 0,
     "price": 69.98,
-    "manufacturer": "Corsair",
-    "id": 142,
     "stock": 0
   },
   {
+    "id": 143,
     "imageURL": "https://m.media-amazon.com/images/I/318wyaf5UAL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT990 Premium Limited-Edition",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -295,12 +297,12 @@
     "color": "Black",
     "rating": 0,
     "price": 149.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 143,
     "stock": 0
   },
   {
+    "id": 144,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d283c90ff0f0ca80335e51fc4ceef78.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair VIRTUOSO RGB Wireless XT",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -310,12 +312,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 269.99,
-    "manufacturer": "Corsair",
-    "id": 144,
     "stock": 0
   },
   {
+    "id": 145,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b95b61acc3de748aacfe4fee474f5216.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech PRO X 2 LIGHTSPEED",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -325,12 +327,12 @@
     "color": "White",
     "rating": 0,
     "price": 249.99,
-    "manufacturer": "Logitech",
-    "id": 145,
     "stock": 0
   },
   {
+    "id": 146,
     "imageURL": "https://m.media-amazon.com/images/I/41XJ-8tfeNL.jpg",
+    "manufacturer": "Astro",
     "name": "Astro A50 + Base Station",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -340,12 +342,12 @@
     "color": "Black / Gold",
     "rating": 0,
     "price": 249.99,
-    "manufacturer": "Astro",
-    "id": 146,
     "stock": 0
   },
   {
+    "id": 147,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec2c00c27ba9c62b94b536e94d970ace.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 7",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -355,12 +357,12 @@
     "color": "Black",
     "rating": 0,
     "price": 142.99,
-    "manufacturer": "SteelSeries",
-    "id": 147,
     "stock": 0
   },
   {
+    "id": 148,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/06a48e9bc4124772d33a0945324d14b0.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Stinger",
     "type": "Circumaural",
     "frequencyResponse": "18 Hz - 23 kHz",
@@ -370,12 +372,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 19.88,
-    "manufacturer": "HP",
-    "id": 148,
     "stock": 0
   },
   {
+    "id": 149,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0fd65f075794d9c0efa4d2d99e9bf8df.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 25 kHz",
@@ -385,12 +387,12 @@
     "color": "Gunmetal",
     "rating": 0,
     "price": 79.98,
-    "manufacturer": "HP",
-    "id": 149,
     "stock": 0
   },
   {
+    "id": 150,
     "imageURL": "https://m.media-amazon.com/images/I/417dzFomSIL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 560S",
     "type": "Circumaural",
     "frequencyResponse": "6 Hz - 38 kHz",
@@ -400,12 +402,12 @@
     "color": "Black",
     "rating": 0,
     "price": 149.99,
-    "manufacturer": "Sennheiser",
-    "id": 150,
     "stock": 0
   },
   {
+    "id": 151,
     "imageURL": "https://m.media-amazon.com/images/I/41F6DTW3fyL.jpg",
+    "manufacturer": "Koss",
     "name": "Koss CL3N",
     "type": "In Ear",
     "frequencyResponse": "60 Hz - 20 kHz",
@@ -415,12 +417,12 @@
     "color": "White",
     "rating": 0,
     "price": 3.99,
-    "manufacturer": "Koss",
-    "id": 151,
     "stock": 0
   },
   {
+    "id": 152,
     "imageURL": "https://m.media-amazon.com/images/I/41a1WAOYnCL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 990 Pro 250 ",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -430,12 +432,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": null,
-    "manufacturer": "Beyerdynamic",
-    "id": 152,
     "stock": 0
   },
   {
+    "id": 153,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d86441219c18917d8d48bdf4656a3fa8.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 20 kHz",
@@ -445,12 +447,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 111.99,
-    "manufacturer": "HP",
-    "id": 153,
     "stock": 0
   },
   {
+    "id": 154,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fbb0aa9d62adce35ae4d252cdd813a9d.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G733",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -460,12 +462,12 @@
     "color": "Black",
     "rating": 0,
     "price": 109.99,
-    "manufacturer": "Logitech",
-    "id": 154,
     "stock": 0
   },
   {
+    "id": 155,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/590df3876fa2f75521f718e26036d99e.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken Kitty",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -475,12 +477,12 @@
     "color": "Pink",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "Razer",
-    "id": 155,
     "stock": 0
   },
   {
+    "id": 156,
     "imageURL": "https://m.media-amazon.com/images/I/51n8UxXMYtL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 800 S",
     "type": "Circumaural",
     "frequencyResponse": "4 Hz - 51 kHz",
@@ -490,12 +492,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 1379.19,
-    "manufacturer": "Sennheiser",
-    "id": 156,
     "stock": 0
   },
   {
+    "id": 157,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3dc024b446b8f01940cbab1b2e9f854a.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken V3 X",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -505,12 +507,12 @@
     "color": "Black",
     "rating": 0,
     "price": 34.99,
-    "manufacturer": "Razer",
-    "id": 157,
     "stock": 0
   },
   {
+    "id": 158,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2e483f6f283c4606e4c82654ca8a2a03.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair VOID RGB ELITE",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 30 kHz",
@@ -520,12 +522,12 @@
     "color": "White",
     "rating": 0,
     "price": 100.99,
-    "manufacturer": "Corsair",
-    "id": 158,
     "stock": 0
   },
   {
+    "id": 159,
     "imageURL": "https://m.media-amazon.com/images/I/51HvfrXztQL.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha",
     "type": "Circumaural",
     "frequencyResponse": "13 Hz - 27 kHz",
@@ -535,12 +537,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 70.98,
-    "manufacturer": "HP",
-    "id": 159,
     "stock": 0
   },
   {
+    "id": 160,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e9b556548ad05b9909370c276326973e.med.256p.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50x",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -550,12 +552,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 149.0,
-    "manufacturer": "Audio-Technica",
-    "id": 160,
     "stock": 0
   },
   {
+    "id": 161,
     "imageURL": "https://m.media-amazon.com/images/I/41csvTnazoL.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -565,12 +567,12 @@
     "color": "Black",
     "rating": 0,
     "price": 252.6,
-    "manufacturer": "SteelSeries",
-    "id": 161,
     "stock": 0
   },
   {
+    "id": 162,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/19d7c4ecc7524512e8878280132ab426.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -580,12 +582,12 @@
     "color": "Black",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "Razer",
-    "id": 162,
     "stock": 0
   },
   {
+    "id": 163,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/606675de5d3a4bafa83ae58470a421a0.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS80 RGB",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -595,12 +597,12 @@
     "color": "Black",
     "rating": 0,
     "price": 89.99,
-    "manufacturer": "Corsair",
-    "id": 163,
     "stock": 0
   },
   {
+    "id": 164,
     "imageURL": "https://m.media-amazon.com/images/I/318LDWS4K5L.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT1990 Pro",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -610,12 +612,12 @@
     "color": "Black",
     "rating": 0,
     "price": 529.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 164,
     "stock": 0
   },
   {
+    "id": 165,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b2a30f7ab28e58540fe93525e21fc54a.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer BlackShark V2",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -625,12 +627,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 59.99,
-    "manufacturer": "Razer",
-    "id": 165,
     "stock": 0
   },
   {
+    "id": 166,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdb3916323d5db4d6349200782f3f0ba.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -640,12 +642,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "SteelSeries",
-    "id": 166,
     "stock": 0
   },
   {
+    "id": 167,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/98c362f214b36c4839d78dbdd517435f.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech Pro X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -655,12 +657,12 @@
     "color": "Black",
     "rating": 0,
     "price": 129.99,
-    "manufacturer": "Logitech",
-    "id": 167,
     "stock": 0
   },
   {
+    "id": 168,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c343a585d5d9741717533eae847c48d6.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Barracuda Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -670,12 +672,12 @@
     "color": "Black",
     "rating": 0,
     "price": 216.27,
-    "manufacturer": "Razer",
-    "id": 168,
     "stock": 0
   },
   {
+    "id": 169,
     "imageURL": "https://m.media-amazon.com/images/I/41EmaSasJsL.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG Theta 7.1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -685,12 +687,12 @@
     "color": "Black",
     "rating": 0,
     "price": 299.99,
-    "manufacturer": "Asus",
-    "id": 169,
     "stock": 0
   },
   {
+    "id": 170,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8390e7ddd98558ab65c9c309cc32a782.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 21 kHz",
@@ -700,12 +702,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 169.0,
-    "manufacturer": "HP",
-    "id": 170,
     "stock": 0
   },
   {
+    "id": 171,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2af4e7c8c1307a160dc0a2ac3a837e63.256p.jpg",
+    "manufacturer": "Sony",
     "name": "Sony WH1000XM4",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -715,12 +717,12 @@
     "color": "Black",
     "rating": 0,
     "price": 248.0,
-    "manufacturer": "Sony",
-    "id": 171,
     "stock": 0
   },
   {
+    "id": 172,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7cc8cd810692a5bf53692c7cf9de7cab.256p.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD600",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 39 kHz",
@@ -730,12 +732,12 @@
     "color": "Black",
     "rating": 0,
     "price": 309.0,
-    "manufacturer": "Sennheiser",
-    "id": 172,
     "stock": 0
   },
   {
+    "id": 173,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d67777a48054e86dfe750f9a9bcf2871.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova Pro Wireless for Xbox X|S, and Xbox One",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -745,12 +747,12 @@
     "color": "Black",
     "rating": 0,
     "price": 279.99,
-    "manufacturer": "SteelSeries",
-    "id": 173,
     "stock": 0
   },
   {
+    "id": 174,
     "imageURL": "https://m.media-amazon.com/images/I/41kB8l+Ky8L.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS70 PRO",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -760,12 +762,12 @@
     "color": "Black",
     "rating": 0,
     "price": 96.99,
-    "manufacturer": "Corsair",
-    "id": 174,
     "stock": 0
   },
   {
+    "id": 175,
     "imageURL": "https://m.media-amazon.com/images/I/51o7P91zYkL.jpg",
+    "manufacturer": "HiFiMAN",
     "name": "HiFiMAN HE1000",
     "type": "Circumaural",
     "frequencyResponse": "8 Hz - 65 kHz",
@@ -775,12 +777,12 @@
     "color": "Silver / Brown",
     "rating": 0,
     "price": 1999.0,
-    "manufacturer": "HiFiMAN",
-    "id": 175,
     "stock": 0
   },
   {
+    "id": 176,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d23f5e4dfc957bc58b1e5e9113125484.256p.jpg",
+    "manufacturer": "Turtle Beach",
     "name": "Turtle Beach EAR FORCE Recon 50X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -790,12 +792,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 28.98,
-    "manufacturer": "Turtle Beach",
-    "id": 176,
     "stock": 0
   },
   {
+    "id": 177,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/153b223886e6e0bd0e9a89c1dbbc66be.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G935",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -805,12 +807,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 117.99,
-    "manufacturer": "Logitech",
-    "id": 177,
     "stock": 0
   },
   {
+    "id": 178,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9aef883b5b47ec2d14ef06f7cf0a3b03.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G535 LIGHTSPEED",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -820,12 +822,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 79.98,
-    "manufacturer": "Logitech",
-    "id": 178,
     "stock": 0
   },
   {
+    "id": 179,
     "imageURL": "https://m.media-amazon.com/images/I/41NBLzgzsYL.jpg",
+    "manufacturer": "DROP",
     "name": "DROP Drop + Sennheiser PC38X",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 30 kHz",
@@ -835,12 +837,12 @@
     "color": "Black",
     "rating": 0,
     "price": 180.0,
-    "manufacturer": "DROP",
-    "id": 179,
     "stock": 0
   },
   {
+    "id": 180,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e691d23e2759216da9072c107d5207c0.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer NARI ESSENTIAL",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -850,12 +852,12 @@
     "color": "Black",
     "rating": 0,
     "price": 32.99,
-    "manufacturer": "Razer",
-    "id": 180,
     "stock": 0
   },
   {
+    "id": 181,
     "imageURL": "https://m.media-amazon.com/images/I/41YHv5xJRQL.jpg",
+    "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro (2023)",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -865,12 +867,12 @@
     "color": "White / Black",
     "rating": 0,
     "price": 199.99,
-    "manufacturer": "Razer",
-    "id": 181,
     "stock": 0
   },
   {
+    "id": 182,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1d4850defe86fc79819972478425c3bf.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -880,12 +882,12 @@
     "color": "White",
     "rating": 0,
     "price": 52.99,
-    "manufacturer": "SteelSeries",
-    "id": 182,
     "stock": 0
   },
   {
+    "id": 183,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3aabf4afad26ef129b33dd00d22ff4b1.256p.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 650",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 39.5 kHz",
@@ -895,12 +897,12 @@
     "color": "Black",
     "rating": 0,
     "price": 299.95,
-    "manufacturer": "Sennheiser",
-    "id": 183,
     "stock": 0
   },
   {
+    "id": 184,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7126cf8620353f97e6ae65b97aa44023.256p.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 900 Pro X",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -910,12 +912,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": 249.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 184,
     "stock": 0
   },
   {
+    "id": 185,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f37538fee88baa3ffbb73c14b7d98ac3.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken V3 Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -925,12 +927,12 @@
     "color": "Black",
     "rating": 0,
     "price": 192.17,
-    "manufacturer": "Razer",
-    "id": 185,
     "stock": 0
   },
   {
+    "id": 186,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f462499136794fb899bb04af549311d0.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 9",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -940,12 +942,12 @@
     "color": "Black",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "SteelSeries",
-    "id": 186,
     "stock": 0
   },
   {
+    "id": 187,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1a86c3b238865d3ccbb94bc88b9ffaeb.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud III",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 21 kHz",
@@ -955,12 +957,12 @@
     "color": "Black",
     "rating": 0,
     "price": 89.99,
-    "manufacturer": "HP",
-    "id": 187,
     "stock": 0
   },
   {
+    "id": 188,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdb3916323d5db4d6349200782f3f0ba.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries ARCTIS 7 2019 Edition",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -970,12 +972,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "SteelSeries",
-    "id": 188,
     "stock": 0
   },
   {
+    "id": 189,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/71173beea73b5395cf2cdd22451dabb2.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS65 SURROUND",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -985,12 +987,12 @@
     "color": "Black",
     "rating": 0,
     "price": 39.99,
-    "manufacturer": "Corsair",
-    "id": 189,
     "stock": 0
   },
   {
+    "id": 190,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/16448f32d22b9b9923037494c5da025d.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Barracuda X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1000,12 +1002,12 @@
     "color": "Black",
     "rating": 0,
     "price": 69.98,
-    "manufacturer": "Razer",
-    "id": 190,
     "stock": 0
   },
   {
+    "id": 191,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fcdc7e701e4a83bfa2e0a2c208fcc4fa.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -1015,12 +1017,12 @@
     "color": "Black",
     "rating": 0,
     "price": 49.0,
-    "manufacturer": "SteelSeries",
-    "id": 191,
     "stock": 0
   },
   {
+    "id": 192,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/23d3c25240e49e524e0a6dfd706306ce.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1030,12 +1032,12 @@
     "color": "Black",
     "rating": 0,
     "price": 199.99,
-    "manufacturer": "Corsair",
-    "id": 192,
     "stock": 0
   },
   {
+    "id": 193,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/47c3a9f54069d7ea8dc1cb13e84d4a42.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro + GameDAC",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -1045,12 +1047,12 @@
     "color": "Black",
     "rating": 0,
     "price": 138.99,
-    "manufacturer": "SteelSeries",
-    "id": 193,
     "stock": 0
   },
   {
+    "id": 194,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/31QikSRG1cL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 1770 PRO",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -1060,12 +1062,12 @@
     "color": "Black",
     "rating": 0,
     "price": 529.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 194,
     "stock": 0
   },
   {
+    "id": 195,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e8e574f4ca94818a6bb8e5ad4bdf2963.256p.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M40x",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 24 kHz",
@@ -1075,12 +1077,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 99.0,
-    "manufacturer": "Audio-Technica",
-    "id": 195,
     "stock": 0
   },
   {
+    "id": 196,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a7aa06e9c4860514f7368835089b7296.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G435",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1090,12 +1092,12 @@
     "color": "White / Blue",
     "rating": 0,
     "price": 79.0,
-    "manufacturer": "Logitech",
-    "id": 196,
     "stock": 0
   },
   {
+    "id": 197,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/538567ee6ba6d79b74afd06933d4de16.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Barracuda X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1105,12 +1107,12 @@
     "color": "White / Gray",
     "rating": 0,
     "price": 69.98,
-    "manufacturer": "Razer",
-    "id": 197,
     "stock": 0
   },
   {
+    "id": 198,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d2ad1185de4d1784d2a1e7df6e5caf0a.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken Kitty",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1120,12 +1122,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 106.98,
-    "manufacturer": "Razer",
-    "id": 198,
     "stock": 0
   },
   {
+    "id": 199,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c3e40af65e17420ae3c1ebbd3392d210.256p.jpg",
+    "manufacturer": "Astro",
     "name": "Astro Gaming A10",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1135,12 +1137,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 35.77,
-    "manufacturer": "Astro",
-    "id": 199,
     "stock": 0
   },
   {
+    "id": 200,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/63b5586f9515b362c7ff2bd8d0390f35.256p.jpg",
+    "manufacturer": "Astro",
     "name": "Astro Gaming A40 TR + MixAmp Pro TR",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1150,12 +1152,12 @@
     "color": "Black / Gold",
     "rating": 0,
     "price": 394.95,
-    "manufacturer": "Astro",
-    "id": 200,
     "stock": 0
   },
   {
+    "id": 201,
     "imageURL": "https://m.media-amazon.com/images/I/41lAcZvSQEL.jpg",
+    "manufacturer": "Razer",
     "name": "Razer NARI ULTIMATE",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1165,12 +1167,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 89.99,
-    "manufacturer": "Razer",
-    "id": 201,
     "stock": 0
   },
   {
+    "id": 202,
     "imageURL": "https://m.media-amazon.com/images/I/31yX+zvmGfS.jpg",
+    "manufacturer": "Sony",
     "name": "Sony WH-1000XM3",
     "type": "Circumaural",
     "frequencyResponse": "4 Hz - 40 kHz",
@@ -1180,12 +1182,12 @@
     "color": "Silver",
     "rating": 0,
     "price": 449.88,
-    "manufacturer": "Sony",
-    "id": 202,
     "stock": 0
   },
   {
+    "id": 203,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4fe7ed051beebdba5d42424cf4b12a78.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken 7.1 V2",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -1195,12 +1197,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 166.8,
-    "manufacturer": "Razer",
-    "id": 203,
     "stock": 0
   },
   {
+    "id": 204,
     "imageURL": "https://m.media-amazon.com/images/I/41vSKhjM2FL.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G35",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1210,12 +1212,12 @@
     "color": "Black",
     "rating": 0,
     "price": 511.26,
-    "manufacturer": "Logitech",
-    "id": 204,
     "stock": 0
   },
   {
+    "id": 205,
     "imageURL": "https://m.media-amazon.com/images/I/31Kw4-LpRTL.jpg",
+    "manufacturer": "Turtle Beach",
     "name": "Turtle Beach Stealth 700 Gen 2 MAX",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -1225,12 +1227,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 129.99,
-    "manufacturer": "Turtle Beach",
-    "id": 205,
     "stock": 0
   },
   {
+    "id": 206,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9f7728301d548a8120f16f708c55e6ad.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Stinger Core - Wireless",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 21 kHz",
@@ -1240,12 +1242,12 @@
     "color": "Black",
     "rating": 0,
     "price": 65.26,
-    "manufacturer": "HP",
-    "id": 206,
     "stock": 0
   },
   {
+    "id": 207,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca8f01da70a5aa07c7f910759378da67.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G PRO",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1255,12 +1257,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "Logitech",
-    "id": 207,
     "stock": 0
   },
   {
+    "id": 208,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/398138c6d22087eb4a4e7cda6f7f5a77.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS80 MAX WIRELESS",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1270,12 +1272,12 @@
     "color": "White / Gray",
     "rating": 0,
     "price": 152.49,
-    "manufacturer": "Corsair",
-    "id": 208,
     "stock": 0
   },
   {
+    "id": 209,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0f4fa9b0ddad7ab1a19826fa9037121c.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech  G332",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1285,12 +1287,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 38.89,
-    "manufacturer": "Logitech",
-    "id": 209,
     "stock": 0
   },
   {
+    "id": 210,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/87756208e58e43f3ecaf05d68f911a9f.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG Delta",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1300,12 +1302,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 125.37,
-    "manufacturer": "Asus",
-    "id": 210,
     "stock": 0
   },
   {
+    "id": 211,
     "imageURL": "https://m.media-amazon.com/images/I/41rPsn3lVWL.jpg",
+    "manufacturer": "Final",
     "name": "Final D8000",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -1315,12 +1317,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 3799.0,
-    "manufacturer": "Final",
-    "id": 211,
     "stock": 0
   },
   {
+    "id": 212,
     "imageURL": "https://m.media-amazon.com/images/I/418Ut1bEp9L.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX CloudX",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 25 kHz",
@@ -1330,12 +1332,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 34.99,
-    "manufacturer": "HP",
-    "id": 212,
     "stock": 0
   },
   {
+    "id": 213,
     "imageURL": "https://m.media-amazon.com/images/I/31qMR087FeL.jpg",
+    "manufacturer": "Philips",
     "name": "Philips SHE7000WT/28",
     "type": "In Ear",
     "frequencyResponse": "8 Hz - 23.5 kHz",
@@ -1345,12 +1347,12 @@
     "color": "Pink / White",
     "rating": 0,
     "price": 5.99,
-    "manufacturer": "Philips",
-    "id": 213,
     "stock": 0
   },
   {
+    "id": 214,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8a531fb4382f28846d649846b059b9ce.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha S",
     "type": "Circumaural",
     "frequencyResponse": "13 Hz - 27 kHz",
@@ -1360,12 +1362,12 @@
     "color": "Black",
     "rating": 0,
     "price": 129.99,
-    "manufacturer": "HP",
-    "id": 214,
     "stock": 0
   },
   {
+    "id": 215,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0d1b3e04eccb165be37993a3c73ecbc8.256p.jpg",
+    "manufacturer": "MSI",
     "name": "MSI Immerse GH20",
     "type": "Circumaural",
     "frequencyResponse": "29 Hz - 20 kHz",
@@ -1375,12 +1377,12 @@
     "color": "Black",
     "rating": 0,
     "price": 29.99,
-    "manufacturer": "MSI",
-    "id": 215,
     "stock": 0
   },
   {
+    "id": 216,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1df40b8e7169afdba5d4f75aef3123c5.256p.jpg",
+    "manufacturer": "Audeze",
     "name": "Audeze Maxwell for Xbox Series X|S",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 50 kHz",
@@ -1390,12 +1392,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": null,
-    "manufacturer": "Audeze",
-    "id": 216,
     "stock": 0
   },
   {
+    "id": 217,
     "imageURL": "https://m.media-amazon.com/images/I/31Qkn2jj8XS.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser \u200e\u200e\u200eHD 450BT Black",
     "type": "Circumaural",
     "frequencyResponse": "18 Hz - 22 kHz",
@@ -1405,12 +1407,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": 99.95,
-    "manufacturer": "Sennheiser",
-    "id": 217,
     "stock": 0
   },
   {
+    "id": 218,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/18c22915f564d4d93d4d52c7f6cdbade.256p.jpg",
+    "manufacturer": "Sony",
     "name": "Sony XM5",
     "type": "Circumaural",
     "frequencyResponse": "4 Hz - 40 kHz",
@@ -1420,12 +1422,12 @@
     "color": "Silver",
     "rating": 0,
     "price": 328.0,
-    "manufacturer": "Sony",
-    "id": 218,
     "stock": 0
   },
   {
+    "id": 219,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/74e15dd13c60c87065c3114a50474dfa.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS80 MAX WIRELESS",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1435,12 +1437,12 @@
     "color": "Gray / Black",
     "rating": 0,
     "price": 144.99,
-    "manufacturer": "Corsair",
-    "id": 219,
     "stock": 0
   },
   {
+    "id": 220,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/310iBKc1RZL.jpg",
+    "manufacturer": "Apple",
     "name": "Apple MD827LL/A",
     "type": "Earbud",
     "frequencyResponse": "Frequency Response",
@@ -1450,12 +1452,12 @@
     "color": "White",
     "rating": 0,
     "price": 12.98,
-    "manufacturer": "Apple",
-    "id": 220,
     "stock": 0
   },
   {
+    "id": 221,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/99564e56cdd927355e951de7951792c2.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 5",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -1465,12 +1467,12 @@
     "color": "Black",
     "rating": 0,
     "price": 198.94,
-    "manufacturer": "SteelSeries",
-    "id": 221,
     "stock": 0
   },
   {
+    "id": 222,
     "imageURL": "https://m.media-amazon.com/images/I/41ynYz11egL.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken Ultimate",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1480,12 +1482,12 @@
     "color": "Black",
     "rating": 0,
     "price": 209.0,
-    "manufacturer": "Razer",
-    "id": 222,
     "stock": 0
   },
   {
+    "id": 223,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2585cf3a0c21fd7677ac97f210153637.256p.jpg",
+    "manufacturer": "Apple",
     "name": "Apple AirPods Max",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -1495,12 +1497,12 @@
     "color": "Black",
     "rating": 0,
     "price": 449.99,
-    "manufacturer": "Apple",
-    "id": 223,
     "stock": 0
   },
   {
+    "id": 224,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/479ae9e9a1a2ebd36345213cd0b3620a.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB SE",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1510,12 +1512,12 @@
     "color": "Black",
     "rating": 0,
     "price": 160.99,
-    "manufacturer": "Corsair",
-    "id": 224,
     "stock": 0
   },
   {
+    "id": 225,
     "imageURL": "https://m.media-amazon.com/images/I/41zphzh9jmL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 300",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 26 kHz",
@@ -1525,12 +1527,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 37.79,
-    "manufacturer": "Sennheiser",
-    "id": 225,
     "stock": 0
   },
   {
+    "id": 226,
     "imageURL": "https://m.media-amazon.com/images/I/41Cv21vkL9L.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Flight",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 23 kHz",
@@ -1540,12 +1542,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 114.99,
-    "manufacturer": "HP",
-    "id": 226,
     "stock": 0
   },
   {
+    "id": 227,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/80fbcd201c3f511b83f5619dd1af5a4c.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS65 SURROUND",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1555,12 +1557,12 @@
     "color": "White / Gray",
     "rating": 0,
     "price": 54.0,
-    "manufacturer": "Corsair",
-    "id": 227,
     "stock": 0
   },
   {
+    "id": 228,
     "imageURL": "https://m.media-amazon.com/images/I/41vJU7v6dEL.jpg",
+    "manufacturer": "HiFiMAN",
     "name": "HiFiMAN SUNDARA",
     "type": "Circumaural",
     "frequencyResponse": "6 Hz - 75 kHz",
@@ -1570,12 +1572,12 @@
     "color": "Black",
     "rating": 0,
     "price": 299.0,
-    "manufacturer": "HiFiMAN",
-    "id": 228,
     "stock": 0
   },
   {
+    "id": 229,
     "imageURL": "https://m.media-amazon.com/images/I/410KlHo81eL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic MMX 2",
     "type": "Supra-aural",
     "frequencyResponse": "18 Hz - 22 kHz",
@@ -1585,12 +1587,12 @@
     "color": "Black",
     "rating": 0,
     "price": 9.99,
-    "manufacturer": "Beyerdynamic",
-    "id": 229,
     "stock": 0
   },
   {
+    "id": 230,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0c13d11c5340b0f9046a76d52c32bf02.256p.jpg",
+    "manufacturer": "HP",
     "name": "Philips SHP9500",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 35 kHz",
@@ -1600,12 +1602,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "HP",
-    "id": 230,
     "stock": 0
   },
   {
+    "id": 231,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/73bbeea43dd6ff8d8356991684fa1a8d.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken X",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -1615,12 +1617,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "Razer",
-    "id": 231,
     "stock": 0
   },
   {
+    "id": 232,
     "imageURL": "https://m.media-amazon.com/images/I/31C3PdReAJS.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Barracuda X (2021)",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1630,12 +1632,12 @@
     "color": "Black",
     "rating": 0,
     "price": 92.23,
-    "manufacturer": "Razer",
-    "id": 232,
     "stock": 0
   },
   {
+    "id": 233,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/06af9bef17d27f922a4c2b6cd80776ba.256p.jpg",
+    "manufacturer": "Astro",
     "name": "Astro A50 + Base Station",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1645,12 +1647,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": 249.99,
-    "manufacturer": "Astro",
-    "id": 233,
     "stock": 0
   },
   {
+    "id": 234,
     "imageURL": "https://m.media-amazon.com/images/I/41007YvLdSL.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G933 Artemis Spectrum",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1660,12 +1662,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 280.0,
-    "manufacturer": "Logitech",
-    "id": 234,
     "stock": 0
   },
   {
+    "id": 235,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a0d3457072f07c4a49ba2c231ad83b6.256p.jpg",
+    "manufacturer": "Audeze",
     "name": "Audeze Mobius",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 50 kHz",
@@ -1675,12 +1677,12 @@
     "color": "Blue / Black",
     "rating": 0,
     "price": 799.66,
-    "manufacturer": "Audeze",
-    "id": 235,
     "stock": 0
   },
   {
+    "id": 236,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41Hvv%2BLvOlL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 598",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 38.5 kHz",
@@ -1690,12 +1692,12 @@
     "color": "Brown",
     "rating": 0,
     "price": null,
-    "manufacturer": "Sennheiser",
-    "id": 236,
     "stock": 0
   },
   {
+    "id": 237,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fc97a7e957d48182c8685ab9dde51dcd.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G335",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1705,12 +1707,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 49.99,
-    "manufacturer": "Logitech",
-    "id": 237,
     "stock": 0
   },
   {
+    "id": 238,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/94d99967278fd9f639a0fde957cc355e.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG STRIX FUSION 700",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1720,12 +1722,12 @@
     "color": "Black",
     "rating": 0,
     "price": 110.0,
-    "manufacturer": "Asus",
-    "id": 238,
     "stock": 0
   },
   {
+    "id": 239,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/be6e522d7d5760ce20b8e4058fbb16bf.256p.jpg",
+    "manufacturer": "Bose",
     "name": "Bose QuietComfort 35 Series II",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -1735,12 +1737,12 @@
     "color": "Black",
     "rating": 0,
     "price": 369.99,
-    "manufacturer": "Bose",
-    "id": 239,
     "stock": 0
   },
   {
+    "id": 240,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6c75d13bdfb810b3f9bf8b64259bd515.256p.jpg",
+    "manufacturer": "NZXT",
     "name": "NZXT Relay",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1750,12 +1752,12 @@
     "color": "Black / Purple",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "NZXT",
-    "id": 240,
     "stock": 0
   },
   {
+    "id": 241,
     "imageURL": "https://m.media-amazon.com/images/I/41-tcnW09xL.jpg",
+    "manufacturer": "HiFiMAN",
     "name": "HiFiMAN HE1000 Stealth",
     "type": "Circumaural",
     "frequencyResponse": "8 Hz - 65 kHz",
@@ -1765,12 +1767,12 @@
     "color": "Silver / Brown",
     "rating": 0,
     "price": 1399.0,
-    "manufacturer": "HiFiMAN",
-    "id": 241,
     "stock": 0
   },
   {
+    "id": 242,
     "imageURL": "https://m.media-amazon.com/images/I/41xt5GrrRwL.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech H110",
     "type": "Supra-aural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1780,12 +1782,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 16.63,
-    "manufacturer": "Logitech",
-    "id": 242,
     "stock": 0
   },
   {
+    "id": 243,
     "imageURL": "https://m.media-amazon.com/images/I/417fn3gelyL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser GAME ONE",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -1795,12 +1797,12 @@
     "color": "Black / White",
     "rating": 0,
     "price": 108.0,
-    "manufacturer": "Sennheiser",
-    "id": 243,
     "stock": 0
   },
   {
+    "id": 244,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/61rVGyZKCJL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 660 S",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 41 kHz",
@@ -1810,12 +1812,12 @@
     "color": "Black",
     "rating": 0,
     "price": 494.44,
-    "manufacturer": "Sennheiser",
-    "id": 244,
     "stock": 0
   },
   {
+    "id": 245,
     "imageURL": "https://m.media-amazon.com/images/I/51Ogas4RaUL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 599",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 38.5 kHz",
@@ -1825,12 +1827,12 @@
     "color": "White / Brown",
     "rating": 0,
     "price": 129.94,
-    "manufacturer": "Sennheiser",
-    "id": 245,
     "stock": 0
   },
   {
+    "id": 246,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3cf63f873a3972057a8d9dcb202fa5a8.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG Delta White Edition",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -1840,12 +1842,12 @@
     "color": "White",
     "rating": 0,
     "price": 133.99,
-    "manufacturer": "Asus",
-    "id": 246,
     "stock": 0
   },
   {
+    "id": 247,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1df40b8e7169afdba5d4f75aef3123c5.256p.jpg",
+    "manufacturer": "Audeze",
     "name": "Audeze Maxwell for PlayStation 5",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 50 kHz",
@@ -1855,12 +1857,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": null,
-    "manufacturer": "Audeze",
-    "id": 247,
     "stock": 0
   },
   {
+    "id": 248,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15a63e1a025be4f594a44c134d3d4c3a.256p.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic MMX 300 (2nd Generation)",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -1870,12 +1872,12 @@
     "color": "Black",
     "rating": 0,
     "price": 229.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 248,
     "stock": 0
   },
   {
+    "id": 249,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1ff377814b9acb6f60ed087538ad40db.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Prime",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -1885,12 +1887,12 @@
     "color": "Black",
     "rating": 0,
     "price": 44.99,
-    "manufacturer": "SteelSeries",
-    "id": 249,
     "stock": 0
   },
   {
+    "id": 250,
     "imageURL": "https://m.media-amazon.com/images/I/31asVSA+ooL.jpg",
+    "manufacturer": "Sony",
     "name": "Sony INZONE H9",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 20 kHz",
@@ -1900,12 +1902,12 @@
     "color": "Color",
     "rating": 0,
     "price": 228.0,
-    "manufacturer": "Sony",
-    "id": 250,
     "stock": 0
   },
   {
+    "id": 251,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41M1moF3AkL.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1915,12 +1917,12 @@
     "color": "White / Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "SteelSeries",
-    "id": 251,
     "stock": 0
   },
   {
+    "id": 252,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdeb6db19ea1a3540c8d321accf0c517.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus TUF Gaming H1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1930,12 +1932,12 @@
     "color": "Black",
     "rating": 0,
     "price": 34.99,
-    "manufacturer": "Asus",
-    "id": 252,
     "stock": 0
   },
   {
+    "id": 253,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0aead1f15a712ef177e0a674d545a4d.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken V3 HyperSense",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -1945,12 +1947,12 @@
     "color": "Black",
     "rating": 0,
     "price": 79.98,
-    "manufacturer": "Razer",
-    "id": 253,
     "stock": 0
   },
   {
+    "id": 254,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e783eff0b2ec2df04a4458f9189005e8.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Core",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 21 kHz",
@@ -1960,12 +1962,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 87.4,
-    "manufacturer": "HP",
-    "id": 254,
     "stock": 0
   },
   {
+    "id": 255,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d72cdcda0c7d6f086ea067f6ac99e454.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha S",
     "type": "Circumaural",
     "frequencyResponse": "13 Hz - 27 kHz",
@@ -1975,12 +1977,12 @@
     "color": "Blue / Black",
     "rating": 0,
     "price": 66.98,
-    "manufacturer": "HP",
-    "id": 255,
     "stock": 0
   },
   {
+    "id": 256,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4c96b14214a9935e035cfe406119f8d9.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud Orbit S",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 50 kHz",
@@ -1990,12 +1992,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": 198.99,
-    "manufacturer": "HP",
-    "id": 256,
     "stock": 0
   },
   {
+    "id": 257,
     "imageURL": "https://m.media-amazon.com/images/I/41sijA0GjIL.jpg",
+    "manufacturer": "DROP",
     "name": "Sennheiser DROP Massdrop x Sennheiser PC37X",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -2005,12 +2007,12 @@
     "color": "Black",
     "rating": 0,
     "price": 130.0,
-    "manufacturer": "DROP",
-    "id": 257,
     "stock": 0
   },
   {
+    "id": 258,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41vBqLBmWrL.jpg",
+    "manufacturer": "Sades",
     "name": "Sades SA-708",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -2020,12 +2022,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 12.12,
-    "manufacturer": "Sades",
-    "id": 258,
     "stock": 0
   },
   {
+    "id": 259,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a866eecc5ceed959481a79ea37833731.256p.jpg",
+    "manufacturer": "JBL",
     "name": "JBL Quantum One",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2035,12 +2037,12 @@
     "color": "Black",
     "rating": 0,
     "price": 149.94,
-    "manufacturer": "JBL",
-    "id": 259,
     "stock": 0
   },
   {
+    "id": 260,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2c3d2564e4da8b748237506fa4e6e027.256p.jpg",
+    "manufacturer": "Philips",
     "name": "Philips Fidelio X2HR/00",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -2050,12 +2052,12 @@
     "color": "Black",
     "rating": 0,
     "price": 139.99,
-    "manufacturer": "Philips",
-    "id": 260,
     "stock": 0
   },
   {
+    "id": 261,
     "imageURL": "https://m.media-amazon.com/images/I/41GqJSJg7GL.jpg",
+    "manufacturer": "Superlux",
     "name": "Superlux HD668B",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 30 kHz",
@@ -2065,12 +2067,12 @@
     "color": "Black",
     "rating": 0,
     "price": 42.95,
-    "manufacturer": "Superlux",
-    "id": 261,
     "stock": 0
   },
   {
+    "id": 262,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f0ba11a26a198900d220eca4a8232a64.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries ARCTIS 5 (2019 Edition)",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -2080,12 +2082,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "SteelSeries",
-    "id": 262,
     "stock": 0
   },
   {
+    "id": 263,
     "imageURL": "https://m.media-amazon.com/images/I/41g8LAG+fiL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 599 SE",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 38.5 kHz",
@@ -2095,12 +2097,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 99.95,
-    "manufacturer": "Sennheiser",
-    "id": 263,
     "stock": 0
   },
   {
+    "id": 264,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/38551f28137cd3041f452ec0b6efebb6.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair Virtuoso Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -2110,12 +2112,12 @@
     "color": "Black",
     "rating": 0,
     "price": 199.99,
-    "manufacturer": "Corsair",
-    "id": 264,
     "stock": 0
   },
   {
+    "id": 265,
     "imageURL": "https://m.media-amazon.com/images/I/41R0UDSVHPL.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50xBT",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -2125,12 +2127,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 189.99,
-    "manufacturer": "Audio-Technica",
-    "id": 265,
     "stock": 0
   },
   {
+    "id": 266,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7f92d08adbe2241737bd0c9d127b702b.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken V3",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2140,12 +2142,12 @@
     "color": "Black",
     "rating": 0,
     "price": 69.98,
-    "manufacturer": "Razer",
-    "id": 266,
     "stock": 0
   },
   {
+    "id": 267,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/16f136b12c44ae2f3e5e185b7571fc59.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS35",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2155,12 +2157,12 @@
     "color": "Black",
     "rating": 0,
     "price": 34.99,
-    "manufacturer": "Corsair",
-    "id": 267,
     "stock": 0
   },
   {
+    "id": 268,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/eec8972ca4c3c3b0e5b5f976c26f70e7.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG Delta S EVA Edition",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -2170,12 +2172,12 @@
     "color": "Purple / Green",
     "rating": 0,
     "price": 167.99,
-    "manufacturer": "Asus",
-    "id": 268,
     "stock": 0
   },
   {
+    "id": 269,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/71c2c83eeea42b336f21d932e036a6af.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G635",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2185,12 +2187,12 @@
     "color": "Black / Blue",
     "rating": 0,
     "price": 69.99,
-    "manufacturer": "Logitech",
-    "id": 269,
     "stock": 0
   },
   {
+    "id": 270,
     "imageURL": "https://m.media-amazon.com/images/I/31+Enjax2gL.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7P",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2200,12 +2202,12 @@
     "color": "White / Blue",
     "rating": 0,
     "price": 239.99,
-    "manufacturer": "SteelSeries",
-    "id": 270,
     "stock": 0
   },
   {
+    "id": 271,
     "imageURL": "https://m.media-amazon.com/images/I/31fYSDqAvFL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 700 PRO X",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -2215,12 +2217,12 @@
     "color": "Black",
     "rating": 0,
     "price": 249.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 271,
     "stock": 0
   },
   {
+    "id": 272,
     "imageURL": "https://m.media-amazon.com/images/I/410QM9rOXHL.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic TYGR 300 R",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -2230,12 +2232,12 @@
     "color": "Black",
     "rating": 0,
     "price": 159.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 272,
     "stock": 0
   },
   {
+    "id": 273,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69031ec06bb320f1a5f38d1343b70903.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair VOID ELITE SURROUND",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 30 kHz",
@@ -2245,12 +2247,12 @@
     "color": "Black",
     "rating": 0,
     "price": 59.99,
-    "manufacturer": "Corsair",
-    "id": 273,
     "stock": 0
   },
   {
+    "id": 274,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/785141f59aabd3352ccc34398cd0f40a.256p.jpg",
+    "manufacturer": "Apple",
     "name": "Apple AirPods Max",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -2260,12 +2262,12 @@
     "color": "Silver",
     "rating": 0,
     "price": 449.99,
-    "manufacturer": "Apple",
-    "id": 274,
     "stock": 0
   },
   {
+    "id": 275,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec5d37e655e02b570784ceb7462eb3eb.256p.jpg",
+    "manufacturer": "HP",
     "name": "HP HyperX Cloud III",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 21 kHz",
@@ -2275,12 +2277,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 80.48,
-    "manufacturer": "HP",
-    "id": 275,
     "stock": 0
   },
   {
+    "id": 276,
     "imageURL": "https://m.media-amazon.com/images/I/41sY9PpS9+L.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M20X",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 20 kHz",
@@ -2290,12 +2292,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 49.0,
-    "manufacturer": "Audio-Technica",
-    "id": 276,
     "stock": 0
   },
   {
+    "id": 277,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e698c6f5cf1e1cfbc4ade325a2853368.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken BT - Kitty Edition",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2305,12 +2307,12 @@
     "color": "Pink / White",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "Razer",
-    "id": 277,
     "stock": 0
   },
   {
+    "id": 278,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8ca1e172f0cf70a37c773e04a8162257.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair Virtuoso Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -2320,12 +2322,12 @@
     "color": "White",
     "rating": 0,
     "price": 199.99,
-    "manufacturer": "Corsair",
-    "id": 278,
     "stock": 0
   },
   {
+    "id": 279,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/208804dbc26e238e46c9113f8e24cc3e.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus ROG CETRA II",
     "type": "In Ear",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -2335,12 +2337,12 @@
     "color": "Black",
     "rating": 0,
     "price": 81.34,
-    "manufacturer": "Asus",
-    "id": 279,
     "stock": 0
   },
   {
+    "id": 280,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/edab0f1c6ea601832ae8f550fd9e277d.256p.jpg",
+    "manufacturer": "Turtle Beach",
     "name": "Turtle Beach Recon 50",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -2350,12 +2352,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 24.95,
-    "manufacturer": "Turtle Beach",
-    "id": 280,
     "stock": 0
   },
   {
+    "id": 281,
     "imageURL": "https://m.media-amazon.com/images/I/41-UtVpv4iL.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G533",
     "type": "Circumaural",
     "frequencyResponse": "Frequency Response",
@@ -2365,12 +2367,12 @@
     "color": "Black",
     "rating": 0,
     "price": 118.5,
-    "manufacturer": "Logitech",
-    "id": 281,
     "stock": 0
   },
   {
+    "id": 282,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b19c00df130eb0f0e7e90f4878feec46.256p.jpg",
+    "manufacturer": "Sony",
     "name": "Sony MDR-7506",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 20 kHz",
@@ -2380,12 +2382,12 @@
     "color": "Black",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "Sony",
-    "id": 282,
     "stock": 0
   },
   {
+    "id": 283,
     "imageURL": "https://m.media-amazon.com/images/I/41H9uQtAAEL.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-AD2000X",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 45 kHz",
@@ -2395,12 +2397,12 @@
     "color": "Black",
     "rating": 0,
     "price": 592.0,
-    "manufacturer": "Audio-Technica",
-    "id": 283,
     "stock": 0
   },
   {
+    "id": 284,
     "imageURL": "https://m.media-amazon.com/images/I/31nAzEG5J0L.jpg",
+    "manufacturer": "NZXT",
     "name": "NZXT Relay",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 40 kHz",
@@ -2410,12 +2412,12 @@
     "color": "White / Black",
     "rating": 0,
     "price": 89.98,
-    "manufacturer": "NZXT",
-    "id": 284,
     "stock": 0
   },
   {
+    "id": 285,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/591c90b56e7637b49553bf935cbd879a.256p.jpg",
+    "manufacturer": "Cooler Master",
     "name": "Cooler Master MH670",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 25 kHz",
@@ -2425,12 +2427,12 @@
     "color": "Black",
     "rating": 0,
     "price": 149.01,
-    "manufacturer": "Cooler Master",
-    "id": 285,
     "stock": 0
   },
   {
+    "id": 286,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6254ffa40ba39f7430a0bac0ed9685f9.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 40 kHz",
@@ -2440,12 +2442,12 @@
     "color": "Black",
     "rating": 0,
     "price": 89.99,
-    "manufacturer": "SteelSeries",
-    "id": 286,
     "stock": 0
   },
   {
+    "id": 287,
     "imageURL": "https://m.media-amazon.com/images/I/31eimAtqohL.jpg",
+    "manufacturer": "DROP",
     "name": "Moondrop ARIA",
     "type": "In Ear",
     "frequencyResponse": "5 Hz - 36 kHz",
@@ -2455,12 +2457,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "DROP",
-    "id": 287,
     "stock": 0
   },
   {
+    "id": 288,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6da63ae7a26ae1b12b90cfaa68af7f87.256p.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-R70X",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -2470,12 +2472,12 @@
     "color": "Black",
     "rating": 0,
     "price": 349.0,
-    "manufacturer": "Audio-Technica",
-    "id": 288,
     "stock": 0
   },
   {
+    "id": 289,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae057538a825e052a0d44d4ad169cff7.256p.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-G1WL",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 40 kHz",
@@ -2485,12 +2487,12 @@
     "color": "Black",
     "rating": 0,
     "price": 249.0,
-    "manufacturer": "Audio-Technica",
-    "id": 289,
     "stock": 0
   },
   {
+    "id": 290,
     "imageURL": "https://m.media-amazon.com/images/I/41uaZk8J0RL.jpg",
+    "manufacturer": "ROCCAT",
     "name": "ROCCAT Elo Air",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2500,12 +2502,12 @@
     "color": "Black",
     "rating": 0,
     "price": 93.82,
-    "manufacturer": "ROCCAT",
-    "id": 290,
     "stock": 0
   },
   {
+    "id": 291,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0d92983d812ea50020a300f9c0e8132a.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken Kitty V2 Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2515,12 +2517,12 @@
     "color": "Pink / Gray",
     "rating": 0,
     "price": 199.99,
-    "manufacturer": "Razer",
-    "id": 291,
     "stock": 0
   },
   {
+    "id": 292,
     "imageURL": "https://m.media-amazon.com/images/I/31MDYpkWnqL.jpg",
+    "manufacturer": "Sony",
     "name": "Sony WH-1000XM3",
     "type": "Circumaural",
     "frequencyResponse": "4 Hz - 40 kHz",
@@ -2530,12 +2532,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "Sony",
-    "id": 292,
     "stock": 0
   },
   {
+    "id": 293,
     "imageURL": "https://m.media-amazon.com/images/I/41u26kZeyAL.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G930",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2545,12 +2547,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 289.98,
-    "manufacturer": "Logitech",
-    "id": 293,
     "stock": 0
   },
   {
+    "id": 294,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/891ce0e552bf1b796374c47c94d1ce9f.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS55",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2560,12 +2562,12 @@
     "color": "Black",
     "rating": 0,
     "price": 74.98,
-    "manufacturer": "Corsair",
-    "id": 294,
     "stock": 0
   },
   {
+    "id": 295,
     "imageURL": "https://m.media-amazon.com/images/I/314+xtaHmQL.jpg",
+    "manufacturer": "JBL",
     "name": "JBL Quantum 100",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2575,12 +2577,12 @@
     "color": "White",
     "rating": 0,
     "price": 19.95,
-    "manufacturer": "JBL",
-    "id": 295,
     "stock": 0
   },
   {
+    "id": 296,
     "imageURL": "https://m.media-amazon.com/images/I/41eA71QlXtL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser GAME ZERO",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 26 kHz",
@@ -2590,12 +2592,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 67.48,
-    "manufacturer": "Sennheiser",
-    "id": 296,
     "stock": 0
   },
   {
+    "id": 297,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3c2a3a1a568cb13fe746db2c5e70c7f.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus TUF Gaming H1 Wireless",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2605,12 +2607,12 @@
     "color": "Color",
     "rating": 0,
     "price": 79.99,
-    "manufacturer": "Asus",
-    "id": 297,
     "stock": 0
   },
   {
+    "id": 298,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/de329adeb48e7ef6121a3cc0edbb46fe.256p.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 990",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 35 kHz",
@@ -2620,12 +2622,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 179.0,
-    "manufacturer": "Beyerdynamic",
-    "id": 298,
     "stock": 0
   },
   {
+    "id": 299,
     "imageURL": "https://m.media-amazon.com/images/I/51i-nVaXP6L.jpg",
+    "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic T1",
     "type": "Circumaural",
     "frequencyResponse": "5 Hz - 50 kHz",
@@ -2635,12 +2637,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 999.99,
-    "manufacturer": "Beyerdynamic",
-    "id": 299,
     "stock": 0
   },
   {
+    "id": 300,
     "imageURL": "https://m.media-amazon.com/images/I/41bMMAXlJZL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 598 SE",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 38.5 kHz",
@@ -2650,12 +2652,12 @@
     "color": "Black",
     "rating": 0,
     "price": 589.99,
-    "manufacturer": "Sennheiser",
-    "id": 300,
     "stock": 0
   },
   {
+    "id": 301,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fb48a5b31411e4aed0d8bcb202a429ac.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 9X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2665,12 +2667,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "SteelSeries",
-    "id": 301,
     "stock": 0
   },
   {
+    "id": 302,
     "imageURL": "https://m.media-amazon.com/images/I/41fpue3mO9L.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 558",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -2680,12 +2682,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 354.96,
-    "manufacturer": "Sennheiser",
-    "id": 302,
     "stock": 0
   },
   {
+    "id": 303,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/885e23583e2ba2262ae136d004ab4a21.256p.jpg",
+    "manufacturer": "Astro",
     "name": "Astro A40 + MIXAMP Pro",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2695,12 +2697,12 @@
     "color": "Black",
     "rating": 0,
     "price": 394.95,
-    "manufacturer": "Astro",
-    "id": 303,
     "stock": 0
   },
   {
+    "id": 304,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/46632dbf7d4840e538ed4bebef93a348.256p.jpg",
+    "manufacturer": "Apple",
     "name": "Apple AirPods Pro 2nd Gen MagSafe USB-C",
     "type": "In Ear",
     "frequencyResponse": "Frequency Response",
@@ -2710,12 +2712,12 @@
     "color": "White",
     "rating": 0,
     "price": 229.99,
-    "manufacturer": "Apple",
-    "id": 304,
     "stock": 0
   },
   {
+    "id": 305,
     "imageURL": "https://m.media-amazon.com/images/I/41twX2Nk3wL.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken Tournament Edition",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 28 kHz",
@@ -2725,12 +2727,12 @@
     "color": "Black",
     "rating": 0,
     "price": 77.94,
-    "manufacturer": "Razer",
-    "id": 305,
     "stock": 0
   },
   {
+    "id": 306,
     "imageURL": "https://m.media-amazon.com/images/I/41LHSb1ToKL.jpg",
+    "manufacturer": "Audeze",
     "name": "Audeze LCD-GX",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 50 kHz",
@@ -2740,12 +2742,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 899.0,
-    "manufacturer": "Audeze",
-    "id": 306,
     "stock": 0
   },
   {
+    "id": 307,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0326f36a5f3d138b2bcad1c38462d359.256p.jpg",
+    "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50xWH",
     "type": "Circumaural",
     "frequencyResponse": "15 Hz - 28 kHz",
@@ -2755,12 +2757,12 @@
     "color": "White",
     "rating": 0,
     "price": 169.0,
-    "manufacturer": "Audio-Technica",
-    "id": 307,
     "stock": 0
   },
   {
+    "id": 308,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b838a28c5afbd2d9ab7df2812bad6d6f.256p.jpg",
+    "manufacturer": "Corsair",
     "name": "Corsair HS55",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2770,12 +2772,12 @@
     "color": "White",
     "rating": 0,
     "price": 99.99,
-    "manufacturer": "Corsair",
-    "id": 308,
     "stock": 0
   },
   {
+    "id": 309,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e34a84188747f512aa5f6a678b8d193c.256p.jpg",
+    "manufacturer": "Logitech",
     "name": "Logitech G335",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2785,12 +2787,12 @@
     "color": "White / Blue",
     "rating": 0,
     "price": 38.99,
-    "manufacturer": "Logitech",
-    "id": 309,
     "stock": 0
   },
   {
+    "id": 310,
     "imageURL": "https://m.media-amazon.com/images/I/41O6ukKY2fS.jpg",
+    "manufacturer": "Gigabyte",
     "name": "Gigabyte Aorus H1",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2800,12 +2802,12 @@
     "color": "Black / White",
     "rating": 0,
     "price": null,
-    "manufacturer": "Gigabyte",
-    "id": 310,
     "stock": 0
   },
   {
+    "id": 311,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ed6ccd6c7e88b57362655bf30272acbc.256p.jpg",
+    "manufacturer": "Skullcandy",
     "name": "Skullcandy Crusher",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2815,12 +2817,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "Skullcandy",
-    "id": 311,
     "stock": 0
   },
   {
+    "id": 312,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/784c22b0267f6740fad85481112b6b34.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 3",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -2830,12 +2832,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "SteelSeries",
-    "id": 312,
     "stock": 0
   },
   {
+    "id": 313,
     "imageURL": "https://m.media-amazon.com/images/I/31NxNU0NjfL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 280 PRO",
     "type": "Circumaural",
     "frequencyResponse": "8 Hz - 25 kHz",
@@ -2845,12 +2847,12 @@
     "color": "Black",
     "rating": 0,
     "price": 94.9,
-    "manufacturer": "Sennheiser",
-    "id": 313,
     "stock": 0
   },
   {
+    "id": 314,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/82395c7aa315d8987440ba8ca39a1df9.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Kraken BT - Hello Kitty and Friends Edition",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2860,12 +2862,12 @@
     "color": "Pink / White",
     "rating": 0,
     "price": 89.99,
-    "manufacturer": "Razer",
-    "id": 314,
     "stock": 0
   },
   {
+    "id": 315,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dd3cada5ed84335f8a2c6c630185bddd.med.256p.jpg",
+    "manufacturer": "Koss",
     "name": "Koss KSC75",
     "type": "Supra-aural",
     "frequencyResponse": "Frequency Response",
@@ -2875,12 +2877,12 @@
     "color": "Black / Silver",
     "rating": 0,
     "price": 19.98,
-    "manufacturer": "Koss",
-    "id": 315,
     "stock": 0
   },
   {
+    "id": 316,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7c5583823c6e919356c609ec9cee2778.256p.jpg",
+    "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 7X",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 22 kHz",
@@ -2890,12 +2892,12 @@
     "color": "Black / Green",
     "rating": 0,
     "price": 159.99,
-    "manufacturer": "SteelSeries",
-    "id": 316,
     "stock": 0
   },
   {
+    "id": 317,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/286270a0d118353478a8367171f35aa4.256p.jpg",
+    "manufacturer": "Razer",
     "name": "Razer Barracuda",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2905,12 +2907,12 @@
     "color": "Black",
     "rating": 0,
     "price": 100.99,
-    "manufacturer": "Razer",
-    "id": 317,
     "stock": 0
   },
   {
+    "id": 318,
     "imageURL": "https://m.media-amazon.com/images/I/41qc5I5zCoL.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 670",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 23 kHz",
@@ -2920,12 +2922,12 @@
     "color": "Black",
     "rating": 0,
     "price": 199.49,
-    "manufacturer": "Sennheiser",
-    "id": 318,
     "stock": 0
   },
   {
+    "id": 319,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3ec0480dc0e8ee0a28328df7adab77bb.256p.jpg",
+    "manufacturer": "Asus",
     "name": "Asus TUF Gaming H3",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2935,12 +2937,12 @@
     "color": "Black / Gray",
     "rating": 0,
     "price": 39.99,
-    "manufacturer": "Asus",
-    "id": 319,
     "stock": 0
   },
   {
+    "id": 320,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/469ba8880e6b90130367bc585f012148.256p.jpg",
+    "manufacturer": "Astro",
     "name": "Astro A50 PS4 4th Gen + Base Station",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2950,12 +2952,12 @@
     "color": "Black",
     "rating": 0,
     "price": null,
-    "manufacturer": "Astro",
-    "id": 320,
     "stock": 0
   },
   {
+    "id": 321,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8d552fe19ab0fe6d61e817fad1aed4d7.256p.jpg",
+    "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 600",
     "type": "Circumaural",
     "frequencyResponse": "10 Hz - 30 kHz",
@@ -2965,12 +2967,12 @@
     "color": "Black / Red",
     "rating": 0,
     "price": 70.48,
-    "manufacturer": "Sennheiser",
-    "id": 321,
     "stock": 0
   },
   {
+    "id": 322,
     "imageURL": "https://m.media-amazon.com/images/I/419kkkFPoyL.jpg",
+    "manufacturer": "HP",
     "name": "Philips SHP9600/00",
     "type": "Circumaural",
     "frequencyResponse": "12 Hz - 35 kHz",
@@ -2980,12 +2982,12 @@
     "color": "Black / Copper",
     "rating": 0,
     "price": 67.48,
-    "manufacturer": "HP",
-    "id": 322,
     "stock": 0
   },
   {
+    "id": 323,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/419bpn0g9oL.jpg",
+    "manufacturer": "G.Skill",
     "name": "G.Skill RIPJAWS SV710",
     "type": "Circumaural",
     "frequencyResponse": "20 Hz - 20 kHz",
@@ -2995,8 +2997,6 @@
     "color": "Black",
     "rating": 0,
     "price": 19.98,
-    "manufacturer": "G.Skill",
-    "id": 323,
     "stock": 0
   }
 ]

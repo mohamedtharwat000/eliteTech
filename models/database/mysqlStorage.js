@@ -124,7 +124,12 @@ export default class MysqlStorage {
       sql += ` WHERE id = ${obj.id}`;
     }
 
-    if (obj.name && !obj.id) {
+    if (obj.manufacturer && !obj.id) {
+      const partialName = obj.manufacturer.toLowerCase();
+      sql += ` WHERE manufacturer LIKE '${partialName}'`;
+    }
+
+    if (obj.name && !obj.id && !obj.manufacturer) {
       const partialName = obj.name.toLowerCase();
       sql += ` WHERE name LIKE '%${partialName}%'`;
     }
@@ -133,9 +138,9 @@ export default class MysqlStorage {
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
       sql += ` AND ${obj.filterBy} ${obj.filterType} `;
-      sql += Number(obj.filterValue)
+      sql += parseFloat(obj.filterValue)
         ? +obj.filterValue
-        : `'${obj.filterValue}'`;
+        : `${obj.filterValue}`;
     }
 
     if (obj.sort && options.includes(obj.sort)) {
@@ -150,11 +155,8 @@ export default class MysqlStorage {
       sql += ' DESC';
     }
 
-    if (obj.end) {
-      sql += ` LIMIT ${+obj.end - +obj.start ? +obj.start : 0}`;
-    }
-    if (obj.limit) {
-      sql += ` LIMIT ${+obj.limit}`;
+    if (obj.end || obj.limit) {
+      sql += ` LIMIT ${Math.min(+obj.limit, +obj.end - +obj.start)}`;
     }
 
     if (obj.start) {

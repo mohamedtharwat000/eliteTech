@@ -141,7 +141,7 @@ export default class FileStorage {
     if (obj.filterBy && obj.filterType && obj.filterValue) {
       const filterFunction = (record) => {
         const value = record[obj.filterBy];
-        const filterValue = Number(obj.filterValue)
+        const filterValue = parseFloat(obj.filterValue)
           ? +obj.filterValue
           : obj.filterValue;
         switch (obj.filterType) {

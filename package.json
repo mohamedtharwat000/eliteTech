@@ -8,8 +8,12 @@
   "author": "Mohamed Tharwat, Mohammed Khalid",
   "license": "MIT",
   "scripts": {
-    "serverStart": "nodemon ./api/server.js",
-    "console": "./console.js"
+    "mysql": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech",
+    "mysql_init": "npm run mysql && node ./models/database/sql/database.cjs",
+    "server": "npm run mysql && nodemon ./api/server.js",
+    "serverFile": "nodemon ./api/server.js",
+    "console": "npm run mysql && ./console.js",
+    "consoleFile": "./console.js"
   },
   "dependencies": {
     "bandersnatch": "^1.12.13",
@@ -17,6 +21,7 @@
     "enquirer": "^2.4.1",
     "express": "^4.18.2",
     "mysql2": "^3.6.5",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "npm-run-all": "^4.1.5"
   }
 }
