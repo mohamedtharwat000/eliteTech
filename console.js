@@ -205,8 +205,8 @@ const cmdRead = command('read')
         }
       }
     }
-
-    console.log(await data.read(args.type, criteria));
+	console.log(criteria);
+    // console.log(await data.read(args.type, criteria));
   });
 
 /**
