@@ -166,6 +166,6 @@ export default class MysqlStorage {
     this.data = await this.db.query(sql);
 
     this.close();
-    return this.data;
+    return this.data[0];
   }
 }
