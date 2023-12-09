@@ -116,28 +116,37 @@ export default class MysqlStorage {
    *   - Null if no matching records are found.
    */
   async get(cls, obj) {
+    debugger;
     this.connect();
 
     let sql = `SELECT * FROM \`${cls.name.toLowerCase()}\``;
 
     if (obj.id) {
       sql += ` WHERE id = ${obj.id}`;
-    }
+    } else {
+      if (obj.manufacturer) {
+        const partialName = obj.manufacturer.toLowerCase();
+        sql += ` WHERE manufacturer LIKE '${partialName}'`;
+      }
 
-    if (obj.manufacturer && !obj.id) {
-      const partialName = obj.manufacturer.toLowerCase();
-      sql += ` WHERE manufacturer LIKE '${partialName}'`;
-    }
-
-    if (obj.name && !obj.id && !obj.manufacturer) {
-      const partialName = obj.name.toLowerCase();
-      sql += ` WHERE name LIKE '%${partialName}%'`;
+      if (obj.name) {
+        const partialName = obj.name.toLowerCase();
+        sql += ` WHERE name LIKE '%${partialName}%'`;
+      }
     }
 
     const options = ['price', 'rating'];
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
-      sql += ` AND ${obj.filterBy} ${obj.filterType} `;
+      sql += ` ${sql.includes('WHERE') ? 'AND' : 'WHERE'} ${obj.filterBy} ${
+        obj.filterType == 'gt'
+          ? '>'
+          : obj.filterType == 'lt'
+          ? '<'
+          : obj.filterType == 'eq'
+          ? '='
+          : ''
+      } `;
       sql += parseFloat(obj.filterValue)
         ? +obj.filterValue
         : `${obj.filterValue}`;
@@ -145,18 +154,18 @@ export default class MysqlStorage {
 
     if (obj.sort && options.includes(obj.sort)) {
       sql += ` ORDER BY ${obj.sort}`;
-    }
-
-    if (obj.order === 'ASC') {
-      sql += ' ASC';
-    }
-
-    if (obj.order === 'DESC') {
-      sql += ' DESC';
+      if (obj.order === 'DESC') {
+        sql += ' DESC';
+      } else {
+        sql += ' ASC';
+      }
     }
 
     if (obj.end || obj.limit) {
-      sql += ` LIMIT ${Math.min(+obj.limit, +obj.end - +obj.start)}`;
+      sql += ` LIMIT ${Math.min(
+        +obj.limit,
+        obj.end ? +obj.end - (+obj.start || 0) : ''
+      )}`;
     }
 
     if (obj.start) {
