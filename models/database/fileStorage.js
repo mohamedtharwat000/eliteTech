@@ -170,7 +170,7 @@ export default class FileStorage {
     const end = +obj.end || this.data.length;
     const limit = obj.limit ? Math.min(+obj.limit, +end - +start) : end;
 
-    this.data.slice(start, limit);
+    this.data = this.data.slice(start, limit);
 
     return this.data;
   }
