@@ -125,7 +125,7 @@ export default class FileStorage {
     }
 
     if (obj.manufacturer) {
-      const partialName = obj.name.toLowerCase();
+      const partialName = obj.manufacturer.toLowerCase();
       this.data = this.data.filter(
         (record) => record.manufacturer.toLowerCase() == partialName
       );
