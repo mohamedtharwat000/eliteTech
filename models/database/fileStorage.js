@@ -155,7 +155,7 @@ export default class FileStorage {
             return true;
         }
       };
-      this.data.filter(filterFunction);
+      this.data = this.data.filter(filterFunction);
     }
 
     if (obj.sort && options.includes(obj.sort)) {
