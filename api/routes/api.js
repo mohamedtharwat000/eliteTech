@@ -9,15 +9,6 @@ const types = ['cpu', 'cooler', 'gpu', 'ram',
 ];
 
 
-
-// router.get("/search/:type/", logger, async (req, res) => {
-// 	let type = req.params.type;
-// 	let result = await data.read(type, req.query);
-
-// 	res.json(result);
-// })
-
-
 router
 	.route("/:type/:id")
 	.get(logger, async (req, res) => {

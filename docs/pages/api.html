@@ -44,7 +44,6 @@
                 <ul>
                     <li><a href="#api_route_1">/api/:type</a></li>
                     <li><a href="#api_route_2">/api/:type/:id</a></li>
-                    <li><a href="#api_route_3">/api/search/:type</a></li>
                     <li><a href="#api_route_4">/api/:type/limit/:sequence</a></li>
                 </ul>
             </li>
@@ -59,7 +58,6 @@
     <ul>
         <li id="api_route_1"><kbd>/api/:type</kbd></li>
         <li id="api_route_2"><kbd>/api/:type/:id</kbd></li>
-        <li id="api_route_3"><kbd>/api/search/:type</kbd></li>
         <li id="api_route_4"><kbd>/api/:type/limit/:sequence</kbd></li>
     </ul>
     </p>
@@ -141,7 +139,7 @@
 
         <li>
             <h5>Get all HyperX Mouses</h5>
-            <kbd>/api/search/mice/?name=hyperx</kbd>
+            <kbd>/api/mice/?name=hyperx</kbd>
             <pre>[{"id":185,"imageURL":"https://m.media-amazon.com/images/I/41ZiHvROOGL.jpg","manufacturer":"HP","name":"HP HyperX Pulsefire Haste",
 "trackingMethod":"Optical","connectionType":"Wired","maximumDPI":"16000","handOrientation":"Right","color":"Black","rating":0,"price":39.97,"stock":0},
 {"id":216,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/7ec3d99e13b9e17b324d53e507b9b5d9.256p.jpg",
@@ -152,7 +150,7 @@
 
         <li>
             <h5>Get all Rams and sort by Prices with descending order</h5>
-            <kbd>/api/search/ram?sort=price&order=DESC</kbd>
+            <kbd>/api/ram?sort=price&order=DESC</kbd>
             <pre>[{"id":142,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/33813e932dd7993032d89b4ce508aa21.256p.jpg",
 "manufacturer":"Corsair","name":"Corsair Dominator Platinum 32 GB","speed":"DDR4-2666","modules":"4 x 8GB","pricePerGB":"52.327",
 "color":"Black / Silver","firstWordLatency":"11.253 ns","casLatency":"15","rating":0,"price":1674.47,"stock":0},{"id":261,
@@ -165,13 +163,21 @@
 ....]</pre>
         </li>
         <li>
-            <h5>Get all the GPUs that are less than 100$</h5>
-            <kbd>/api/search/gpu?filterBy=price&filterType=lt&filterValue=100</kbd>
-            <pre></pre>
+            <h5>Get all the GPUs that are greate than 100$</h5>
+            <kbd>/api/gpu?filterBy=price&filterType=gt&filterValue=100</kbd>
+            <pre>[{"id":868,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/f9ba4a1f3b5884c73fc1e9c194f0335c.256p.jpg",
+"manufacturer":"MSI","name":"MSI GT 1030 2GHD4 LP OC","chipset":"GeForce GT 1030 DDR4","memory":"2 GB","coreClock":"1189 MHz",
+"boostClock":"1430 MHz","color":"Black","length":"150 mm","rating":0,"price":101.73,"stock":0},{"id":974,
+"imageURL":"https://m.media-amazon.com/images/I/51zovtZXScL.jpg","manufacturer":"MSI","name":"MSI AERO ITX 2GD4 OC","chipset":
+"GeForce GT 1030 DDR4","memory":"2 GB","coreClock":"1189 MHz","boostClock":"1430 MHz","color":"Black / White","length":"147 mm","rating":0,
+"price":106.46,"stock":0},{"id":910,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/9dace604dee21c7037db33bf6dd29432.256p.jpg",
+"manufacturer":"Sparkle","name":"Sparkle ELF","chipset":"Arc A310","memory":"4 GB","coreClock":"1750 MHz","boostClock":"2000 MHz",
+"color":"Blue / Black","length":"153 mm","rating":0,"price":109.99,"stock":0},
+...]</pre>
         </li>
         <li>
             <h5>Get the GPU that it's price is 9999$</h5>
-            <kbd>api/search/gpu?filterBy=price&filterType=eq&filterValue=9999</kbd>
+            <kbd>api/gpu?filterBy=price&filterType=eq&filterValue=9999</kbd>
             <pre>[{"id":129,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/6ef5b8f1b94982c71019a0d9ac2795e2.256p.jpg",
 "manufacturer":"PNY","name":"PNY VCNRTX6000ADA-PB","chipset":"RTX 6000 Ada Generation",
 "memory":"48 GB","coreClock":"915 MHz","boostClock":"2505 MHz","color":"Black / Gold","length":"267 mm","rating":0,"price":9999,"stock":0}]</pre>
