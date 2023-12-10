@@ -10,12 +10,12 @@ const types = ['cpu', 'cooler', 'gpu', 'ram',
 
 
 
-router.get("/search/:type/", logger, async (req, res) => {
-	let type = req.params.type;
-	let result = await data.read(type, req.query);
+// router.get("/search/:type/", logger, async (req, res) => {
+// 	let type = req.params.type;
+// 	let result = await data.read(type, req.query);
 
-	res.json(result);
-})
+// 	res.json(result);
+// })
 
 
 router
@@ -44,7 +44,7 @@ router
 
 router.get("/:type/", logger, async (req, res) => {
 	let type = req.params.type;
-	let result = await data.read(type, {});
+	let result = await data.read(type, req.query);
 	res.json(result);
 });
 
