@@ -3,9 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>News | Simply Docs</title>
-    <meta name="description" content="A showcase of Simply Docs by MarketingPipeline built using Simple.CSS">
-
+    <title>Elite Tech | API</title>
+    <meta name="description" content="An API for PC Hardware Information">
 
     <link rel="stylesheet" href="../assets/style.css">
 
@@ -14,29 +13,27 @@
 
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/prism.min.js"></script>
 </head>
+
 <header>
     <nav>
+        <a href="">Home</a>
 
-        <a href="/Simply-Docs/">Home</a>
+        <a href="">Docs</a>
 
-        <a href="/Simply-Docs/pages/documentation">Docs</a>
+        <a href="">Download</a>
 
-        <a href="https://github.com/MarketingPipeline/Simply-Docs/archive/refs/heads/main.zip">Download</a>
-
-        <a href="">News</a>
+        <a href="">API</a>
 
         <a href="https://github.com/mohamedtharwat000/eliteTech"><svg class="icon" viewBox="0 0 32 32">
                 <path
                     d="M16 0.395c-8.836 0-16 7.163-16 16 0 7.069 4.585 13.067 10.942 15.182 0.8 0.148 1.094-0.347 1.094-0.77 0-0.381-0.015-1.642-0.022-2.979-4.452 0.968-5.391-1.888-5.391-1.888-0.728-1.849-1.776-2.341-1.776-2.341-1.452-0.993 0.11-0.973 0.11-0.973 1.606 0.113 2.452 1.649 2.452 1.649 1.427 2.446 3.743 1.739 4.656 1.33 0.143-1.034 0.558-1.74 1.016-2.14-3.554-0.404-7.29-1.777-7.29-7.907 0-1.747 0.625-3.174 1.649-4.295-0.166-0.403-0.714-2.030 0.155-4.234 0 0 1.344-0.43 4.401 1.64 1.276-0.355 2.645-0.532 4.005-0.539 1.359 0.006 2.729 0.184 4.008 0.539 3.054-2.070 4.395-1.64 4.395-1.64 0.871 2.204 0.323 3.831 0.157 4.234 1.026 1.12 1.647 2.548 1.647 4.295 0 6.145-3.743 7.498-7.306 7.895 0.574 0.497 1.085 1.47 1.085 2.963 0 2.141-0.019 3.864-0.019 4.391 0 0.426 0.288 0.925 1.099 0.768 6.354-2.118 10.933-8.113 10.933-15.18 0-8.837-7.164-16-16-16z">
                 </path>
             </svg>Github</a>
-
     </nav>
 
     <h1>API</h1>
     <p>Elite Tech API to get all the PC Hardware Information</p>
 </header>
-
 
 <main>
 
@@ -52,13 +49,13 @@
                 </ul>
             </li>
             <li><a href="#usage"><b>Usage</b></a>
-            <li><a href="#about"><b>Example</b></a>
-            <li><a href="#about"><b>Usage for the System Owners</b></a>
+            <li><a href="#system_usage  "><b>Usage for the Systems</b></a>
+            <li><a href="#example"><b>Example</b></a>
         </ul>
     </fieldset>
 
     <h1 id="api_routes">API Routes</h1>
-    <p>For Users, there are 4 API routes for the GET request methods.
+    <p>For Users, there are 4 API routes for the <b>GET</b> request methods.
     <ul>
         <li id="api_route_1"><kbd>/api/:type</kbd></li>
         <li id="api_route_2"><kbd>/api/:type/:id</kbd></li>
@@ -84,7 +81,95 @@
     </ul>
     </p>
 
+
     <h1 id="usage">Usage</h1>
+    <p>For the <b>GET</b> method, you can use your browser to get whatever you want!</p>
+    <p>Or with any script from your favorite programming language,
+        you can use Python requests for example if you want to navigate through the API.
+    </p>
+    <p>Here are all the available Hardware types in the API:</p>
+    <ul>
+        <li>CPU</li>
+        <li>GPU</li>
+        <li>Motherboard</li>
+        <li>RAM</li>
+        <li>Storage</li>
+        <li>PowerSupply</li>
+        <li>Case</li>
+        <li>Cooler</li>
+        <li>Monitor</li>
+        <li>Headphone</li>
+        <li>Mice</li>
+        <li>Keyboard</li>
+    </ul>
+    <h2 id="system_usage">Usage for the Systems</h2>
+    <p>And for the other requests, <b>POST</b>, <b>PUT</b>, and <b>Delete</b>, that will be of course in your system or
+        website.
+        But if you want to use the other methods separately, you can choose between plenty of tools that will help you
+        make a request.
+        For example, curl in the terminal,
+        or <a href="https://chromewebstore.google.com/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi"
+            target="_blank">RestMan</a> Chrome Extension,
+        or the <a href="https://www.postman.com/">Postman</a> application.
+    </p>
+
+
+
+
+    <h1 id="example">Examples</h1>
+    <h4>GET</h4>
+    <P>Here are simple demonstrations of using the 4 GET routes:</P>
+    <ul>
+        <li>
+            <h5>Get all mices</h5>
+            <kbd>/api/mice/</kbd>
+            <pre>[{"id":125,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/575c76df1ce4d5588c5749e289515e4c.256p.jpg",
+"manufacturer":"Logitech","name":"Logitech G Pro X Superlight","trackingMethod":"Optical",
+"connectionType":"Wireless","maximumDPI":"25400","handOrientation":"Right","color":"Black","rating":0,"price":99.99,"stock":0},
+{"id":126,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/0041ec7f09c5b96850347e2254991f73.256p.jpg",
+"manufacturer":"Logitech","name":"Logitech G305 (Black)","trackingMethod":"Optical","connectionType":"Wireless","maximumDPI":"12000",
+"handOrientation":"Right","color":"Black","rating":0,"price":34.97,"stock":0}
+.....]</pre>
+        </li>
+        <li>
+            <h5>Get the Mouse with ID 302</h5>
+            <kbd>/api/mice/302</kbd>
+            <pre>[{"id":302,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/901be2ebe905621356b89d4ce7ff142f.256p.jpg",
+"manufacturer":"Logitech","name":"Logitech G305 LIGHTSPEED","trackingMethod":"Optical","connectionType":"Wireless",
+"maximumDPI":"12000","handOrientation":"Right","color":"Purple","rating":0,"price":29.99,"stock":0}]</pre>
+        </li>
+
+        <li>
+            <h5>Get all HyperX Mouses</h5>
+            <kbd>/api/search/mice/?name=hyperx</kbd>
+            <pre>[{"id":185,"imageURL":"https://m.media-amazon.com/images/I/41ZiHvROOGL.jpg","manufacturer":"HP","name":"HP HyperX Pulsefire Haste",
+"trackingMethod":"Optical","connectionType":"Wired","maximumDPI":"16000","handOrientation":"Right","color":"Black","rating":0,"price":39.97,"stock":0},
+{"id":216,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/7ec3d99e13b9e17b324d53e507b9b5d9.256p.jpg",
+"manufacturer":"HP","name":"HP HyperX Pulsefire Core RGB","trackingMethod":"Optical","connectionType":"Wired","maximumDPI":"6200",
+"handOrientation":"Right","color":"Black","rating":0,"price":20.48,"stock":0}
+...]</pre>
+        </li>
+
+        <li>
+            <h5>Get all Rams and sort by Prices with descending order</h5>
+            <kbd>/api/search/ram?sort=price&order=DESC</kbd>
+            <pre>[{"id":142,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/33813e932dd7993032d89b4ce508aa21.256p.jpg",
+"manufacturer":"Corsair","name":"Corsair Dominator Platinum 32 GB","speed":"DDR4-2666","modules":"4 x 8GB","pricePerGB":"52.327",
+"color":"Black / Silver","firstWordLatency":"11.253 ns","casLatency":"15","rating":0,"price":1674.47,"stock":0},{"id":261,
+"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/1f627399671ad03740af8adeebf5d2da.256p.jpg","manufacturer":"Corsair",
+"name":"Corsair Vengeance RGB Pro 256 GB","speed":"DDR4-3000","modules":"8 x 32GB","pricePerGB":"6.206","color":"Black",
+"firstWordLatency":"10.667 ns","casLatency":"16","rating":0,"price":1588.72,"stock":0},
+{"id":188,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/cb16dd755c1945f035b8ff6240505e67.256p.jpg",
+"manufacturer":"G.Skill","name":"G.Skill Trident Z Royal 256 GB","speed":"DDR4-3600","modules":"8 x 32GB",
+"pricePerGB":"5.855","color":"Gold","firstWordLatency":"10 ns","casLatency":"18","rating":0,"price":1499,"stock":0},
+....]</pre>
+        </li>
+        <li>
+            <h5>Get all the GPUs that are less than 100$</h5>
+            <kbd>/api/search/gpu?filterBy=price&filterType=lt&filterValue=100</kbd>
+            <pre></pre>
+        </li>
+    </ul>
 
 </main>
 
@@ -92,8 +177,8 @@
     <div>
         <p>
             Elite Tech was created by
-            <a href="https://github.com/mohamed/">Mohamed Tharwat</a> and
-            <a href="https://github.com/mohammed/">Mohammed Khalid</a>
+            <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a> and
+            <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
         </p>
         <p>
             as a portfolio project in the ALX Software Engineering program
