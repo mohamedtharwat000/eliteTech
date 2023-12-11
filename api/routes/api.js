@@ -5,7 +5,7 @@ const types = ['cpu', 'cooler', 'gpu', 'ram',
 	'storage', 'motherboard',
 	'powerSupply', 'monitor',
 	'mice', 'keyboard',
-	'headphone'
+	'headphone', 'case'
 ];
 
 

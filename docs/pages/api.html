@@ -44,7 +44,7 @@
                 <ul>
                     <li><a href="#api_route_1">/api/:type</a></li>
                     <li><a href="#api_route_2">/api/:type/:id</a></li>
-                    <li><a href="#api_route_4">/api/:type/limit/:sequence</a></li>
+                    <li><a href="#api_route_3">/api/:type/limit/:sequence</a></li>
                 </ul>
             </li>
             <li><a href="#usage"><b>Usage</b></a>
@@ -183,6 +183,82 @@
 "memory":"48 GB","coreClock":"915 MHz","boostClock":"2505 MHz","color":"Black / Gold","length":"267 mm","rating":0,"price":9999,"stock":0}]</pre>
         </li>
     </ul>
+
+    <h3>Here are the options that you can add in the query:</h3>
+    <ul>
+        <li>id</li>
+        <li>name</li>
+        <li>manufacturer</li>
+        <li>sort
+            <ul>
+                <li>price</li>
+                <li>rate</li>
+            </ul>
+        </li>
+        <li>order
+            <ul>
+                <li>ASC</li>
+                <li>DESC</li>
+            </ul>
+        </li>
+        <li>filter
+            <ul>
+                <li>filterBy
+                    <ul>
+                        <li>price</li>
+                        <li>rate</li>
+                    </ul>
+                </li>
+                <li>filterType
+                    <ul>
+                        <li>gt</li>
+                        <li>lt</li>
+                        <li>eq</li>
+                    </ul>
+                </li>
+                <li>filterValue</li>
+            </ul>
+        </li>
+    </ul>
+    <h3>You can also apply pagination in the API</h3>
+    <ul>There are two ways to do that
+        <li><h4>In <kbd>/api/:type?...</kbd> query</h4>
+            <ul>
+                <li>Start from the 5th product <br>
+                    <kbd>/api/:type?start=4</kbd>
+                </li><br>
+                <li>Get the last 10 products <br>
+                    <kbd>/api/:type?end=10</kbd>
+                </li><br>
+                <li>Limit the result to a specific number <br>
+                    <kbd>/api/:type?limit=20</kbd>
+                </li>
+                <li><h5>You can combine them all together!</h5></li>
+            </ul>
+        </li>
+        <li id="api_route_3"><h4>Or use the <kbd>/api/:type/limit/:sequence</kbd> route to do that</h4>
+            <ul>
+                <li><h5>Here is a quick demonstration on how to use it:</h5>
+                    <pre>"usage":["start:n:n", "n:end:n",
+            "n:n:limit", "start:end:n",
+            "start:n:limit"
+        ]</pre>
+                </li>
+                <li><h5>Example: Get the 10th case till the 12th case</h5>
+                    <kbd>/api/case/limit/10:12:n</kbd><br>
+                    <pre>[{"id":134,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/1977a3a3f6f1238d12ea2a555be4d7ce.256p.jpg",
+    "manufacturer":"Fractal Design","name":"Fractal Design North","type":"ATX Mid Tower","color":"Black","powerSupply":"None","sidePanel":
+    "Tempered Glass","externalVolume":"45.1 L","internalBays":"2","rating":0,"price":139.99,"stock":0},{"id":135,
+    "imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/0610d363ccccf52837f07d811e4eb2a3.256p.jpg","manufacturer":"Corsair",
+    "name":"Corsair iCUE 4000X RGB","type":"ATX Mid Tower",
+    "color":"Black","powerSupply":"None","sidePanel":"Tempered Glass","externalVolume":"48.6 L",
+    "internalBays":"2","rating":0,"price":119.99,"stock":0}
+]</pre>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    
 
 </main>
 
