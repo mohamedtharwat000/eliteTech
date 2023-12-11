@@ -116,7 +116,6 @@ export default class MysqlStorage {
    *   - Null if no matching records are found.
    */
   async get(cls, obj) {
-    debugger;
     this.connect();
 
     let sql = `SELECT * FROM \`${cls.name.toLowerCase()}\``;
@@ -161,14 +160,16 @@ export default class MysqlStorage {
       }
     }
 
-    if (obj.end || obj.limit) {
-      sql += ` LIMIT ${Math.min(
-        +obj.limit,
-        obj.end ? +obj.end - (+obj.start || 0) : ''
-      )}`;
-    }
+    debugger;
+    if (obj.start || obj.end || obj.limit) {
+      obj.limit = +obj.limit || 999_999_999;
+      obj.end = +obj.end || 999_999_999;
+      obj.start = +obj.start || 0;
 
-    if (obj.start) {
+      obj.limit = Math.min(obj.limit, obj.end - obj.start);
+
+      sql += ` LIMIT ${obj.limit}`;
+
       sql += ` OFFSET ${+obj.start}`;
     }
 
