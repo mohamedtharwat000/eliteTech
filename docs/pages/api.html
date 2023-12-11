@@ -115,7 +115,7 @@
 
 
     <h1 id="example">Examples</h1>
-    <h4>GET</h4>
+    <h3>GET</h3>
     <P>Here are simple demonstrations of using the 4 GET routes:</P>
     <ul>
         <li>
@@ -278,6 +278,42 @@
         </li>
     </ul>
 
+    <h3>POST</h3>
+    <p>
+        Using your favorite tool, just make a POST request with this route 
+        <kbd>/api/:type/</kbd> and add the header <b>Content-Type</b> with the value <b>application/json</b>
+        and add to the body the Information for the new product.
+    </p>
+    <p>
+        Usgin curl for example:
+        <pre>($) curl -X POST http://yourwebsite.com/api/case -H "Content-Type: application/json" -d '{"name": "Cooler Master MB511", "manufacturer": "Cooler Master"}'
+{"id":805}</pre>
+
+
+    <h3>DELETE</h3>
+    <p>
+        Using your favorite tool, just make a DELETE request with this route 
+        <kbd>/api/:type/:id</kbd> to delete an item.
+    </p>
+    <p>
+        Usgin curl for example:
+        <pre>($) curl -X DELETE http://yourwebsite.com/api/case/55
+55</pre>
+    </p>
+
+    <h3>PUT</h3>
+    <p>
+        Using your favorite tool, just make a PUT request with this route 
+        <kbd>/api/:type/:id</kbd> and add the header <b>Content-Type</b> with the value <b>application/json</b>
+        and add to the body the new information you want to update for the product.
+    </p>
+    <p>
+        Usgin curl for example:
+        <pre>($) curl -X PUT http://localhost:3000/api/case/805 -H "Content-Type: application/json" -d '{"color": "Black"}'
+[{"id":805,"imageURL":null,"name":"Cooler Master MB511","type":null,"color":"Black","powerSupply":null,
+"sidePanel":null,"externalVolume":null,"internalBays":null,"manufacturer":"Cooler Master",
+"rating":null,"price":null,"stock":null}]</pre>
+    </p>
 
 </main>
 
