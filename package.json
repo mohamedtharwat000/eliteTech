@@ -13,7 +13,8 @@
     "consoleFile": "./console.js",
     "server": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech nodemon ./api/server.js",
     "serverL": "db=mysql dbHost=localhost dbUser=lordy dbDatabase=elite_tech nodemon ./api/server.js",
-    "console": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech ./console.js"
+    "console": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech ./console.js",
+    "consoleL": "db=mysql dbHost=localhost dbUser=lordy dbDatabase=elite_tech ./console.js"
   },
   "dependencies": {
     "bandersnatch": "^1.12.13",
