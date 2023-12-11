@@ -1,77 +1,113 @@
 # Elite Tech
 
-This repository offers a user-friendly command-line interface (CLI) for managing database types and performing various data operations (CURD), ensuring a smooth and efficient development experience.
+Welcome to Elite Tech! This repository provides a versatile command-line interface (CLI) and (RESTful API) for efficient management of databases, supporting both file-based and MySQL database types.
 
-## Switching Database Types
+### this code was tested on Linux (ubuntu 22.04) with nodejs runtime installed
 
-By default , Elite Tech uses JSON files as the database type. If you want to switch to a MYSQL database type, you can do so using the following command:
+### before running or testing the code run (npm install) to install all dependencies
 
-- import the mysql file for creating the database and it's tables
+## Switching Between Database Types
 
-```sh
-mysql -u <username> -p < ./modles/database/sql/database.sql
+Elite Tech primarily uses JSON files as the default database type. However, if you prefer a MySQL database, we've got you covered. You can seamlessly switch between the two options using either npm scripts or environment variables.
+
+### Using NPM Scripts
+
+1. First, modify the script in your `package.json` file to include your MySQL database user and password.
+
+```json
+"scripts": {
+"mysql_init": "db=mysql dbHost=localhost dbUser=<your_username> dbPassword=<your_password> dbDatabase=elite_tech node ./models/database/sql/database.cjs",
+// ... (other scripts)
+}
 ```
 
-- then fill mysql database with data from json files
+2. Now, you can easily initialize and run your application with MySQL using the following npm scripts:
 
 ```sh
-node ./modles/database/sql/fillDatabase.cjs
+npm run mysql_init # Initialize MySQL database
+npm run console # Run the console in interactive mode with MySQL
 ```
 
-- switch between different database types using environment variables
+### Using Environment Variables
 
-```sh
-export db=<database type> # Choose between 'mysql' or 'file'.
-export dbHost=<database host> # Specify the host of mysql database. => 'localhost'.
-export dbUser=<database username> # Provide your mysql username.
-export dbPassword=<database user password> # your mysql database user password.
-export dbDatabase=<database name> # mysql database to be used =>'elite_tech'.
-```
+Alternatively, if you prefer to run the code without npm scripts, set the following environment variables:
+
+- `db`: Choose between 'mysql' or 'file'.
+- `dbHost`: Specify the MySQL database host (e.g., 'localhost').
+- `dbUser`: Provide your MySQL username.
+- `dbPassword`: Your MySQL database user password.
+- `dbDatabase`: Specify the MySQL database to be used (e.g., 'elite_tech').
+
+Now, you can run your application without npm scripts, and the code will dynamically adapt to the configured environment variables.
 
 ## Data Management using CLI (console.js)
 
-### For interactive mode:
+### Interactive Mode:
 
 ```sh
 ./console.js
 ```
 
-### For non-interactive mode:
+### Non-Interactive Mode:
 
 ```sh
-./console.js create|update|read|delete
+./console.js <create|update|read|delete> <product type (e.g., cpu)>
 ```
 
-### CLI Commands
+**CLI Commands:**
 
-- **Create - Add a New Product**
+- **Create:** Add a new product.
+- **Update:** Update an existing product.
+- **Delete:** Delete a product.
+- **Read:** Read data from the database.
+
+**Interactive Mode:**
+
+In interactive mode, a prompt will guide you through each command.
+
+**Non-Interactive Mode:**
+
+For non-interactive mode, specify the command followed by the product type. For commands requiring additional information, such as product ID, you will be prompted accordingly.
+
+**Example:**
 
 ```sh
-./console.js create
+./console.js create cpu
 ```
 
-This command allows you to add a new product to the database. You'll be prompted to input details such as the product type, and then further details about the product itself.
+This command will create a new CPU product. You will be prompted to provide details such as the CPU model, manufacturer, and specifications.
 
-- **Update - Update a Product**
+## API Usage
 
-```sh
-./console.js update
-```
+To interact with the Elite Tech application programmatically, you can use the provided API. The API includes various endpoints for searching, reading, updating, deleting, and creating data of different types.
 
-Use this command to update an existing product in the database. Provide the product type, and you'll be prompted to input updated details for the specified product.
+**Endpoints:**
 
-- **Delete - Delete a Product**
+| Endpoint              | Description             |
+| --------------------- | ----------------------- |
+| POST /api/:type/      | Create a new product    |
+| PUT /api/:type/:id    | Update by type and ID   |
+| DELETE /api/:type/:id | Delete by type and ID   |
+| GET /api/:type/:id    | Retrieve by type and ID |
+| GET /api/:type/       | Retrieve all by type    |
 
-```sh
-./console.js delete
-```
+**Example:**
 
-This command lets you delete a product from the database. Specify the product type and provide the product ID when prompted.
+# Get all CPUs
 
-- **Read - Read from the Database**
+curl http://localhost:3000/api/cpu/
 
-```sh
-./console.js read
-```
+**Supported Product Types:**
 
-Read data from the database based on the specified product type. You can input the product ID directly or provide start, end, and count values for a range of products.
+- case
+- cpu
+- cooler
+- gpu
+- ram
+- storage
+- motherboard
+- powerSupply
+- monitor
+- mice
+- keyboard
+- headphone
