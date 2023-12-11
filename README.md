@@ -83,16 +83,13 @@ To interact with the Elite Tech application programmatically, you can use the pr
 
 **Endpoints:**
 
-| Endpoint                   | Description                                   |
-| -------------------------- | --------------------------------------------- | 
-| POST /api/:type/              | Create a new product                          |
-| PUT /api/:type/:id            | Update by type and ID                         |
-| DELETE /api/:type/:id         | Delete by type and ID                         |
-| GET /api/:type/:id            | Retrieve by type and ID                                   |
-| GET /api/:type/               | Retrieve all by type
-
-
-
+| Endpoint              | Description             |
+| --------------------- | ----------------------- |
+| POST /api/:type/      | Create a new product    |
+| PUT /api/:type/:id    | Update by type and ID   |
+| DELETE /api/:type/:id | Delete by type and ID   |
+| GET /api/:type/:id    | Retrieve by type and ID |
+| GET /api/:type/       | Retrieve all by type    |
 
 **Example:**
 
