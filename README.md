@@ -1,6 +1,10 @@
 # Elite Tech
 
-Welcome to Elite Tech! This repository provides a versatile command-line interface (CLI) for efficient management of databases, supporting both file-based and MySQL database types.
+Welcome to Elite Tech! This repository provides a versatile command-line interface (CLI) and (RESTful API) for efficient management of databases, supporting both file-based and MySQL database types.
+
+### this code was tested on Linux (ubuntu 22.04) with nodejs runtime installed
+
+### before running or testing the code run (npm install) to install all dependencies
 
 ## Switching Between Database Types
 
@@ -80,8 +84,7 @@ To interact with the Elite Tech application programmatically, you can use the pr
 **Endpoints:**
 
 | Endpoint                   | Description                                   |
-| -------------------------- | --------------------------------------------- |
-| /api/search/:type/         | Search by type                                |
+| -------------------------- | --------------------------------------------- | 
 | /api/:type/:id             | Retrieve by type and ID                       |
 | /api/:type/                | Retrieve all by type                          |
 | /api/:type/:id             | Update by type and ID                         |
