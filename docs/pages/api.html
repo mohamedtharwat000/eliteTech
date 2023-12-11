@@ -1,148 +1,166 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Elite Tech | API</title>
-    <meta name="description" content="An API for PC Hardware Information">
+  <title>Elite Tech | API</title>
+  <meta name="description" content="An API for PC Hardware Information" />
 
-    <link rel="stylesheet" href="../assets/style.css">
+  <link rel="stylesheet" href="./assets/style.css" />
+  <link rel="icon" href="./assets/images/favicon.png" />
+  <link rel="apple-touch-icon" href="./assets/images/favicon.png" />
 
-    <link rel="icon" href="../assets/images/favicon.png">
-    <link rel="apple-touch-icon" href="../assets/images/favicon.png">
-
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/prism.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/prism.min.js"></script>
 </head>
 
 <header>
-    <nav>
-        <a href="/docs/index.html">Home</a>
-        <a href="/docs/pages/api.html">API</a>
-        <a href="/docs/pages/about.html">About</a>
-        <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
-    </nav>
+  <nav>
+    <a href="/docs/index.html">Home</a>
+    <a href="/docs/pages/api.html">API</a>
+    <a href="/docs/pages/about.html">About</a>
+    <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
+  </nav>
 
-    <h1>API</h1>
-    <p>Elite Tech API to get all the PC Hardware Information</p>
+  <h1>API</h1>
+  <p>Elite Tech API to get all the PC Hardware Information</p>
 </header>
 
 <main>
-
-    <fieldset>
-        <legend>Table Of Contents</legend>
+  <fieldset>
+    <legend>Table Of Contents</legend>
+    <ul>
+      <li>
+        <a href="#api_routes"><b>API Routes</b></a>
         <ul>
-            <li><a href="#api_routes"><b>API Routes</b></a>
-                <ul>
-                    <li><a href="#api_route_1">/api/:type</a></li>
-                    <li><a href="#api_route_2">/api/:type/:id</a></li>
-                    <li><a href="#api_route_3">/api/:type/limit/:sequence</a></li>
-                </ul>
-            </li>
-            <li><a href="#usage"><b>Usage</b></a>
-            <li><a href="#system_usage  "><b>Usage for the Systems</b></a>
-            <li><a href="#example"><b>Example</b></a>
+          <li><a href="#api_route_1">/api/:type</a></li>
+          <li><a href="#api_route_2">/api/:type/:id</a></li>
+          <li><a href="#api_route_3">/api/:type/limit/:sequence</a></li>
         </ul>
-    </fieldset>
-
-    <h1 id="api_routes">API Routes</h1>
-    <p>For Users, there are 4 API routes for the <b>GET</b> request methods.
-    <ul>
-        <li id="api_route_1"><kbd>/api/:type</kbd></li>
-        <li id="api_route_2"><kbd>/api/:type/:id</kbd></li>
-        <li id="api_route_4"><kbd>/api/:type/limit/:sequence</kbd></li>
+      </li>
+      <li>
+        <a href="#usage"><b>Usage</b></a>
+      </li>
+      <li>
+        <a href="#system_usage  "><b>Usage for the Systems</b></a>
+      </li>
+      <li>
+        <a href="#example"><b>Example</b></a>
+      </li>
     </ul>
-    </p>
+  </fieldset>
 
-    <p> And for System Owners like Stores or Websites,
-        there are 4 API routes for the GET request methods, and 1 route for each request method of the following,
-        POST, PUT DELETE.
-    <ul>
-        <li>For <b>PUT</b> and <b>DELETE</b> methods:
-            <ul>
-                <li><kbd>/api/:type/:id</kbd></li>
-            </ul>
-        </li>
-        <li>For <b>POST</b> method:
-            <ul>
-                <li><kbd>/api/:type/</kbd></li>
-            </ul>
-        </li>
-    </ul>
-    </p>
+  <h1 id="api_routes">API Routes</h1>
+  <p>For Users, there are 4 API routes for the <b>GET</b> request methods.</p>
+  <ul>
+    <li id="api_route_1"><kbd>/api/:type</kbd></li>
+    <li id="api_route_2"><kbd>/api/:type/:id</kbd></li>
+    <li id="api_route_4"><kbd>/api/:type/limit/:sequence</kbd></li>
+  </ul>
 
+  <p>
+    And for System Owners like Stores or Websites, there are 4 API routes for
+    the GET request methods, and 1 route for each request method of the
+    following, POST, PUT DELETE.
+  </p>
+  <ul>
+    <li>
+      For <b>PUT</b> and <b>DELETE</b> methods:
+      <ul>
+        <li><kbd>/api/:type/:id</kbd></li>
+      </ul>
+    </li>
+    <li>
+      For <b>POST</b> method:
+      <ul>
+        <li><kbd>/api/:type/</kbd></li>
+      </ul>
+    </li>
+  </ul>
 
-    <h1 id="usage">Usage</h1>
-    <p>For the <b>GET</b> method, you can use your browser to get whatever you want!</p>
-    <p>Or with any script from your favorite programming language,
-        you can use Python requests for example if you want to navigate through the API.
-    </p>
-    <p>Here are all the available Hardware types in the API:</p>
-    <ul>
-        <li>CPU</li>
-        <li>GPU</li>
-        <li>Motherboard</li>
-        <li>RAM</li>
-        <li>Storage</li>
-        <li>PowerSupply</li>
-        <li>Case</li>
-        <li>Cooler</li>
-        <li>Monitor</li>
-        <li>Headphone</li>
-        <li>Mice</li>
-        <li>Keyboard</li>
-    </ul>
-    <h2 id="system_usage">Usage for the Systems</h2>
-    <p>And for the other requests, <b>POST</b>, <b>PUT</b>, and <b>Delete</b>, that will be of course in your system or
-        website.
-        But if you want to use the other methods separately, you can choose between plenty of tools that will help you
-        make a request.
-        For example, curl in the terminal,
-        or <a href="https://chromewebstore.google.com/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi"
-            target="_blank">RestMan</a> Chrome Extension,
-        or the <a href="https://www.postman.com/">Postman</a> application.
-    </p>
+  <h1 id="usage">Usage</h1>
+  <p>
+    For the <b>GET</b> method, you can use your browser to get whatever you
+    want!
+  </p>
+  <p>
+    Or with any script from your favorite programming language, you can use
+    Python requests for example if you want to navigate through the API.
+  </p>
+  <p>Here are all the available Hardware types in the API:</p>
+  <ul>
+    <li>CPU</li>
+    <li>GPU</li>
+    <li>Motherboard</li>
+    <li>RAM</li>
+    <li>Storage</li>
+    <li>PowerSupply</li>
+    <li>Case</li>
+    <li>Cooler</li>
+    <li>Monitor</li>
+    <li>Headphone</li>
+    <li>Mice</li>
+    <li>Keyboard</li>
+  </ul>
+  <h2 id="system_usage">Usage for the Systems</h2>
+  <p>
+    And for the other requests, <b>POST</b>, <b>PUT</b>, and <b>Delete</b>, that
+    will be of course in your system or website. But if you want to use the
+    other methods separately, you can choose between plenty of tools that will
+    help you make a request. For example, curl in the terminal, or
+    <a
+      href="https://chromewebstore.google.com/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi"
+      target="_blank"
+      >RestMan</a
+    >
+    Chrome Extension, or the
+    <a href="https://www.postman.com/">Postman</a> application.
+  </p>
 
-
-
-
-    <h1 id="example">Examples</h1>
-    <h3>GET</h3>
-    <P>Here are simple demonstrations of using the 4 GET routes:</P>
-    <ul>
-        <li>
-            <h5>Get all mices</h5>
-            <kbd>/api/mice/</kbd>
-            <pre>[{"id":125,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/575c76df1ce4d5588c5749e289515e4c.256p.jpg",
+  <h1 id="example">Examples</h1>
+  <h3>GET</h3>
+  <p>Here are simple demonstrations of using the 4 GET routes:</p>
+  <ul>
+    <li>
+      <h5>Get all mices</h5>
+      <kbd>/api/mice/</kbd>
+      <pre>
+[{"id":125,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/575c76df1ce4d5588c5749e289515e4c.256p.jpg",
 "manufacturer":"Logitech","name":"Logitech G Pro X Superlight","trackingMethod":"Optical",
 "connectionType":"Wireless","maximumDPI":"25400","handOrientation":"Right","color":"Black","rating":0,"price":99.99,"stock":0},
 {"id":126,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/0041ec7f09c5b96850347e2254991f73.256p.jpg",
 "manufacturer":"Logitech","name":"Logitech G305 (Black)","trackingMethod":"Optical","connectionType":"Wireless","maximumDPI":"12000",
 "handOrientation":"Right","color":"Black","rating":0,"price":34.97,"stock":0}
-.....]</pre>
-        </li>
-        <li>
-            <h5>Get the Mouse with ID 302</h5>
-            <kbd>/api/mice/302</kbd>
-            <pre>[{"id":302,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/901be2ebe905621356b89d4ce7ff142f.256p.jpg",
+.....]</pre
+      >
+    </li>
+    <li>
+      <h5>Get the Mouse with ID 302</h5>
+      <kbd>/api/mice/302</kbd>
+      <pre>
+[{"id":302,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/901be2ebe905621356b89d4ce7ff142f.256p.jpg",
 "manufacturer":"Logitech","name":"Logitech G305 LIGHTSPEED","trackingMethod":"Optical","connectionType":"Wireless",
-"maximumDPI":"12000","handOrientation":"Right","color":"Purple","rating":0,"price":29.99,"stock":0}]</pre>
-        </li>
+"maximumDPI":"12000","handOrientation":"Right","color":"Purple","rating":0,"price":29.99,"stock":0}]</pre
+      >
+    </li>
 
-        <li>
-            <h5>Get all HyperX Mouses</h5>
-            <kbd>/api/mice/?name=hyperx</kbd>
-            <pre>[{"id":185,"imageURL":"https://m.media-amazon.com/images/I/41ZiHvROOGL.jpg","manufacturer":"HP","name":"HP HyperX Pulsefire Haste",
+    <li>
+      <h5>Get all HyperX Mouses</h5>
+      <kbd>/api/mice/?name=hyperx</kbd>
+      <pre>
+[{"id":185,"imageURL":"https://m.media-amazon.com/images/I/41ZiHvROOGL.jpg","manufacturer":"HP","name":"HP HyperX Pulsefire Haste",
 "trackingMethod":"Optical","connectionType":"Wired","maximumDPI":"16000","handOrientation":"Right","color":"Black","rating":0,"price":39.97,"stock":0},
 {"id":216,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/7ec3d99e13b9e17b324d53e507b9b5d9.256p.jpg",
 "manufacturer":"HP","name":"HP HyperX Pulsefire Core RGB","trackingMethod":"Optical","connectionType":"Wired","maximumDPI":"6200",
 "handOrientation":"Right","color":"Black","rating":0,"price":20.48,"stock":0}
-...]</pre>
-        </li>
+...]</pre
+      >
+    </li>
 
-        <li>
-            <h5>Get all Rams and sort by Prices with descending order</h5>
-            <kbd>/api/ram?sort=price&order=DESC</kbd>
-            <pre>[{"id":142,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/33813e932dd7993032d89b4ce508aa21.256p.jpg",
+    <li>
+      <h5>Get all Rams and sort by Prices with descending order</h5>
+      <kbd>/api/ram?sort=price&order=DESC</kbd>
+      <pre>
+[{"id":142,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/33813e932dd7993032d89b4ce508aa21.256p.jpg",
 "manufacturer":"Corsair","name":"Corsair Dominator Platinum 32 GB","speed":"DDR4-2666","modules":"4 x 8GB","pricePerGB":"52.327",
 "color":"Black / Silver","firstWordLatency":"11.253 ns","casLatency":"15","rating":0,"price":1674.47,"stock":0},{"id":261,
 "imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/1f627399671ad03740af8adeebf5d2da.256p.jpg","manufacturer":"Corsair",
@@ -151,12 +169,14 @@
 {"id":188,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/cb16dd755c1945f035b8ff6240505e67.256p.jpg",
 "manufacturer":"G.Skill","name":"G.Skill Trident Z Royal 256 GB","speed":"DDR4-3600","modules":"8 x 32GB",
 "pricePerGB":"5.855","color":"Gold","firstWordLatency":"10 ns","casLatency":"18","rating":0,"price":1499,"stock":0},
-....]</pre>
-        </li>
-        <li>
-            <h5>Get all the GPUs that are greate than 100$</h5>
-            <kbd>/api/gpu?filterBy=price&filterType=gt&filterValue=100</kbd>
-            <pre>[{"id":868,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/f9ba4a1f3b5884c73fc1e9c194f0335c.256p.jpg",
+....]</pre
+      >
+    </li>
+    <li>
+      <h5>Get all the GPUs that are greate than 100$</h5>
+      <kbd>/api/gpu?filterBy=price&filterType=gt&filterValue=100</kbd>
+      <pre>
+[{"id":868,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/f9ba4a1f3b5884c73fc1e9c194f0335c.256p.jpg",
 "manufacturer":"MSI","name":"MSI GT 1030 2GHD4 LP OC","chipset":"GeForce GT 1030 DDR4","memory":"2 GB","coreClock":"1189 MHz",
 "boostClock":"1430 MHz","color":"Black","length":"150 mm","rating":0,"price":101.73,"stock":0},{"id":974,
 "imageURL":"https://m.media-amazon.com/images/I/51zovtZXScL.jpg","manufacturer":"MSI","name":"MSI AERO ITX 2GD4 OC","chipset":
@@ -164,164 +184,184 @@
 "price":106.46,"stock":0},{"id":910,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/9dace604dee21c7037db33bf6dd29432.256p.jpg",
 "manufacturer":"Sparkle","name":"Sparkle ELF","chipset":"Arc A310","memory":"4 GB","coreClock":"1750 MHz","boostClock":"2000 MHz",
 "color":"Blue / Black","length":"153 mm","rating":0,"price":109.99,"stock":0},
-...]</pre>
-        </li>
-        <li>
-            <h5>Get the GPU that it's price is 9999$</h5>
-            <kbd>api/gpu?filterBy=price&filterType=eq&filterValue=9999</kbd>
-            <pre>[{"id":129,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/6ef5b8f1b94982c71019a0d9ac2795e2.256p.jpg",
+...]</pre
+      >
+    </li>
+    <li>
+      <h5>Get the GPU that it's price is 9999$</h5>
+      <kbd>api/gpu?filterBy=price&filterType=eq&filterValue=9999</kbd>
+      <pre>
+[{"id":129,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/6ef5b8f1b94982c71019a0d9ac2795e2.256p.jpg",
 "manufacturer":"PNY","name":"PNY VCNRTX6000ADA-PB","chipset":"RTX 6000 Ada Generation",
-"memory":"48 GB","coreClock":"915 MHz","boostClock":"2505 MHz","color":"Black / Gold","length":"267 mm","rating":0,"price":9999,"stock":0}]</pre>
-        </li>
-    </ul>
+"memory":"48 GB","coreClock":"915 MHz","boostClock":"2505 MHz","color":"Black / Gold","length":"267 mm","rating":0,"price":9999,"stock":0}]</pre
+      >
+    </li>
+  </ul>
 
-    <h3>Here are the options that you can add in the query:</h3>
-    <ul>
-        <li>id</li>
-        <li>name</li>
-        <li>manufacturer</li>
-        <li>sort
-            <ul>
-                <li>price</li>
-                <li>rate</li>
-            </ul>
-        </li>
-        <li>order
-            <ul>
-                <li>ASC</li>
-                <li>DESC</li>
-            </ul>
-        </li>
-        <li>filter
-            <ul>
-                <li>filterBy
-                    <ul>
-                        <li>price</li>
-                        <li>rate</li>
-                    </ul>
-                </li>
-                <li>filterType
-                    <ul>
-                        <li>gt</li>
-                        <li>lt</li>
-                        <li>eq</li>
-                    </ul>
-                </li>
-                <li>filterValue</li>
-            </ul>
-        </li>
-    </ul>
-    <h3>You can also apply pagination in the API</h3>
-    <ul>
+  <h3>Here are the options that you can add in the query:</h3>
+  <ul>
+    <li>id</li>
+    <li>name</li>
+    <li>manufacturer</li>
+    <li>
+      sort
+      <ul>
+        <li>price</li>
+        <li>rate</li>
+      </ul>
+    </li>
+    <li>
+      order
+      <ul>
+        <li>ASC</li>
+        <li>DESC</li>
+      </ul>
+    </li>
+    <li>
+      filter
+      <ul>
         <li>
-            <h4>In <kbd>/api/:type?...</kbd> query</h4>
-            <ul>
-                <li>Start from the 5th product <br>
-                    <kbd>/api/:type?start=4</kbd>
-                </li><br>
-                <li>Get the last 10 products <br>
-                    <kbd>/api/:type?end=10</kbd>
-                </li><br>
-                <li>Limit the result to a specific number <br>
-                    <kbd>/api/:type?limit=20</kbd>
-                </li>
-                <li>
-                    <h5>You can combine them all together!</h5>
-                </li>
-            </ul>
+          filterBy
+          <ul>
+            <li>price</li>
+            <li>rate</li>
+          </ul>
         </li>
-        <li id="api_route_3">
-            <h4>Or by using a sequence to do it easly:</h4>
-            <ul>
-                <li>
-                    <h5>Here is a quick demonstration on how to use the limit parameter:</h5>
-                    <pre>"usage":["start:n:n", "n:end:n",
+        <li>
+          filterType
+          <ul>
+            <li>gt</li>
+            <li>lt</li>
+            <li>eq</li>
+          </ul>
+        </li>
+        <li>filterValue</li>
+      </ul>
+    </li>
+  </ul>
+  <h3>You can also apply pagination in the API</h3>
+  <ul>
+    <li>
+      <h4>In <kbd>/api/:type?...</kbd> query</h4>
+      <ul>
+        <li>
+          Start from the 5th product <br />
+          <kbd>/api/:type?start=4</kbd>
+        </li>
+        <br />
+        <li>
+          Get the last 10 products <br />
+          <kbd>/api/:type?end=10</kbd>
+        </li>
+        <br />
+        <li>
+          Limit the result to a specific number <br />
+          <kbd>/api/:type?limit=20</kbd>
+        </li>
+        <li>
+          <h5>You can combine them all together!</h5>
+        </li>
+      </ul>
+    </li>
+    <li id="api_route_3">
+      <h4>Or by using a sequence to do it easly:</h4>
+      <ul>
+        <li>
+          <h5>
+            Here is a quick demonstration on how to use the limit parameter:
+          </h5>
+          <pre>
+"usage":["start:n:n", "n:end:n",
             "n:n:limit", "start:end:n",
             "start:n:limit"
-        ]</pre>
-                </li>
-                <li>
-                    <h4>Examples</h4>
-                    <ul>
-                        <li>
-                            <h5> Get the 10th case till the 12th case</h5>
-                            <kbd>/api/case?limit=10:12:n</kbd><br>
-                            <pre>[{"id":134,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/1977a3a3f6f1238d12ea2a555be4d7ce.256p.jpg",
+        ]</pre
+          >
+        </li>
+        <li>
+          <h4>Examples</h4>
+          <ul>
+            <li>
+              <h5>Get the 10th case till the 12th case</h5>
+              <kbd>/api/case?limit=10:12:n</kbd><br />
+              <pre>
+[{"id":134,"imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/1977a3a3f6f1238d12ea2a555be4d7ce.256p.jpg",
     "manufacturer":"Fractal Design","name":"Fractal Design North","type":"ATX Mid Tower","color":"Black","powerSupply":"None","sidePanel":
     "Tempered Glass","externalVolume":"45.1 L","internalBays":"2","rating":0,"price":139.99,"stock":0},{"id":135,
     "imageURL":"https://cdna.pcpartpicker.com/static/forever/images/product/0610d363ccccf52837f07d811e4eb2a3.256p.jpg","manufacturer":"Corsair",
     "name":"Corsair iCUE 4000X RGB","type":"ATX Mid Tower",
     "color":"Black","powerSupply":"None","sidePanel":"Tempered Glass","externalVolume":"48.6 L",
     "internalBays":"2","rating":0,"price":119.99,"stock":0}
-]</pre>
-                        </li>
-                        <li>
-                            <h5>Get 50 cases only</h5>
-                            <kbd>/api/case?limit=n:n:50</kbd>
-                        </li>
-                        <li>
-                            <h5>Get 30 Rams only starting from the 120th Ram</h5>
-                            <kbd>/api/case?limit=120:n:50</kbd>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+]</pre
+              >
+            </li>
+            <li>
+              <h5>Get 50 cases only</h5>
+              <kbd>/api/case?limit=n:n:50</kbd>
+            </li>
+            <li>
+              <h5>Get 30 Rams only starting from the 120th Ram</h5>
+              <kbd>/api/case?limit=120:n:50</kbd>
+            </li>
+          </ul>
         </li>
-    </ul>
+      </ul>
+    </li>
+  </ul>
 
-    <h3>POST</h3>
-    <p>
-        Using your favorite tool, just make a POST request with this route
-        <kbd>/api/:type/</kbd> and add the header <b>Content-Type</b> with the value <b>application/json</b>
-        and add to the body the Information for the new product.
-    </p>
-    <p>
-        Usgin curl for example:
-        <pre>($) curl -X POST http://yourwebsite.com/api/case -H "Content-Type: application/json" -d '{"name": "Cooler Master MB511", "manufacturer": "Cooler Master"}'
-{"id":805}</pre>
+  <h3>POST</h3>
+  <p>
+    Using your favorite tool, just make a POST request with this route
+    <kbd>/api/:type/</kbd> and add the header <b>Content-Type</b> with the value
+    <b>application/json</b>
+    and add to the body the Information for the new product.
+  </p>
+  <p>Usgin curl for example:</p>
 
+  <pre>
+($) curl -X POST http://yourwebsite.com/api/case -H "Content-Type: application/json" -d '{"name": "Cooler Master MB511", "manufacturer": "Cooler Master"}'
+{"id":805}</pre
+  >
 
-    <h3>DELETE</h3>
-    <p>
-        Using your favorite tool, just make a DELETE request with this route
-        <kbd>/api/:type/:id</kbd> to delete an item.
-    </p>
-    <p>
-        Usgin curl for example:
-        <pre>($) curl -X DELETE http://yourwebsite.com/api/case/55
-55</pre>
-    </p>
+  <h3>DELETE</h3>
+  <p>
+    Using your favorite tool, just make a DELETE request with this route
+    <kbd>/api/:type/:id</kbd> to delete an item.
+  </p>
+  <p>Usgin curl for example:</p>
+  <pre>
+($) curl -X DELETE http://yourwebsite.com/api/case/55
+55</pre
+  >
 
-    <h3>PUT</h3>
-    <p>
-        Using your favorite tool, just make a PUT request with this route
-        <kbd>/api/:type/:id</kbd> and add the header <b>Content-Type</b> with the value <b>application/json</b>
-        and add to the body the new information you want to update for the product.
-    </p>
-    <p>
-        Usgin curl for example:
-        <pre>($) curl -X PUT http://localhost:3000/api/case/805 -H "Content-Type: application/json" -d '{"color": "Black"}'
+  <h3>PUT</h3>
+  <p>
+    Using your favorite tool, just make a PUT request with this route
+    <kbd>/api/:type/:id</kbd> and add the header <b>Content-Type</b> with the
+    value <b>application/json</b>
+    and add to the body the new information you want to update for the product.
+  </p>
+  <p>Usgin curl for example:</p>
+  <pre>
+($) curl -X PUT http://localhost:3000/api/case/805 -H "Content-Type: application/json" -d '{"color": "Black"}'
 [{"id":805,"imageURL":null,"name":"Cooler Master MB511","type":null,"color":"Black","powerSupply":null,
 "sidePanel":null,"externalVolume":null,"internalBays":null,"manufacturer":"Cooler Master",
-"rating":null,"price":null,"stock":null}]</pre>
-    </p>
-
+"rating":null,"price":null,"stock":null}]</pre
+  >
 </main>
 
 <footer>
-    <div>
-        <p>
-            Elite Tech was created by
-            <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a> and
-            <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
-        </p>
-        <p>
-            as a portfolio project in the ALX Software Engineering program
-            <a href="https://www.alxafrica.com/">ALX</a>
-        </p>
-    </div>
-    <p>© 2023 Elite Tech</p>
+  <div>
+    <p>
+      Elite Tech was created by
+      <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a> and
+      <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
+    </p>
+    <p>
+      as a portfolio project in the ALX Software Engineering program
+      <a href="https://www.alxafrica.com/">ALX</a>
+    </p>
+  </div>
+  <p>© 2023 Elite Tech</p>
 </footer>
-
 
 <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script>
