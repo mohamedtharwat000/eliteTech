@@ -160,17 +160,20 @@ export default class FileStorage {
 
     if (obj.sort && options.includes(obj.sort)) {
       this.data.sort((a, b) => a[obj.sort] - b[obj.sort]);
+      if (obj.order === 'DESC') {
+        this.data.reverse();
+      }
     }
 
-    if (obj.order === 'DESC') {
-      this.data.reverse();
+    debugger;
+    if (obj.start || obj.end || obj.limit) {
+      const start = Math.abs(+obj.start >= 1 ? +obj.start : 1) - 1 || 0;
+      const end = Math.abs(+obj.end) || this.data.length;
+      const limit = Math.abs(+obj.limit) || end;
+      const count = Math.min(limit, end - start);
+
+      this.data = this.data.slice(start, start + count);
     }
-
-    const start = +obj.start || 0;
-    const end = +obj.end || this.data.length;
-    const limit = obj.limit ? Math.min(+obj.limit, +end - +start) : end;
-
-    this.data = this.data.slice(start, limit);
 
     return this.data;
   }

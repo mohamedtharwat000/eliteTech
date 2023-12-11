@@ -44,8 +44,16 @@ Now, you can run your application without npm scripts, and the code will dynamic
 
 ### Interactive Mode:
 
+using environment variables
+
 ```sh
 ./console.js
+```
+
+using npm scripts (do not forget to add your username and password in package.json scripts)
+
+```sh
+npm run console
 ```
 
 ### Non-Interactive Mode:
@@ -79,23 +87,21 @@ This command will create a new CPU product. You will be prompted to provide deta
 
 ## API Usage
 
+**you can use npm scripts (see package.json) or run the server with env variables**
+
 To interact with the Elite Tech application programmatically, you can use the provided API. The API includes various endpoints for searching, reading, updating, deleting, and creating data of different types.
 
 **Endpoints:**
 
-| Endpoint              | Description             |
-| --------------------- | ----------------------- |
-| POST /api/:type/      | Create a new product    |
-| PUT /api/:type/:id    | Update by type and ID   |
-| DELETE /api/:type/:id | Delete by type and ID   |
-| GET /api/:type/:id    | Retrieve by type and ID |
-| GET /api/:type/       | Retrieve all by type    |
+| Endpoint                                       | Description             |
+| ---------------------------------------------- | ----------------------- |
+| POST /api/:type/                               | Create a new product    |
+| PUT /api/:type/:id                             | Update by type and ID   |
+| DELETE /api/:type/:id                          | Delete by type and ID   |
+| GET /api/:type/:id                             | Retrieve by type and ID |
+| GET /api/:type/ +(sort\|order\|filter) queries | Retrieve all by type    |
 
-**Example:**
-
-# Get all CPUs
-
-curl http://localhost:3000/api/cpu/
+**for usage and examples see the API docs page**
 
 **Supported Product Types:**
 

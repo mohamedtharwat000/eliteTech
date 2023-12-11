@@ -10,10 +10,10 @@
   "scripts": {
     "mysql_init": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech node ./models/database/sql/database.cjs",
     "serverFile": "nodemon ./api/server.js",
-    "consoleFile": "./console.js",
+    "consoleFile": "node --inspect console.js",
     "server": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech nodemon ./api/server.js",
     "serverL": "db=mysql dbHost=localhost dbUser=lordy dbDatabase=elite_tech nodemon ./api/server.js",
-    "console": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech ./console.js",
+    "console": "db=mysql dbHost=localhost dbUser=mohamed dbPassword= dbDatabase=elite_tech node --inspect console.js",
     "consoleL": "db=mysql dbHost=localhost dbUser=lordy dbDatabase=elite_tech ./console.js"
   },
   "dependencies": {

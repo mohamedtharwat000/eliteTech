@@ -1,6 +1,6 @@
 [
   {
-    "id": 124,
+    "id": 1,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0fa355840792cb24746bbb4200368282.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K60 RGB Pro",
@@ -15,7 +15,7 @@
     "stock": 0
   },
   {
-    "id": 125,
+    "id": 2,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bf808ec87400505de7245845b3131047.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Core RGB",
@@ -30,7 +30,7 @@
     "stock": 0
   },
   {
-    "id": 126,
+    "id": 3,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41BQTfLZABL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G19s",
@@ -45,7 +45,7 @@
     "stock": 0
   },
   {
-    "id": 127,
+    "id": 4,
     "imageURL": "https://m.media-amazon.com/images/I/41LA45NiUmL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K552",
@@ -60,7 +60,7 @@
     "stock": 0
   },
   {
-    "id": 128,
+    "id": 5,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1411d2ffe69ca84f0c740ee5d0df4a0e.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Mini",
@@ -75,7 +75,7 @@
     "stock": 0
   },
   {
-    "id": 129,
+    "id": 6,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/acaf1664d5bee7d6eaca0eeab94a3aff.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K120",
@@ -90,7 +90,7 @@
     "stock": 0
   },
   {
-    "id": 130,
+    "id": 7,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d5b06ebd9648f8658ef6f56cafd7c3d.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex Pro TKL",
@@ -101,11 +101,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 131,
+    "id": 8,
     "imageURL": "https://m.media-amazon.com/images/I/410PoY-7VmL.jpg",
     "manufacturer": "Turtle Beach",
     "name": "Turtle Beach IMPACT 100",
@@ -120,7 +120,7 @@
     "stock": 0
   },
   {
-    "id": 132,
+    "id": 9,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b27c5a9461997bf5c69e42dd343c1bc7.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 Lightspeed",
@@ -135,7 +135,7 @@
     "stock": 0
   },
   {
-    "id": 133,
+    "id": 10,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f66216029324d857133e02628d00820c.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K55 RGB PRO",
@@ -150,7 +150,7 @@
     "stock": 0
   },
   {
-    "id": 134,
+    "id": 11,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fcbfa88339918238551171467925a942.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Mini",
@@ -165,7 +165,7 @@
     "stock": 0
   },
   {
-    "id": 135,
+    "id": 12,
     "imageURL": "https://m.media-amazon.com/images/I/41TIaKy9u0L.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK61",
@@ -180,7 +180,7 @@
     "stock": 0
   },
   {
-    "id": 136,
+    "id": 13,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0376b9aea4f29549508d1c1eadbc7478.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex Pro",
@@ -195,7 +195,7 @@
     "stock": 0
   },
   {
-    "id": 137,
+    "id": 14,
     "imageURL": "https://m.media-amazon.com/images/I/416wp3AEnsL.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Natural Desktop 7000",
@@ -210,7 +210,7 @@
     "stock": 0
   },
   {
-    "id": 138,
+    "id": 15,
     "imageURL": "https://m.media-amazon.com/images/I/41tJtjMmKCL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 3 TKL RGB",
@@ -225,7 +225,7 @@
     "stock": 0
   },
   {
-    "id": 139,
+    "id": 16,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/086c9a46a423cb5a1c4b71164b5d8a16.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 TKL",
@@ -240,7 +240,7 @@
     "stock": 0
   },
   {
-    "id": 140,
+    "id": 17,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/72afebab92f6ad28ba42d28c64442a07.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3",
@@ -255,7 +255,7 @@
     "stock": 0
   },
   {
-    "id": 141,
+    "id": 18,
     "imageURL": "https://m.media-amazon.com/images/I/41z37-jrdLL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon S113",
@@ -270,7 +270,7 @@
     "stock": 0
   },
   {
-    "id": 142,
+    "id": 19,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cf9354748e02a82839f385fe5af8a722.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -285,7 +285,7 @@
     "stock": 0
   },
   {
-    "id": 143,
+    "id": 20,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae1d907d41a3e8795673075ec18e30b8.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K100 RGB",
@@ -300,7 +300,7 @@
     "stock": 0
   },
   {
-    "id": 144,
+    "id": 21,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d0d7c6853ed9714b67e0f139164be210.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -315,7 +315,7 @@
     "stock": 0
   },
   {
-    "id": 145,
+    "id": 22,
     "imageURL": "https://m.media-amazon.com/images/I/41rG6LMCSOL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Elite",
@@ -326,11 +326,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 146,
+    "id": 23,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4fe6f6296e3796f6e84b68b599956887.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Origins Core",
@@ -345,7 +345,7 @@
     "stock": 0
   },
   {
-    "id": 147,
+    "id": 24,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/39254d26603516d14b0bb0de63308e8e.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -360,7 +360,7 @@
     "stock": 0
   },
   {
-    "id": 148,
+    "id": 25,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ebe9d8b33716a401bcf7262dfa2c443a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Azoth",
@@ -375,7 +375,7 @@
     "stock": 0
   },
   {
-    "id": 149,
+    "id": 26,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a332db2d0c31a202132cf13e195e411f.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Elite",
@@ -390,7 +390,7 @@
     "stock": 0
   },
   {
-    "id": 150,
+    "id": 27,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae92350f8cd861ba22f97c0e5ae81594.256p.jpg",
     "manufacturer": "G.Skill",
     "name": "G.Skill KM360",
@@ -405,7 +405,7 @@
     "stock": 0
   },
   {
-    "id": 151,
+    "id": 28,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/803e0625e74ef91fa969fb1592b6d276.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G213 PRODIGY",
@@ -420,7 +420,7 @@
     "stock": 0
   },
   {
-    "id": 152,
+    "id": 29,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b4064fb48bbf543bb4508b8563916bfd.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K100 AIR Wireless",
@@ -435,7 +435,7 @@
     "stock": 0
   },
   {
-    "id": 153,
+    "id": 30,
     "imageURL": "https://m.media-amazon.com/images/I/41KYHczQg6L.jpg",
     "manufacturer": "E-element",
     "name": "E-element Z88RGB81WRZ",
@@ -450,7 +450,7 @@
     "stock": 0
   },
   {
-    "id": 154,
+    "id": 31,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15787b825ff6659a2a8661f54b3cd47f.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 60%",
@@ -465,7 +465,7 @@
     "stock": 0
   },
   {
-    "id": 155,
+    "id": 32,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Wooting",
     "name": "Wooting Two HE",
@@ -480,7 +480,7 @@
     "stock": 0
   },
   {
-    "id": 156,
+    "id": 33,
     "imageURL": "https://m.media-amazon.com/images/I/41aOBkEQdoL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K582 SURARA",
@@ -495,7 +495,7 @@
     "stock": 0
   },
   {
-    "id": 157,
+    "id": 34,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d5fdc5940b7a500341cfdc608fe2ebfb.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7 TKL",
@@ -510,7 +510,7 @@
     "stock": 0
   },
   {
-    "id": 158,
+    "id": 35,
     "imageURL": "https://m.media-amazon.com/images/I/41x91FrKNQL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 3",
@@ -525,7 +525,7 @@
     "stock": 0
   },
   {
-    "id": 159,
+    "id": 36,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/30cbafebd33206576dd6767d027b2904.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V4 Pro",
@@ -540,7 +540,7 @@
     "stock": 0
   },
   {
-    "id": 160,
+    "id": 37,
     "imageURL": "https://m.media-amazon.com/images/I/41Jsff6gXPL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM",
@@ -555,7 +555,7 @@
     "stock": 0
   },
   {
-    "id": 161,
+    "id": 38,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4cb0d315a2e8482f745eb053f92c9f31.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 Carbon",
@@ -566,11 +566,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 87.0,
+    "price": 87,
     "stock": 0
   },
   {
-    "id": 162,
+    "id": 39,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b6afd1fce7c42526283d43ca681d0ea7.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -585,7 +585,7 @@
     "stock": 0
   },
   {
-    "id": 163,
+    "id": 40,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/96e3def1b7fcf2eb901c7dd3206b4e09.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G PRO",
@@ -600,7 +600,7 @@
     "stock": 0
   },
   {
-    "id": 164,
+    "id": 41,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ceb279dd38b20ba0a19c18f3f97b71c0.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech Wireless Combo MK270",
@@ -615,7 +615,7 @@
     "stock": 0
   },
   {
-    "id": 165,
+    "id": 42,
     "imageURL": "https://m.media-amazon.com/images/I/41A5a25khaS.jpg",
     "manufacturer": "Asceny",
     "name": "Asceny One",
@@ -630,7 +630,7 @@
     "stock": 0
   },
   {
-    "id": 166,
+    "id": 43,
     "imageURL": "https://m.media-amazon.com/images/I/4151P939PYL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G512 CARBON",
@@ -645,7 +645,7 @@
     "stock": 0
   },
   {
-    "id": 167,
+    "id": 44,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/129d4f938d97bffb7d520cb07439e29c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X",
@@ -660,7 +660,7 @@
     "stock": 0
   },
   {
-    "id": 168,
+    "id": 45,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/db68a67434a6d6a647bae458e1dbd016.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Tournament Edition",
@@ -675,7 +675,7 @@
     "stock": 0
   },
   {
-    "id": 169,
+    "id": 46,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41Ahh9zWF%2BL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 100",
@@ -690,7 +690,7 @@
     "stock": 0
   },
   {
-    "id": 170,
+    "id": 47,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fcec8ebbad40e7d2f1d323f59d7ac091.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK120",
@@ -705,7 +705,7 @@
     "stock": 0
   },
   {
-    "id": 171,
+    "id": 48,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0844a97c65818081a3c9d5e6e01595b5.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 V2 Aluminum",
@@ -720,7 +720,7 @@
     "stock": 0
   },
   {
-    "id": 172,
+    "id": 49,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5ab9183eee9469ceac9dfb94986000fc.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G613",
@@ -735,7 +735,7 @@
     "stock": 0
   },
   {
-    "id": 173,
+    "id": 50,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1f94302307fb749909f1ae67d927db85.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3 Pro",
@@ -750,7 +750,7 @@
     "stock": 0
   },
   {
-    "id": 174,
+    "id": 51,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/eb4d3d01475220c6c3588b6a0e99c331.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK620",
@@ -765,7 +765,7 @@
     "stock": 0
   },
   {
-    "id": 175,
+    "id": 52,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c44c135ce440f31e9382c51273b822ad.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM ND",
@@ -780,7 +780,7 @@
     "stock": 0
   },
   {
-    "id": 176,
+    "id": 53,
     "imageURL": "https://m.media-amazon.com/images/I/412SWD7HoBL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM",
@@ -795,7 +795,7 @@
     "stock": 0
   },
   {
-    "id": 177,
+    "id": 54,
     "imageURL": "https://m.media-amazon.com/images/I/41M2qcbRB-S.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG CLAYMORE II",
@@ -810,7 +810,7 @@
     "stock": 0
   },
   {
-    "id": 178,
+    "id": 55,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/862e8b36165056886768475f661de972.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3 Mini HyperSpeed",
@@ -825,7 +825,7 @@
     "stock": 0
   },
   {
-    "id": 179,
+    "id": 56,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4d9ce21034744ef229910a9b558301b1.256p.jpg",
     "manufacturer": "G.Skill",
     "name": "G.Skill KM360",
@@ -840,7 +840,7 @@
     "stock": 0
   },
   {
-    "id": 180,
+    "id": 57,
     "imageURL": "https://m.media-amazon.com/images/I/41nqCBMDifL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman V2",
@@ -855,7 +855,7 @@
     "stock": 0
   },
   {
-    "id": 181,
+    "id": 58,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dc4b1f27294713e4d975953f58b9106b.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Ornata Chroma",
@@ -870,7 +870,7 @@
     "stock": 0
   },
   {
-    "id": 182,
+    "id": 59,
     "imageURL": "https://m.media-amazon.com/images/I/41Bgy75FnKL.jpg",
     "manufacturer": "Glorious",
     "name": "Glorious GMMK",
@@ -885,7 +885,7 @@
     "stock": 0
   },
   {
-    "id": 183,
+    "id": 60,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/df60a8c611a16bec0d334af31601261f.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Origins",
@@ -900,7 +900,7 @@
     "stock": 0
   },
   {
-    "id": 184,
+    "id": 61,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a5cb2621ced8abb54ef8c031486febcb.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K120 - UK Layout",
@@ -915,7 +915,7 @@
     "stock": 0
   },
   {
-    "id": 185,
+    "id": 62,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/27590e4a44cc0e4e7a8c5182ca92d3b2.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G610",
@@ -930,7 +930,7 @@
     "stock": 0
   },
   {
-    "id": 186,
+    "id": 63,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4a03f305885033c731e9dd7888368f04.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Blackwidow V3 - Quartz",
@@ -945,7 +945,7 @@
     "stock": 0
   },
   {
-    "id": 187,
+    "id": 64,
     "imageURL": "https://m.media-amazon.com/images/I/41uD8PZ+ZkL.jpg",
     "manufacturer": "Whirlwind FX",
     "name": "Whirlwind FX Element V2",
@@ -960,7 +960,7 @@
     "stock": 0
   },
   {
-    "id": 188,
+    "id": 65,
     "imageURL": "https://m.media-amazon.com/images/I/41DN06dZ8uL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K596 Vishnu",
@@ -975,7 +975,7 @@
     "stock": 0
   },
   {
-    "id": 189,
+    "id": 66,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/24852ce418c88b5e334d97acc6ff47f6.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K55 RGB PRO XT",
@@ -990,7 +990,7 @@
     "stock": 0
   },
   {
-    "id": 190,
+    "id": 67,
     "imageURL": "https://m.media-amazon.com/images/I/41TIaKy9u0L.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK61",
@@ -1005,7 +1005,7 @@
     "stock": 0
   },
   {
-    "id": 191,
+    "id": 68,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2430c6c88b4c8f50d9f5140c1b1b7465.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI",
@@ -1020,7 +1020,7 @@
     "stock": 0
   },
   {
-    "id": 192,
+    "id": 69,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c9acb70bd23452e80f7a23d47c304f6d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G815 Lightsync RGB",
@@ -1035,7 +1035,7 @@
     "stock": 0
   },
   {
-    "id": 193,
+    "id": 70,
     "imageURL": "https://m.media-amazon.com/images/I/414x9UR2BVL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Flare II Animate",
@@ -1050,7 +1050,7 @@
     "stock": 0
   },
   {
-    "id": 194,
+    "id": 71,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e310159767a64284c97caf2777f5dd90.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Ornata V2",
@@ -1065,7 +1065,7 @@
     "stock": 0
   },
   {
-    "id": 195,
+    "id": 72,
     "imageURL": "https://m.media-amazon.com/images/I/41J4bIsMLmL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon DEVARAIAS K556 RGB",
@@ -1080,7 +1080,7 @@
     "stock": 0
   },
   {
-    "id": 196,
+    "id": 73,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/063c57d6978407fd72a27c58e8facc39.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Cynosa V2",
@@ -1095,7 +1095,7 @@
     "stock": 0
   },
   {
-    "id": 197,
+    "id": 74,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5e60914bfa5f8edf50ffb7edfdec19df.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 Lightspeed",
@@ -1110,7 +1110,7 @@
     "stock": 0
   },
   {
-    "id": 198,
+    "id": 75,
     "imageURL": "https://m.media-amazon.com/images/I/41m8BNuVVXL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Mini",
@@ -1125,7 +1125,7 @@
     "stock": 0
   },
   {
-    "id": 199,
+    "id": 76,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/712bbd925b648e916b2cfea10380cbc5.med.256p.jpg",
     "manufacturer": "AmazonBasics",
     "name": "AmazonBasics KU-0833 +MSU0939",
@@ -1140,7 +1140,7 @@
     "stock": 0
   },
   {
-    "id": 200,
+    "id": 77,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7aea2705509181acdf88f70310d501ad.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Keys Advanced",
@@ -1155,7 +1155,7 @@
     "stock": 0
   },
   {
-    "id": 201,
+    "id": 78,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b9000e2821233ec41e78283fd2d0715a.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 Mini",
@@ -1170,7 +1170,7 @@
     "stock": 0
   },
   {
-    "id": 202,
+    "id": 79,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a4a573e7fc65ee148dfc7cb9461b540e.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Elite 2",
@@ -1185,7 +1185,7 @@
     "stock": 0
   },
   {
-    "id": 203,
+    "id": 80,
     "imageURL": "https://m.media-amazon.com/images/I/41TIaKy9u0L.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK61",
@@ -1200,7 +1200,7 @@
     "stock": 0
   },
   {
-    "id": 204,
+    "id": 81,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7379b3c39228ee8f36c7642f6855da9f.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X",
@@ -1215,7 +1215,7 @@
     "stock": 0
   },
   {
-    "id": 205,
+    "id": 82,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/32a1f07c5c803b78e44ec18405032e2e.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 TKL",
@@ -1230,7 +1230,7 @@
     "stock": 0
   },
   {
-    "id": 206,
+    "id": 83,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/56563a085dc2f67cf97d3719c7d71e31.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG CLAYMORE II",
@@ -1245,7 +1245,7 @@
     "stock": 0
   },
   {
-    "id": 207,
+    "id": 84,
     "imageURL": "https://m.media-amazon.com/images/I/51JwlNeduJL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE RGB MK.2",
@@ -1260,7 +1260,7 @@
     "stock": 0
   },
   {
-    "id": 208,
+    "id": 85,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/01c9c1a28c3be5db6c2686004d48ff1a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3",
@@ -1275,7 +1275,7 @@
     "stock": 0
   },
   {
-    "id": 209,
+    "id": 86,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69739040d6f74c3f5680925f978d0b97.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K60 RGB Pro SE",
@@ -1290,7 +1290,7 @@
     "stock": 0
   },
   {
-    "id": 210,
+    "id": 87,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f78ca6855966f4e623c6282d5856b124.256p.jpg",
     "manufacturer": "EVGA",
     "name": "EVGA Z15",
@@ -1305,7 +1305,7 @@
     "stock": 0
   },
   {
-    "id": 211,
+    "id": 88,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e6a837b180fc5227c5fe134ad901924b.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 PRO MINI",
@@ -1320,7 +1320,7 @@
     "stock": 0
   },
   {
-    "id": 212,
+    "id": 89,
     "imageURL": "https://m.media-amazon.com/images/I/41g+c2wBIAL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Mini",
@@ -1335,7 +1335,7 @@
     "stock": 0
   },
   {
-    "id": 213,
+    "id": 90,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c9898907bdbc38417966c587f25d7e83.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 5",
@@ -1350,7 +1350,7 @@
     "stock": 0
   },
   {
-    "id": 214,
+    "id": 91,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0ddc974c6c230c09e3ce2cd777d559ef.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G810 Orion Spectrum RGB",
@@ -1365,7 +1365,7 @@
     "stock": 0
   },
   {
-    "id": 215,
+    "id": 92,
     "imageURL": "https://m.media-amazon.com/images/I/41cFYGx8moL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 TKL",
@@ -1380,7 +1380,7 @@
     "stock": 0
   },
   {
-    "id": 216,
+    "id": 93,
     "imageURL": "https://m.media-amazon.com/images/I/31e4v2t39XL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C2",
@@ -1395,7 +1395,7 @@
     "stock": 0
   },
   {
-    "id": 217,
+    "id": 94,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b8214703ea1ea460316ae84a80edfe20.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR",
@@ -1410,7 +1410,7 @@
     "stock": 0
   },
   {
-    "id": 218,
+    "id": 95,
     "imageURL": "https://m.media-amazon.com/images/I/41L1dUaRzpL.jpg",
     "manufacturer": "SHARKOON",
     "name": "SHARKOON Skiller",
@@ -1425,7 +1425,7 @@
     "stock": 0
   },
   {
-    "id": 219,
+    "id": 96,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1a6a2b7cdee20e1533b4e0e31dff0d1f.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K54",
@@ -1440,7 +1440,7 @@
     "stock": 0
   },
   {
-    "id": 220,
+    "id": 97,
     "imageURL": "https://m.media-amazon.com/images/I/41u5Ely4NpL.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Origins Core",
@@ -1451,11 +1451,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 79.0,
+    "price": 79,
     "stock": 0
   },
   {
-    "id": 221,
+    "id": 98,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e993bc9b7bcb2a47e1d499284996ccb1.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK235",
@@ -1470,7 +1470,7 @@
     "stock": 0
   },
   {
-    "id": 222,
+    "id": 99,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bcb15a0e2da50d090f9795d21ab49842.256p.jpg",
     "manufacturer": "Tecware",
     "name": "Tecware Phantom RGB",
@@ -1485,7 +1485,7 @@
     "stock": 0
   },
   {
-    "id": 223,
+    "id": 100,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8d19a9c10abc6a0b25e9d7452fa0e15c.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Vigor GK30",
@@ -1500,7 +1500,7 @@
     "stock": 0
   },
   {
-    "id": 224,
+    "id": 101,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fef910e48b246627bec3e39851154bc0.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB TKL CHAMPION SERIES",
@@ -1515,7 +1515,7 @@
     "stock": 0
   },
   {
-    "id": 225,
+    "id": 102,
     "imageURL": "https://m.media-amazon.com/images/I/412AGU8GhdL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1",
@@ -1530,7 +1530,7 @@
     "stock": 0
   },
   {
-    "id": 226,
+    "id": 103,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/246bd28b62c616da1cf02f8ed4c17020.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K57 RGB",
@@ -1545,7 +1545,7 @@
     "stock": 0
   },
   {
-    "id": 227,
+    "id": 104,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4e48b900fba468014200a2f15199ed6f.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell KB216",
@@ -1560,7 +1560,7 @@
     "stock": 0
   },
   {
-    "id": 228,
+    "id": 105,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c26efb3025bbacbf75cbaa018c8172e4.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB MK.2 SE",
@@ -1575,7 +1575,7 @@
     "stock": 0
   },
   {
-    "id": 229,
+    "id": 106,
     "imageURL": "https://m.media-amazon.com/images/I/51ha38E4kcL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon S101",
@@ -1590,7 +1590,7 @@
     "stock": 0
   },
   {
-    "id": 230,
+    "id": 107,
     "imageURL": "https://m.media-amazon.com/images/I/41-LsB59ewL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G710 Plus",
@@ -1605,7 +1605,7 @@
     "stock": 0
   },
   {
-    "id": 231,
+    "id": 108,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c449de1fa41e37fc0555aeb7bd7acc46.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K42",
@@ -1620,7 +1620,7 @@
     "stock": 0
   },
   {
-    "id": 232,
+    "id": 109,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a66a87f1202d6bfcb80723d1b0885ce6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus M601 ROG FALCHION/RD/US",
@@ -1635,7 +1635,7 @@
     "stock": 0
   },
   {
-    "id": 233,
+    "id": 110,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c88572938972e8ef6ff1e1a9ff630e97.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 PRO MINI",
@@ -1650,7 +1650,7 @@
     "stock": 0
   },
   {
-    "id": 234,
+    "id": 111,
     "imageURL": "https://m.media-amazon.com/images/I/41dBBUMh58L.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX 5500 Revolution",
@@ -1665,7 +1665,7 @@
     "stock": 0
   },
   {
-    "id": 235,
+    "id": 112,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3da4e9ef409ec972eed5abf1462260c5.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7",
@@ -1680,7 +1680,7 @@
     "stock": 0
   },
   {
-    "id": 236,
+    "id": 113,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/413gg55NuVL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G510s",
@@ -1695,7 +1695,7 @@
     "stock": 0
   },
   {
-    "id": 237,
+    "id": 114,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4af792940c8f68959877902138a83488.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V4 Pro",
@@ -1710,7 +1710,7 @@
     "stock": 0
   },
   {
-    "id": 238,
+    "id": 115,
     "imageURL": "https://m.media-amazon.com/images/I/31b46wmV2UL.jpg",
     "manufacturer": "Glorious",
     "name": "GMMK Glorious Modular Mechanical Gaming Keyboard",
@@ -1725,7 +1725,7 @@
     "stock": 0
   },
   {
-    "id": 239,
+    "id": 116,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8c50428155b49e0cbc1850a22a8f6cad.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK620",
@@ -1740,7 +1740,7 @@
     "stock": 0
   },
   {
-    "id": 240,
+    "id": 117,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/39af21d408f8a4e77272bca22cdee334.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer DeathStalker V2 Pro",
@@ -1755,7 +1755,7 @@
     "stock": 0
   },
   {
-    "id": 241,
+    "id": 118,
     "imageURL": "https://m.media-amazon.com/images/I/41bFJBf9jIL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K10 Pro QMK/VIA",
@@ -1770,7 +1770,7 @@
     "stock": 0
   },
   {
-    "id": 242,
+    "id": 119,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5ac3be7e8edc3b4d665f0742135a9dc3.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Scope",
@@ -1785,7 +1785,7 @@
     "stock": 0
   },
   {
-    "id": 243,
+    "id": 120,
     "imageURL": "https://m.media-amazon.com/images/I/41MfD0scGpL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K552-R KUMARA",
@@ -1800,7 +1800,7 @@
     "stock": 0
   },
   {
-    "id": 244,
+    "id": 121,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/102b78834873702e6a6f5de75a1dab27.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman V2 Analog",
@@ -1815,7 +1815,7 @@
     "stock": 0
   },
   {
-    "id": 245,
+    "id": 122,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Corsair",
     "name": "Corsair Vengeance K70",
@@ -1830,7 +1830,7 @@
     "stock": 0
   },
   {
-    "id": 246,
+    "id": 123,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8ac969428326a8e3d37e8cb10e1813e7.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K63",
@@ -1845,7 +1845,7 @@
     "stock": 0
   },
   {
-    "id": 247,
+    "id": 124,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/151078000e8c1f152046bdfe8d4f3bd4.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer DeathStalker V2 Pro",
@@ -1856,11 +1856,11 @@
     "connectionType": "Wireless",
     "color": "Black",
     "rating": 0,
-    "price": 244.0,
+    "price": 244,
     "stock": 0
   },
   {
-    "id": 248,
+    "id": 125,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/56fb9eb6b2096e15b3035c683e7f51a0.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB MK.2",
@@ -1875,7 +1875,7 @@
     "stock": 0
   },
   {
-    "id": 249,
+    "id": 126,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0bced8165e1d4c4fba00b0ecb31ea485.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB TKL CHAMPION SERIES",
@@ -1890,7 +1890,7 @@
     "stock": 0
   },
   {
-    "id": 250,
+    "id": 127,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/49e98fe98ed7fef6f0dd8f727d2208b2.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Cynosa Chroma",
@@ -1905,7 +1905,7 @@
     "stock": 0
   },
   {
-    "id": 251,
+    "id": 128,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a61b4497234b235a567b6535da2226aa.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS K1",
@@ -1920,7 +1920,7 @@
     "stock": 0
   },
   {
-    "id": 252,
+    "id": 129,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/998d14f3bdc01c20e36f133c1e90284c.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3",
@@ -1935,7 +1935,7 @@
     "stock": 0
   },
   {
-    "id": 253,
+    "id": 130,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae1d907d41a3e8795673075ec18e30b8.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K100 RGB",
@@ -1950,7 +1950,7 @@
     "stock": 0
   },
   {
-    "id": 254,
+    "id": 131,
     "imageURL": "https://m.media-amazon.com/images/I/41si5dxVSTL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G Pro",
@@ -1965,7 +1965,7 @@
     "stock": 0
   },
   {
-    "id": 255,
+    "id": 132,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41WbbNvKPEL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech diNovo Edge",
@@ -1980,7 +1980,7 @@
     "stock": 0
   },
   {
-    "id": 256,
+    "id": 133,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/882baf4465f5452bb4df5e89d5284467.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK620",
@@ -1995,7 +1995,7 @@
     "stock": 0
   },
   {
-    "id": 257,
+    "id": 134,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7379b3c39228ee8f36c7642f6855da9f.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X",
@@ -2010,7 +2010,7 @@
     "stock": 0
   },
   {
-    "id": 258,
+    "id": 135,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4807d8ce691377dec2646db4edfe169e.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G910 Orion Spectrum RGB",
@@ -2025,7 +2025,7 @@
     "stock": 0
   },
   {
-    "id": 259,
+    "id": 136,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4b627ae1e6710f59c77ebc18244d1d0b.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 Lightspeed",
@@ -2040,7 +2040,7 @@
     "stock": 0
   },
   {
-    "id": 260,
+    "id": 137,
     "imageURL": "https://m.media-amazon.com/images/I/416Dcf2F1wL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan TKL Pro",
@@ -2055,7 +2055,7 @@
     "stock": 0
   },
   {
-    "id": 261,
+    "id": 138,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b538525c57435bc25a9877b12fd37d96.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -2070,7 +2070,7 @@
     "stock": 0
   },
   {
-    "id": 262,
+    "id": 139,
     "imageURL": "https://m.media-amazon.com/images/I/416bHr9P4yL.jpg",
     "manufacturer": "Verbatim",
     "name": "Verbatim 99201",
@@ -2081,11 +2081,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 10.0,
+    "price": 10,
     "stock": 0
   },
   {
-    "id": 263,
+    "id": 140,
     "imageURL": "https://m.media-amazon.com/images/I/41hH0aH9xBL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS S",
@@ -2100,7 +2100,7 @@
     "stock": 0
   },
   {
-    "id": 264,
+    "id": 141,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/998d14f3bdc01c20e36f133c1e90284c.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3",
@@ -2115,7 +2115,7 @@
     "stock": 0
   },
   {
-    "id": 265,
+    "id": 142,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41OVgEoZX0L.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow 2019",
@@ -2130,7 +2130,7 @@
     "stock": 0
   },
   {
-    "id": 266,
+    "id": 143,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/edaa31aa0c1ce9164a9918668b90598b.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K60 Pro",
@@ -2145,7 +2145,7 @@
     "stock": 0
   },
   {
-    "id": 267,
+    "id": 144,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e4ae9a96bfea2929ab98e71c4448e239.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K400 Plus",
@@ -2160,7 +2160,7 @@
     "stock": 0
   },
   {
-    "id": 268,
+    "id": 145,
     "imageURL": "https://m.media-amazon.com/images/I/31HekJPcEPL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G512 CARBON",
@@ -2171,11 +2171,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 95.0,
+    "price": 95,
     "stock": 0
   },
   {
-    "id": 269,
+    "id": 146,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/278b0edc9008e5dd6281793a834b8646.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G513 Carbon",
@@ -2190,7 +2190,7 @@
     "stock": 0
   },
   {
-    "id": 270,
+    "id": 147,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4956aa922dbdb5702373fec78ad25335.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Scope RX EVA Edition",
@@ -2205,7 +2205,7 @@
     "stock": 0
   },
   {
-    "id": 271,
+    "id": 148,
     "imageURL": "https://m.media-amazon.com/images/I/41mZi-kKt-L.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G510",
@@ -2220,7 +2220,7 @@
     "stock": 0
   },
   {
-    "id": 272,
+    "id": 149,
     "imageURL": "https://m.media-amazon.com/images/I/31gJnRu7ptL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK200",
@@ -2235,7 +2235,7 @@
     "stock": 0
   },
   {
-    "id": 273,
+    "id": 150,
     "imageURL": "https://m.media-amazon.com/images/I/41nqCBMDifL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman V2",
@@ -2250,7 +2250,7 @@
     "stock": 0
   },
   {
-    "id": 274,
+    "id": 151,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/145eceb74d22dfbf6fbb82f87386711e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Azoth",
@@ -2265,7 +2265,7 @@
     "stock": 0
   },
   {
-    "id": 275,
+    "id": 152,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/45b0317939c539160d3300b4903abf77.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical",
@@ -2280,7 +2280,7 @@
     "stock": 0
   },
   {
-    "id": 276,
+    "id": 153,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a2998ccd9c54b46c3531d0bdc312ea56.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB MK.2",
@@ -2295,7 +2295,7 @@
     "stock": 0
   },
   {
-    "id": 277,
+    "id": 154,
     "imageURL": "https://m.media-amazon.com/images/I/4182pNjGG8L.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman V2",
@@ -2310,7 +2310,7 @@
     "stock": 0
   },
   {
-    "id": 278,
+    "id": 155,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/431e964f879241e7c8365527bdbdff88.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 Mini",
@@ -2325,7 +2325,7 @@
     "stock": 0
   },
   {
-    "id": 279,
+    "id": 156,
     "imageURL": "https://m.media-amazon.com/images/I/510YYWlxQlL.jpg",
     "manufacturer": "Happy Hacking",
     "name": "Happy Hacking Professional 2",
@@ -2340,7 +2340,7 @@
     "stock": 0
   },
   {
-    "id": 280,
+    "id": 157,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9468d4f767d73dc2a37adcfd21b98f97.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK620",
@@ -2351,11 +2351,11 @@
     "connectionType": "Wired",
     "color": "Silver / White",
     "rating": 0,
-    "price": 55.0,
+    "price": 55,
     "stock": 0
   },
   {
-    "id": 281,
+    "id": 158,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b9851aec4ac30985ff750dcb8cf2c30e.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Mecha Mini v2",
@@ -2366,11 +2366,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 282,
+    "id": 159,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f642f3150b95104f9b2e4e28fc71287c.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function Tenkeyless",
@@ -2385,7 +2385,7 @@
     "stock": 0
   },
   {
-    "id": 283,
+    "id": 160,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c88572938972e8ef6ff1e1a9ff630e97.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 PRO MINI",
@@ -2400,7 +2400,7 @@
     "stock": 0
   },
   {
-    "id": 284,
+    "id": 161,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/952b810da660ff984dc0d7259151c3e3.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K100 RGB",
@@ -2415,7 +2415,7 @@
     "stock": 0
   },
   {
-    "id": 285,
+    "id": 162,
     "imageURL": "https://m.media-amazon.com/images/I/4182pNjGG8L.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman V2",
@@ -2430,7 +2430,7 @@
     "stock": 0
   },
   {
-    "id": 286,
+    "id": 163,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7df80b9ff8542f4623812bdde5489320.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K3",
@@ -2445,7 +2445,7 @@
     "stock": 0
   },
   {
-    "id": 287,
+    "id": 164,
     "imageURL": "https://m.media-amazon.com/images/I/41vW62dfO-L.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron Q6",
@@ -2460,7 +2460,7 @@
     "stock": 0
   },
   {
-    "id": 288,
+    "id": 165,
     "imageURL": "https://m.media-amazon.com/images/I/41TIwG4AaWL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK550",
@@ -2475,7 +2475,7 @@
     "stock": 0
   },
   {
-    "id": 289,
+    "id": 166,
     "imageURL": "https://m.media-amazon.com/images/I/515YDTYEhUL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Flare (Cherry MX Brown)",
@@ -2490,7 +2490,7 @@
     "stock": 0
   },
   {
-    "id": 290,
+    "id": 167,
     "imageURL": "https://m.media-amazon.com/images/I/5178f99hKbL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K63 (MX Red w/Blue LED)",
@@ -2505,7 +2505,7 @@
     "stock": 0
   },
   {
-    "id": 291,
+    "id": 168,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6afd94648cdb82f0c10ea33e47925323.256p.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan 122 AIMO",
@@ -2520,7 +2520,7 @@
     "stock": 0
   },
   {
-    "id": 292,
+    "id": 169,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bc299b9d5b76538380f98e5a10b55923.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K4 V2",
@@ -2535,7 +2535,7 @@
     "stock": 0
   },
   {
-    "id": 293,
+    "id": 170,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/11637a97cfebe05fafe3bf5e7574d9ce.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 MAX RGB US",
@@ -2550,7 +2550,7 @@
     "stock": 0
   },
   {
-    "id": 294,
+    "id": 171,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41aLRrywInL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K120",
@@ -2565,7 +2565,7 @@
     "stock": 0
   },
   {
-    "id": 295,
+    "id": 172,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/31464d7ea9b116dd8eec4a5c562dbf5a.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM XT",
@@ -2580,7 +2580,7 @@
     "stock": 0
   },
   {
-    "id": 296,
+    "id": 173,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9050719b6b19ff907503d6f6419e1a94.256p.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan 121 Aimo RGB",
@@ -2595,7 +2595,7 @@
     "stock": 0
   },
   {
-    "id": 297,
+    "id": 174,
     "imageURL": "https://m.media-amazon.com/images/I/41H13DUgXjL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K551-RGB VARA",
@@ -2610,7 +2610,7 @@
     "stock": 0
   },
   {
-    "id": 298,
+    "id": 175,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/022f3a972f3755b777cc7b640170bad0.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K55 RGB",
@@ -2625,7 +2625,7 @@
     "stock": 0
   },
   {
-    "id": 299,
+    "id": 176,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0864c08f7868112fe537ebdd528ddf61.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK540 ADVANCED",
@@ -2636,11 +2636,11 @@
     "connectionType": "Wireless",
     "color": "Black",
     "rating": 0,
-    "price": 59.0,
+    "price": 59,
     "stock": 0
   },
   {
-    "id": 300,
+    "id": 177,
     "imageURL": "https://m.media-amazon.com/images/I/31Qnf29TGLL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master Devastator 3 (2022)",
@@ -2655,7 +2655,7 @@
     "stock": 0
   },
   {
-    "id": 301,
+    "id": 178,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1ed71d7600a2f7616d23aab983d0dbdb.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G512 CARBON",
@@ -2670,7 +2670,7 @@
     "stock": 0
   },
   {
-    "id": 302,
+    "id": 179,
     "imageURL": "https://m.media-amazon.com/images/I/416QgkHILUL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K512 SHIVA RGB",
@@ -2685,7 +2685,7 @@
     "stock": 0
   },
   {
-    "id": 303,
+    "id": 180,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5fdc95c97f95f85a71b41b876ce5374b.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK295 SILENT",
@@ -2700,7 +2700,7 @@
     "stock": 0
   },
   {
-    "id": 304,
+    "id": 181,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0664d380b36880abfb5da0135aad770b.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K68 RGB",
@@ -2715,7 +2715,7 @@
     "stock": 0
   },
   {
-    "id": 305,
+    "id": 182,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/354df3046e2d40959abe4296c1a9323e.256p.jpg",
     "manufacturer": "Thermaltake",
     "name": "Thermaltake POSEIDON Z",
@@ -2730,7 +2730,7 @@
     "stock": 0
   },
   {
-    "id": 306,
+    "id": 183,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15f85faedb7ed8301801294bb7422109.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G815 Lightsync RGB",
@@ -2745,7 +2745,7 @@
     "stock": 0
   },
   {
-    "id": 307,
+    "id": 184,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/365fa3d424e170ac4b0be1b01638986e.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X",
@@ -2760,7 +2760,7 @@
     "stock": 0
   },
   {
-    "id": 308,
+    "id": 185,
     "imageURL": "https://m.media-amazon.com/images/I/41xZM+f4yyL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Chroma V2",
@@ -2775,7 +2775,7 @@
     "stock": 0
   },
   {
-    "id": 309,
+    "id": 186,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7df80b9ff8542f4623812bdde5489320.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K3",
@@ -2790,7 +2790,7 @@
     "stock": 0
   },
   {
-    "id": 310,
+    "id": 187,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/774bbd72a8d205ac4bcaec7b02f2416b.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR GK50 ELITE LL",
@@ -2801,11 +2801,11 @@
     "connectionType": "Wired",
     "color": "Silver / Black",
     "rating": 0,
-    "price": 48.0,
+    "price": 48,
     "stock": 0
   },
   {
-    "id": 311,
+    "id": 188,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d1031461864da4fe5ede8b7f7620134b.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K750",
@@ -2820,7 +2820,7 @@
     "stock": 0
   },
   {
-    "id": 312,
+    "id": 189,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/509cdce55943d8cd261c48b773244602.256p.jpg",
     "manufacturer": "FNATIC",
     "name": "FNATIC miniSTREAK RGB",
@@ -2831,11 +2831,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 299.0,
+    "price": 299,
     "stock": 0
   },
   {
-    "id": 313,
+    "id": 190,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b5020135fa413eb923c6041a07ef398d.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -2850,7 +2850,7 @@
     "stock": 0
   },
   {
-    "id": 314,
+    "id": 191,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/268c559b91829f3838d34ecd9475e919.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming K7",
@@ -2865,7 +2865,7 @@
     "stock": 0
   },
   {
-    "id": 315,
+    "id": 192,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4d2027b70c4eda50b997c70aa4a61801.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Plastic",
@@ -2880,7 +2880,7 @@
     "stock": 0
   },
   {
-    "id": 316,
+    "id": 193,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e065e272388325d4896cdba0b512750b.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Tartarus Pro",
@@ -2895,7 +2895,7 @@
     "stock": 0
   },
   {
-    "id": 317,
+    "id": 194,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a7ead429b03f32ff5682ffef5f02c10b.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK653",
@@ -2910,7 +2910,7 @@
     "stock": 0
   },
   {
-    "id": 318,
+    "id": 195,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d447131287f8d5f7903f16bd5ba7e950.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -2925,7 +2925,7 @@
     "stock": 0
   },
   {
-    "id": 319,
+    "id": 196,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e32294c954cffc7db0b08e88742902f9.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -2940,7 +2940,7 @@
     "stock": 0
   },
   {
-    "id": 320,
+    "id": 197,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e256fb0bc6bac2c0f0f7e63fb9e99a8d.256p.jpg",
     "manufacturer": "EVGA",
     "name": "EVGA Z20",
@@ -2951,11 +2951,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 58.0,
+    "price": 58,
     "stock": 0
   },
   {
-    "id": 321,
+    "id": 198,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d5fdc5940b7a500341cfdc608fe2ebfb.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7 TKL",
@@ -2970,7 +2970,7 @@
     "stock": 0
   },
   {
-    "id": 322,
+    "id": 199,
     "imageURL": "https://m.media-amazon.com/images/I/51lsQts1cCL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K68",
@@ -2985,7 +2985,7 @@
     "stock": 0
   },
   {
-    "id": 323,
+    "id": 200,
     "imageURL": "https://m.media-amazon.com/images/I/41fXZZ1SngL.jpg",
     "manufacturer": "Akko",
     "name": "Akko 5087S Shine-Through",
@@ -3000,7 +3000,7 @@
     "stock": 0
   },
   {
-    "id": 324,
+    "id": 201,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d00c630cdc0fc0a5ff9e59756af4d5a2.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI",
@@ -3015,7 +3015,7 @@
     "stock": 0
   },
   {
-    "id": 325,
+    "id": 202,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/46f4483b5b4a45e4764c430abbae9c20.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function",
@@ -3030,7 +3030,7 @@
     "stock": 0
   },
   {
-    "id": 326,
+    "id": 203,
     "imageURL": "https://m.media-amazon.com/images/I/41URR3cyUlL.jpg",
     "manufacturer": "DROP",
     "name": "DROP CTRL",
@@ -3041,11 +3041,11 @@
     "connectionType": "Wired",
     "color": "Silver / Black",
     "rating": 0,
-    "price": 240.0,
+    "price": 240,
     "stock": 0
   },
   {
-    "id": 327,
+    "id": 204,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/991c2c8f8a3e7f2e02514a8e82df2e45.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K90 RGB",
@@ -3060,7 +3060,7 @@
     "stock": 0
   },
   {
-    "id": 328,
+    "id": 205,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b538525c57435bc25a9877b12fd37d96.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -3075,7 +3075,7 @@
     "stock": 0
   },
   {
-    "id": 329,
+    "id": 206,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5a12a9028eba52530011d1c6cbe1dcd3.256p.jpg",
     "manufacturer": "Wooting",
     "name": "Wooting One",
@@ -3090,7 +3090,7 @@
     "stock": 0
   },
   {
-    "id": 330,
+    "id": 207,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1614e4890dc337c95b480fcd82c4bc7d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K845",
@@ -3105,7 +3105,7 @@
     "stock": 0
   },
   {
-    "id": 331,
+    "id": 208,
     "imageURL": "https://m.media-amazon.com/images/I/515YDTYEhUL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Flare (Cherry MX Red)",
@@ -3120,7 +3120,7 @@
     "stock": 0
   },
   {
-    "id": 332,
+    "id": 209,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd2183b29a351d6551a98200f2215337.med.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard Model S Professional",
@@ -3131,11 +3131,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 333,
+    "id": 210,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/49a21cc7465dbdccaecf2ffc8387172a.256p.jpg",
     "manufacturer": "V7",
     "name": "V7 CKW200US",
@@ -3150,7 +3150,7 @@
     "stock": 0
   },
   {
-    "id": 334,
+    "id": 211,
     "imageURL": "https://m.media-amazon.com/images/I/41Ld7oHhk8L.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G13",
@@ -3165,7 +3165,7 @@
     "stock": 0
   },
   {
-    "id": 335,
+    "id": 212,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ea97b59f10863c199fafa11d90d1e7ad.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G512 CARBON",
@@ -3180,7 +3180,7 @@
     "stock": 0
   },
   {
-    "id": 336,
+    "id": 213,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/862e8b36165056886768475f661de972.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3 Mini HyperSpeed",
@@ -3195,7 +3195,7 @@
     "stock": 0
   },
   {
-    "id": 337,
+    "id": 214,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5920f9edc8cc31c556d1c647b5102eaf.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G815 Lightsync RGB",
@@ -3210,7 +3210,7 @@
     "stock": 0
   },
   {
-    "id": 338,
+    "id": 215,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/501b25a67323b63c50401b22cea753de.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 PRO MINI",
@@ -3225,7 +3225,7 @@
     "stock": 0
   },
   {
-    "id": 339,
+    "id": 216,
     "imageURL": "https://m.media-amazon.com/images/I/41ulbty2esL.jpg",
     "manufacturer": "Rii",
     "name": "Rii RK100",
@@ -3240,7 +3240,7 @@
     "stock": 0
   },
   {
-    "id": 340,
+    "id": 217,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ab51146b801f53c45944f1bfbda4b3ec.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7",
@@ -3255,7 +3255,7 @@
     "stock": 0
   },
   {
-    "id": 341,
+    "id": 218,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6f944d1708672528a4efae73cdcde01f.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 PRO MINI",
@@ -3270,7 +3270,7 @@
     "stock": 0
   },
   {
-    "id": 342,
+    "id": 219,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dca47dd40b6b89b60ffa230ba9e8a2be.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming K3",
@@ -3285,7 +3285,7 @@
     "stock": 0
   },
   {
-    "id": 343,
+    "id": 220,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1614e4890dc337c95b480fcd82c4bc7d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K845",
@@ -3300,7 +3300,7 @@
     "stock": 0
   },
   {
-    "id": 344,
+    "id": 221,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/07d5e458b02b2690e702399931620392.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function MiniTKL",
@@ -3315,7 +3315,7 @@
     "stock": 0
   },
   {
-    "id": 345,
+    "id": 222,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c5751dd9e5e24540155f531d21c8061a.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo 300",
@@ -3330,7 +3330,7 @@
     "stock": 0
   },
   {
-    "id": 346,
+    "id": 223,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bcb15a0e2da50d090f9795d21ab49842.256p.jpg",
     "manufacturer": "Tecware",
     "name": "Tecware Phantom RGB",
@@ -3345,7 +3345,7 @@
     "stock": 0
   },
   {
-    "id": 347,
+    "id": 224,
     "imageURL": "https://m.media-amazon.com/images/I/510Kd7DTpfL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V4",
@@ -3360,7 +3360,7 @@
     "stock": 0
   },
   {
-    "id": 348,
+    "id": 225,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a231423bb0d4d59706f9f0ec2e738df5.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3 Pro",
@@ -3375,7 +3375,7 @@
     "stock": 0
   },
   {
-    "id": 349,
+    "id": 226,
     "imageURL": "https://m.media-amazon.com/images/I/31vgZ2iV-YL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 3 Matcha",
@@ -3390,7 +3390,7 @@
     "stock": 0
   },
   {
-    "id": 350,
+    "id": 227,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f56e892959a3ea97fb2ad96a8d5eed15.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Origins",
@@ -3405,7 +3405,7 @@
     "stock": 0
   },
   {
-    "id": 351,
+    "id": 228,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b2715c2cc3345f179e77963d8c2cb574.256p.jpg",
     "manufacturer": "GameMax",
     "name": "GameMax Pulse",
@@ -3420,7 +3420,7 @@
     "stock": 0
   },
   {
-    "id": 352,
+    "id": 229,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e1cc46b1af6b27b85f131232e935f2d5.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman Elite",
@@ -3435,7 +3435,7 @@
     "stock": 0
   },
   {
-    "id": 353,
+    "id": 230,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/769fd6ff52abc89ff59c40adc34d0981.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical Mini",
@@ -3450,7 +3450,7 @@
     "stock": 0
   },
   {
-    "id": 354,
+    "id": 231,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41AXDjuIGyL.jpg",
     "manufacturer": "Qisan",
     "name": "Qisan Magicforce",
@@ -3465,7 +3465,7 @@
     "stock": 0
   },
   {
-    "id": 355,
+    "id": 232,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/455bd885f289e49f766a4f258f174115.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G Pro X",
@@ -3480,7 +3480,7 @@
     "stock": 0
   },
   {
-    "id": 356,
+    "id": 233,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8c7eaf07bb6b9390a53be83c05782f0d.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7 TKL",
@@ -3495,7 +3495,7 @@
     "stock": 0
   },
   {
-    "id": 357,
+    "id": 234,
     "imageURL": "https://m.media-amazon.com/images/I/41PmuU0NMLL.jpg",
     "manufacturer": "HP",
     "name": "HP USB Keyboard",
@@ -3510,7 +3510,7 @@
     "stock": 0
   },
   {
-    "id": 358,
+    "id": 235,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dc75fce1467cdd5517c562ac88a8f98d.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM",
@@ -3525,7 +3525,7 @@
     "stock": 0
   },
   {
-    "id": 359,
+    "id": 236,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/20eb1e755613ad8f2a49416b44800181.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE",
@@ -3540,7 +3540,7 @@
     "stock": 0
   },
   {
-    "id": 360,
+    "id": 237,
     "imageURL": "https://m.media-amazon.com/images/I/41E-i8OpdQL.jpg",
     "manufacturer": "Glorious",
     "name": "Glorious GMMK",
@@ -3555,7 +3555,7 @@
     "stock": 0
   },
   {
-    "id": 361,
+    "id": 238,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58435028e535c1666deb7a18a7a46f50.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer TARTARUS V2",
@@ -3570,7 +3570,7 @@
     "stock": 0
   },
   {
-    "id": 362,
+    "id": 239,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2bff8cba74978d9fa44b0faa3446240d.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function Tenkeyless",
@@ -3585,7 +3585,7 @@
     "stock": 0
   },
   {
-    "id": 363,
+    "id": 240,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8f4844d7e7a5c65e4804d07a76785415.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech ERGO K860",
@@ -3600,7 +3600,7 @@
     "stock": 0
   },
   {
-    "id": 364,
+    "id": 241,
     "imageURL": "https://m.media-amazon.com/images/I/41mav+rjXRL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Ultimate 2016",
@@ -3615,7 +3615,7 @@
     "stock": 0
   },
   {
-    "id": 365,
+    "id": 242,
     "imageURL": "https://m.media-amazon.com/images/I/41vqo1qb8aS.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Pyro",
@@ -3630,7 +3630,7 @@
     "stock": 0
   },
   {
-    "id": 366,
+    "id": 243,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/151078000e8c1f152046bdfe8d4f3bd4.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer DeathStalker V2 Pro",
@@ -3645,7 +3645,7 @@
     "stock": 0
   },
   {
-    "id": 367,
+    "id": 244,
     "imageURL": "https://m.media-amazon.com/images/I/414x9UR2BVL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Flare II Animate",
@@ -3660,7 +3660,7 @@
     "stock": 0
   },
   {
-    "id": 368,
+    "id": 245,
     "imageURL": "https://m.media-amazon.com/images/I/51I5qT5AU4L.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K580 VATA",
@@ -3675,7 +3675,7 @@
     "stock": 0
   },
   {
-    "id": 369,
+    "id": 246,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a2542ee822284adc9366d9149127dd5e.256p.jpg",
     "manufacturer": "Verbatim",
     "name": "Verbatim 98121",
@@ -3690,7 +3690,7 @@
     "stock": 0
   },
   {
-    "id": 370,
+    "id": 247,
     "imageURL": "https://m.media-amazon.com/images/I/41o6fCSkrsL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -3701,11 +3701,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 118.0,
+    "price": 118,
     "stock": 0
   },
   {
-    "id": 371,
+    "id": 248,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b0cabf106b67448144bc7931e38b8d3a.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 3 Matcha",
@@ -3720,7 +3720,7 @@
     "stock": 0
   },
   {
-    "id": 372,
+    "id": 249,
     "imageURL": "https://m.media-amazon.com/images/I/31W1c5aEUyL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C2",
@@ -3735,7 +3735,7 @@
     "stock": 0
   },
   {
-    "id": 373,
+    "id": 250,
     "imageURL": "https://m.media-amazon.com/images/I/41fIZG3HhGS.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Magma",
@@ -3750,7 +3750,7 @@
     "stock": 0
   },
   {
-    "id": 374,
+    "id": 251,
     "imageURL": "https://m.media-amazon.com/images/I/41cRHyX-orL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan Pro",
@@ -3765,7 +3765,7 @@
     "stock": 0
   },
   {
-    "id": 375,
+    "id": 252,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/95e036e8e9717081af6d074df8cf155b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming Combo K1 & M3",
@@ -3780,7 +3780,7 @@
     "stock": 0
   },
   {
-    "id": 376,
+    "id": 253,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1dd94b1df9165afc70d52eb1c595d60e.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Lite",
@@ -3795,7 +3795,7 @@
     "stock": 0
   },
   {
-    "id": 377,
+    "id": 254,
     "imageURL": "https://m.media-amazon.com/images/I/41jRoxo-WML.jpg",
     "manufacturer": "Glorious",
     "name": "Glorious GMMK",
@@ -3810,7 +3810,7 @@
     "stock": 0
   },
   {
-    "id": 378,
+    "id": 255,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ab51146b801f53c45944f1bfbda4b3ec.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Apex 7",
@@ -3825,7 +3825,7 @@
     "stock": 0
   },
   {
-    "id": 379,
+    "id": 256,
     "imageURL": "https://m.media-amazon.com/images/I/41Bny1qz9QL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Scope",
@@ -3840,7 +3840,7 @@
     "stock": 0
   },
   {
-    "id": 380,
+    "id": 257,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bcb15a0e2da50d090f9795d21ab49842.256p.jpg",
     "manufacturer": "Tecware",
     "name": "Tecware Phantom RGB",
@@ -3855,7 +3855,7 @@
     "stock": 0
   },
   {
-    "id": 381,
+    "id": 258,
     "imageURL": "https://m.media-amazon.com/images/I/41smJMfcXML.jpg",
     "manufacturer": "EagleTec",
     "name": "EagleTec KG010-N",
@@ -3870,7 +3870,7 @@
     "stock": 0
   },
   {
-    "id": 382,
+    "id": 259,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/efe882d44bc20334a1416552d892df52.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Plastic",
@@ -3885,7 +3885,7 @@
     "stock": 0
   },
   {
-    "id": 383,
+    "id": 260,
     "imageURL": "https://m.media-amazon.com/images/I/418cObzUOlL.jpg",
     "manufacturer": "Kinesis Gaming",
     "name": "Kinesis Gaming KB600",
@@ -3896,11 +3896,11 @@
     "connectionType": "Wired",
     "color": "Black / Blue",
     "rating": 0,
-    "price": 339.0,
+    "price": 339,
     "stock": 0
   },
   {
-    "id": 384,
+    "id": 261,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9ef4916c13345af90e1682cb2aa5f3c3.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K270",
@@ -3915,7 +3915,7 @@
     "stock": 0
   },
   {
-    "id": 385,
+    "id": 262,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58231993521a7a109aa5d514ba493a46.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Ornata",
@@ -3930,7 +3930,7 @@
     "stock": 0
   },
   {
-    "id": 386,
+    "id": 263,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c59862c23b727511168f8e974d77f47a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Pro Type Ultra - US",
@@ -3945,7 +3945,7 @@
     "stock": 0
   },
   {
-    "id": 387,
+    "id": 264,
     "imageURL": "https://m.media-amazon.com/images/I/41gjNOV6zjL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K350",
@@ -3960,7 +3960,7 @@
     "stock": 0
   },
   {
-    "id": 388,
+    "id": 265,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/761cbc997cff7524e962b8fa4981a925.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK620",
@@ -3975,7 +3975,7 @@
     "stock": 0
   },
   {
-    "id": 389,
+    "id": 266,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5ac3be7e8edc3b4d665f0742135a9dc3.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Scope",
@@ -3990,7 +3990,7 @@
     "stock": 0
   },
   {
-    "id": 390,
+    "id": 267,
     "imageURL": "https://m.media-amazon.com/images/I/41Zpxs8rO1L.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS MINI",
@@ -4005,7 +4005,7 @@
     "stock": 0
   },
   {
-    "id": 391,
+    "id": 268,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41NkULr0EjL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G710",
@@ -4020,7 +4020,7 @@
     "stock": 0
   },
   {
-    "id": 392,
+    "id": 269,
     "imageURL": "https://m.media-amazon.com/images/I/217-tpbl0JL.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry JK-0800",
@@ -4035,7 +4035,7 @@
     "stock": 0
   },
   {
-    "id": 393,
+    "id": 270,
     "imageURL": "https://m.media-amazon.com/images/I/41jt1KvD-eL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K400",
@@ -4050,7 +4050,7 @@
     "stock": 0
   },
   {
-    "id": 394,
+    "id": 271,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8d0caec1d43dc4b5d4830dec8354caa7.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK520",
@@ -4065,7 +4065,7 @@
     "stock": 0
   },
   {
-    "id": 395,
+    "id": 272,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/4143AJ3Ud2L.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G110",
@@ -4080,7 +4080,7 @@
     "stock": 0
   },
   {
-    "id": 396,
+    "id": 273,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fdcd8a70bbb6597053d5d3a033dff332.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function",
@@ -4095,7 +4095,7 @@
     "stock": 0
   },
   {
-    "id": 397,
+    "id": 274,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9984389102915b846f3226e1b6acf404.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB RAPIDFIRE",
@@ -4110,7 +4110,7 @@
     "stock": 0
   },
   {
-    "id": 398,
+    "id": 275,
     "imageURL": "https://m.media-amazon.com/images/I/41N34nLIiTL.jpg",
     "manufacturer": "Patriot",
     "name": "Patriot Viper V770",
@@ -4125,7 +4125,7 @@
     "stock": 0
   },
   {
-    "id": 399,
+    "id": 276,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c9b7edb25bcc1b287b5e41dbf94ced37.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master MS110",
@@ -4140,7 +4140,7 @@
     "stock": 0
   },
   {
-    "id": 400,
+    "id": 277,
     "imageURL": "https://m.media-amazon.com/images/I/410LSATVf9L.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow X Chroma Mercury Edition",
@@ -4155,7 +4155,7 @@
     "stock": 0
   },
   {
-    "id": 401,
+    "id": 278,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15110750bd8e49b510be0aba3feeb435.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK295",
@@ -4170,7 +4170,7 @@
     "stock": 0
   },
   {
-    "id": 402,
+    "id": 279,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5a5954d9b4709bd0f17fb1ac9fa95e86.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN 1100",
@@ -4185,7 +4185,7 @@
     "stock": 0
   },
   {
-    "id": 403,
+    "id": 280,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/25fbc917303ad5b1ab70c792390a97b9.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair RGB MK.2 Low Profile RAPIDFIRE",
@@ -4200,7 +4200,7 @@
     "stock": 0
   },
   {
-    "id": 404,
+    "id": 281,
     "imageURL": "https://m.media-amazon.com/images/I/41K+msPUsEL.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW510K Dark side of the moon",
@@ -4215,7 +4215,7 @@
     "stock": 0
   },
   {
-    "id": 405,
+    "id": 282,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6c2e1327eaeb20ce600187267c28c327.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB TKL CHAMPION SERIES",
@@ -4230,7 +4230,7 @@
     "stock": 0
   },
   {
-    "id": 406,
+    "id": 283,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/145eceb74d22dfbf6fbb82f87386711e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Azoth",
@@ -4245,7 +4245,7 @@
     "stock": 0
   },
   {
-    "id": 407,
+    "id": 284,
     "imageURL": "https://m.media-amazon.com/images/I/41oNMagySjL.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft WTA-00001",
@@ -4256,11 +4256,11 @@
     "connectionType": "Wireless",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 649.0,
+    "price": 649,
     "stock": 0
   },
   {
-    "id": 408,
+    "id": 285,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/aa62b76636d7f881a468cfccf4b81461.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 TKL",
@@ -4275,7 +4275,7 @@
     "stock": 0
   },
   {
-    "id": 409,
+    "id": 286,
     "imageURL": "https://m.media-amazon.com/images/I/41Fm7qLQLAL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1",
@@ -4290,7 +4290,7 @@
     "stock": 0
   },
   {
-    "id": 410,
+    "id": 287,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1614e4890dc337c95b480fcd82c4bc7d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K845",
@@ -4305,7 +4305,7 @@
     "stock": 0
   },
   {
-    "id": 411,
+    "id": 288,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/89688ce243e587ef06d4e6a2fd2dda26.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech CRAFT",
@@ -4316,11 +4316,11 @@
     "connectionType": "Wireless",
     "color": "Black",
     "rating": 0,
-    "price": 145.0,
+    "price": 145,
     "stock": 0
   },
   {
-    "id": 412,
+    "id": 289,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fac23376b93e2adda98dba1429879bcd.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -4335,7 +4335,7 @@
     "stock": 0
   },
   {
-    "id": 413,
+    "id": 290,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fe5350505ec6a9689351834877d74b54.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K4 V2",
@@ -4350,7 +4350,7 @@
     "stock": 0
   },
   {
-    "id": 414,
+    "id": 291,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7fed2b2c5bb198ba1d97aff16e866eb1.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK320",
@@ -4365,7 +4365,7 @@
     "stock": 0
   },
   {
-    "id": 415,
+    "id": 292,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51Aav0t2nnL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master Devastator 3",
@@ -4380,7 +4380,7 @@
     "stock": 0
   },
   {
-    "id": 416,
+    "id": 293,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ecf2021ea3d3aeef34e51e3a4916f8d6.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 CORE",
@@ -4395,7 +4395,7 @@
     "stock": 0
   },
   {
-    "id": 417,
+    "id": 294,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1614e4890dc337c95b480fcd82c4bc7d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K845",
@@ -4410,7 +4410,7 @@
     "stock": 0
   },
   {
-    "id": 418,
+    "id": 295,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d0d67fc678efc9aa674f35ded31ec605.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK650",
@@ -4425,7 +4425,7 @@
     "stock": 0
   },
   {
-    "id": 419,
+    "id": 296,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2e2ae3fc96a59aff953e3ea3e6455c00.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K360",
@@ -4440,7 +4440,7 @@
     "stock": 0
   },
   {
-    "id": 420,
+    "id": 297,
     "imageURL": "https://m.media-amazon.com/images/I/41agw3Lr9cL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1",
@@ -4455,7 +4455,7 @@
     "stock": 0
   },
   {
-    "id": 421,
+    "id": 298,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9080f6224a60b6d7ba9d9b8a801815c8.256p.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon Karura K502",
@@ -4470,7 +4470,7 @@
     "stock": 0
   },
   {
-    "id": 422,
+    "id": 299,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9164a7bdf93255b182791d610d3528be.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK295",
@@ -4485,7 +4485,7 @@
     "stock": 0
   },
   {
-    "id": 423,
+    "id": 300,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/96c6b2b522acc69afa7574b28c0f2378.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR GK71 SONIC",
@@ -4500,7 +4500,7 @@
     "stock": 0
   },
   {
-    "id": 424,
+    "id": 301,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/34d9b74d8de364894695b70dd95f0d16.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -4515,7 +4515,7 @@
     "stock": 0
   },
   {
-    "id": 425,
+    "id": 302,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/584d0f9dbcb572c589c6687e80bc55c4.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC GK500",
@@ -4530,7 +4530,7 @@
     "stock": 0
   },
   {
-    "id": 426,
+    "id": 303,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7ede95a043226556fce3aebddf1edbed.256p.jpg",
     "manufacturer": "EVGA",
     "name": "EVGA Z20",
@@ -4545,7 +4545,7 @@
     "stock": 0
   },
   {
-    "id": 427,
+    "id": 304,
     "imageURL": "https://m.media-amazon.com/images/I/51BSKIjrJ7L.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso EasyTouch 625",
@@ -4560,7 +4560,7 @@
     "stock": 0
   },
   {
-    "id": 428,
+    "id": 305,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ba46cdcf2d7d2ed60c6e24261866515a.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X",
@@ -4571,11 +4571,11 @@
     "connectionType": "Wired, Wired, Wireless, Bluetooth Wireless",
     "color": "Pink",
     "rating": 0,
-    "price": 199.0,
+    "price": 199,
     "stock": 0
   },
   {
-    "id": 429,
+    "id": 306,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/99a838eba3fa977d1f197e49bbdec6a4.256p.jpg",
     "manufacturer": "GameMax",
     "name": "GameMax Strike",
@@ -4590,7 +4590,7 @@
     "stock": 0
   },
   {
-    "id": 430,
+    "id": 307,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3635f1e8a1b81ad068b214ee949a9a3a.256p.jpg",
     "manufacturer": "V7",
     "name": "V7 CKW200MX",
@@ -4605,7 +4605,7 @@
     "stock": 0
   },
   {
-    "id": 431,
+    "id": 308,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8da5d0a75c940a101b6effed9d68caac.256p.jpg",
     "manufacturer": "HP",
     "name": "HP Alloy Origins",
@@ -4620,7 +4620,7 @@
     "stock": 0
   },
   {
-    "id": 432,
+    "id": 309,
     "imageURL": "https://m.media-amazon.com/images/I/41A4tphqr4L.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1 Hotswap",
@@ -4635,7 +4635,7 @@
     "stock": 0
   },
   {
-    "id": 433,
+    "id": 310,
     "imageURL": "https://m.media-amazon.com/images/I/31NlEfTTlxL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -4650,7 +4650,7 @@
     "stock": 0
   },
   {
-    "id": 434,
+    "id": 311,
     "imageURL": "https://m.media-amazon.com/images/I/51CwJub0yBL.jpg",
     "manufacturer": "Velocifire",
     "name": "Velocifire TKL78",
@@ -4665,7 +4665,7 @@
     "stock": 0
   },
   {
-    "id": 435,
+    "id": 312,
     "imageURL": "https://m.media-amazon.com/images/I/41ZzPXf2vrL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan TKL Pro",
@@ -4680,7 +4680,7 @@
     "stock": 0
   },
   {
-    "id": 436,
+    "id": 313,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d7de1c28ab7fa4f5795bffd2d1c2ba72.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 V2 Aluminum",
@@ -4695,7 +4695,7 @@
     "stock": 0
   },
   {
-    "id": 437,
+    "id": 314,
     "imageURL": "https://m.media-amazon.com/images/I/51NlhmmBtRL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V4",
@@ -4710,7 +4710,7 @@
     "stock": 0
   },
   {
-    "id": 438,
+    "id": 315,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0e8c0884f5ac1f2c069d83c4fcb5ed8b.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK345",
@@ -4725,7 +4725,7 @@
     "stock": 0
   },
   {
-    "id": 439,
+    "id": 316,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e92465c1711ee127b52ac7da0a68970c.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Mecha Mini v2",
@@ -4740,7 +4740,7 @@
     "stock": 0
   },
   {
-    "id": 440,
+    "id": 317,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b738d3cd9d524e116d1a83d65d6d03e3.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI",
@@ -4755,7 +4755,7 @@
     "stock": 0
   },
   {
-    "id": 441,
+    "id": 318,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/93ffb7c654271e051289c53ce75f3e05.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K75 V2 BR",
@@ -4770,7 +4770,7 @@
     "stock": 0
   },
   {
-    "id": 442,
+    "id": 319,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/45b0317939c539160d3300b4903abf77.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical",
@@ -4785,7 +4785,7 @@
     "stock": 0
   },
   {
-    "id": 443,
+    "id": 320,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/eb5019a5924b045b24cd23513ab9acff.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K51W",
@@ -4800,7 +4800,7 @@
     "stock": 0
   },
   {
-    "id": 444,
+    "id": 321,
     "imageURL": "https://m.media-amazon.com/images/I/41Z78nhF+ML.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G105",
@@ -4815,7 +4815,7 @@
     "stock": 0
   },
   {
-    "id": 445,
+    "id": 322,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e4c7ce1b69434bdf02b03d73586b064c.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 V2 Aluminum",
@@ -4830,7 +4830,7 @@
     "stock": 0
   },
   {
-    "id": 446,
+    "id": 323,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/78eecdb722f77a7bf91d6362fa6aa968.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K380",
@@ -4845,7 +4845,7 @@
     "stock": 0
   },
   {
-    "id": 447,
+    "id": 324,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dd391445b799124aac9607a9d76a3241.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR GK50 LOW PROFILE",
@@ -4860,7 +4860,7 @@
     "stock": 0
   },
   {
-    "id": 448,
+    "id": 325,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ac6aa453f4e2f4850949282d44ec45ca.med.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard 4 Professional",
@@ -4871,11 +4871,11 @@
     "connectionType": "Wired",
     "color": "Black / Red",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 449,
+    "id": 326,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51HQKlPeasL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE RGB",
@@ -4890,7 +4890,7 @@
     "stock": 0
   },
   {
-    "id": 450,
+    "id": 327,
     "imageURL": "https://m.media-amazon.com/images/I/41seZKvZrEL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron Q6",
@@ -4905,7 +4905,7 @@
     "stock": 0
   },
   {
-    "id": 451,
+    "id": 328,
     "imageURL": "https://m.media-amazon.com/images/I/51RCYeFTpfL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE RGB",
@@ -4920,7 +4920,7 @@
     "stock": 0
   },
   {
-    "id": 452,
+    "id": 329,
     "imageURL": "https://m.media-amazon.com/images/I/41JQUG4V1WL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan 121 Aimo RGB",
@@ -4935,7 +4935,7 @@
     "stock": 0
   },
   {
-    "id": 453,
+    "id": 330,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b95223af6b3b7bf3956b58ecc921627.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -4950,7 +4950,7 @@
     "stock": 0
   },
   {
-    "id": 454,
+    "id": 331,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4182d840b58296b57583e59abd2d2b00.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 CORE w/Palmrest",
@@ -4965,7 +4965,7 @@
     "stock": 0
   },
   {
-    "id": 455,
+    "id": 332,
     "imageURL": "https://m.media-amazon.com/images/I/31HM4iG4wrL.jpg",
     "manufacturer": "Dell",
     "name": "Dell KB212-B",
@@ -4980,7 +4980,7 @@
     "stock": 0
   },
   {
-    "id": 456,
+    "id": 333,
     "imageURL": "https://m.media-amazon.com/images/I/41QdjcqpdmL.jpg",
     "manufacturer": "DROP",
     "name": "DROP MDX-31827-11",
@@ -4995,7 +4995,7 @@
     "stock": 0
   },
   {
-    "id": 457,
+    "id": 334,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41PN%2B9qoXSL.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy FPS Pro",
@@ -5010,7 +5010,7 @@
     "stock": 0
   },
   {
-    "id": 458,
+    "id": 335,
     "imageURL": "https://m.media-amazon.com/images/I/41hSrR562hL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Huntsman",
@@ -5025,7 +5025,7 @@
     "stock": 0
   },
   {
-    "id": 459,
+    "id": 336,
     "imageURL": "https://m.media-amazon.com/images/I/41FJm7pIVkL.jpg",
     "manufacturer": "Akko",
     "name": "Akko 5087S Shine-Through",
@@ -5040,7 +5040,7 @@
     "stock": 0
   },
   {
-    "id": 460,
+    "id": 337,
     "imageURL": "https://m.media-amazon.com/images/I/41u7TCArU3S.jpg",
     "manufacturer": "EagleTec",
     "name": "EagleTec KG011-N",
@@ -5055,7 +5055,7 @@
     "stock": 0
   },
   {
-    "id": 461,
+    "id": 338,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4ba71c125561a717b3af370f2b24fe78.256p.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso AKB-111UB",
@@ -5070,7 +5070,7 @@
     "stock": 0
   },
   {
-    "id": 462,
+    "id": 339,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/30eb1ce7212e29ec4dba0ae8ee0c410f.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V3 - Halo Infinite",
@@ -5085,7 +5085,7 @@
     "stock": 0
   },
   {
-    "id": 463,
+    "id": 340,
     "imageURL": "https://m.media-amazon.com/images/I/31NCu7uYzOL.jpg",
     "manufacturer": "HP",
     "name": "HP 631341-B21",
@@ -5100,7 +5100,7 @@
     "stock": 0
   },
   {
-    "id": 464,
+    "id": 341,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/af26abf59b2c6d88982769f4b2776772.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K270",
@@ -5115,7 +5115,7 @@
     "stock": 0
   },
   {
-    "id": 465,
+    "id": 342,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/413eRzzo0%2BL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Blackwidow Ultimate 2013",
@@ -5130,7 +5130,7 @@
     "stock": 0
   },
   {
-    "id": 466,
+    "id": 343,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/150eba76b4a46fcc134d4f5b9d0568d8.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI Ethereal Blue",
@@ -5145,7 +5145,7 @@
     "stock": 0
   },
   {
-    "id": 467,
+    "id": 344,
     "imageURL": "https://m.media-amazon.com/images/I/41jACzIyS8L.jpg",
     "manufacturer": "Razer",
     "name": "Razer Blackwidow Ultimate 2014",
@@ -5160,7 +5160,7 @@
     "stock": 0
   },
   {
-    "id": 468,
+    "id": 345,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1817fb97167a5fa5d38267f2c66bb96a.256p.jpg",
     "manufacturer": "Func",
     "name": "NZXT Function MiniTKL",
@@ -5175,7 +5175,7 @@
     "stock": 0
   },
   {
-    "id": 469,
+    "id": 346,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4676413470cfdbd71feb4b4ddd97eb1d.256p.jpg",
     "manufacturer": "Mad Catz",
     "name": "Mad Catz The Authentic S.T.R.I.K.E. 4",
@@ -5190,7 +5190,7 @@
     "stock": 0
   },
   {
-    "id": 470,
+    "id": 347,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/782ab2566bf612caceefa2b70b5791f2.256p.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT VULCAN 120 AIMO",
@@ -5205,7 +5205,7 @@
     "stock": 0
   },
   {
-    "id": 471,
+    "id": 348,
     "imageURL": "https://m.media-amazon.com/images/I/41MmrLnCk5L.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1 Hotswap",
@@ -5220,7 +5220,7 @@
     "stock": 0
   },
   {
-    "id": 472,
+    "id": 349,
     "imageURL": "https://m.media-amazon.com/images/I/41iTji5rx8L.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix Flare PNK LTD",
@@ -5231,11 +5231,11 @@
     "connectionType": "Wired",
     "color": "Pink / White",
     "rating": 0,
-    "price": 274.0,
+    "price": 274,
     "stock": 0
   },
   {
-    "id": 473,
+    "id": 350,
     "imageURL": "https://m.media-amazon.com/images/I/412y3zTb+cL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K550 RGB YAMA",
@@ -5250,7 +5250,7 @@
     "stock": 0
   },
   {
-    "id": 474,
+    "id": 351,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3fd1df1a0d5f32187d5207d642ffe6e6.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G513 Carbon",
@@ -5265,7 +5265,7 @@
     "stock": 0
   },
   {
-    "id": 475,
+    "id": 352,
     "imageURL": "https://m.media-amazon.com/images/I/411-8f8A-tL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G19",
@@ -5280,7 +5280,7 @@
     "stock": 0
   },
   {
-    "id": 476,
+    "id": 353,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e25a56da0b33780e26dd0cf010cdd948.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Tournament Edition Chroma V2",
@@ -5295,7 +5295,7 @@
     "stock": 0
   },
   {
-    "id": 477,
+    "id": 354,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3e65240252a99521cc5980ddaa26c4c0.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K51B",
@@ -5310,7 +5310,7 @@
     "stock": 0
   },
   {
-    "id": 478,
+    "id": 355,
     "imageURL": "https://m.media-amazon.com/images/I/41eJJEMBFbL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master CK552",
@@ -5325,7 +5325,7 @@
     "stock": 0
   },
   {
-    "id": 479,
+    "id": 356,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/769fd6ff52abc89ff59c40adc34d0981.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical Mini",
@@ -5340,7 +5340,7 @@
     "stock": 0
   },
   {
-    "id": 480,
+    "id": 357,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/49f4e1cd3f6eb885d3d0db146c261f22.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K4 V2",
@@ -5355,7 +5355,7 @@
     "stock": 0
   },
   {
-    "id": 481,
+    "id": 358,
     "imageURL": "https://m.media-amazon.com/images/I/31dy-w-Q6CL.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Desktop 900",
@@ -5370,7 +5370,7 @@
     "stock": 0
   },
   {
-    "id": 482,
+    "id": 359,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/36624f4c75f48685ff03702e5f42bda0.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 RGB TKL",
@@ -5385,7 +5385,7 @@
     "stock": 0
   },
   {
-    "id": 483,
+    "id": 360,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/769fd6ff52abc89ff59c40adc34d0981.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical Mini",
@@ -5400,7 +5400,7 @@
     "stock": 0
   },
   {
-    "id": 484,
+    "id": 361,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0b4d634a85bea39e8e1602a6fea529ef.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS MINI",
@@ -5415,7 +5415,7 @@
     "stock": 0
   },
   {
-    "id": 485,
+    "id": 362,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b850515aa91f5e1bbf333541026b1136.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS S",
@@ -5430,7 +5430,7 @@
     "stock": 0
   },
   {
-    "id": 486,
+    "id": 363,
     "imageURL": "https://m.media-amazon.com/images/I/41rOc0d1cOL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Chroma",
@@ -5445,7 +5445,7 @@
     "stock": 0
   },
   {
-    "id": 487,
+    "id": 364,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/45b0317939c539160d3300b4903abf77.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX Mechanical",
@@ -5460,7 +5460,7 @@
     "stock": 0
   },
   {
-    "id": 488,
+    "id": 365,
     "imageURL": "https://m.media-amazon.com/images/I/41URR3cyUlL.jpg",
     "manufacturer": "DROP",
     "name": "DROP CTRL",
@@ -5471,11 +5471,11 @@
     "connectionType": "Wired",
     "color": "Silver / Black",
     "rating": 0,
-    "price": 220.0,
+    "price": 220,
     "stock": 0
   },
   {
-    "id": 489,
+    "id": 366,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b19e1b2e7734c47a59720cc1ce7cf9bd.256p.jpg",
     "manufacturer": "Verbatim",
     "name": "Verbatim 99793",
@@ -5490,7 +5490,7 @@
     "stock": 0
   },
   {
-    "id": 490,
+    "id": 367,
     "imageURL": "https://m.media-amazon.com/images/I/41sIUm+TWVL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C2 Pro V1 Hotswap",
@@ -5501,11 +5501,11 @@
     "connectionType": "Wired",
     "color": "Black / Gray",
     "rating": 0,
-    "price": 84.0,
+    "price": 84,
     "stock": 0
   },
   {
-    "id": 491,
+    "id": 368,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dc7b369e195b9a7b54e0b7251c1786b9.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI Pastel Twilight",
@@ -5520,7 +5520,7 @@
     "stock": 0
   },
   {
-    "id": 492,
+    "id": 369,
     "imageURL": "https://m.media-amazon.com/images/I/51sURdSbfNL.jpg",
     "manufacturer": "Thermaltake",
     "name": "Thermaltake TT Premium X1 RGB",
@@ -5535,7 +5535,7 @@
     "stock": 0
   },
   {
-    "id": 493,
+    "id": 370,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/412omFDfgJL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries APEX",
@@ -5550,7 +5550,7 @@
     "stock": 0
   },
   {
-    "id": 494,
+    "id": 371,
     "imageURL": "https://m.media-amazon.com/images/I/41HGoZw9-eL.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW510K Lunar Light",
@@ -5565,7 +5565,7 @@
     "stock": 0
   },
   {
-    "id": 495,
+    "id": 372,
     "imageURL": "https://m.media-amazon.com/images/I/41Q4h3iptXL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Vulcan TKL",
@@ -5580,7 +5580,7 @@
     "stock": 0
   },
   {
-    "id": 496,
+    "id": 373,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/00fe28b33f2a82862288d17593bb9ba7.256p.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K585 DITI",
@@ -5595,7 +5595,7 @@
     "stock": 0
   },
   {
-    "id": 497,
+    "id": 374,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c5522d2be5da37710ccaf3d1784b3171.256p.jpg",
     "manufacturer": "Tempest",
     "name": "Tempest Combo 3000",
@@ -5610,7 +5610,7 @@
     "stock": 0
   },
   {
-    "id": 498,
+    "id": 375,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b9019f93ff2bd382a460b07092ac5662.256p.jpg",
     "manufacturer": "Tempest",
     "name": "Tempest K9",
@@ -5625,7 +5625,7 @@
     "stock": 0
   },
   {
-    "id": 499,
+    "id": 376,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d5a8cbce45aa14bab20f09ec21c07471.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB MK.2",
@@ -5640,7 +5640,7 @@
     "stock": 0
   },
   {
-    "id": 500,
+    "id": 377,
     "imageURL": "https://m.media-amazon.com/images/I/413jr8Ic-aL.jpg",
     "manufacturer": "A4Tech",
     "name": "A4Tech Bloody Gaming B975",
@@ -5655,7 +5655,7 @@
     "stock": 0
   },
   {
-    "id": 501,
+    "id": 378,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca08dea7b4a914668e809c3a54052e68.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K75 V2",
@@ -5670,7 +5670,7 @@
     "stock": 0
   },
   {
-    "id": 502,
+    "id": 379,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/094333f1a23c8a98b3496661dac6a385.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy Core RGB UK",
@@ -5685,7 +5685,7 @@
     "stock": 0
   },
   {
-    "id": 503,
+    "id": 380,
     "imageURL": "https://m.media-amazon.com/images/I/31je9tIri1L.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C2 Pro V1 Hotswap",
@@ -5696,11 +5696,11 @@
     "connectionType": "Wired",
     "color": "Black / Gray",
     "rating": 0,
-    "price": 84.0,
+    "price": 84,
     "stock": 0
   },
   {
-    "id": 504,
+    "id": 381,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/76ff29806490246229dfa4a4b37ec8d3.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM UK",
@@ -5715,7 +5715,7 @@
     "stock": 0
   },
   {
-    "id": 505,
+    "id": 382,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5a000e43397169ba48c8d933905cf897.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 CORE",
@@ -5730,7 +5730,7 @@
     "stock": 0
   },
   {
-    "id": 506,
+    "id": 383,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/704075eec759f871962eab7036b2541c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS MINI",
@@ -5745,7 +5745,7 @@
     "stock": 0
   },
   {
-    "id": 507,
+    "id": 384,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d9ed883f8ff0cbf81cd0eba732c0026c.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -5760,7 +5760,7 @@
     "stock": 0
   },
   {
-    "id": 508,
+    "id": 385,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b286d423de9dd7cc3623777cfce86469.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer DeathStalker V2",
@@ -5775,7 +5775,7 @@
     "stock": 0
   },
   {
-    "id": 509,
+    "id": 386,
     "imageURL": "https://m.media-amazon.com/images/I/41wYV0VrjNS.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft ANB-00006",
@@ -5790,7 +5790,7 @@
     "stock": 0
   },
   {
-    "id": 510,
+    "id": 387,
     "imageURL": "https://m.media-amazon.com/images/I/41jQxRj+BaL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K550-W RGB Yama",
@@ -5805,7 +5805,7 @@
     "stock": 0
   },
   {
-    "id": 511,
+    "id": 388,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bfacec2ace3f1e1db0d9b7be63ed1e4d.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo Legion K200",
@@ -5820,7 +5820,7 @@
     "stock": 0
   },
   {
-    "id": 512,
+    "id": 389,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/74ea555f3c0cd11d198d124dcc2b3998.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 RGB",
@@ -5835,7 +5835,7 @@
     "stock": 0
   },
   {
-    "id": 513,
+    "id": 390,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/55cb697ec7eddaf56129ac7b7beded27.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE",
@@ -5850,7 +5850,7 @@
     "stock": 0
   },
   {
-    "id": 514,
+    "id": 391,
     "imageURL": "https://m.media-amazon.com/images/I/415RY5ANMTL.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte Aorus K9",
@@ -5865,7 +5865,7 @@
     "stock": 0
   },
   {
-    "id": 515,
+    "id": 392,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41gpxXv7ZmL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K55 + HARPOON RGB",
@@ -5880,10 +5880,10 @@
     "stock": 0
   },
   {
-    "id": 516,
+    "id": 393,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0f6f1602f22bf951110b730c24ac353.256p.jpg",
     "manufacturer": "MSI",
-    "name": "MSI \u200eVIGOR GK71 SONIC BLUE",
+    "name": "MSI ‎VIGOR GK71 SONIC BLUE",
     "style": "Gaming",
     "switchType": "MSI Sonic Blue",
     "backlit": "RGB",
@@ -5895,7 +5895,7 @@
     "stock": 0
   },
   {
-    "id": 517,
+    "id": 394,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron K8",
@@ -5910,7 +5910,7 @@
     "stock": 0
   },
   {
-    "id": 518,
+    "id": 395,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1d2ebc8f3e59748ffba8230c762d5d43.256p.jpg",
     "manufacturer": "Rosewill",
     "name": "Rosewill NEON K52",
@@ -5925,7 +5925,7 @@
     "stock": 0
   },
   {
-    "id": 519,
+    "id": 396,
     "imageURL": "https://m.media-amazon.com/images/I/41gkEBS9ZjL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries 68095",
@@ -5940,7 +5940,7 @@
     "stock": 0
   },
   {
-    "id": 520,
+    "id": 397,
     "imageURL": "https://m.media-amazon.com/images/I/41MZ9XfAW8L.jpg",
     "manufacturer": "AOC",
     "name": "AOC AGK700",
@@ -5955,7 +5955,7 @@
     "stock": 0
   },
   {
-    "id": 521,
+    "id": 398,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8f8fdd2df4ed9d23cb2265e32c5de6ee.256p.jpg",
     "manufacturer": "ADATA",
     "name": "ADATA XPG INFAREX K10",
@@ -5970,7 +5970,7 @@
     "stock": 0
   },
   {
-    "id": 522,
+    "id": 399,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/30c447538cd96e88e0524b5496e40dd2.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK470",
@@ -5985,7 +5985,7 @@
     "stock": 0
   },
   {
-    "id": 523,
+    "id": 400,
     "imageURL": "https://m.media-amazon.com/images/I/31teGWUn66L.jpg",
     "manufacturer": "Razer",
     "name": "Razer TURRET FOR XBOX ONE",
@@ -6000,7 +6000,7 @@
     "stock": 0
   },
   {
-    "id": 524,
+    "id": 401,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron V6 QMK Knob",
@@ -6015,7 +6015,7 @@
     "stock": 0
   },
   {
-    "id": 525,
+    "id": 402,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a413d864c1358edb8164662d6b45d1b2.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -6026,11 +6026,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 169.0,
+    "price": 169,
     "stock": 0
   },
   {
-    "id": 526,
+    "id": 403,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/48cd7ed3f96d824b6afcc9ba9e5d8cc9.256p.jpg",
     "manufacturer": "Apple",
     "name": "Apple Magic",
@@ -6045,7 +6045,7 @@
     "stock": 0
   },
   {
-    "id": 527,
+    "id": 404,
     "imageURL": "https://m.media-amazon.com/images/I/41phC+aIGBL.jpg",
     "manufacturer": "CyberPowerPC",
     "name": "CyberPowerPC Skorpion K2",
@@ -6060,7 +6060,7 @@
     "stock": 0
   },
   {
-    "id": 528,
+    "id": 405,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3659ca49a17fcd0e9ab619d8a41a8efe.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MK710",
@@ -6075,7 +6075,7 @@
     "stock": 0
   },
   {
-    "id": 529,
+    "id": 406,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/455bd885f289e49f766a4f258f174115.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G Pro X",
@@ -6090,7 +6090,7 @@
     "stock": 0
   },
   {
-    "id": 530,
+    "id": 407,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron C3 Pro",
@@ -6105,7 +6105,7 @@
     "stock": 0
   },
   {
-    "id": 531,
+    "id": 408,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b876941f91741b323d09744d977d7e0c.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK653",
@@ -6120,7 +6120,7 @@
     "stock": 0
   },
   {
-    "id": 532,
+    "id": 409,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/02c6df885ca08693290fc3c8363d8ab0.256p.jpg",
     "manufacturer": "Cougar",
     "name": "Cougar DEATHFIRE EX",
@@ -6135,7 +6135,7 @@
     "stock": 0
   },
   {
-    "id": 533,
+    "id": 410,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2334bccef43c700620de9b5ca0569d64.256p.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon S102",
@@ -6150,7 +6150,7 @@
     "stock": 0
   },
   {
-    "id": 534,
+    "id": 411,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9db748b0c658e7810d761b3a4dedc452.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G Pro X Shroud",
@@ -6165,7 +6165,7 @@
     "stock": 0
   },
   {
-    "id": 535,
+    "id": 412,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca5eda427b0ab48c24c9f4e6b3b9bde5.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70",
@@ -6180,7 +6180,7 @@
     "stock": 0
   },
   {
-    "id": 536,
+    "id": 413,
     "imageURL": "https://m.media-amazon.com/images/I/41OxOxdWsrL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -6195,7 +6195,7 @@
     "stock": 0
   },
   {
-    "id": 537,
+    "id": 414,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8b6bafbd201d2094a565edc74b91778c.256p.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry STREAM XT",
@@ -6210,7 +6210,7 @@
     "stock": 0
   },
   {
-    "id": 538,
+    "id": 415,
     "imageURL": "https://m.media-amazon.com/images/I/414cUBnMedL.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK71",
@@ -6225,7 +6225,7 @@
     "stock": 0
   },
   {
-    "id": 539,
+    "id": 416,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e1e20aa0bfafaba89d3dabe727efaad0.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -6240,7 +6240,7 @@
     "stock": 0
   },
   {
-    "id": 540,
+    "id": 417,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7163514f29ec1a777cad5c3595059ee6.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -6255,7 +6255,7 @@
     "stock": 0
   },
   {
-    "id": 541,
+    "id": 418,
     "imageURL": "https://m.media-amazon.com/images/I/41agw3Lr9cL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron C1 Pro V1",
@@ -6270,7 +6270,7 @@
     "stock": 0
   },
   {
-    "id": 542,
+    "id": 419,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/41963293f89d9cb77de981f98f96dcbc.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI",
@@ -6285,7 +6285,7 @@
     "stock": 0
   },
   {
-    "id": 543,
+    "id": 420,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/66a59048d2dbc9de033fde6589c64fbc.256p.jpg",
     "manufacturer": "Tecware",
     "name": "Tecware Tecware Phantom L",
@@ -6300,7 +6300,7 @@
     "stock": 0
   },
   {
-    "id": 544,
+    "id": 421,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/56ef56588379a6894e684c1f3c0404c5.256p.jpg",
     "manufacturer": "V7",
     "name": "V7 KU200US",
@@ -6315,7 +6315,7 @@
     "stock": 0
   },
   {
-    "id": 545,
+    "id": 422,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e2010faad2b17fd12642885acef78eae.256p.jpg",
     "manufacturer": "EVGA",
     "name": "EVGA Z15",
@@ -6330,7 +6330,7 @@
     "stock": 0
   },
   {
-    "id": 546,
+    "id": 423,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/204c9b8626f4eb76f0bd488f13c3ca4c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -6345,7 +6345,7 @@
     "stock": 0
   },
   {
-    "id": 547,
+    "id": 424,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58dfef93d953f914c5c1da673f20ee29.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming K1",
@@ -6360,7 +6360,7 @@
     "stock": 0
   },
   {
-    "id": 548,
+    "id": 425,
     "imageURL": "https://m.media-amazon.com/images/I/410kbxgXlvL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM XT",
@@ -6375,7 +6375,7 @@
     "stock": 0
   },
   {
-    "id": 549,
+    "id": 426,
     "imageURL": "https://m.media-amazon.com/images/I/31dAfO9Ge1L.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Sculpt Ergonomic Keyboard For Business",
@@ -6390,7 +6390,7 @@
     "stock": 0
   },
   {
-    "id": 550,
+    "id": 427,
     "imageURL": "https://m.media-amazon.com/images/I/51HqCDbyReL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G910 Orion Spark",
@@ -6405,7 +6405,7 @@
     "stock": 0
   },
   {
-    "id": 551,
+    "id": 428,
     "imageURL": "https://m.media-amazon.com/images/I/41L8VgeB1tL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO",
@@ -6420,7 +6420,7 @@
     "stock": 0
   },
   {
-    "id": 552,
+    "id": 429,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7d801f727f474052da6111a0c26d86c1.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 Lightspeed",
@@ -6435,7 +6435,7 @@
     "stock": 0
   },
   {
-    "id": 553,
+    "id": 430,
     "imageURL": "https://m.media-amazon.com/images/I/51gX5zw7QrL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 MAX RGB UK",
@@ -6450,7 +6450,7 @@
     "stock": 0
   },
   {
-    "id": 554,
+    "id": 431,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/413hwrKevYL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech Wireless Combo MK260",
@@ -6465,7 +6465,7 @@
     "stock": 0
   },
   {
-    "id": 555,
+    "id": 432,
     "imageURL": "https://m.media-amazon.com/images/I/41VDmSooZML.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master MK730",
@@ -6476,11 +6476,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 121.0,
+    "price": 121,
     "stock": 0
   },
   {
-    "id": 556,
+    "id": 433,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6dee7997d91d245b46b8ed9002dfd763.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Plastic",
@@ -6495,7 +6495,7 @@
     "stock": 0
   },
   {
-    "id": 557,
+    "id": 434,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c59862c23b727511168f8e974d77f47a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Pro Type Ultra - UK",
@@ -6510,7 +6510,7 @@
     "stock": 0
   },
   {
-    "id": 558,
+    "id": 435,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/411MPQGAxxL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K360",
@@ -6525,7 +6525,7 @@
     "stock": 0
   },
   {
-    "id": 559,
+    "id": 436,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c909b5636bf482c2e65507d197683f9a.med.256p.jpg",
     "manufacturer": "A4Tech",
     "name": "A4Tech 9300F",
@@ -6540,7 +6540,7 @@
     "stock": 0
   },
   {
-    "id": 560,
+    "id": 437,
     "imageURL": "https://m.media-amazon.com/images/I/41URR3cyUlL.jpg",
     "manufacturer": "DROP",
     "name": "DROP CTRL",
@@ -6551,11 +6551,11 @@
     "connectionType": "Wired",
     "color": "Silver / Black",
     "rating": 0,
-    "price": 220.0,
+    "price": 220,
     "stock": 0
   },
   {
-    "id": 561,
+    "id": 438,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f6952df9aea8e6df2f46468c1e10c508.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 LUX RGB",
@@ -6570,7 +6570,7 @@
     "stock": 0
   },
   {
-    "id": 562,
+    "id": 439,
     "imageURL": "https://m.media-amazon.com/images/I/31++aYzbpWL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K63 Lapboard Combo (MX Red w/Blue LED)",
@@ -6585,7 +6585,7 @@
     "stock": 0
   },
   {
-    "id": 563,
+    "id": 440,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dfca36f2667c1e609e239f5dcd9daf0a.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy FPS RGB",
@@ -6600,7 +6600,7 @@
     "stock": 0
   },
   {
-    "id": 564,
+    "id": 441,
     "imageURL": "https://m.media-amazon.com/images/I/411-lvdsqPL.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK71",
@@ -6615,7 +6615,7 @@
     "stock": 0
   },
   {
-    "id": 565,
+    "id": 442,
     "imageURL": "https://m.media-amazon.com/images/I/51v1VC6k6uL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K63 Special Edition (MX Red)",
@@ -6630,7 +6630,7 @@
     "stock": 0
   },
   {
-    "id": 566,
+    "id": 443,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/25b504995a0b89a71332eaf5a46a34ef.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Pro Type Ultra - FR",
@@ -6645,7 +6645,7 @@
     "stock": 0
   },
   {
-    "id": 567,
+    "id": 444,
     "imageURL": "https://m.media-amazon.com/images/I/41sb8-gshQL.jpg",
     "manufacturer": "Drevo",
     "name": "Drevo BladeMaster TE RGB",
@@ -6660,7 +6660,7 @@
     "stock": 0
   },
   {
-    "id": 568,
+    "id": 445,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e58afa1423f0d9f876a5d4dfb97a655e.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K60 RGB Pro",
@@ -6675,7 +6675,7 @@
     "stock": 0
   },
   {
-    "id": 569,
+    "id": 446,
     "imageURL": "https://m.media-amazon.com/images/I/41OxOxdWsrL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -6690,7 +6690,7 @@
     "stock": 0
   },
   {
-    "id": 570,
+    "id": 447,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5f220386aac7c038abea5bb04623fa6c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -6705,7 +6705,7 @@
     "stock": 0
   },
   {
-    "id": 571,
+    "id": 448,
     "imageURL": "https://m.media-amazon.com/images/I/41WRk5qAfoL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K582-BA",
@@ -6720,7 +6720,7 @@
     "stock": 0
   },
   {
-    "id": 572,
+    "id": 449,
     "imageURL": "https://images-fe.ssl-images-amazon.com/images/I/41qtg%2Bh7jAL.jpg",
     "manufacturer": "A4Tech",
     "name": "A4Tech KD-600L",
@@ -6735,7 +6735,7 @@
     "stock": 0
   },
   {
-    "id": 573,
+    "id": 450,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/3141nzCDO6L.jpg",
     "manufacturer": "HP",
     "name": "HP Wireless Classic Desktop",
@@ -6750,7 +6750,7 @@
     "stock": 0
   },
   {
-    "id": 574,
+    "id": 451,
     "imageURL": "https://m.media-amazon.com/images/I/51cnMpT59+L.jpg",
     "manufacturer": "Rii",
     "name": "Rii RK105",
@@ -6765,7 +6765,7 @@
     "stock": 0
   },
   {
-    "id": 575,
+    "id": 452,
     "imageURL": "https://m.media-amazon.com/images/I/31p4lTPS9NL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G915 Lightspeed",
@@ -6780,7 +6780,7 @@
     "stock": 0
   },
   {
-    "id": 576,
+    "id": 453,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a5708fc3120d76b3b8350585e9c7320e.med.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard 4 Ultimate",
@@ -6791,11 +6791,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 577,
+    "id": 454,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2ee54b0891f88e468cf2218996f5b753.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB RAPIDFIRE",
@@ -6810,7 +6810,7 @@
     "stock": 0
   },
   {
-    "id": 578,
+    "id": 455,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7625b70269f96f8f7fab40626680d6f3.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -6825,7 +6825,7 @@
     "stock": 0
   },
   {
-    "id": 579,
+    "id": 456,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dc9a99e9f680963f203aa97fcceca6eb.256p.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry MX-Board 3.0 Keyboard",
@@ -6840,7 +6840,7 @@
     "stock": 0
   },
   {
-    "id": 580,
+    "id": 457,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron K8",
@@ -6855,7 +6855,7 @@
     "stock": 0
   },
   {
-    "id": 581,
+    "id": 458,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/43597575838d1d4e60b9a108ea4ddff2.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard Prime 13",
@@ -6866,11 +6866,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 582,
+    "id": 459,
     "imageURL": "https://m.media-amazon.com/images/I/317fNA5CHAL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -6885,7 +6885,7 @@
     "stock": 0
   },
   {
-    "id": 583,
+    "id": 460,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e90a4a5b1898f374dcc1f03b2bc031e2.256p.jpg",
     "manufacturer": "Kensington",
     "name": "Kensington Pro Fit Ergo Bundle",
@@ -6900,7 +6900,7 @@
     "stock": 0
   },
   {
-    "id": 584,
+    "id": 461,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/313963db3a386ff547e55c5f0705736e.256p.jpg",
     "manufacturer": "Thermaltake",
     "name": "Thermaltake Level 20 RGB Titanium",
@@ -6915,7 +6915,7 @@
     "stock": 0
   },
   {
-    "id": 585,
+    "id": 462,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/44aa5e0671caac80ee890f72ae72f2ea.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS MINI",
@@ -6930,7 +6930,7 @@
     "stock": 0
   },
   {
-    "id": 586,
+    "id": 463,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/213701864eb53dca8a5f453b96e7666e.256p.jpg",
     "manufacturer": "SIIG",
     "name": "SIIG JK-US0012-S1",
@@ -6945,7 +6945,7 @@
     "stock": 0
   },
   {
-    "id": 587,
+    "id": 464,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a413d864c1358edb8164662d6b45d1b2.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -6960,7 +6960,7 @@
     "stock": 0
   },
   {
-    "id": 588,
+    "id": 465,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/18262ae156eb32914aacf2245b9f4fcb.256p.jpg",
     "manufacturer": "Trust",
     "name": "Trust GXT 860 Thura",
@@ -6975,7 +6975,7 @@
     "stock": 0
   },
   {
-    "id": 589,
+    "id": 466,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dbd3a3ad3ca5b0e36f38b4a7eb7d9c16.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard 4Q",
@@ -6986,11 +6986,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 199.0,
+    "price": 199,
     "stock": 0
   },
   {
-    "id": 590,
+    "id": 467,
     "imageURL": "https://m.media-amazon.com/images/I/41sG9xg-HaL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Hot-swappable",
@@ -7005,7 +7005,7 @@
     "stock": 0
   },
   {
-    "id": 591,
+    "id": 468,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ccb4ea08566888ed1d9d61a1ab245ad3.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master CK720 US",
@@ -7020,7 +7020,7 @@
     "stock": 0
   },
   {
-    "id": 592,
+    "id": 469,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/243332025772527df528aa7ebc196f62.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR GK71 SONIC",
@@ -7035,7 +7035,7 @@
     "stock": 0
   },
   {
-    "id": 593,
+    "id": 470,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41gRKQiaICL.jpg",
     "manufacturer": "Razer",
     "name": "Razer DeathStalker",
@@ -7050,7 +7050,7 @@
     "stock": 0
   },
   {
-    "id": 594,
+    "id": 471,
     "imageURL": "https://m.media-amazon.com/images/I/41l23ZN4pAL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Blackwidow X Chroma",
@@ -7065,7 +7065,7 @@
     "stock": 0
   },
   {
-    "id": 595,
+    "id": 472,
     "imageURL": "https://m.media-amazon.com/images/I/41ZciQU9blL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K552-RGB",
@@ -7080,7 +7080,7 @@
     "stock": 0
   },
   {
-    "id": 596,
+    "id": 473,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0e050ed9285af7d35facc6d95303dcf0.256p.jpg",
     "manufacturer": "Leopold",
     "name": "Leopold FC750R Black PD",
@@ -7095,7 +7095,7 @@
     "stock": 0
   },
   {
-    "id": 597,
+    "id": 474,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/911622d1343abb823c6fd2e3f22afafb.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -7110,7 +7110,7 @@
     "stock": 0
   },
   {
-    "id": 598,
+    "id": 475,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/429cb42405d4a522994d2f8850dceba9.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK653",
@@ -7125,7 +7125,7 @@
     "stock": 0
   },
   {
-    "id": 599,
+    "id": 476,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/633e35b68a882c70a3e6a3fa49bf3369.256p.jpg",
     "manufacturer": "Patriot",
     "name": "Patriot Viper V765",
@@ -7140,7 +7140,7 @@
     "stock": 0
   },
   {
-    "id": 600,
+    "id": 477,
     "imageURL": "https://m.media-amazon.com/images/I/41JOPK7MAiL.jpg",
     "manufacturer": "Zalman",
     "name": "Zalman ZM-K300M",
@@ -7155,7 +7155,7 @@
     "stock": 0
   },
   {
-    "id": 601,
+    "id": 478,
     "imageURL": "https://m.media-amazon.com/images/I/41LWNuwxlLL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech Wireless All-in-One Keyboard TK820",
@@ -7170,7 +7170,7 @@
     "stock": 0
   },
   {
-    "id": 602,
+    "id": 479,
     "imageURL": "https://m.media-amazon.com/images/I/415bMvYtuVL.jpg",
     "manufacturer": "Qisan",
     "name": "Qisan Magicforce",
@@ -7185,7 +7185,7 @@
     "stock": 0
   },
   {
-    "id": 603,
+    "id": 480,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/492ea51acd11d141fcf0963b0c01ca93.256p.jpg",
     "manufacturer": "Tempest",
     "name": "Tempest K8",
@@ -7200,7 +7200,7 @@
     "stock": 0
   },
   {
-    "id": 604,
+    "id": 481,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6f0f91d9082319731a377fcac3da9d52.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI Pink Elixir",
@@ -7215,7 +7215,7 @@
     "stock": 0
   },
   {
-    "id": 605,
+    "id": 482,
     "imageURL": "https://m.media-amazon.com/images/I/415laQslyuL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -7230,7 +7230,7 @@
     "stock": 0
   },
   {
-    "id": 606,
+    "id": 483,
     "imageURL": "https://m.media-amazon.com/images/I/41qPIt8rhYL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Tournament Edition Chroma",
@@ -7245,7 +7245,7 @@
     "stock": 0
   },
   {
-    "id": 607,
+    "id": 484,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/644069c97cf3c1c372d3b14aa6be8e93.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G610",
@@ -7260,7 +7260,7 @@
     "stock": 0
   },
   {
-    "id": 608,
+    "id": 485,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ee4055d6ff91bead5807c88789bed72a.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G513 Carbon",
@@ -7275,7 +7275,7 @@
     "stock": 0
   },
   {
-    "id": 609,
+    "id": 486,
     "imageURL": "https://m.media-amazon.com/images/I/416U7xJQGIL.jpg",
     "manufacturer": "HAVIT",
     "name": "HAVIT HV-KB395L",
@@ -7290,7 +7290,7 @@
     "stock": 0
   },
   {
-    "id": 610,
+    "id": 487,
     "imageURL": "https://m.media-amazon.com/images/I/411-lvdsqPL.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK71",
@@ -7305,7 +7305,7 @@
     "stock": 0
   },
   {
-    "id": 611,
+    "id": 488,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e20fb09235a1d3ae7c51f13b4c6893d8.256p.jpg",
     "manufacturer": "Varmilo",
     "name": "Varmilo Miya68-C Panda R2",
@@ -7320,7 +7320,7 @@
     "stock": 0
   },
   {
-    "id": 612,
+    "id": 489,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b95223af6b3b7bf3956b58ecc921627.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -7335,7 +7335,7 @@
     "stock": 0
   },
   {
-    "id": 613,
+    "id": 490,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9f04960792757a156d0e0713d9494132.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K780",
@@ -7350,7 +7350,7 @@
     "stock": 0
   },
   {
-    "id": 614,
+    "id": 491,
     "imageURL": "https://m.media-amazon.com/images/I/31t45B5HO3L.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB PRO UK",
@@ -7365,7 +7365,7 @@
     "stock": 0
   },
   {
-    "id": 615,
+    "id": 492,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/915db168bbaf69199d5f76b17fdc780b.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 RGB TKL",
@@ -7380,7 +7380,7 @@
     "stock": 0
   },
   {
-    "id": 616,
+    "id": 493,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a22119e981e024b00d2a5652722e2e5b.256p.jpg",
     "manufacturer": "HP",
     "name": "HP Pavilion 500",
@@ -7395,7 +7395,7 @@
     "stock": 0
   },
   {
-    "id": 617,
+    "id": 494,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/11c64971a3d9d663ccd9650a9fe075a3.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo Legion K500 RGB",
@@ -7410,7 +7410,7 @@
     "stock": 0
   },
   {
-    "id": 618,
+    "id": 495,
     "imageURL": "https://m.media-amazon.com/images/I/41Nch4t-Y2L.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Desktop 850",
@@ -7425,7 +7425,7 @@
     "stock": 0
   },
   {
-    "id": 619,
+    "id": 496,
     "imageURL": "https://m.media-amazon.com/images/I/41cBp9F8ulL.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso AKB-132PB",
@@ -7440,7 +7440,7 @@
     "stock": 0
   },
   {
-    "id": 620,
+    "id": 497,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/eb4a5e788abbca73712c82187edb0269.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 LUX (MX Red)",
@@ -7455,7 +7455,7 @@
     "stock": 0
   },
   {
-    "id": 621,
+    "id": 498,
     "imageURL": "https://m.media-amazon.com/images/I/41VDmSooZML.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master MK730",
@@ -7470,7 +7470,7 @@
     "stock": 0
   },
   {
-    "id": 622,
+    "id": 499,
     "imageURL": "https://m.media-amazon.com/images/I/31hpUt1HHFL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Hot-swappable",
@@ -7485,7 +7485,7 @@
     "stock": 0
   },
   {
-    "id": 623,
+    "id": 500,
     "imageURL": "https://m.media-amazon.com/images/I/415laQslyuL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -7500,7 +7500,7 @@
     "stock": 0
   },
   {
-    "id": 624,
+    "id": 501,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/aac8eec8a6756417e38b1e9eac891800.256p.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Natural Ergonomic Keyboard 4000",
@@ -7515,7 +7515,7 @@
     "stock": 0
   },
   {
-    "id": 625,
+    "id": 502,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41ef3lwJX6L.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Ultimate",
@@ -7530,7 +7530,7 @@
     "stock": 0
   },
   {
-    "id": 626,
+    "id": 503,
     "imageURL": "https://m.media-amazon.com/images/I/41J2JmZLt9L.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries 6GV/2",
@@ -7545,7 +7545,7 @@
     "stock": 0
   },
   {
-    "id": 627,
+    "id": 504,
     "imageURL": "https://m.media-amazon.com/images/I/51eBcBDv8RL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master MasterKeys Pro S",
@@ -7560,7 +7560,7 @@
     "stock": 0
   },
   {
-    "id": 628,
+    "id": 505,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9644b19efdd9f1eacd9be9e5726d1b14.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Claymore",
@@ -7575,7 +7575,7 @@
     "stock": 0
   },
   {
-    "id": 629,
+    "id": 506,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41Xv7qBBcrL.jpg",
     "manufacturer": "Unicomp",
     "name": "Unicomp Ultra Classic Black",
@@ -7590,7 +7590,7 @@
     "stock": 0
   },
   {
-    "id": 630,
+    "id": 507,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron K8 Aluminum Frame",
@@ -7605,7 +7605,7 @@
     "stock": 0
   },
   {
-    "id": 631,
+    "id": 508,
     "imageURL": "https://m.media-amazon.com/images/I/41S4fRe6z6L.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K615 Elise",
@@ -7620,7 +7620,7 @@
     "stock": 0
   },
   {
-    "id": 632,
+    "id": 509,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b95223af6b3b7bf3956b58ecc921627.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Ducky One 2 SF RGB",
@@ -7635,7 +7635,7 @@
     "stock": 0
   },
   {
-    "id": 633,
+    "id": 510,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f671c07308497783eca72ba54d69654b.256p.jpg",
     "manufacturer": "Tempest",
     "name": "Tempest Doom",
@@ -7650,7 +7650,7 @@
     "stock": 0
   },
   {
-    "id": 634,
+    "id": 511,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/51776f2d9385eacfa5355b28ad0ec4d6.256p.jpg",
     "manufacturer": "SIIG",
     "name": "SIIG JK-WR0T12-S1",
@@ -7665,7 +7665,7 @@
     "stock": 0
   },
   {
-    "id": 635,
+    "id": 512,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2520c936ddc4a4acfa4c5ee169c33426.256p.jpg",
     "manufacturer": "HP",
     "name": "HP Z9N38AA#ABA",
@@ -7680,7 +7680,7 @@
     "stock": 0
   },
   {
-    "id": 636,
+    "id": 513,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1b8bcf5c03e6784c9175d9e9821a8705.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Tartarus Pro",
@@ -7695,7 +7695,7 @@
     "stock": 0
   },
   {
-    "id": 637,
+    "id": 514,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd2183b29a351d6551a98200f2215337.med.256p.jpg",
     "manufacturer": "Das Keyboard",
     "name": "Das Keyboard Model S Professional",
@@ -7706,11 +7706,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 638,
+    "id": 515,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7d1b6a899dd1e1ce524301a39cbcd89e.256p.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso AKB-160UB",
@@ -7725,7 +7725,7 @@
     "stock": 0
   },
   {
-    "id": 639,
+    "id": 516,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Keychron",
     "name": "Keychron K1 SE",
@@ -7740,7 +7740,7 @@
     "stock": 0
   },
   {
-    "id": 640,
+    "id": 517,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a1108e004dbb05a3923d072f0e04ecb.256p.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft APB-00001",
@@ -7755,7 +7755,7 @@
     "stock": 0
   },
   {
-    "id": 641,
+    "id": 518,
     "imageURL": "https://m.media-amazon.com/images/I/41IdGAeCq7L.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso Multimedia Desktop Keyboard",
@@ -7770,7 +7770,7 @@
     "stock": 0
   },
   {
-    "id": 642,
+    "id": 519,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6a142c60e9742d0d2776a3474553c4fa.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 Mini",
@@ -7785,7 +7785,7 @@
     "stock": 0
   },
   {
-    "id": 643,
+    "id": 520,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9322d504595cdc67217558940b2257ea.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky Mecha Mini v2",
@@ -7800,7 +7800,7 @@
     "stock": 0
   },
   {
-    "id": 644,
+    "id": 521,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/312543121dfbd6be1fb26bce82ee3eba.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K800",
@@ -7815,7 +7815,7 @@
     "stock": 0
   },
   {
-    "id": 645,
+    "id": 522,
     "imageURL": "https://m.media-amazon.com/images/I/41eURpw0eQL.jpg",
     "manufacturer": "Zalman",
     "name": "Zalman ZM-K400G",
@@ -7830,7 +7830,7 @@
     "stock": 0
   },
   {
-    "id": 646,
+    "id": 523,
     "imageURL": "https://m.media-amazon.com/images/I/51-MO2liOtL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 RGB MK.2",
@@ -7845,7 +7845,7 @@
     "stock": 0
   },
   {
-    "id": 647,
+    "id": 524,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/08568194d5d9ee295869af2281726295.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 Mini",
@@ -7860,7 +7860,7 @@
     "stock": 0
   },
   {
-    "id": 648,
+    "id": 525,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a959584c10934ad41390c98e70d7a088.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 SE",
@@ -7875,7 +7875,7 @@
     "stock": 0
   },
   {
-    "id": 649,
+    "id": 526,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/57bc454b87441ceb8ac6591bda4adab3.256p.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry G80-8113LUVEU-2",
@@ -7886,11 +7886,11 @@
     "connectionType": "Wired",
     "color": "Black",
     "rating": 0,
-    "price": 299.0,
+    "price": 299,
     "stock": 0
   },
   {
-    "id": 650,
+    "id": 527,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca5eda427b0ab48c24c9f4e6b3b9bde5.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70",
@@ -7905,7 +7905,7 @@
     "stock": 0
   },
   {
-    "id": 651,
+    "id": 528,
     "imageURL": "https://m.media-amazon.com/images/I/5160VLaxuHL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB",
@@ -7920,7 +7920,7 @@
     "stock": 0
   },
   {
-    "id": 652,
+    "id": 529,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41HW9By4uBL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K95 RGB PLATINUM DE",
@@ -7935,7 +7935,7 @@
     "stock": 0
   },
   {
-    "id": 653,
+    "id": 530,
     "imageURL": "https://m.media-amazon.com/images/I/41xZM+f4yyL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Chroma V2",
@@ -7950,7 +7950,7 @@
     "stock": 0
   },
   {
-    "id": 654,
+    "id": 531,
     "imageURL": "https://m.media-amazon.com/images/I/41bvfYxerfL.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Alloy FPS",
@@ -7965,7 +7965,7 @@
     "stock": 0
   },
   {
-    "id": 655,
+    "id": 532,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae999bf5ba82b837164529451ecb66b2.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW768",
@@ -7980,7 +7980,7 @@
     "stock": 0
   },
   {
-    "id": 656,
+    "id": 533,
     "imageURL": "https://m.media-amazon.com/images/I/41xcyEnjvFS.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master SK621",
@@ -7995,7 +7995,7 @@
     "stock": 0
   },
   {
-    "id": 657,
+    "id": 534,
     "imageURL": "https://m.media-amazon.com/images/I/41OFT1CRHHL.jpg",
     "manufacturer": "AUKEY",
     "name": "AUKEY KM-G12",
@@ -8010,7 +8010,7 @@
     "stock": 0
   },
   {
-    "id": 658,
+    "id": 535,
     "imageURL": "https://m.media-amazon.com/images/I/41Yq0ryBNJL.jpg",
     "manufacturer": "iKBC",
     "name": "iKBC CD87 v2",
@@ -8025,7 +8025,7 @@
     "stock": 0
   },
   {
-    "id": 659,
+    "id": 536,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/175edc9439d7f1bee8361560b0c3980b.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Plastic",
@@ -8040,7 +8040,7 @@
     "stock": 0
   },
   {
-    "id": 660,
+    "id": 537,
     "imageURL": "https://m.media-amazon.com/images/I/31YNA0bWioL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K5 SE",
@@ -8055,7 +8055,7 @@
     "stock": 0
   },
   {
-    "id": 661,
+    "id": 538,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3c9b8f9281fff08f96b6186fb3cc89ac.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 MAX RGB DE",
@@ -8070,7 +8070,7 @@
     "stock": 0
   },
   {
-    "id": 662,
+    "id": 539,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6762efbe01e6a0da3d23fe94267b09f2.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow V4 Pro",
@@ -8085,7 +8085,7 @@
     "stock": 0
   },
   {
-    "id": 663,
+    "id": 540,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5e4c6dbceb4df0e4db4cee038713d690.256p.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry G80-1800 Keyboard",
@@ -8100,7 +8100,7 @@
     "stock": 0
   },
   {
-    "id": 664,
+    "id": 541,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1614e4890dc337c95b480fcd82c4bc7d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K845",
@@ -8115,7 +8115,7 @@
     "stock": 0
   },
   {
-    "id": 665,
+    "id": 542,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b890c5e40f8193c59bdef211469c491f.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master CK720 UK",
@@ -8130,7 +8130,7 @@
     "stock": 0
   },
   {
-    "id": 666,
+    "id": 543,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41uGPClFIAL.jpg",
     "manufacturer": "Kensington",
     "name": "Kensington K64370A",
@@ -8145,7 +8145,7 @@
     "stock": 0
   },
   {
-    "id": 667,
+    "id": 544,
     "imageURL": "https://m.media-amazon.com/images/I/41VuEIj7rBL.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso Antimicrobial Waterproof Flex Keyboard",
@@ -8160,7 +8160,7 @@
     "stock": 0
   },
   {
-    "id": 668,
+    "id": 545,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8bfe4b50a72e7e35b0d59e4f0c58a325.256p.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft QSZ-00001",
@@ -8175,7 +8175,7 @@
     "stock": 0
   },
   {
-    "id": 669,
+    "id": 546,
     "imageURL": "https://m.media-amazon.com/images/I/41+HkrQtpIL.jpg",
     "manufacturer": "Qisan",
     "name": "Qisan CCDY003COOT6",
@@ -8190,7 +8190,7 @@
     "stock": 0
   },
   {
-    "id": 670,
+    "id": 547,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4ec63374f35ceafd71fc966c0bcff7f4.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackWidow Ultimate",
@@ -8205,7 +8205,7 @@
     "stock": 0
   },
   {
-    "id": 671,
+    "id": 548,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9ace50c71b8649299a8476e160c8b699.256p.jpg",
     "manufacturer": "Mad Catz",
     "name": "Mad Catz The Authentic S.T.R.I.K.E. 2",
@@ -8220,7 +8220,7 @@
     "stock": 0
   },
   {
-    "id": 672,
+    "id": 549,
     "imageURL": "https://m.media-amazon.com/images/I/418tKEbduZL.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo Preferred Pro",
@@ -8235,7 +8235,7 @@
     "stock": 0
   },
   {
-    "id": 673,
+    "id": 550,
     "imageURL": "https://m.media-amazon.com/images/I/41lUgMjXTKL.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Vengeance K65 Compact Mechanical Gaming Keyboard",
@@ -8250,7 +8250,7 @@
     "stock": 0
   },
   {
-    "id": 674,
+    "id": 551,
     "imageURL": "https://m.media-amazon.com/images/I/41ERl-EUL8L.jpg",
     "manufacturer": "i-rocks",
     "name": "i-rocks RF-6577L-BK",
@@ -8265,7 +8265,7 @@
     "stock": 0
   },
   {
-    "id": 675,
+    "id": 552,
     "imageURL": "https://m.media-amazon.com/images/I/31hpUt1HHFL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Hot-swappable",
@@ -8280,7 +8280,7 @@
     "stock": 0
   },
   {
-    "id": 676,
+    "id": 553,
     "imageURL": "https://m.media-amazon.com/images/I/41G3cWfXN-L.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS K7",
@@ -8295,7 +8295,7 @@
     "stock": 0
   },
   {
-    "id": 677,
+    "id": 554,
     "imageURL": "https://m.media-amazon.com/images/I/51OUzmd7SrL.jpg",
     "manufacturer": "FNATIC",
     "name": "FNATIC miniSTREAK RGB",
@@ -8310,7 +8310,7 @@
     "stock": 0
   },
   {
-    "id": 678,
+    "id": 555,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41yQG-xpzhL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master Storm QuickFire Rapid",
@@ -8325,7 +8325,7 @@
     "stock": 0
   },
   {
-    "id": 679,
+    "id": 556,
     "imageURL": "https://m.media-amazon.com/images/I/41VTF+Um25L.jpg",
     "manufacturer": "Panasonic",
     "name": "Panasonic iKey",
@@ -8340,7 +8340,7 @@
     "stock": 0
   },
   {
-    "id": 680,
+    "id": 557,
     "imageURL": "https://m.media-amazon.com/images/I/41paELlhnZL.jpg",
     "manufacturer": "Aula",
     "name": "Aula SHIHUNZAN",
@@ -8355,7 +8355,7 @@
     "stock": 0
   },
   {
-    "id": 681,
+    "id": 558,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4bd5e008c9be4ea5df0a8b9dfded008d.256p.jpg",
     "manufacturer": "WASD",
     "name": "WASD CODE",
@@ -8370,7 +8370,7 @@
     "stock": 0
   },
   {
-    "id": 682,
+    "id": 559,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2090ee854d32f9fe1520d549b10298f6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus Cerberus",
@@ -8385,7 +8385,7 @@
     "stock": 0
   },
   {
-    "id": 683,
+    "id": 560,
     "imageURL": "https://m.media-amazon.com/images/I/41RO8OUXrbL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G413 Silver",
@@ -8400,7 +8400,7 @@
     "stock": 0
   },
   {
-    "id": 684,
+    "id": 561,
     "imageURL": "https://m.media-amazon.com/images/I/4178sBJ+p2L.jpg",
     "manufacturer": "Razer",
     "name": "Razer Orbweaver Chroma Elite RGB Gaming Keypad",
@@ -8415,7 +8415,7 @@
     "stock": 0
   },
   {
-    "id": 685,
+    "id": 562,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Tecware",
     "name": "Tecware Phantom RGB TKL",
@@ -8430,7 +8430,7 @@
     "stock": 0
   },
   {
-    "id": 686,
+    "id": 563,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/531f141d5d94d32bf800e0bc71d7532c.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master CK550",
@@ -8445,7 +8445,7 @@
     "stock": 0
   },
   {
-    "id": 687,
+    "id": 564,
     "imageURL": "https://m.media-amazon.com/images/I/414cUBnMedL.jpg",
     "manufacturer": "RK Royal Kludge",
     "name": "RK Royal Kludge RK71",
@@ -8460,7 +8460,7 @@
     "stock": 0
   },
   {
-    "id": 688,
+    "id": 565,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/455bd885f289e49f766a4f258f174115.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G Pro X",
@@ -8475,7 +8475,7 @@
     "stock": 0
   },
   {
-    "id": 689,
+    "id": 566,
     "imageURL": "https://m.media-amazon.com/images/I/41m5v4R31sL.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming K3",
@@ -8490,7 +8490,7 @@
     "stock": 0
   },
   {
-    "id": 690,
+    "id": 567,
     "imageURL": "https://m.media-amazon.com/images/I/41fXZZ1SngL.jpg",
     "manufacturer": "Akko",
     "name": "Akko 5087S Shine-Through",
@@ -8505,7 +8505,7 @@
     "stock": 0
   },
   {
-    "id": 691,
+    "id": 568,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f458c483bbf6dfe36b6fc3d0529d40ab.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -8520,7 +8520,7 @@
     "stock": 0
   },
   {
-    "id": 692,
+    "id": 569,
     "imageURL": "https://m.media-amazon.com/images/I/31KEK5mqQZL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -8535,7 +8535,7 @@
     "stock": 0
   },
   {
-    "id": 693,
+    "id": 570,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2386b2354ae6109a43fa527cc14ba5e1.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI VIGOR",
@@ -8550,7 +8550,7 @@
     "stock": 0
   },
   {
-    "id": 694,
+    "id": 571,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/19df229e31f32a844fae69556245eda6.256p.jpg",
     "manufacturer": "Targus",
     "name": "Targus KB55",
@@ -8565,7 +8565,7 @@
     "stock": 0
   },
   {
-    "id": 695,
+    "id": 572,
     "imageURL": "https://m.media-amazon.com/images/I/51X2NElKZjL.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso EasyTouch 132",
@@ -8580,7 +8580,7 @@
     "stock": 0
   },
   {
-    "id": 696,
+    "id": 573,
     "imageURL": "https://m.media-amazon.com/images/I/21uxtfySjJL.jpg",
     "manufacturer": "Microsoft",
     "name": "Microsoft Designer Bluetooth Desktop",
@@ -8595,7 +8595,7 @@
     "stock": 0
   },
   {
-    "id": 697,
+    "id": 574,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/00ad2ca27586c4237e2ec7791e804a11.256p.jpg",
     "manufacturer": "Cherry",
     "name": "Cherry G80-3000LSCEU-2",
@@ -8610,7 +8610,7 @@
     "stock": 0
   },
   {
-    "id": 698,
+    "id": 575,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41Y5xkBOd1L.jpg",
     "manufacturer": "Cobra",
     "name": "Cobra Polygon",
@@ -8625,7 +8625,7 @@
     "stock": 0
   },
   {
-    "id": 699,
+    "id": 576,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fa94cc5ae0139839408f6504b3691013.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech MX KEYS S",
@@ -8640,7 +8640,7 @@
     "stock": 0
   },
   {
-    "id": 700,
+    "id": 577,
     "imageURL": "https://m.media-amazon.com/images/I/410sULesd2L.jpg",
     "manufacturer": "Perixx",
     "name": "Perixx PERIDUO-707W PLUS",
@@ -8655,7 +8655,7 @@
     "stock": 0
   },
   {
-    "id": 701,
+    "id": 578,
     "imageURL": "https://m.media-amazon.com/images/I/515xjsQsgEL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE2 SKYLINE",
@@ -8670,7 +8670,7 @@
     "stock": 0
   },
   {
-    "id": 702,
+    "id": 579,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2f89152f54c12fd290813dba52593149.256p.jpg",
     "manufacturer": "AZIO",
     "name": "AZIO Large Print Tri-Color Illuminated Keyboard",
@@ -8685,7 +8685,7 @@
     "stock": 0
   },
   {
-    "id": 703,
+    "id": 580,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e86e91d3fa24a4a940fb20f1203808b5.256p.jpg",
     "manufacturer": "Kensington",
     "name": "Kensington K72436AM",
@@ -8700,7 +8700,7 @@
     "stock": 0
   },
   {
-    "id": 704,
+    "id": 581,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/279980340ff0b1f030d36bca92a65030.256p.jpg",
     "manufacturer": "Adesso",
     "name": "Adesso AKB-138EB",
@@ -8715,7 +8715,7 @@
     "stock": 0
   },
   {
-    "id": 705,
+    "id": 582,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/93656508fa638c85a80816acd7817033.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K65 RGB MINI Purple Rune",
@@ -8730,7 +8730,7 @@
     "stock": 0
   },
   {
-    "id": 706,
+    "id": 583,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8e25e9b3ff45932727ad9584e53c08fd.256p.jpg",
     "manufacturer": "HP",
     "name": "HP Link-5",
@@ -8745,7 +8745,7 @@
     "stock": 0
   },
   {
-    "id": 707,
+    "id": 584,
     "imageURL": "https://m.media-amazon.com/images/I/41VgtFtFAkL.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon KALA K557",
@@ -8760,7 +8760,7 @@
     "stock": 0
   },
   {
-    "id": 708,
+    "id": 585,
     "imageURL": "https://m.media-amazon.com/images/I/31KEK5mqQZL.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky ONE 3",
@@ -8775,7 +8775,7 @@
     "stock": 0
   },
   {
-    "id": 709,
+    "id": 586,
     "imageURL": "https://m.media-amazon.com/images/I/41owJh9BSeL.jpg",
     "manufacturer": "Filco",
     "name": "Filco Ninja Majestouch-2",
@@ -8790,7 +8790,7 @@
     "stock": 0
   },
   {
-    "id": 710,
+    "id": 587,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Logitech",
     "name": "Logitech G15",
@@ -8805,7 +8805,7 @@
     "stock": 0
   },
   {
-    "id": 711,
+    "id": 588,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3187db48ef466f7443c9a334d539dcda.256p.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K3",
@@ -8820,7 +8820,7 @@
     "stock": 0
   },
   {
-    "id": 712,
+    "id": 589,
     "imageURL": "https://m.media-amazon.com/images/I/41sG9xg-HaL.jpg",
     "manufacturer": "Keychron",
     "name": "Keychron K2 Hot-swappable",
@@ -8835,7 +8835,7 @@
     "stock": 0
   },
   {
-    "id": 713,
+    "id": 590,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1f53925e2a090dd54c911d634fc643f4.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G715",
@@ -8850,7 +8850,7 @@
     "stock": 0
   },
   {
-    "id": 714,
+    "id": 591,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/df74fc8effc9bdead739c3132b45f540.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Vengeance K90",
@@ -8865,7 +8865,7 @@
     "stock": 0
   },
   {
-    "id": 715,
+    "id": 592,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/29e86a944d1ea8db04e1026848a1913c.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries 6Gv2",
@@ -8880,7 +8880,7 @@
     "stock": 0
   },
   {
-    "id": 716,
+    "id": 593,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41i7nHJJF0L.jpg",
     "manufacturer": "Dell",
     "name": "Dell 468-7408 Keyboard",
@@ -8895,7 +8895,7 @@
     "stock": 0
   },
   {
-    "id": 717,
+    "id": 594,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/695130b1fee1a2eac3d802330d5980ab.256p.jpg",
     "manufacturer": "Redragon",
     "name": "Redragon K551",
@@ -8910,7 +8910,7 @@
     "stock": 0
   },
   {
-    "id": 718,
+    "id": 595,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a40b054d16a11261fa38970aed23e620.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair K70 LUX",
@@ -8925,7 +8925,7 @@
     "stock": 0
   },
   {
-    "id": 719,
+    "id": 596,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/24cf3f79a64cad6be991efb591f78733.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech K830",
@@ -8940,7 +8940,7 @@
     "stock": 0
   },
   {
-    "id": 720,
+    "id": 597,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9273556e8e4a5e6353fbd88f706414bc.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair STRAFE RGB MK.2",
@@ -8955,7 +8955,7 @@
     "stock": 0
   },
   {
-    "id": 721,
+    "id": 598,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c524f2c892c5b39dc9f5cafcd88234da.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 Mini",
@@ -8970,7 +8970,7 @@
     "stock": 0
   },
   {
-    "id": 722,
+    "id": 599,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d49a9c93c5d295a9171b3fd559f185f7.256p.jpg",
     "manufacturer": "Ducky",
     "name": "Ducky One 2 RGB",
@@ -8985,7 +8985,7 @@
     "stock": 0
   },
   {
-    "id": 723,
+    "id": 600,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/115aa2b8ef8640ec010f111413426015.256p.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Horde AIMO",
