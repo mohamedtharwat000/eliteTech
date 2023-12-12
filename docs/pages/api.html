@@ -16,7 +16,8 @@
     <header>
       <nav>
         <a href="../index.html">Home</a>
-        <a href="./api.html">API</a>
+        <a href="./api.html">API Docs</a>
+        <a href="./apidemo.html">API Demo</a>
         <a href="./about.html">About</a>
         <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
       </nav>
@@ -32,9 +33,8 @@
           <li>
             <a href="#api_routes"><b>API Routes</b></a>
             <ul>
-              <li><a href="#api_route_1">/api/:type</a></li>
-              <li><a href="#api_route_2">/api/:type/:id</a></li>
-              <li><a href="#api_route_3">/api/:type/limit/:sequence</a></li>
+              <li><a href="#api_route_1">/api/:type/:id</a></li>
+              <li><a href="#api_route_2">/api/:type</a></li>
             </ul>
           </li>
           <li>
@@ -50,17 +50,14 @@
       </fieldset>
 
       <h1 id="api_routes">API Routes</h1>
-      <p>
-        For Users, there are 4 API routes for the <b>GET</b> request methods.
-      </p>
+      <p>For Users, these are API routes for the <b>GET</b> request methods.</p>
       <ul>
-        <li id="api_route_1"><kbd>/api/:type</kbd></li>
-        <li id="api_route_2"><kbd>/api/:type/:id</kbd></li>
-        <li id="api_route_4"><kbd>/api/:type/limit/:sequence</kbd></li>
+        <li id="api_route_1"><kbd>/api/:type/:id</kbd></li>
+        <li id="api_route_2"><kbd>/api/:type</kbd></li>
       </ul>
 
       <p>
-        And for System Owners like Stores or Websites, there are 4 API routes
+        And for System Owners like Stores or Websites, there are 2 API routes
         for the GET request methods, and 1 route for each request method of the
         following, POST, PUT DELETE.
       </p>
@@ -120,7 +117,7 @@
 
       <h1 id="example">Examples</h1>
       <h3>GET</h3>
-      <p>Here are simple demonstrations of using the 4 GET routes:</p>
+      <p>Here are simple demonstrations of using the GET routes:</p>
       <ul>
         <li>
           <h5>Get all mices</h5>
@@ -248,11 +245,11 @@
           <ul>
             <li>
               Start from the 5th product <br />
-              <kbd>/api/:type?start=4</kbd>
+              <kbd>/api/:type?start=5</kbd>
             </li>
             <br />
             <li>
-              Get the last 10 products <br />
+              Get products up to the 10th product <br />
               <kbd>/api/:type?end=10</kbd>
             </li>
             <br />
@@ -301,7 +298,7 @@
                   <kbd>/api/case?limit=n:n:50</kbd>
                 </li>
                 <li>
-                  <h5>Get 30 Rams only starting from the 120th Ram</h5>
+                  <h5>Get 50 Rams only starting from the 120th Ram</h5>
                   <kbd>/api/case?limit=120:n:50</kbd>
                 </li>
               </ul>

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Elite Tech | API Demo</title>
+    <link rel="stylesheet" href="../assets/style.css" />
+    <link rel="icon" href="../assets/images/favicon.png" />
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="./api.html">API Docs</a>
+        <a href="./apidemo.html">API Demo</a>
+        <a href="./about.html">About</a>
+        <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
+      </nav>
+
+      <h1>API Demo</h1>
+      <p>
+        Learn how to use the Elite Tech API to retrieve data about different
+        hardware components.
+      </p>
+    </header>
+
+    <div>
+      <div>
+        <div>
+          <details>
+            <summary>Select HTTP Method: GET is what Users can use</summary>
+            <div style="display: flex; flex-flow: column nowrap">
+              <p>Choose the HTTP method to interact with the API:</p>
+
+              <label for="get">
+                <input
+                  type="radio"
+                  id="get"
+                  name="method"
+                  value="get"
+                  checked
+                  onchange="updateApiUrl()"
+                />
+                GET <small>(to get product/s information)</small>
+              </label>
+
+              <label for="post">
+                <input
+                  type="radio"
+                  id="post"
+                  name="method"
+                  value="post"
+                  disabled
+                  onchange="updateApiUrl()"
+                />
+                POST<small>(to add new product)</small>
+              </label>
+
+              <label for="put">
+                <input
+                  type="radio"
+                  id="put"
+                  name="method"
+                  value="put"
+                  disabled
+                  onchange="updateApiUrl()"
+                />
+                PUT <small>(to update a product)</small>
+              </label>
+
+              <label for="delete">
+                <input
+                  type="radio"
+                  id="delete"
+                  name="method"
+                  value="delete"
+                  disabled
+                  onchange="updateApiUrl()"
+                />
+                DELETE <small>(to delete a product)</small>
+              </label>
+            </div>
+          </details>
+
+          <div style="display: flex; flex-wrap: wrap">
+            <select
+              style="flex: 1 0 80%"
+              id="product-type"
+              onchange="updateApiUrl()"
+            >
+              <option value="" selected disabled>Select Product Type</option>
+              <option value="case">Case</option>
+              <option value="cpu">CPU</option>
+              <option value="cooler">Cooler</option>
+              <option value="gpu">GPU</option>
+              <option value="ram">RAM</option>
+              <option value="storage">Storage</option>
+              <option value="motherboard">Motherboard</option>
+              <option value="powerSupply">Power Supply</option>
+              <option value="monitor">Monitor</option>
+              <option value="mice">Mice</option>
+              <option value="keyboard">Keyboard</option>
+              <option value="headphone">Headphone</option>
+            </select>
+            <input
+              type="number"
+              id="product-id"
+              placeholder="Product id"
+              style="flex: 1 0 20%"
+              oninput="updateApiUrl()"
+            />
+          </div>
+
+          <div style="display: flex; flex-wrap: wrap">
+            <!-- Sort Options -->
+            <select
+              style="flex: 1 0 50%"
+              id="sort-select"
+              onchange="updateApiUrl()"
+            >
+              <option value="" selected disabled>Sort By</option>
+              <option value="price">Price</option>
+              <option value="rate">Rate</option>
+            </select>
+
+            <!-- Order Options -->
+            <select
+              style="flex: 1 0 50%"
+              id="order-select"
+              onchange="updateApiUrl()"
+            >
+              <option value="" selected disabled>Order By</option>
+              <option value="ASC">Ascending</option>
+              <option value="DESC">Descending</option>
+            </select>
+
+            <!-- Filter Options -->
+            <select
+              style="flex: 1 0 33%"
+              id="filter-select"
+              onchange="updateApiUrl()"
+            >
+              <option value="" selected disabled>Filter By</option>
+              <option value="price">Price</option>
+              <option value="rate">Rate</option>
+            </select>
+
+            <!-- Filter Type Options -->
+            <select
+              style="flex: 1 0 33%"
+              id="filter-type-select"
+              onchange="updateApiUrl()"
+            >
+              <option value="" selected disabled>Filter Type</option>
+              <option value="gt">Greater Than</option>
+              <option value="lt">Less Than</option>
+              <option value="eq">Equal To</option>
+            </select>
+
+            <!-- Filter Value Input -->
+            <input
+              style="flex: 1 0 33%"
+              type="text"
+              id="filter-value-input"
+              placeholder="Filter Value"
+              style="width: 100px"
+              oninput="updateApiUrl()"
+            />
+
+            <!-- Start Input -->
+            <input
+              type="number"
+              id="start-input"
+              placeholder="Start"
+              style="flex: 1 0 33%"
+              oninput="updateApiUrl()"
+            />
+
+            <!-- End Input -->
+            <input
+              type="number"
+              id="end-input"
+              placeholder="End"
+              style="flex: 1 0 33%"
+              oninput="updateApiUrl()"
+            />
+
+            <!-- Limit Input -->
+            <input
+              type="number"
+              id="limit-input"
+              placeholder="Limit"
+              style="flex: 1 0 33%"
+              oninput="updateApiUrl()"
+            />
+          </div>
+
+          <label for="api-url">API Endpoint:</label>
+          <div
+            style="
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              align-items: baseline;
+            "
+          >
+            <input type="text" id="api-url" readonly style="flex: 1 0 80%" />
+            <button
+              id="get-product-button"
+              style="flex: 1 0 20%"
+              onclick="sendGetRequest()"
+            >
+              Get
+            </button>
+          </div>
+
+          <div id="product-data"></div>
+        </div>
+      </div>
+    </div>
+
+    <section>
+      <h2>Elite Tech API Information</h2>
+      <p>
+        To interact with the Elite Tech application programmatically, you can
+        use the provided API. The API includes various endpoints for searching,
+        reading, updating, deleting, and creating data of different types.
+      </p>
+
+      <h3>Endpoints:</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Endpoint</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>POST /api/:type/</td>
+            <td>Create a new product</td>
+          </tr>
+          <tr>
+            <td>PUT /api/:type/:id</td>
+            <td>Update by type and ID</td>
+          </tr>
+          <tr>
+            <td>DELETE /api/:type/:id</td>
+            <td>Delete by type and ID</td>
+          </tr>
+          <tr>
+            <td>GET /api/:type/:id</td>
+            <td>Retrieve by type and ID</td>
+          </tr>
+          <tr>
+            <td>GET /api/:type/ &lt;options (eg. ?name=amd&...)&gt;</td>
+            <td>Retrieve all by type</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Options for GET Method:</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Option</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>name</td>
+            <td>Name of the product</td>
+          </tr>
+          <tr>
+            <td>manufacturer</td>
+            <td>Manufacturer of the product</td>
+          </tr>
+          <tr>
+            <td>sort</td>
+            <td>Sorting options</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <ul>
+                <li>price - Sort by price</li>
+                <li>rate - Sort by rate</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>order</td>
+            <td>Ordering options</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <ul>
+                <li>ASC - Ascending order</li>
+                <li>DESC - Descending order</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>filter</td>
+            <td>Filtering options</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <ul>
+                <li>
+                  filterBy - Field to apply filtering
+                  <ul>
+                    <li>price</li>
+                    <li>rate</li>
+                  </ul>
+                </li>
+                <li>
+                  filterType - Type of filtering
+                  <ul>
+                    <li>gt - Greater than</li>
+                    <li>lt - Less than</li>
+                    <li>eq - Equal to</li>
+                  </ul>
+                </li>
+                <li>filterValue - Value for filtering</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>Pagination</td>
+            <td>Pagination options</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <ul>
+                <li>start - Start from a specific product</li>
+                <li>end - Get products up to a specific product</li>
+                <li>limit - Limit the result to a specific number</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <p>You can combine pagination options using sequences:</p>
+              <kbd
+                >["start:n:n", "n:end:n", "n:n:limit", "start:end:n",
+                "start:n:limit"]</kbd
+              >
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-left: 20px">
+              <p>Examples:</p>
+              <ul>
+                <li>
+                  Get the 10th case till the 12th case:
+                  <kbd>/api/case?limit=10:12:n</kbd>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <footer>
+      <div>
+        <p>
+          Elite Tech was created by
+          <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a>
+          and
+          <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
+        </p>
+        <p>
+          as a portfolio project in the ALX Software Engineering program
+          <a href="https://www.alxafrica.com/">ALX</a>
+        </p>
+      </div>
+      <p>© 2023 Elite Tech</p>
+    </footer>
+    <script>
+      function updateApiUrl() {
+        const productTypeSelect = document.getElementById('product-type');
+        const productIdInput = document.getElementById('product-id');
+        const apiUrlInput = document.getElementById('api-url');
+
+        // Reset the apiUrl input
+        apiUrlInput.value = '';
+
+        // Check if the user has input a product ID
+        if (productIdInput.value) {
+          // Disable and clear other inputs
+          disableAndClearInputs([
+            'sort-select',
+            'order-select',
+            'filter-select',
+            'filter-type-select',
+            'filter-value-input',
+            'start-input',
+            'end-input',
+            'limit-input',
+          ]);
+        } else {
+          // Enable all inputs
+          enableInputs([
+            'sort-select',
+            'order-select',
+            'filter-select',
+            'filter-type-select',
+            'filter-value-input',
+            'start-input',
+            'end-input',
+            'limit-input',
+          ]);
+        }
+
+        // Get values from the product type and product ID inputs
+        const productType = productTypeSelect.value;
+        const productId = productIdInput.value;
+
+        // Get selected values from the sort, order, filter, and filter type selects
+        const sortOption = getSelectedValue('sort-select');
+        const orderOption = getSelectedValue('order-select');
+        const filterOption = getSelectedValue('filter-select');
+        const filterTypeOption = getSelectedValue('filter-type-select');
+
+        // Get input values for filter value, start, end, and limit
+        const filterValueInput =
+          document.getElementById('filter-value-input').value;
+        const startInput = document.getElementById('start-input').value;
+        const endInput = document.getElementById('end-input').value;
+        const limitInput = document.getElementById('limit-input').value;
+
+        // Construct the API URL with selected options
+        const apiUrl = `/api/${productType}/${productId}?${buildQueryString({
+          sort: sortOption,
+          order: orderOption,
+          filterBy: filterOption,
+          filterType: filterTypeOption,
+          filterValue: filterValueInput,
+          start: startInput,
+          end: endInput,
+          limit: limitInput,
+        })}`;
+
+        // Update the apiUrl input
+        apiUrlInput.value = apiUrl;
+      }
+
+      function sendGetRequest() {
+        // Add logic here to send the GET request using the generated URL
+        // You may use JavaScript's Fetch API or other methods.
+        // Example:
+        // fetch(document.getElementById('api-url').value)
+        //   .then(response => response.json())
+        //   .then(data => {
+        //     // Handle the response data
+        //     console.log(data);
+        //   })
+        //   .catch(error => {
+        //     console.error('Error:', error);
+        //   });
+      }
+
+      function getSelectedValue(selectId) {
+        const selectedOption = document.getElementById(selectId).value;
+        return selectedOption === '' ? null : selectedOption;
+      }
+
+      function buildQueryString(params) {
+        return Object.entries(params)
+          .filter(([key, value]) => value !== null && value !== '')
+          .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
+          .join('&');
+      }
+
+      function disableAndClearInputs(inputIds) {
+        inputIds.forEach((id) => {
+          const input = document.getElementById(id);
+          input.disabled = true;
+          input.value = '';
+        });
+      }
+
+      function enableInputs(inputIds) {
+        inputIds.forEach((id) => {
+          const input = document.getElementById(id);
+          input.disabled = false;
+        });
+      }
+    </script>
+  </body>
+</html>
