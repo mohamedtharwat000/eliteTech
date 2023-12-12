@@ -1,6 +1,6 @@
 [
   {
-    "id": 124,
+    "id": 1,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/54fe0ca737c04afc856fa32912993f25.256p.jpg",
     "manufacturer": "HiFiMAN",
     "name": "HiFiMAN Susvara",
@@ -11,11 +11,11 @@
     "enclosureType": "Open",
     "color": "Silver / Brown",
     "rating": 0,
-    "price": 5999.0,
+    "price": 5999,
     "stock": 0
   },
   {
-    "id": 125,
+    "id": 2,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/72a586f112591cd7b43f4b0dc244ba29.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
@@ -30,7 +30,7 @@
     "stock": 0
   },
   {
-    "id": 126,
+    "id": 3,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6bfd83b70242125dd19a098b04deb9e1.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackShark V2 X",
@@ -45,7 +45,7 @@
     "stock": 0
   },
   {
-    "id": 127,
+    "id": 4,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58e020a3f5cb57cf060804a8a9d1fd2f.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova Pro Wireless for PC, PS5, and PS4",
@@ -60,7 +60,7 @@
     "stock": 0
   },
   {
-    "id": 128,
+    "id": 5,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c4927b86acf31ab403449e81673d56f7.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech Pro X",
@@ -75,7 +75,7 @@
     "stock": 0
   },
   {
-    "id": 129,
+    "id": 6,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e065a60cab5540bdf9e7a4e94f73fe7f.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 1",
@@ -90,7 +90,7 @@
     "stock": 0
   },
   {
-    "id": 130,
+    "id": 7,
     "imageURL": "https://m.media-amazon.com/images/I/41VtlaeHvJL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 770 PRO",
@@ -101,11 +101,11 @@
     "enclosureType": "Closed",
     "color": "Gray",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "stock": 0
   },
   {
-    "id": 131,
+    "id": 8,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/618882d7efe9284c652d8009ef9ae80c.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro (2023)",
@@ -116,11 +116,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 196.0,
+    "price": 196,
     "stock": 0
   },
   {
-    "id": 132,
+    "id": 9,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d50aa27717b083a1b1aa77c0754f43b3.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud",
@@ -135,7 +135,7 @@
     "stock": 0
   },
   {
-    "id": 133,
+    "id": 10,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0654c2062080ded169e6bdc820f168eb.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X 2 LIGHTSPEED",
@@ -150,7 +150,7 @@
     "stock": 0
   },
   {
-    "id": 134,
+    "id": 11,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5db482ae872a1db027021064471a6a28.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G733",
@@ -165,7 +165,7 @@
     "stock": 0
   },
   {
-    "id": 135,
+    "id": 12,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/44ec0b598a332c50160a24e3800f6027.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 1",
@@ -176,11 +176,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 70.0,
+    "price": 70,
     "stock": 0
   },
   {
-    "id": 136,
+    "id": 13,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b3204b6469f27f1d492ccae40feeaa3b.256p.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 820",
@@ -195,7 +195,7 @@
     "stock": 0
   },
   {
-    "id": 137,
+    "id": 14,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/614f3f2375ec5c13f691e5176fb4c9d9.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB",
@@ -210,7 +210,7 @@
     "stock": 0
   },
   {
-    "id": 138,
+    "id": 15,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a0f67686009b268eb9b537dfbbc3a4e0.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G435",
@@ -225,7 +225,7 @@
     "stock": 0
   },
   {
-    "id": 139,
+    "id": 16,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d0f1a5952e8d74d6590bdd46e0e4f07.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G432",
@@ -240,7 +240,7 @@
     "stock": 0
   },
   {
-    "id": 140,
+    "id": 17,
     "imageURL": "https://m.media-amazon.com/images/I/41QEs2j+cBL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro Wireless",
@@ -255,7 +255,7 @@
     "stock": 0
   },
   {
-    "id": 141,
+    "id": 18,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5b141c21cb9624a2129f3a5a192c7792.256p.jpg",
     "manufacturer": "Sony",
     "name": "Sony XM5",
@@ -266,11 +266,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 328.0,
+    "price": 328,
     "stock": 0
   },
   {
-    "id": 142,
+    "id": 19,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/39bd7b4b72fdea1dee1726fb419dc1a2.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair VOID RGB ELITE",
@@ -285,7 +285,7 @@
     "stock": 0
   },
   {
-    "id": 143,
+    "id": 20,
     "imageURL": "https://m.media-amazon.com/images/I/318wyaf5UAL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT990 Premium Limited-Edition",
@@ -296,11 +296,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 149.0,
+    "price": 149,
     "stock": 0
   },
   {
-    "id": 144,
+    "id": 21,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d283c90ff0f0ca80335e51fc4ceef78.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair VIRTUOSO RGB Wireless XT",
@@ -315,7 +315,7 @@
     "stock": 0
   },
   {
-    "id": 145,
+    "id": 22,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b95b61acc3de748aacfe4fee474f5216.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech PRO X 2 LIGHTSPEED",
@@ -330,7 +330,7 @@
     "stock": 0
   },
   {
-    "id": 146,
+    "id": 23,
     "imageURL": "https://m.media-amazon.com/images/I/41XJ-8tfeNL.jpg",
     "manufacturer": "Astro",
     "name": "Astro A50 + Base Station",
@@ -345,7 +345,7 @@
     "stock": 0
   },
   {
-    "id": 147,
+    "id": 24,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec2c00c27ba9c62b94b536e94d970ace.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 7",
@@ -360,7 +360,7 @@
     "stock": 0
   },
   {
-    "id": 148,
+    "id": 25,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/06a48e9bc4124772d33a0945324d14b0.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Stinger",
@@ -375,7 +375,7 @@
     "stock": 0
   },
   {
-    "id": 149,
+    "id": 26,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0fd65f075794d9c0efa4d2d99e9bf8df.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
@@ -390,7 +390,7 @@
     "stock": 0
   },
   {
-    "id": 150,
+    "id": 27,
     "imageURL": "https://m.media-amazon.com/images/I/417dzFomSIL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 560S",
@@ -405,7 +405,7 @@
     "stock": 0
   },
   {
-    "id": 151,
+    "id": 28,
     "imageURL": "https://m.media-amazon.com/images/I/41F6DTW3fyL.jpg",
     "manufacturer": "Koss",
     "name": "Koss CL3N",
@@ -420,7 +420,7 @@
     "stock": 0
   },
   {
-    "id": 152,
+    "id": 29,
     "imageURL": "https://m.media-amazon.com/images/I/41a1WAOYnCL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 990 Pro 250 ",
@@ -435,7 +435,7 @@
     "stock": 0
   },
   {
-    "id": 153,
+    "id": 30,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d86441219c18917d8d48bdf4656a3fa8.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud II",
@@ -450,7 +450,7 @@
     "stock": 0
   },
   {
-    "id": 154,
+    "id": 31,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fbb0aa9d62adce35ae4d252cdd813a9d.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G733",
@@ -465,7 +465,7 @@
     "stock": 0
   },
   {
-    "id": 155,
+    "id": 32,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/590df3876fa2f75521f718e26036d99e.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken Kitty",
@@ -480,7 +480,7 @@
     "stock": 0
   },
   {
-    "id": 156,
+    "id": 33,
     "imageURL": "https://m.media-amazon.com/images/I/51n8UxXMYtL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 800 S",
@@ -495,7 +495,7 @@
     "stock": 0
   },
   {
-    "id": 157,
+    "id": 34,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3dc024b446b8f01940cbab1b2e9f854a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken V3 X",
@@ -510,7 +510,7 @@
     "stock": 0
   },
   {
-    "id": 158,
+    "id": 35,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2e483f6f283c4606e4c82654ca8a2a03.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair VOID RGB ELITE",
@@ -525,7 +525,7 @@
     "stock": 0
   },
   {
-    "id": 159,
+    "id": 36,
     "imageURL": "https://m.media-amazon.com/images/I/51HvfrXztQL.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha",
@@ -540,7 +540,7 @@
     "stock": 0
   },
   {
-    "id": 160,
+    "id": 37,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e9b556548ad05b9909370c276326973e.med.256p.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50x",
@@ -551,11 +551,11 @@
     "enclosureType": "Closed",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 149.0,
+    "price": 149,
     "stock": 0
   },
   {
-    "id": 161,
+    "id": 38,
     "imageURL": "https://m.media-amazon.com/images/I/41csvTnazoL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro",
@@ -570,7 +570,7 @@
     "stock": 0
   },
   {
-    "id": 162,
+    "id": 39,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/19d7c4ecc7524512e8878280132ab426.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro",
@@ -585,7 +585,7 @@
     "stock": 0
   },
   {
-    "id": 163,
+    "id": 40,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/606675de5d3a4bafa83ae58470a421a0.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS80 RGB",
@@ -600,7 +600,7 @@
     "stock": 0
   },
   {
-    "id": 164,
+    "id": 41,
     "imageURL": "https://m.media-amazon.com/images/I/318LDWS4K5L.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT1990 Pro",
@@ -611,11 +611,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 529.0,
+    "price": 529,
     "stock": 0
   },
   {
-    "id": 165,
+    "id": 42,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b2a30f7ab28e58540fe93525e21fc54a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackShark V2",
@@ -630,7 +630,7 @@
     "stock": 0
   },
   {
-    "id": 166,
+    "id": 43,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdb3916323d5db4d6349200782f3f0ba.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7",
@@ -645,7 +645,7 @@
     "stock": 0
   },
   {
-    "id": 167,
+    "id": 44,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/98c362f214b36c4839d78dbdd517435f.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech Pro X",
@@ -660,7 +660,7 @@
     "stock": 0
   },
   {
-    "id": 168,
+    "id": 45,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c343a585d5d9741717533eae847c48d6.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Barracuda Pro",
@@ -675,7 +675,7 @@
     "stock": 0
   },
   {
-    "id": 169,
+    "id": 46,
     "imageURL": "https://m.media-amazon.com/images/I/41EmaSasJsL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Theta 7.1",
@@ -690,7 +690,7 @@
     "stock": 0
   },
   {
-    "id": 170,
+    "id": 47,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8390e7ddd98558ab65c9c309cc32a782.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha",
@@ -701,11 +701,11 @@
     "enclosureType": "Closed",
     "color": "Black / Red",
     "rating": 0,
-    "price": 169.0,
+    "price": 169,
     "stock": 0
   },
   {
-    "id": 171,
+    "id": 48,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2af4e7c8c1307a160dc0a2ac3a837e63.256p.jpg",
     "manufacturer": "Sony",
     "name": "Sony WH1000XM4",
@@ -716,11 +716,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 248.0,
+    "price": 248,
     "stock": 0
   },
   {
-    "id": 172,
+    "id": 49,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7cc8cd810692a5bf53692c7cf9de7cab.256p.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD600",
@@ -731,11 +731,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 309.0,
+    "price": 309,
     "stock": 0
   },
   {
-    "id": 173,
+    "id": 50,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d67777a48054e86dfe750f9a9bcf2871.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova Pro Wireless for Xbox X|S, and Xbox One",
@@ -750,7 +750,7 @@
     "stock": 0
   },
   {
-    "id": 174,
+    "id": 51,
     "imageURL": "https://m.media-amazon.com/images/I/41kB8l+Ky8L.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS70 PRO",
@@ -765,7 +765,7 @@
     "stock": 0
   },
   {
-    "id": 175,
+    "id": 52,
     "imageURL": "https://m.media-amazon.com/images/I/51o7P91zYkL.jpg",
     "manufacturer": "HiFiMAN",
     "name": "HiFiMAN HE1000",
@@ -776,11 +776,11 @@
     "enclosureType": "Open",
     "color": "Silver / Brown",
     "rating": 0,
-    "price": 1999.0,
+    "price": 1999,
     "stock": 0
   },
   {
-    "id": 176,
+    "id": 53,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d23f5e4dfc957bc58b1e5e9113125484.256p.jpg",
     "manufacturer": "Turtle Beach",
     "name": "Turtle Beach EAR FORCE Recon 50X",
@@ -795,7 +795,7 @@
     "stock": 0
   },
   {
-    "id": 177,
+    "id": 54,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/153b223886e6e0bd0e9a89c1dbbc66be.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G935",
@@ -810,7 +810,7 @@
     "stock": 0
   },
   {
-    "id": 178,
+    "id": 55,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9aef883b5b47ec2d14ef06f7cf0a3b03.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G535 LIGHTSPEED",
@@ -825,7 +825,7 @@
     "stock": 0
   },
   {
-    "id": 179,
+    "id": 56,
     "imageURL": "https://m.media-amazon.com/images/I/41NBLzgzsYL.jpg",
     "manufacturer": "DROP",
     "name": "DROP Drop + Sennheiser PC38X",
@@ -836,11 +836,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 180.0,
+    "price": 180,
     "stock": 0
   },
   {
-    "id": 180,
+    "id": 57,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e691d23e2759216da9072c107d5207c0.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer NARI ESSENTIAL",
@@ -855,7 +855,7 @@
     "stock": 0
   },
   {
-    "id": 181,
+    "id": 58,
     "imageURL": "https://m.media-amazon.com/images/I/41YHv5xJRQL.jpg",
     "manufacturer": "Razer",
     "name": "Razer BlackShark V2 Pro (2023)",
@@ -870,7 +870,7 @@
     "stock": 0
   },
   {
-    "id": 182,
+    "id": 59,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1d4850defe86fc79819972478425c3bf.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 1",
@@ -885,7 +885,7 @@
     "stock": 0
   },
   {
-    "id": 183,
+    "id": 60,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3aabf4afad26ef129b33dd00d22ff4b1.256p.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 650",
@@ -900,7 +900,7 @@
     "stock": 0
   },
   {
-    "id": 184,
+    "id": 61,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7126cf8620353f97e6ae65b97aa44023.256p.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 900 Pro X",
@@ -911,11 +911,11 @@
     "enclosureType": "Open",
     "color": "Black / Gray",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 185,
+    "id": 62,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f37538fee88baa3ffbb73c14b7d98ac3.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken V3 Pro",
@@ -930,7 +930,7 @@
     "stock": 0
   },
   {
-    "id": 186,
+    "id": 63,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f462499136794fb899bb04af549311d0.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 9",
@@ -945,7 +945,7 @@
     "stock": 0
   },
   {
-    "id": 187,
+    "id": 64,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1a86c3b238865d3ccbb94bc88b9ffaeb.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud III",
@@ -960,7 +960,7 @@
     "stock": 0
   },
   {
-    "id": 188,
+    "id": 65,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdb3916323d5db4d6349200782f3f0ba.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries ARCTIS 7 2019 Edition",
@@ -975,7 +975,7 @@
     "stock": 0
   },
   {
-    "id": 189,
+    "id": 66,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/71173beea73b5395cf2cdd22451dabb2.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS65 SURROUND",
@@ -990,7 +990,7 @@
     "stock": 0
   },
   {
-    "id": 190,
+    "id": 67,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/16448f32d22b9b9923037494c5da025d.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Barracuda X",
@@ -1005,7 +1005,7 @@
     "stock": 0
   },
   {
-    "id": 191,
+    "id": 68,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fcdc7e701e4a83bfa2e0a2c208fcc4fa.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 1",
@@ -1016,11 +1016,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 49.0,
+    "price": 49,
     "stock": 0
   },
   {
-    "id": 192,
+    "id": 69,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/23d3c25240e49e524e0a6dfd706306ce.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB",
@@ -1035,7 +1035,7 @@
     "stock": 0
   },
   {
-    "id": 193,
+    "id": 70,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/47c3a9f54069d7ea8dc1cb13e84d4a42.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro + GameDAC",
@@ -1050,7 +1050,7 @@
     "stock": 0
   },
   {
-    "id": 194,
+    "id": 71,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/31QikSRG1cL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 1770 PRO",
@@ -1061,11 +1061,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 529.0,
+    "price": 529,
     "stock": 0
   },
   {
-    "id": 195,
+    "id": 72,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e8e574f4ca94818a6bb8e5ad4bdf2963.256p.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M40x",
@@ -1076,11 +1076,11 @@
     "enclosureType": "Closed",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 99.0,
+    "price": 99,
     "stock": 0
   },
   {
-    "id": 196,
+    "id": 73,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a7aa06e9c4860514f7368835089b7296.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G435",
@@ -1091,11 +1091,11 @@
     "enclosureType": "Closed",
     "color": "White / Blue",
     "rating": 0,
-    "price": 79.0,
+    "price": 79,
     "stock": 0
   },
   {
-    "id": 197,
+    "id": 74,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/538567ee6ba6d79b74afd06933d4de16.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Barracuda X",
@@ -1110,7 +1110,7 @@
     "stock": 0
   },
   {
-    "id": 198,
+    "id": 75,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d2ad1185de4d1784d2a1e7df6e5caf0a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken Kitty",
@@ -1125,7 +1125,7 @@
     "stock": 0
   },
   {
-    "id": 199,
+    "id": 76,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c3e40af65e17420ae3c1ebbd3392d210.256p.jpg",
     "manufacturer": "Astro",
     "name": "Astro Gaming A10",
@@ -1140,7 +1140,7 @@
     "stock": 0
   },
   {
-    "id": 200,
+    "id": 77,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/63b5586f9515b362c7ff2bd8d0390f35.256p.jpg",
     "manufacturer": "Astro",
     "name": "Astro Gaming A40 TR + MixAmp Pro TR",
@@ -1155,7 +1155,7 @@
     "stock": 0
   },
   {
-    "id": 201,
+    "id": 78,
     "imageURL": "https://m.media-amazon.com/images/I/41lAcZvSQEL.jpg",
     "manufacturer": "Razer",
     "name": "Razer NARI ULTIMATE",
@@ -1170,7 +1170,7 @@
     "stock": 0
   },
   {
-    "id": 202,
+    "id": 79,
     "imageURL": "https://m.media-amazon.com/images/I/31yX+zvmGfS.jpg",
     "manufacturer": "Sony",
     "name": "Sony WH-1000XM3",
@@ -1185,7 +1185,7 @@
     "stock": 0
   },
   {
-    "id": 203,
+    "id": 80,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4fe7ed051beebdba5d42424cf4b12a78.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken 7.1 V2",
@@ -1200,7 +1200,7 @@
     "stock": 0
   },
   {
-    "id": 204,
+    "id": 81,
     "imageURL": "https://m.media-amazon.com/images/I/41vSKhjM2FL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G35",
@@ -1215,7 +1215,7 @@
     "stock": 0
   },
   {
-    "id": 205,
+    "id": 82,
     "imageURL": "https://m.media-amazon.com/images/I/31Kw4-LpRTL.jpg",
     "manufacturer": "Turtle Beach",
     "name": "Turtle Beach Stealth 700 Gen 2 MAX",
@@ -1230,7 +1230,7 @@
     "stock": 0
   },
   {
-    "id": 206,
+    "id": 83,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9f7728301d548a8120f16f708c55e6ad.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Stinger Core - Wireless",
@@ -1245,7 +1245,7 @@
     "stock": 0
   },
   {
-    "id": 207,
+    "id": 84,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ca8f01da70a5aa07c7f910759378da67.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G PRO",
@@ -1260,7 +1260,7 @@
     "stock": 0
   },
   {
-    "id": 208,
+    "id": 85,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/398138c6d22087eb4a4e7cda6f7f5a77.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS80 MAX WIRELESS",
@@ -1275,7 +1275,7 @@
     "stock": 0
   },
   {
-    "id": 209,
+    "id": 86,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0f4fa9b0ddad7ab1a19826fa9037121c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech  G332",
@@ -1290,7 +1290,7 @@
     "stock": 0
   },
   {
-    "id": 210,
+    "id": 87,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/87756208e58e43f3ecaf05d68f911a9f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Delta",
@@ -1305,7 +1305,7 @@
     "stock": 0
   },
   {
-    "id": 211,
+    "id": 88,
     "imageURL": "https://m.media-amazon.com/images/I/41rPsn3lVWL.jpg",
     "manufacturer": "Final",
     "name": "Final D8000",
@@ -1316,11 +1316,11 @@
     "enclosureType": "Closed",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 3799.0,
+    "price": 3799,
     "stock": 0
   },
   {
-    "id": 212,
+    "id": 89,
     "imageURL": "https://m.media-amazon.com/images/I/418Ut1bEp9L.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX CloudX",
@@ -1335,7 +1335,7 @@
     "stock": 0
   },
   {
-    "id": 213,
+    "id": 90,
     "imageURL": "https://m.media-amazon.com/images/I/31qMR087FeL.jpg",
     "manufacturer": "Philips",
     "name": "Philips SHE7000WT/28",
@@ -1350,7 +1350,7 @@
     "stock": 0
   },
   {
-    "id": 214,
+    "id": 91,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8a531fb4382f28846d649846b059b9ce.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha S",
@@ -1365,7 +1365,7 @@
     "stock": 0
   },
   {
-    "id": 215,
+    "id": 92,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0d1b3e04eccb165be37993a3c73ecbc8.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Immerse GH20",
@@ -1380,7 +1380,7 @@
     "stock": 0
   },
   {
-    "id": 216,
+    "id": 93,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1df40b8e7169afdba5d4f75aef3123c5.256p.jpg",
     "manufacturer": "Audeze",
     "name": "Audeze Maxwell for Xbox Series X|S",
@@ -1395,10 +1395,10 @@
     "stock": 0
   },
   {
-    "id": 217,
+    "id": 94,
     "imageURL": "https://m.media-amazon.com/images/I/31Qkn2jj8XS.jpg",
     "manufacturer": "Sennheiser",
-    "name": "Sennheiser \u200e\u200e\u200eHD 450BT Black",
+    "name": "Sennheiser ‎‎‎HD 450BT Black",
     "type": "Circumaural",
     "frequencyResponse": "18 Hz - 22 kHz",
     "microphone": "Yes",
@@ -1410,7 +1410,7 @@
     "stock": 0
   },
   {
-    "id": 218,
+    "id": 95,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/18c22915f564d4d93d4d52c7f6cdbade.256p.jpg",
     "manufacturer": "Sony",
     "name": "Sony XM5",
@@ -1421,11 +1421,11 @@
     "enclosureType": "Closed",
     "color": "Silver",
     "rating": 0,
-    "price": 328.0,
+    "price": 328,
     "stock": 0
   },
   {
-    "id": 219,
+    "id": 96,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/74e15dd13c60c87065c3114a50474dfa.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS80 MAX WIRELESS",
@@ -1440,7 +1440,7 @@
     "stock": 0
   },
   {
-    "id": 220,
+    "id": 97,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/310iBKc1RZL.jpg",
     "manufacturer": "Apple",
     "name": "Apple MD827LL/A",
@@ -1455,7 +1455,7 @@
     "stock": 0
   },
   {
-    "id": 221,
+    "id": 98,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/99564e56cdd927355e951de7951792c2.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 5",
@@ -1470,7 +1470,7 @@
     "stock": 0
   },
   {
-    "id": 222,
+    "id": 99,
     "imageURL": "https://m.media-amazon.com/images/I/41ynYz11egL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken Ultimate",
@@ -1481,11 +1481,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 209.0,
+    "price": 209,
     "stock": 0
   },
   {
-    "id": 223,
+    "id": 100,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2585cf3a0c21fd7677ac97f210153637.256p.jpg",
     "manufacturer": "Apple",
     "name": "Apple AirPods Max",
@@ -1500,7 +1500,7 @@
     "stock": 0
   },
   {
-    "id": 224,
+    "id": 101,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/479ae9e9a1a2ebd36345213cd0b3620a.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Virtuoso RGB SE",
@@ -1515,7 +1515,7 @@
     "stock": 0
   },
   {
-    "id": 225,
+    "id": 102,
     "imageURL": "https://m.media-amazon.com/images/I/41zphzh9jmL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 300",
@@ -1530,7 +1530,7 @@
     "stock": 0
   },
   {
-    "id": 226,
+    "id": 103,
     "imageURL": "https://m.media-amazon.com/images/I/41Cv21vkL9L.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Flight",
@@ -1545,7 +1545,7 @@
     "stock": 0
   },
   {
-    "id": 227,
+    "id": 104,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/80fbcd201c3f511b83f5619dd1af5a4c.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS65 SURROUND",
@@ -1556,11 +1556,11 @@
     "enclosureType": "Closed",
     "color": "White / Gray",
     "rating": 0,
-    "price": 54.0,
+    "price": 54,
     "stock": 0
   },
   {
-    "id": 228,
+    "id": 105,
     "imageURL": "https://m.media-amazon.com/images/I/41vJU7v6dEL.jpg",
     "manufacturer": "HiFiMAN",
     "name": "HiFiMAN SUNDARA",
@@ -1571,11 +1571,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 299.0,
+    "price": 299,
     "stock": 0
   },
   {
-    "id": 229,
+    "id": 106,
     "imageURL": "https://m.media-amazon.com/images/I/410KlHo81eL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic MMX 2",
@@ -1590,7 +1590,7 @@
     "stock": 0
   },
   {
-    "id": 230,
+    "id": 107,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0c13d11c5340b0f9046a76d52c32bf02.256p.jpg",
     "manufacturer": "HP",
     "name": "Philips SHP9500",
@@ -1605,7 +1605,7 @@
     "stock": 0
   },
   {
-    "id": 231,
+    "id": 108,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/73bbeea43dd6ff8d8356991684fa1a8d.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken X",
@@ -1620,7 +1620,7 @@
     "stock": 0
   },
   {
-    "id": 232,
+    "id": 109,
     "imageURL": "https://m.media-amazon.com/images/I/31C3PdReAJS.jpg",
     "manufacturer": "Razer",
     "name": "Razer Barracuda X (2021)",
@@ -1635,7 +1635,7 @@
     "stock": 0
   },
   {
-    "id": 233,
+    "id": 110,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/06af9bef17d27f922a4c2b6cd80776ba.256p.jpg",
     "manufacturer": "Astro",
     "name": "Astro A50 + Base Station",
@@ -1650,7 +1650,7 @@
     "stock": 0
   },
   {
-    "id": 234,
+    "id": 111,
     "imageURL": "https://m.media-amazon.com/images/I/41007YvLdSL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G933 Artemis Spectrum",
@@ -1661,11 +1661,11 @@
     "enclosureType": "Closed",
     "color": "Black / Blue",
     "rating": 0,
-    "price": 280.0,
+    "price": 280,
     "stock": 0
   },
   {
-    "id": 235,
+    "id": 112,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a0d3457072f07c4a49ba2c231ad83b6.256p.jpg",
     "manufacturer": "Audeze",
     "name": "Audeze Mobius",
@@ -1680,7 +1680,7 @@
     "stock": 0
   },
   {
-    "id": 236,
+    "id": 113,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41Hvv%2BLvOlL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 598",
@@ -1695,7 +1695,7 @@
     "stock": 0
   },
   {
-    "id": 237,
+    "id": 114,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fc97a7e957d48182c8685ab9dde51dcd.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G335",
@@ -1710,7 +1710,7 @@
     "stock": 0
   },
   {
-    "id": 238,
+    "id": 115,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/94d99967278fd9f639a0fde957cc355e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG STRIX FUSION 700",
@@ -1721,11 +1721,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 110.0,
+    "price": 110,
     "stock": 0
   },
   {
-    "id": 239,
+    "id": 116,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/be6e522d7d5760ce20b8e4058fbb16bf.256p.jpg",
     "manufacturer": "Bose",
     "name": "Bose QuietComfort 35 Series II",
@@ -1740,7 +1740,7 @@
     "stock": 0
   },
   {
-    "id": 240,
+    "id": 117,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6c75d13bdfb810b3f9bf8b64259bd515.256p.jpg",
     "manufacturer": "NZXT",
     "name": "NZXT Relay",
@@ -1755,7 +1755,7 @@
     "stock": 0
   },
   {
-    "id": 241,
+    "id": 118,
     "imageURL": "https://m.media-amazon.com/images/I/41-tcnW09xL.jpg",
     "manufacturer": "HiFiMAN",
     "name": "HiFiMAN HE1000 Stealth",
@@ -1766,11 +1766,11 @@
     "enclosureType": "Open",
     "color": "Silver / Brown",
     "rating": 0,
-    "price": 1399.0,
+    "price": 1399,
     "stock": 0
   },
   {
-    "id": 242,
+    "id": 119,
     "imageURL": "https://m.media-amazon.com/images/I/41xt5GrrRwL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech H110",
@@ -1785,7 +1785,7 @@
     "stock": 0
   },
   {
-    "id": 243,
+    "id": 120,
     "imageURL": "https://m.media-amazon.com/images/I/417fn3gelyL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser GAME ONE",
@@ -1796,11 +1796,11 @@
     "enclosureType": "Open",
     "color": "Black / White",
     "rating": 0,
-    "price": 108.0,
+    "price": 108,
     "stock": 0
   },
   {
-    "id": 244,
+    "id": 121,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/61rVGyZKCJL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 660 S",
@@ -1815,7 +1815,7 @@
     "stock": 0
   },
   {
-    "id": 245,
+    "id": 122,
     "imageURL": "https://m.media-amazon.com/images/I/51Ogas4RaUL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 599",
@@ -1830,7 +1830,7 @@
     "stock": 0
   },
   {
-    "id": 246,
+    "id": 123,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3cf63f873a3972057a8d9dcb202fa5a8.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Delta White Edition",
@@ -1845,7 +1845,7 @@
     "stock": 0
   },
   {
-    "id": 247,
+    "id": 124,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1df40b8e7169afdba5d4f75aef3123c5.256p.jpg",
     "manufacturer": "Audeze",
     "name": "Audeze Maxwell for PlayStation 5",
@@ -1860,7 +1860,7 @@
     "stock": 0
   },
   {
-    "id": 248,
+    "id": 125,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15a63e1a025be4f594a44c134d3d4c3a.256p.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic MMX 300 (2nd Generation)",
@@ -1871,11 +1871,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 229.0,
+    "price": 229,
     "stock": 0
   },
   {
-    "id": 249,
+    "id": 126,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1ff377814b9acb6f60ed087538ad40db.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Prime",
@@ -1890,7 +1890,7 @@
     "stock": 0
   },
   {
-    "id": 250,
+    "id": 127,
     "imageURL": "https://m.media-amazon.com/images/I/31asVSA+ooL.jpg",
     "manufacturer": "Sony",
     "name": "Sony INZONE H9",
@@ -1901,11 +1901,11 @@
     "enclosureType": "Open",
     "color": "Color",
     "rating": 0,
-    "price": 228.0,
+    "price": 228,
     "stock": 0
   },
   {
-    "id": 251,
+    "id": 128,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41M1moF3AkL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7",
@@ -1920,7 +1920,7 @@
     "stock": 0
   },
   {
-    "id": 252,
+    "id": 129,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bdeb6db19ea1a3540c8d321accf0c517.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming H1",
@@ -1935,7 +1935,7 @@
     "stock": 0
   },
   {
-    "id": 253,
+    "id": 130,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0aead1f15a712ef177e0a674d545a4d.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken V3 HyperSense",
@@ -1950,7 +1950,7 @@
     "stock": 0
   },
   {
-    "id": 254,
+    "id": 131,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e783eff0b2ec2df04a4458f9189005e8.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Core",
@@ -1965,7 +1965,7 @@
     "stock": 0
   },
   {
-    "id": 255,
+    "id": 132,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d72cdcda0c7d6f086ea067f6ac99e454.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Alpha S",
@@ -1980,7 +1980,7 @@
     "stock": 0
   },
   {
-    "id": 256,
+    "id": 133,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4c96b14214a9935e035cfe406119f8d9.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud Orbit S",
@@ -1995,7 +1995,7 @@
     "stock": 0
   },
   {
-    "id": 257,
+    "id": 134,
     "imageURL": "https://m.media-amazon.com/images/I/41sijA0GjIL.jpg",
     "manufacturer": "DROP",
     "name": "Sennheiser DROP Massdrop x Sennheiser PC37X",
@@ -2006,11 +2006,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 130.0,
+    "price": 130,
     "stock": 0
   },
   {
-    "id": 258,
+    "id": 135,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41vBqLBmWrL.jpg",
     "manufacturer": "Sades",
     "name": "Sades SA-708",
@@ -2025,7 +2025,7 @@
     "stock": 0
   },
   {
-    "id": 259,
+    "id": 136,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a866eecc5ceed959481a79ea37833731.256p.jpg",
     "manufacturer": "JBL",
     "name": "JBL Quantum One",
@@ -2040,7 +2040,7 @@
     "stock": 0
   },
   {
-    "id": 260,
+    "id": 137,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2c3d2564e4da8b748237506fa4e6e027.256p.jpg",
     "manufacturer": "Philips",
     "name": "Philips Fidelio X2HR/00",
@@ -2055,7 +2055,7 @@
     "stock": 0
   },
   {
-    "id": 261,
+    "id": 138,
     "imageURL": "https://m.media-amazon.com/images/I/41GqJSJg7GL.jpg",
     "manufacturer": "Superlux",
     "name": "Superlux HD668B",
@@ -2070,7 +2070,7 @@
     "stock": 0
   },
   {
-    "id": 262,
+    "id": 139,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f0ba11a26a198900d220eca4a8232a64.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries ARCTIS 5 (2019 Edition)",
@@ -2085,7 +2085,7 @@
     "stock": 0
   },
   {
-    "id": 263,
+    "id": 140,
     "imageURL": "https://m.media-amazon.com/images/I/41g8LAG+fiL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 599 SE",
@@ -2100,7 +2100,7 @@
     "stock": 0
   },
   {
-    "id": 264,
+    "id": 141,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/38551f28137cd3041f452ec0b6efebb6.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Virtuoso Pro",
@@ -2115,7 +2115,7 @@
     "stock": 0
   },
   {
-    "id": 265,
+    "id": 142,
     "imageURL": "https://m.media-amazon.com/images/I/41R0UDSVHPL.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50xBT",
@@ -2130,7 +2130,7 @@
     "stock": 0
   },
   {
-    "id": 266,
+    "id": 143,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7f92d08adbe2241737bd0c9d127b702b.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken V3",
@@ -2145,7 +2145,7 @@
     "stock": 0
   },
   {
-    "id": 267,
+    "id": 144,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/16f136b12c44ae2f3e5e185b7571fc59.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS35",
@@ -2160,7 +2160,7 @@
     "stock": 0
   },
   {
-    "id": 268,
+    "id": 145,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/eec8972ca4c3c3b0e5b5f976c26f70e7.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Delta S EVA Edition",
@@ -2175,7 +2175,7 @@
     "stock": 0
   },
   {
-    "id": 269,
+    "id": 146,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/71c2c83eeea42b336f21d932e036a6af.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G635",
@@ -2190,7 +2190,7 @@
     "stock": 0
   },
   {
-    "id": 270,
+    "id": 147,
     "imageURL": "https://m.media-amazon.com/images/I/31+Enjax2gL.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 7P",
@@ -2205,7 +2205,7 @@
     "stock": 0
   },
   {
-    "id": 271,
+    "id": 148,
     "imageURL": "https://m.media-amazon.com/images/I/31fYSDqAvFL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 700 PRO X",
@@ -2216,11 +2216,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 272,
+    "id": 149,
     "imageURL": "https://m.media-amazon.com/images/I/410QM9rOXHL.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic TYGR 300 R",
@@ -2231,11 +2231,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "stock": 0
   },
   {
-    "id": 273,
+    "id": 150,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69031ec06bb320f1a5f38d1343b70903.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair VOID ELITE SURROUND",
@@ -2250,7 +2250,7 @@
     "stock": 0
   },
   {
-    "id": 274,
+    "id": 151,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/785141f59aabd3352ccc34398cd0f40a.256p.jpg",
     "manufacturer": "Apple",
     "name": "Apple AirPods Max",
@@ -2265,7 +2265,7 @@
     "stock": 0
   },
   {
-    "id": 275,
+    "id": 152,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec5d37e655e02b570784ceb7462eb3eb.256p.jpg",
     "manufacturer": "HP",
     "name": "HP HyperX Cloud III",
@@ -2280,7 +2280,7 @@
     "stock": 0
   },
   {
-    "id": 276,
+    "id": 153,
     "imageURL": "https://m.media-amazon.com/images/I/41sY9PpS9+L.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M20X",
@@ -2291,11 +2291,11 @@
     "enclosureType": "Closed",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 49.0,
+    "price": 49,
     "stock": 0
   },
   {
-    "id": 277,
+    "id": 154,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e698c6f5cf1e1cfbc4ade325a2853368.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken BT - Kitty Edition",
@@ -2310,7 +2310,7 @@
     "stock": 0
   },
   {
-    "id": 278,
+    "id": 155,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8ca1e172f0cf70a37c773e04a8162257.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair Virtuoso Pro",
@@ -2325,7 +2325,7 @@
     "stock": 0
   },
   {
-    "id": 279,
+    "id": 156,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/208804dbc26e238e46c9113f8e24cc3e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG CETRA II",
@@ -2340,7 +2340,7 @@
     "stock": 0
   },
   {
-    "id": 280,
+    "id": 157,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/edab0f1c6ea601832ae8f550fd9e277d.256p.jpg",
     "manufacturer": "Turtle Beach",
     "name": "Turtle Beach Recon 50",
@@ -2355,7 +2355,7 @@
     "stock": 0
   },
   {
-    "id": 281,
+    "id": 158,
     "imageURL": "https://m.media-amazon.com/images/I/41-UtVpv4iL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G533",
@@ -2370,7 +2370,7 @@
     "stock": 0
   },
   {
-    "id": 282,
+    "id": 159,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b19c00df130eb0f0e7e90f4878feec46.256p.jpg",
     "manufacturer": "Sony",
     "name": "Sony MDR-7506",
@@ -2385,7 +2385,7 @@
     "stock": 0
   },
   {
-    "id": 283,
+    "id": 160,
     "imageURL": "https://m.media-amazon.com/images/I/41H9uQtAAEL.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-AD2000X",
@@ -2396,11 +2396,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 592.0,
+    "price": 592,
     "stock": 0
   },
   {
-    "id": 284,
+    "id": 161,
     "imageURL": "https://m.media-amazon.com/images/I/31nAzEG5J0L.jpg",
     "manufacturer": "NZXT",
     "name": "NZXT Relay",
@@ -2415,7 +2415,7 @@
     "stock": 0
   },
   {
-    "id": 285,
+    "id": 162,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/591c90b56e7637b49553bf935cbd879a.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master MH670",
@@ -2430,7 +2430,7 @@
     "stock": 0
   },
   {
-    "id": 286,
+    "id": 163,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6254ffa40ba39f7430a0bac0ed9685f9.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Pro",
@@ -2445,7 +2445,7 @@
     "stock": 0
   },
   {
-    "id": 287,
+    "id": 164,
     "imageURL": "https://m.media-amazon.com/images/I/31eimAtqohL.jpg",
     "manufacturer": "DROP",
     "name": "Moondrop ARIA",
@@ -2460,7 +2460,7 @@
     "stock": 0
   },
   {
-    "id": 288,
+    "id": 165,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6da63ae7a26ae1b12b90cfaa68af7f87.256p.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-R70X",
@@ -2471,11 +2471,11 @@
     "enclosureType": "Open",
     "color": "Black",
     "rating": 0,
-    "price": 349.0,
+    "price": 349,
     "stock": 0
   },
   {
-    "id": 289,
+    "id": 166,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae057538a825e052a0d44d4ad169cff7.256p.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-G1WL",
@@ -2486,11 +2486,11 @@
     "enclosureType": "Closed",
     "color": "Black",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 290,
+    "id": 167,
     "imageURL": "https://m.media-amazon.com/images/I/41uaZk8J0RL.jpg",
     "manufacturer": "ROCCAT",
     "name": "ROCCAT Elo Air",
@@ -2505,7 +2505,7 @@
     "stock": 0
   },
   {
-    "id": 291,
+    "id": 168,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0d92983d812ea50020a300f9c0e8132a.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken Kitty V2 Pro",
@@ -2520,7 +2520,7 @@
     "stock": 0
   },
   {
-    "id": 292,
+    "id": 169,
     "imageURL": "https://m.media-amazon.com/images/I/31MDYpkWnqL.jpg",
     "manufacturer": "Sony",
     "name": "Sony WH-1000XM3",
@@ -2535,7 +2535,7 @@
     "stock": 0
   },
   {
-    "id": 293,
+    "id": 170,
     "imageURL": "https://m.media-amazon.com/images/I/41u26kZeyAL.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G930",
@@ -2550,7 +2550,7 @@
     "stock": 0
   },
   {
-    "id": 294,
+    "id": 171,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/891ce0e552bf1b796374c47c94d1ce9f.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS55",
@@ -2565,7 +2565,7 @@
     "stock": 0
   },
   {
-    "id": 295,
+    "id": 172,
     "imageURL": "https://m.media-amazon.com/images/I/314+xtaHmQL.jpg",
     "manufacturer": "JBL",
     "name": "JBL Quantum 100",
@@ -2580,7 +2580,7 @@
     "stock": 0
   },
   {
-    "id": 296,
+    "id": 173,
     "imageURL": "https://m.media-amazon.com/images/I/41eA71QlXtL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser GAME ZERO",
@@ -2595,7 +2595,7 @@
     "stock": 0
   },
   {
-    "id": 297,
+    "id": 174,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3c2a3a1a568cb13fe746db2c5e70c7f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming H1 Wireless",
@@ -2610,7 +2610,7 @@
     "stock": 0
   },
   {
-    "id": 298,
+    "id": 175,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/de329adeb48e7ef6121a3cc0edbb46fe.256p.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic DT 990",
@@ -2621,11 +2621,11 @@
     "enclosureType": "Open",
     "color": "Black / Silver",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 299,
+    "id": 176,
     "imageURL": "https://m.media-amazon.com/images/I/51i-nVaXP6L.jpg",
     "manufacturer": "Beyerdynamic",
     "name": "Beyerdynamic T1",
@@ -2640,7 +2640,7 @@
     "stock": 0
   },
   {
-    "id": 300,
+    "id": 177,
     "imageURL": "https://m.media-amazon.com/images/I/41bMMAXlJZL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 598 SE",
@@ -2655,7 +2655,7 @@
     "stock": 0
   },
   {
-    "id": 301,
+    "id": 178,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fb48a5b31411e4aed0d8bcb202a429ac.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 9X",
@@ -2670,7 +2670,7 @@
     "stock": 0
   },
   {
-    "id": 302,
+    "id": 179,
     "imageURL": "https://m.media-amazon.com/images/I/41fpue3mO9L.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 558",
@@ -2685,7 +2685,7 @@
     "stock": 0
   },
   {
-    "id": 303,
+    "id": 180,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/885e23583e2ba2262ae136d004ab4a21.256p.jpg",
     "manufacturer": "Astro",
     "name": "Astro A40 + MIXAMP Pro",
@@ -2700,7 +2700,7 @@
     "stock": 0
   },
   {
-    "id": 304,
+    "id": 181,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/46632dbf7d4840e538ed4bebef93a348.256p.jpg",
     "manufacturer": "Apple",
     "name": "Apple AirPods Pro 2nd Gen MagSafe USB-C",
@@ -2715,7 +2715,7 @@
     "stock": 0
   },
   {
-    "id": 305,
+    "id": 182,
     "imageURL": "https://m.media-amazon.com/images/I/41twX2Nk3wL.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken Tournament Edition",
@@ -2730,7 +2730,7 @@
     "stock": 0
   },
   {
-    "id": 306,
+    "id": 183,
     "imageURL": "https://m.media-amazon.com/images/I/41LHSb1ToKL.jpg",
     "manufacturer": "Audeze",
     "name": "Audeze LCD-GX",
@@ -2741,11 +2741,11 @@
     "enclosureType": "Open",
     "color": "Black / Red",
     "rating": 0,
-    "price": 899.0,
+    "price": 899,
     "stock": 0
   },
   {
-    "id": 307,
+    "id": 184,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0326f36a5f3d138b2bcad1c38462d359.256p.jpg",
     "manufacturer": "Audio-Technica",
     "name": "Audio-Technica ATH-M50xWH",
@@ -2756,11 +2756,11 @@
     "enclosureType": "Closed",
     "color": "White",
     "rating": 0,
-    "price": 169.0,
+    "price": 169,
     "stock": 0
   },
   {
-    "id": 308,
+    "id": 185,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b838a28c5afbd2d9ab7df2812bad6d6f.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair HS55",
@@ -2775,7 +2775,7 @@
     "stock": 0
   },
   {
-    "id": 309,
+    "id": 186,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e34a84188747f512aa5f6a678b8d193c.256p.jpg",
     "manufacturer": "Logitech",
     "name": "Logitech G335",
@@ -2790,7 +2790,7 @@
     "stock": 0
   },
   {
-    "id": 310,
+    "id": 187,
     "imageURL": "https://m.media-amazon.com/images/I/41O6ukKY2fS.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte Aorus H1",
@@ -2805,7 +2805,7 @@
     "stock": 0
   },
   {
-    "id": 311,
+    "id": 188,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ed6ccd6c7e88b57362655bf30272acbc.256p.jpg",
     "manufacturer": "Skullcandy",
     "name": "Skullcandy Crusher",
@@ -2820,7 +2820,7 @@
     "stock": 0
   },
   {
-    "id": 312,
+    "id": 189,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/784c22b0267f6740fad85481112b6b34.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis 3",
@@ -2835,7 +2835,7 @@
     "stock": 0
   },
   {
-    "id": 313,
+    "id": 190,
     "imageURL": "https://m.media-amazon.com/images/I/31NxNU0NjfL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser HD 280 PRO",
@@ -2850,7 +2850,7 @@
     "stock": 0
   },
   {
-    "id": 314,
+    "id": 191,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/82395c7aa315d8987440ba8ca39a1df9.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Kraken BT - Hello Kitty and Friends Edition",
@@ -2865,7 +2865,7 @@
     "stock": 0
   },
   {
-    "id": 315,
+    "id": 192,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dd3cada5ed84335f8a2c6c630185bddd.med.256p.jpg",
     "manufacturer": "Koss",
     "name": "Koss KSC75",
@@ -2880,7 +2880,7 @@
     "stock": 0
   },
   {
-    "id": 316,
+    "id": 193,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7c5583823c6e919356c609ec9cee2778.256p.jpg",
     "manufacturer": "SteelSeries",
     "name": "SteelSeries Arctis Nova 7X",
@@ -2895,7 +2895,7 @@
     "stock": 0
   },
   {
-    "id": 317,
+    "id": 194,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/286270a0d118353478a8367171f35aa4.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Barracuda",
@@ -2910,7 +2910,7 @@
     "stock": 0
   },
   {
-    "id": 318,
+    "id": 195,
     "imageURL": "https://m.media-amazon.com/images/I/41qc5I5zCoL.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 670",
@@ -2925,7 +2925,7 @@
     "stock": 0
   },
   {
-    "id": 319,
+    "id": 196,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3ec0480dc0e8ee0a28328df7adab77bb.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming H3",
@@ -2940,7 +2940,7 @@
     "stock": 0
   },
   {
-    "id": 320,
+    "id": 197,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/469ba8880e6b90130367bc585f012148.256p.jpg",
     "manufacturer": "Astro",
     "name": "Astro A50 PS4 4th Gen + Base Station",
@@ -2955,7 +2955,7 @@
     "stock": 0
   },
   {
-    "id": 321,
+    "id": 198,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8d552fe19ab0fe6d61e817fad1aed4d7.256p.jpg",
     "manufacturer": "Sennheiser",
     "name": "Sennheiser GSP 600",
@@ -2970,7 +2970,7 @@
     "stock": 0
   },
   {
-    "id": 322,
+    "id": 199,
     "imageURL": "https://m.media-amazon.com/images/I/419kkkFPoyL.jpg",
     "manufacturer": "HP",
     "name": "Philips SHP9600/00",
@@ -2985,7 +2985,7 @@
     "stock": 0
   },
   {
-    "id": 323,
+    "id": 200,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/419bpn0g9oL.jpg",
     "manufacturer": "G.Skill",
     "name": "G.Skill RIPJAWS SV710",

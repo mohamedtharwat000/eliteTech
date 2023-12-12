@@ -116,6 +116,7 @@ export default class MysqlStorage {
    *   - Null if no matching records are found.
    */
   async get(cls, obj) {
+    const options = ['price', 'rating'];
     this.connect();
 
     let sql = `SELECT * FROM \`${cls.name.toLowerCase()}\``;
@@ -133,8 +134,6 @@ export default class MysqlStorage {
         sql += ` WHERE name LIKE '%${partialName}%'`;
       }
     }
-
-    const options = ['price', 'rating'];
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
       sql += ` ${sql.includes('WHERE') ? 'AND' : 'WHERE'} ${obj.filterBy} ${
@@ -160,17 +159,15 @@ export default class MysqlStorage {
       }
     }
 
-    debugger;
     if (obj.start || obj.end || obj.limit) {
-      obj.limit = +obj.limit || 999_999_999;
-      obj.end = +obj.end || 999_999_999;
-      obj.start = +obj.start || 0;
+      const start = Math.abs(+obj.start >= 1 ? +obj.start : 1) - 1 || 0;
+      const end = Math.abs(+obj.end) || 999_999_999;
+      const limit = Math.abs(+obj.limit) || end;
+      const count = Math.min(limit, end - start);
 
-      obj.limit = Math.min(obj.limit, obj.end - obj.start);
+      sql += ` LIMIT ${count}`;
 
-      sql += ` LIMIT ${obj.limit}`;
-
-      sql += ` OFFSET ${+obj.start}`;
+      sql += ` OFFSET ${start}`;
     }
 
     this.data = await this.db.query(sql);

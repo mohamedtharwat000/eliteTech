@@ -1,6 +1,6 @@
 [
   {
-    "id": 124,
+    "id": 1,
     "imageURL": "https://m.media-amazon.com/images/I/31SVEFibvEL.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27AQ",
@@ -15,7 +15,7 @@
     "stock": 0
   },
   {
-    "id": 125,
+    "id": 2,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b01d97e380b0840e5a7f789b31ec3a3f.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 65EP5G-B",
@@ -26,11 +26,11 @@
     "panelType": "OLED",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 8875.0,
+    "price": 8875,
     "stock": 0
   },
   {
-    "id": 126,
+    "id": 3,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/733712e75da1ade84876cab068d301af.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G27Q",
@@ -45,7 +45,7 @@
     "stock": 0
   },
   {
-    "id": 127,
+    "id": 4,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/325b541af8d2441964716a67de7ec081.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG248QG",
@@ -56,11 +56,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 189.0,
+    "price": 189,
     "stock": 0
   },
   {
-    "id": 128,
+    "id": 5,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c1cef36415ba8f85086b55459b9bf0aa.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G7",
@@ -75,7 +75,7 @@
     "stock": 0
   },
   {
-    "id": 129,
+    "id": 6,
     "imageURL": "https://m.media-amazon.com/images/I/51I3UjD-Q1L.jpg",
     "manufacturer": "Acer",
     "name": "Acer SB220Q bi",
@@ -90,7 +90,7 @@
     "stock": 0
   },
   {
-    "id": 130,
+    "id": 7,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ce63ce6eb277cd2268bc6d85acb15b07.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG249Q1A",
@@ -105,7 +105,7 @@
     "stock": 0
   },
   {
-    "id": 131,
+    "id": 8,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e01b4d44c0de80c58cefbcc78a1fe809.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C27G2Z",
@@ -120,7 +120,7 @@
     "stock": 0
   },
   {
-    "id": 132,
+    "id": 9,
     "imageURL": "https://m.media-amazon.com/images/I/51VaX8RKOBL.jpg",
     "manufacturer": "MSI",
     "name": "MSI G244F",
@@ -135,7 +135,7 @@
     "stock": 0
   },
   {
-    "id": 133,
+    "id": 10,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/419v6NRDdbL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt PQ22UC",
@@ -150,7 +150,7 @@
     "stock": 0
   },
   {
-    "id": 134,
+    "id": 11,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7dc4f09c177fd3ea74be02eebef3d522.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW3423DWF",
@@ -165,7 +165,7 @@
     "stock": 0
   },
   {
-    "id": 135,
+    "id": 12,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9afe6f834fb2e25e33c55f525e7ef057.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27Q",
@@ -180,7 +180,7 @@
     "stock": 0
   },
   {
-    "id": 136,
+    "id": 13,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c6fcac6db37eb233d14327846e128bd9.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G9 Neo S49AG952N",
@@ -195,7 +195,7 @@
     "stock": 0
   },
   {
-    "id": 137,
+    "id": 14,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b80e393faab308fc44c584b2f2056a71.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G95NC",
@@ -210,10 +210,10 @@
     "stock": 0
   },
   {
-    "id": 138,
+    "id": 15,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/11b4f6b31732e84ba7b04c7076cf52c6.256p.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eM28U",
+    "name": "Gigabyte ‎M28U",
     "screenSize": "28.0",
     "resolution": "3840 x 2160",
     "refreshRate": "144 Hz",
@@ -225,7 +225,7 @@
     "stock": 0
   },
   {
-    "id": 139,
+    "id": 16,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cee9ad73f441215aca17a2d8fced1aa1.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GN800-B",
@@ -240,7 +240,7 @@
     "stock": 0
   },
   {
-    "id": 140,
+    "id": 17,
     "imageURL": "https://m.media-amazon.com/images/I/41xt-MjqHXL.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G8",
@@ -255,7 +255,7 @@
     "stock": 0
   },
   {
-    "id": 141,
+    "id": 18,
     "imageURL": "https://m.media-amazon.com/images/I/41WMZJdzu3L.jpg",
     "manufacturer": "LG",
     "name": "LG 27GR95QE-B",
@@ -270,7 +270,7 @@
     "stock": 0
   },
   {
-    "id": 142,
+    "id": 19,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6c94a840bc3f6ecef2769e5c8ec7c432.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Pro MP241X",
@@ -285,7 +285,7 @@
     "stock": 0
   },
   {
-    "id": 143,
+    "id": 20,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/70b4621850d1d81a6220fc4e25aaa2fb.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift 360Hz PG27AQN",
@@ -300,7 +300,7 @@
     "stock": 0
   },
   {
-    "id": 144,
+    "id": 21,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3f6af7d941a0719a7ddb54fb0d5b7919.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift OLED PG27AQDM",
@@ -315,7 +315,7 @@
     "stock": 0
   },
   {
-    "id": 145,
+    "id": 22,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/90fe1ab915692448773babbed2c62d73.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G24C4",
@@ -330,7 +330,7 @@
     "stock": 0
   },
   {
-    "id": 146,
+    "id": 23,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/07a61ae69ef1a71b2f3580da52ee2df1.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG279QM",
@@ -345,7 +345,7 @@
     "stock": 0
   },
   {
-    "id": 147,
+    "id": 24,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f57a3c2a2bc168f6fd22cc73ea31ae74.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GP850-B",
@@ -356,11 +356,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 365.0,
+    "price": 365,
     "stock": 0
   },
   {
-    "id": 148,
+    "id": 25,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/db9371dabda028272b567565910b5f9e.256p.jpg",
     "manufacturer": "Pixio",
     "name": "Pixio PX248 Prime",
@@ -375,7 +375,7 @@
     "stock": 0
   },
   {
-    "id": 149,
+    "id": 26,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d033ac72d7a1b3440f64bd9d9892fa49.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell UP3218K",
@@ -390,7 +390,7 @@
     "stock": 0
   },
   {
-    "id": 150,
+    "id": 27,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/742c77bddb5484d4bb0c8f1dc638cb73.med.256p.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E205W-1600",
@@ -405,7 +405,7 @@
     "stock": 0
   },
   {
-    "id": 151,
+    "id": 28,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/034e1120405c86551cae15370eb23000.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G95SC",
@@ -420,7 +420,7 @@
     "stock": 0
   },
   {
-    "id": 152,
+    "id": 29,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/51cdef3b9216df555b7c7eec7620b0e7.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear",
@@ -435,7 +435,7 @@
     "stock": 0
   },
   {
-    "id": 153,
+    "id": 30,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/812c513edc0153ceefbbacaaf80f8b0c.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2524H",
@@ -450,7 +450,7 @@
     "stock": 0
   },
   {
-    "id": 154,
+    "id": 31,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/de32f1d270746defde4c7c700b157929.256p.jpg",
     "manufacturer": "Pixio",
     "name": "Pixio PX243",
@@ -465,7 +465,7 @@
     "stock": 0
   },
   {
-    "id": 155,
+    "id": 32,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fa21e963ba2a19d3dcbf5196c44c50d0.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI G274QPX",
@@ -480,7 +480,7 @@
     "stock": 0
   },
   {
-    "id": 156,
+    "id": 33,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/532f0595275969ccd86055922406d927.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G4",
@@ -495,7 +495,7 @@
     "stock": 0
   },
   {
-    "id": 157,
+    "id": 34,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f348744c0a0899d966fb9cdc4a09f020.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G8",
@@ -510,7 +510,7 @@
     "stock": 0
   },
   {
-    "id": 158,
+    "id": 35,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e91d767f8fc7ae0bce1d01f8faa0964e.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer KC242Y Abi",
@@ -521,11 +521,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 88.0,
+    "price": 88,
     "stock": 0
   },
   {
-    "id": 159,
+    "id": 36,
     "imageURL": "https://m.media-amazon.com/images/I/41aGVl0mi+L.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro XV272U Vbmiiprx",
@@ -540,7 +540,7 @@
     "stock": 0
   },
   {
-    "id": 160,
+    "id": 37,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e67d7e0029c915be0304f155285dcfae.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27Q-P",
@@ -555,7 +555,7 @@
     "stock": 0
   },
   {
-    "id": 161,
+    "id": 38,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d03df7d270d4abcce85e45c61f73ac98.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VA24EHE",
@@ -566,11 +566,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 94.0,
+    "price": 94,
     "stock": 0
   },
   {
-    "id": 162,
+    "id": 39,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0681758c500c494a2831827cd89c3ff1.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair XENEON FLEX 45WQHD240",
@@ -585,7 +585,7 @@
     "stock": 0
   },
   {
-    "id": 163,
+    "id": 40,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/22fdcccdc4f3c5039d30914fb4acae36.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G24F 2",
@@ -600,7 +600,7 @@
     "stock": 0
   },
   {
-    "id": 164,
+    "id": 41,
     "imageURL": "https://m.media-amazon.com/images/I/51djiMLP1kL.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro XV1 XV271U",
@@ -615,7 +615,7 @@
     "stock": 0
   },
   {
-    "id": 165,
+    "id": 42,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/142906e123dcfff2e2d42acca0acfc10.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI G272QPF",
@@ -630,7 +630,7 @@
     "stock": 0
   },
   {
-    "id": 166,
+    "id": 43,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/67cc8916b4361956e9785823a25b4940.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GN600-B",
@@ -641,11 +641,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 209.0,
+    "price": 209,
     "stock": 0
   },
   {
-    "id": 167,
+    "id": 44,
     "imageURL": "https://m.media-amazon.com/images/I/41RMMhkPgEL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift Pro PG248QP",
@@ -656,11 +656,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 899.0,
+    "price": 899,
     "stock": 0
   },
   {
-    "id": 168,
+    "id": 45,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58004c7406937c7a7068792865c9b028.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24B2XH",
@@ -675,7 +675,7 @@
     "stock": 0
   },
   {
-    "id": 169,
+    "id": 46,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/612fd94f94b440e7aed0cf57479d645b.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27Q-X",
@@ -690,7 +690,7 @@
     "stock": 0
   },
   {
-    "id": 170,
+    "id": 47,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1f339b5ea3c69b187243951268654d97.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G5",
@@ -705,7 +705,7 @@
     "stock": 0
   },
   {
-    "id": 171,
+    "id": 48,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5c76b723373caa43420844a74b3a609b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG32UQ",
@@ -720,7 +720,7 @@
     "stock": 0
   },
   {
-    "id": 172,
+    "id": 49,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d855245da46f85e541c267c2f1f4fdcd.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24G2SP",
@@ -735,7 +735,7 @@
     "stock": 0
   },
   {
-    "id": 173,
+    "id": 50,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e4a084f8334b0a1bf59fec892ae559a8.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G274QRFW",
@@ -750,7 +750,7 @@
     "stock": 0
   },
   {
-    "id": 174,
+    "id": 51,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f3be6199941e557b5433864e583620c9.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung ARK",
@@ -765,7 +765,7 @@
     "stock": 0
   },
   {
-    "id": 175,
+    "id": 52,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fce019fb526b38661aeda093f1718ff2.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 45GR95QE-B",
@@ -780,7 +780,7 @@
     "stock": 0
   },
   {
-    "id": 176,
+    "id": 53,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/689e479379c8dbd61001fa059697afe6.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock PG27FF1A",
@@ -795,7 +795,7 @@
     "stock": 0
   },
   {
-    "id": 177,
+    "id": 54,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ab5a5d72966546752853d98b25917f93.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24G2SPAE/BK",
@@ -810,7 +810,7 @@
     "stock": 0
   },
   {
-    "id": 178,
+    "id": 55,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c5fbd60e5912f11c9fba9cd58ff4dc08.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG248QE",
@@ -825,7 +825,7 @@
     "stock": 0
   },
   {
-    "id": 179,
+    "id": 56,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8bfd1e864048a5c5234dd2d4cb13dc61.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G241",
@@ -840,7 +840,7 @@
     "stock": 0
   },
   {
-    "id": 180,
+    "id": 57,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58b4b05810d6c5dd21b80d523d87c469.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock PG27Q15R2A",
@@ -855,7 +855,7 @@
     "stock": 0
   },
   {
-    "id": 181,
+    "id": 58,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1ddaed6942bce9873c670d77f9bb2e60.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24GN650-B",
@@ -870,7 +870,7 @@
     "stock": 0
   },
   {
-    "id": 182,
+    "id": 59,
     "imageURL": "https://m.media-amazon.com/images/I/41v-UZbUi5L.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW3423DW",
@@ -885,7 +885,7 @@
     "stock": 0
   },
   {
-    "id": 183,
+    "id": 60,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ba750823ba2ed3948c0009ea1528f30f.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2718-2KPC-MHD",
@@ -900,7 +900,7 @@
     "stock": 0
   },
   {
-    "id": 184,
+    "id": 61,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d682408197d75c53c2d0b0c8482007dd.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell G2724D",
@@ -915,7 +915,7 @@
     "stock": 0
   },
   {
-    "id": 185,
+    "id": 62,
     "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/31glRSXYbjL.jpg",
     "manufacturer": "Dell",
     "name": "Dell E2216H",
@@ -930,7 +930,7 @@
     "stock": 0
   },
   {
-    "id": 186,
+    "id": 63,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1763ffa65ea594b43e9569699b1b201b.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC Porsche Design AGON PRO PD32M",
@@ -941,11 +941,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 1249.0,
+    "price": 1249,
     "stock": 0
   },
   {
-    "id": 187,
+    "id": 64,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1c3449001f4d13277a4b39a59ddf68f7.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G9",
@@ -960,7 +960,7 @@
     "stock": 0
   },
   {
-    "id": 188,
+    "id": 65,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1698baacec56a901c0eb416807c20595.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG278QR",
@@ -975,7 +975,7 @@
     "stock": 0
   },
   {
-    "id": 189,
+    "id": 66,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5e024a5f7102e939f8d24280f6e58af1.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27AQ1A",
@@ -990,7 +990,7 @@
     "stock": 0
   },
   {
-    "id": 190,
+    "id": 67,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fdbf02ba8eb5337d2d8ce93f4a7d0059.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G32CQ4 E2",
@@ -1005,7 +1005,7 @@
     "stock": 0
   },
   {
-    "id": 191,
+    "id": 68,
     "imageURL": "https://m.media-amazon.com/images/I/41DrRAcW9qL.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E205W-16003R",
@@ -1020,7 +1020,7 @@
     "stock": 0
   },
   {
-    "id": 192,
+    "id": 69,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a5ad5a8ee62daa7c25b6ecef0dc7720b.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear",
@@ -1035,7 +1035,7 @@
     "stock": 0
   },
   {
-    "id": 193,
+    "id": 70,
     "imageURL": "https://m.media-amazon.com/images/I/51UumOf-BVL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA32DC",
@@ -1050,7 +1050,7 @@
     "stock": 0
   },
   {
-    "id": 194,
+    "id": 71,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/86ad495144925b53e6736ab1d193534a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG249Q",
@@ -1061,11 +1061,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 189.0,
+    "price": 189,
     "stock": 0
   },
   {
-    "id": 195,
+    "id": 72,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b3f3716a6a6008643deec4b430c5ab3a.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer VG271U M3bmiipx",
@@ -1080,7 +1080,7 @@
     "stock": 0
   },
   {
-    "id": 196,
+    "id": 73,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d715b5dddaafef900947e7560e157f65.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung T350",
@@ -1095,7 +1095,7 @@
     "stock": 0
   },
   {
-    "id": 197,
+    "id": 74,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cd4803e37a6cb7bb186d3cdabd9597db.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN 27QS",
@@ -1110,7 +1110,7 @@
     "stock": 0
   },
   {
-    "id": 198,
+    "id": 75,
     "imageURL": "https://m.media-amazon.com/images/I/51ysFSsQSNL.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2719DGF",
@@ -1125,7 +1125,7 @@
     "stock": 0
   },
   {
-    "id": 199,
+    "id": 76,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f5227f02fbfdfc909ea2a71431bed0c3.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair XENEON 27QHD240",
@@ -1140,7 +1140,7 @@
     "stock": 0
   },
   {
-    "id": 200,
+    "id": 77,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d51b853f4746f79249ccf69dd259e917.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S3422DWG",
@@ -1155,7 +1155,7 @@
     "stock": 0
   },
   {
-    "id": 201,
+    "id": 78,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1667868670ceb2967edccbdb8314d0fe.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ Zowie XL2566K",
@@ -1166,11 +1166,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 599.0,
+    "price": 599,
     "stock": 0
   },
   {
-    "id": 202,
+    "id": 79,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/53a56c753fa1c507f9dc99ccf695f886.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G9 G93SC",
@@ -1185,7 +1185,7 @@
     "stock": 0
   },
   {
-    "id": 203,
+    "id": 80,
     "imageURL": "https://m.media-amazon.com/images/I/31CxyAIwuHL.jpg",
     "manufacturer": "LG",
     "name": "LG 27GL83A-B",
@@ -1200,7 +1200,7 @@
     "stock": 0
   },
   {
-    "id": 204,
+    "id": 81,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e9fea66d4297ba3fa06f45cfeea632c6.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M32U",
@@ -1215,7 +1215,7 @@
     "stock": 0
   },
   {
-    "id": 205,
+    "id": 82,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5cfb610e330ac59f5726d8d8cc89e629.256p.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre C305B-200UN",
@@ -1230,7 +1230,7 @@
     "stock": 0
   },
   {
-    "id": 206,
+    "id": 83,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/683a1e578f46379a1f3d18356601275d.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ Zowie XL2546K",
@@ -1241,11 +1241,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 429.0,
+    "price": 429,
     "stock": 0
   },
   {
-    "id": 207,
+    "id": 84,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c51433ada269d982ab4732cc506ea58b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQMR",
@@ -1256,11 +1256,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 599.0,
+    "price": 599,
     "stock": 0
   },
   {
-    "id": 208,
+    "id": 85,
     "imageURL": "https://m.media-amazon.com/images/I/31YTx9t6bmL.jpg",
     "manufacturer": "Dell",
     "name": "Dell E1910H",
@@ -1271,11 +1271,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 69.0,
+    "price": 69,
     "stock": 0
   },
   {
-    "id": 209,
+    "id": 86,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e82c8d87bd5ae8836cfc2258a686e596.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G7 LC32G75TQSNXZA",
@@ -1290,7 +1290,7 @@
     "stock": 0
   },
   {
-    "id": 210,
+    "id": 87,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3e6f05b5553d896ebbddae8850dd5b0b.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2523HF",
@@ -1305,7 +1305,7 @@
     "stock": 0
   },
   {
-    "id": 211,
+    "id": 88,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c749f9fcca892140eaf9f425b5073083.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG32UQX",
@@ -1316,11 +1316,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 2199.0,
+    "price": 2199,
     "stock": 0
   },
   {
-    "id": 212,
+    "id": 89,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4a15d08226d960b85040c9a8e9d00406.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG259QM",
@@ -1335,7 +1335,7 @@
     "stock": 0
   },
   {
-    "id": 213,
+    "id": 90,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4889bb85773e6273100db4f46e9d653b.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G3",
@@ -1350,7 +1350,7 @@
     "stock": 0
   },
   {
-    "id": 214,
+    "id": 91,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/098e71ab231767a13c79234c2dc73060.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27AQ3A",
@@ -1365,7 +1365,7 @@
     "stock": 0
   },
   {
-    "id": 215,
+    "id": 92,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cca42477c4fa847964e18e6f2492442b.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24GQ50F-B",
@@ -1380,7 +1380,7 @@
     "stock": 0
   },
   {
-    "id": 216,
+    "id": 93,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4fd802bad4e764896bc35376e77687dd.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC Q27G2U/BK",
@@ -1395,10 +1395,10 @@
     "stock": 0
   },
   {
-    "id": 217,
+    "id": 94,
     "imageURL": "https://m.media-amazon.com/images/I/41sMJbq930L.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eM34WQ",
+    "name": "Gigabyte ‎M34WQ",
     "screenSize": "34.0",
     "resolution": "3440 x 1440",
     "refreshRate": "144 Hz",
@@ -1410,7 +1410,7 @@
     "stock": 0
   },
   {
-    "id": 218,
+    "id": 95,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f2585f706b390a0f863740b6d69cd27c.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27WQ1B",
@@ -1421,11 +1421,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 259.0,
+    "price": 259,
     "stock": 0
   },
   {
-    "id": 219,
+    "id": 96,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "KOORUI",
     "name": "KOORUI GP01",
@@ -1440,7 +1440,7 @@
     "stock": 0
   },
   {
-    "id": 220,
+    "id": 97,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d7bb141ce87110b2d00c84ecba3d507b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift OLED PG42UQ",
@@ -1451,11 +1451,11 @@
     "panelType": "OLED",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 1299.0,
+    "price": 1299,
     "stock": 0
   },
   {
-    "id": 221,
+    "id": 98,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0f06943449a7f045280437ce6c0c1a0a.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GN950-B",
@@ -1466,11 +1466,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 796.0,
+    "price": 796,
     "stock": 0
   },
   {
-    "id": 222,
+    "id": 99,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/63da78506b9bb2b57c4561a0d9103ae8.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2418C",
@@ -1485,7 +1485,7 @@
     "stock": 0
   },
   {
-    "id": 223,
+    "id": 100,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a66c01cfe374a7fca12279f81882004a.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GP850-B",
@@ -1500,7 +1500,7 @@
     "stock": 0
   },
   {
-    "id": 224,
+    "id": 101,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/21125f6fed23c1fc39f249297032f6d1.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G2412",
@@ -1515,7 +1515,7 @@
     "stock": 0
   },
   {
-    "id": 225,
+    "id": 102,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/70d2b0098d35d1f6d27f98b67ab5cfdb.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G5 C34G55T",
@@ -1530,7 +1530,7 @@
     "stock": 0
   },
   {
-    "id": 226,
+    "id": 103,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c1099b956de147805a27fa7b89aee81c.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 34GN850-B",
@@ -1545,7 +1545,7 @@
     "stock": 0
   },
   {
-    "id": 227,
+    "id": 104,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7eaff54dcffe847768a0086730e30777.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG28UQL1A",
@@ -1560,7 +1560,7 @@
     "stock": 0
   },
   {
-    "id": 228,
+    "id": 105,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5e97cd004bcf98f0f1954d0e46ad7b38.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24MP60G-B",
@@ -1575,7 +1575,7 @@
     "stock": 0
   },
   {
-    "id": 229,
+    "id": 106,
     "imageURL": "https://m.media-amazon.com/images/I/417KWxwTikL.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24G2",
@@ -1586,11 +1586,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 227.0,
+    "price": 227,
     "stock": 0
   },
   {
-    "id": 230,
+    "id": 107,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/012398488d4f79e42575a0e294064ca9.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI G274QPF-QD",
@@ -1605,7 +1605,7 @@
     "stock": 0
   },
   {
-    "id": 231,
+    "id": 108,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b1d5e50943fd32231a40ef7c7ea87d4c.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C27G2ZE/BK",
@@ -1620,7 +1620,7 @@
     "stock": 0
   },
   {
-    "id": 232,
+    "id": 109,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8ed2c0180a3935e502b099b5c07af20c.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G27QC A",
@@ -1635,7 +1635,7 @@
     "stock": 0
   },
   {
-    "id": 233,
+    "id": 110,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b93bffafb388be9d5d4558fb2c108701.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic XG2431",
@@ -1650,7 +1650,7 @@
     "stock": 0
   },
   {
-    "id": 234,
+    "id": 111,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ecaf41184fa6eb6ed23c9911976d42c5.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung U28R550",
@@ -1665,7 +1665,7 @@
     "stock": 0
   },
   {
-    "id": 235,
+    "id": 112,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/168b91d958b6f5342fda160aebcb2f40.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 32GR93U-B",
@@ -1680,7 +1680,7 @@
     "stock": 0
   },
   {
-    "id": 236,
+    "id": 113,
     "imageURL": "https://m.media-amazon.com/images/I/41FpNHHNmeL.jpg",
     "manufacturer": "Philips",
     "name": "Philips 242E1GSJ",
@@ -1691,11 +1691,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 237,
+    "id": 114,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9501f17318aa2283601e9526a21b3734.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2722DGM",
@@ -1710,7 +1710,7 @@
     "stock": 0
   },
   {
-    "id": 238,
+    "id": 115,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/30f6ad5628a5425e94939b431bd85d55.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG274QRF-QD",
@@ -1725,7 +1725,7 @@
     "stock": 0
   },
   {
-    "id": 239,
+    "id": 116,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6f1db6d403189109f721e5ec8149b12c.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell G3223Q",
@@ -1740,7 +1740,7 @@
     "stock": 0
   },
   {
-    "id": 240,
+    "id": 117,
     "imageURL": "https://m.media-amazon.com/images/I/41Vn84ve-iL.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G7",
@@ -1755,7 +1755,7 @@
     "stock": 0
   },
   {
-    "id": 241,
+    "id": 118,
     "imageURL": "https://m.media-amazon.com/images/I/41OEutOvWVS.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung S27AG50",
@@ -1770,7 +1770,7 @@
     "stock": 0
   },
   {
-    "id": 242,
+    "id": 119,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a7f018b6d4e6e54702dec2707bf1014.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA32UCG-K",
@@ -1785,7 +1785,7 @@
     "stock": 0
   },
   {
-    "id": 243,
+    "id": 120,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8e47a88e9675a52f808a459299e32b7b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQV",
@@ -1800,7 +1800,7 @@
     "stock": 0
   },
   {
-    "id": 244,
+    "id": 121,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/401db2a8ad893f2529089d606da2bfc4.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2724HF",
@@ -1815,7 +1815,7 @@
     "stock": 0
   },
   {
-    "id": 245,
+    "id": 122,
     "imageURL": "https://m.media-amazon.com/images/I/31bSWKBVNfL.jpg",
     "manufacturer": "Dell",
     "name": "Dell AW2723DF",
@@ -1830,7 +1830,7 @@
     "stock": 0
   },
   {
-    "id": 246,
+    "id": 123,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/035d2d1408b35c0804e2b36e9e21043a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG SWIFT PG27UQ",
@@ -1845,7 +1845,7 @@
     "stock": 0
   },
   {
-    "id": 247,
+    "id": 124,
     "imageURL": "https://m.media-amazon.com/images/I/41FTz2RCpPL.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2721DGF",
@@ -1860,7 +1860,7 @@
     "stock": 0
   },
   {
-    "id": 248,
+    "id": 125,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/af314b26eb9c2547f60d154349794f72.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG342CQR",
@@ -1875,7 +1875,7 @@
     "stock": 0
   },
   {
-    "id": 249,
+    "id": 126,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a355ece2638358c4a8a2ded782e8cce2.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA32UCG-K",
@@ -1890,7 +1890,7 @@
     "stock": 0
   },
   {
-    "id": 250,
+    "id": 127,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4a8b6f6bcae5cc5d175bbfd01fa62236.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock PG27F15RS1A",
@@ -1905,7 +1905,7 @@
     "stock": 0
   },
   {
-    "id": 251,
+    "id": 128,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/89a955b37b4e994cd85609627ffe00c6.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C24G1",
@@ -1920,7 +1920,7 @@
     "stock": 0
   },
   {
-    "id": 252,
+    "id": 129,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/93d67e875ca85ac6b92e23dcdd4c19b5.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GP950-B",
@@ -1935,7 +1935,7 @@
     "stock": 0
   },
   {
-    "id": 253,
+    "id": 130,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d70bd37fe5bead6a9631938af1853fa3.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro QG241Y Pbmiipx",
@@ -1950,7 +1950,7 @@
     "stock": 0
   },
   {
-    "id": 254,
+    "id": 131,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd1355e26130469b06a7bde984ea308e.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC AG276QZD",
@@ -1965,7 +1965,7 @@
     "stock": 0
   },
   {
-    "id": 255,
+    "id": 132,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ef81bb79d207a541d2877b96e1ba8d30.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27AQA1A",
@@ -1980,7 +1980,7 @@
     "stock": 0
   },
   {
-    "id": 256,
+    "id": 133,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e1d0b2aeb961bcce4af050847c4e7355.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G5",
@@ -1995,7 +1995,7 @@
     "stock": 0
   },
   {
-    "id": 257,
+    "id": 134,
     "imageURL": "https://m.media-amazon.com/images/I/41TMTo-lj+L.jpg",
     "manufacturer": "Dell",
     "name": "Dell S3222DGM",
@@ -2010,7 +2010,7 @@
     "stock": 0
   },
   {
-    "id": 258,
+    "id": 135,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3af7f4b403dc7d305de73ef972285c87.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27AQL1A",
@@ -2025,7 +2025,7 @@
     "stock": 0
   },
   {
-    "id": 259,
+    "id": 136,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/52eaa7162359ce5ad4a9871daadc9814.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G34WQC A",
@@ -2040,7 +2040,7 @@
     "stock": 0
   },
   {
-    "id": 260,
+    "id": 137,
     "imageURL": "https://m.media-amazon.com/images/I/41R5anU5H7L.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ ZOWIE XL2411P",
@@ -2055,7 +2055,7 @@
     "stock": 0
   },
   {
-    "id": 261,
+    "id": 138,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b232ef15e39703cec7ebed664abd2de7.256p.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre C248W-1920RN",
@@ -2070,7 +2070,7 @@
     "stock": 0
   },
   {
-    "id": 262,
+    "id": 139,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5be6fdd27129bbfd49b2ea66187482ba.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC CU34G2X/BK",
@@ -2081,11 +2081,11 @@
     "panelType": "VA",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 699.0,
+    "price": 699,
     "stock": 0
   },
   {
-    "id": 263,
+    "id": 140,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/40ff7c523b6ed7dea9b704babddd603c.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG34VQL1B",
@@ -2100,7 +2100,7 @@
     "stock": 0
   },
   {
-    "id": 264,
+    "id": 141,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/89861344c5944b7b63d4e373dcc7825a.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 27B2H",
@@ -2115,7 +2115,7 @@
     "stock": 0
   },
   {
-    "id": 265,
+    "id": 142,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3dd2cdfad48aba22d4f62e6022ef0c2c.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung C24F390",
@@ -2130,7 +2130,7 @@
     "stock": 0
   },
   {
-    "id": 266,
+    "id": 143,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/da23f8f3e02708951a4a2bdf5253bb90.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG279Q1A",
@@ -2145,7 +2145,7 @@
     "stock": 0
   },
   {
-    "id": 267,
+    "id": 144,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7211175ddb6250cd402e6ea1f7639f71.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VP228QG",
@@ -2160,7 +2160,7 @@
     "stock": 0
   },
   {
-    "id": 268,
+    "id": 145,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0646532ae60b353359506ca3c4268f87.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ MOBIUZ EX2710Q",
@@ -2175,7 +2175,7 @@
     "stock": 0
   },
   {
-    "id": 269,
+    "id": 146,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/98905c3cd9d56fca0417fa14587fe193.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Pro",
@@ -2190,7 +2190,7 @@
     "stock": 0
   },
   {
-    "id": 270,
+    "id": 147,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15f4f160ac981fd373a8f69695b2d639.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift OLED PG48UQ",
@@ -2205,7 +2205,7 @@
     "stock": 0
   },
   {
-    "id": 271,
+    "id": 148,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2de3d542ab8ed0ee0488489de459b4e0.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA278QV",
@@ -2216,11 +2216,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 272,
+    "id": 149,
     "imageURL": "https://m.media-amazon.com/images/I/41yr+5P84JL.jpg",
     "manufacturer": "Acer",
     "name": "Acer Acer Nitro XV272U W2bmiiprx",
@@ -2235,7 +2235,7 @@
     "stock": 0
   },
   {
-    "id": 273,
+    "id": 150,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a94226cce798f7ba8dcb9bfc1b4604f5.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27U SA",
@@ -2250,7 +2250,7 @@
     "stock": 0
   },
   {
-    "id": 274,
+    "id": 151,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/28cc727445e3f4808e0b089314792886.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LC27F396FHNXZA",
@@ -2261,11 +2261,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 275,
+    "id": 152,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f98e80f9443319f14b548ee54f378b29.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GL850-B",
@@ -2280,7 +2280,7 @@
     "stock": 0
   },
   {
-    "id": 276,
+    "id": 153,
     "imageURL": "https://m.media-amazon.com/images/I/51HJWYChCfL.jpg",
     "manufacturer": "LG",
     "name": "LG 27GN750-B",
@@ -2295,7 +2295,7 @@
     "stock": 0
   },
   {
-    "id": 277,
+    "id": 154,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7cf185490a611e1124ce39bb914cae58.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24G2SPE",
@@ -2310,7 +2310,7 @@
     "stock": 0
   },
   {
-    "id": 278,
+    "id": 155,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c4a11419b55001263a73c92484d5521c.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer KG241Y Sbiip",
@@ -2325,7 +2325,7 @@
     "stock": 0
   },
   {
-    "id": 279,
+    "id": 156,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/af1c172efd0c3cad69f4fbb24fa7b253.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV252Q FBMIIPRX",
@@ -2340,7 +2340,7 @@
     "stock": 0
   },
   {
-    "id": 280,
+    "id": 157,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c25d7beb4f280332c944895b5553b3d7.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator X27U bmiipruzx",
@@ -2355,7 +2355,7 @@
     "stock": 0
   },
   {
-    "id": 281,
+    "id": 158,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4923ecae60362ca8409bd2d1abc4e1ce.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG281URF",
@@ -2370,7 +2370,7 @@
     "stock": 0
   },
   {
-    "id": 282,
+    "id": 159,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/68cbaf4c01588db745a5a4884c926222.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G27F 2",
@@ -2385,7 +2385,7 @@
     "stock": 0
   },
   {
-    "id": 283,
+    "id": 160,
     "imageURL": "https://m.media-amazon.com/images/I/310+MwFsHsL.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 27GN95B-B",
@@ -2396,11 +2396,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 499.0,
+    "price": 499,
     "stock": 0
   },
   {
-    "id": 284,
+    "id": 161,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7d2f40657f408bcaec611b8d03e92d19.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GK650F-B",
@@ -2415,7 +2415,7 @@
     "stock": 0
   },
   {
-    "id": 285,
+    "id": 162,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/91b4f2e1294160a7907f650cf8cf16ce.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C32G2ZE/BK",
@@ -2430,7 +2430,7 @@
     "stock": 0
   },
   {
-    "id": 286,
+    "id": 163,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8bcca3b3c91712013de98f9bb5e1ec8a.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G65B",
@@ -2441,11 +2441,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 490.0,
+    "price": 490,
     "stock": 0
   },
   {
-    "id": 287,
+    "id": 164,
     "imageURL": "https://m.media-amazon.com/images/I/21xdD7RzN7L.jpg",
     "manufacturer": "AOC",
     "name": "AOC CQ27G2",
@@ -2460,7 +2460,7 @@
     "stock": 0
   },
   {
-    "id": 288,
+    "id": 165,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e19ec2cd450373fc3a22f3db0a956f1e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG24VQE",
@@ -2475,7 +2475,7 @@
     "stock": 0
   },
   {
-    "id": 289,
+    "id": 166,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ac1379fdce61ce3e2b71f3e9d6208eeb.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 22MP410-B",
@@ -2490,7 +2490,7 @@
     "stock": 0
   },
   {
-    "id": 290,
+    "id": 167,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c6155b53f474a6418be303bad8de742a.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G271",
@@ -2505,7 +2505,7 @@
     "stock": 0
   },
   {
-    "id": 291,
+    "id": 168,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/144a79238aadd7f3b1d2342bfbe5c482.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI MAG 274UPF",
@@ -2520,7 +2520,7 @@
     "stock": 0
   },
   {
-    "id": 292,
+    "id": 169,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/500fd3e8fbad9d6a810ab335406c0c5e.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24GN600-B",
@@ -2535,7 +2535,7 @@
     "stock": 0
   },
   {
-    "id": 293,
+    "id": 170,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/432a9abd9610728623a4174cf0cb1eae.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G273",
@@ -2546,11 +2546,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 294,
+    "id": 171,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e9cc6aa1d6d7c9c77074a07d24eb92e8.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G271CP",
@@ -2565,7 +2565,7 @@
     "stock": 0
   },
   {
-    "id": 295,
+    "id": 172,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3b05b8e47da7c1f9175b79597af0ffc1.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VA1903H",
@@ -2580,7 +2580,7 @@
     "stock": 0
   },
   {
-    "id": 296,
+    "id": 173,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9d7490710d4a827743be2fb490314836.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G5",
@@ -2595,7 +2595,7 @@
     "stock": 0
   },
   {
-    "id": 297,
+    "id": 174,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a6771210080ca28512dfac5803f184a2.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G27CQ4",
@@ -2610,7 +2610,7 @@
     "stock": 0
   },
   {
-    "id": 298,
+    "id": 175,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/79d4676a209d1710b5221258f9c50b12.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG279QM",
@@ -2625,7 +2625,7 @@
     "stock": 0
   },
   {
-    "id": 299,
+    "id": 176,
     "imageURL": "https://m.media-amazon.com/images/I/21j2CCQG4VL.jpg",
     "manufacturer": "Alienware",
     "name": "Dell Alienware AW2724DM",
@@ -2640,7 +2640,7 @@
     "stock": 0
   },
   {
-    "id": 300,
+    "id": 177,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/56ee04511cf02edadc5fac5946d765ac.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G32A",
@@ -2655,7 +2655,7 @@
     "stock": 0
   },
   {
-    "id": 301,
+    "id": 178,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2a19dce49836c4ce06c541417a51b51f.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer EI322QUR Pbmiippx",
@@ -2670,10 +2670,10 @@
     "stock": 0
   },
   {
-    "id": 302,
+    "id": 179,
     "imageURL": "https://m.media-amazon.com/images/I/41PRSuy+8RL.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eM32UC",
+    "name": "Gigabyte ‎M32UC",
     "screenSize": "31.5",
     "resolution": "3840 x 2160",
     "refreshRate": "160 Hz",
@@ -2685,7 +2685,7 @@
     "stock": 0
   },
   {
-    "id": 303,
+    "id": 180,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6a6b7c5187b9057552b0102fbcd2628a.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell G3223D",
@@ -2700,7 +2700,7 @@
     "stock": 0
   },
   {
-    "id": 304,
+    "id": 181,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cff8973ce50484cec1ffabba2674c75f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG309CM",
@@ -2711,11 +2711,11 @@
     "panelType": "IPS",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 299.0,
+    "price": 299,
     "stock": 0
   },
   {
-    "id": 305,
+    "id": 182,
     "imageURL": "https://m.media-amazon.com/images/I/41MMsmcIXAL.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G7",
@@ -2730,7 +2730,7 @@
     "stock": 0
   },
   {
-    "id": 306,
+    "id": 183,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5e867d74896341e386ee4e140306bdec.256p.jpg",
     "manufacturer": "HP",
     "name": "HP X24ih",
@@ -2745,7 +2745,7 @@
     "stock": 0
   },
   {
-    "id": 307,
+    "id": 184,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1bd060775d8fdea450f5fdca41c6ed75.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG349C",
@@ -2760,7 +2760,7 @@
     "stock": 0
   },
   {
-    "id": 308,
+    "id": 185,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/70d2b0098d35d1f6d27f98b67ab5cfdb.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LC27G55TQWNXZA",
@@ -2775,7 +2775,7 @@
     "stock": 0
   },
   {
-    "id": 309,
+    "id": 186,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0e0a67d72fdd4d79c18d9edd25bf8a5d.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2522HG",
@@ -2790,7 +2790,7 @@
     "stock": 0
   },
   {
-    "id": 310,
+    "id": 187,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4ba21f15222b599e3834a61725151b21.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Pro",
@@ -2805,7 +2805,7 @@
     "stock": 0
   },
   {
-    "id": 311,
+    "id": 188,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ebabe7d48529adfc62aabba30ad501a8.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 34WP60C-B",
@@ -2820,7 +2820,7 @@
     "stock": 0
   },
   {
-    "id": 312,
+    "id": 189,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5c00380802ac4cbcfe415b476f106153.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG278Q",
@@ -2835,7 +2835,7 @@
     "stock": 0
   },
   {
-    "id": 313,
+    "id": 190,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b700f185113fd0ca3b246e16ebcd57bc.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC Q27G2S",
@@ -2850,7 +2850,7 @@
     "stock": 0
   },
   {
-    "id": 314,
+    "id": 191,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d715b5dddaafef900947e7560e157f65.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung T350",
@@ -2865,7 +2865,7 @@
     "stock": 0
   },
   {
-    "id": 315,
+    "id": 192,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/18a6fae70c0d6025248113919115a11f.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 48GQ900-B",
@@ -2880,7 +2880,7 @@
     "stock": 0
   },
   {
-    "id": 316,
+    "id": 193,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8867fe547a8f02883838f2ca65220fa6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VP228HE",
@@ -2895,7 +2895,7 @@
     "stock": 0
   },
   {
-    "id": 317,
+    "id": 194,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/68baf70f3d9297eb870484bd89751db9.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GP750-B",
@@ -2910,7 +2910,7 @@
     "stock": 0
   },
   {
-    "id": 318,
+    "id": 195,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a53a09b0ac51ee684660b06b3018075e.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI MAG401QR",
@@ -2925,7 +2925,7 @@
     "stock": 0
   },
   {
-    "id": 319,
+    "id": 196,
     "imageURL": "https://m.media-amazon.com/images/I/416CqsC88-L.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2521HF",
@@ -2940,7 +2940,7 @@
     "stock": 0
   },
   {
-    "id": 320,
+    "id": 197,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec1d66c78811e3af60adaabb8cfebdd1.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G7",
@@ -2955,7 +2955,7 @@
     "stock": 0
   },
   {
-    "id": 321,
+    "id": 198,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b5d5f82fea9f2fc56a950641df711e86.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G40B",
@@ -2970,7 +2970,7 @@
     "stock": 0
   },
   {
-    "id": 322,
+    "id": 199,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cb22a29515a80a1ca592d3a3c1e08242.256p.jpg",
     "manufacturer": "Xiaomi",
     "name": "Xiaomi Mi",
@@ -2985,7 +2985,7 @@
     "stock": 0
   },
   {
-    "id": 323,
+    "id": 200,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6b3c6e33f8077eef5f5bc2d56510a5a8.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XZ322QU Sbmiipphx",
@@ -3000,7 +3000,7 @@
     "stock": 0
   },
   {
-    "id": 324,
+    "id": 201,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/85303da529de69b133481da714ba0dd6.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV282K KVBMIIPRUZX",
@@ -3015,7 +3015,7 @@
     "stock": 0
   },
   {
-    "id": 325,
+    "id": 202,
     "imageURL": "https://m.media-amazon.com/images/I/41MUgPmA5cL.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG27VH1B",
@@ -3030,7 +3030,7 @@
     "stock": 0
   },
   {
-    "id": 326,
+    "id": 203,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/639c8e5235fdbad4854b5c68ffc311ba.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell U2723QE",
@@ -3045,7 +3045,7 @@
     "stock": 0
   },
   {
-    "id": 327,
+    "id": 204,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9fb82f9bdf64715826058f26a9fa0685.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQM",
@@ -3060,7 +3060,7 @@
     "stock": 0
   },
   {
-    "id": 328,
+    "id": 205,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/55fe2ce90e7f92dcb54908c32c5ab2b9.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G7",
@@ -3075,7 +3075,7 @@
     "stock": 0
   },
   {
-    "id": 329,
+    "id": 206,
     "imageURL": "https://m.media-amazon.com/images/I/41mTm612qQL.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E275B-QPT168",
@@ -3090,7 +3090,7 @@
     "stock": 0
   },
   {
-    "id": 330,
+    "id": 207,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ce68340ba891e392bccd05e8523938e0.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer R240HY bidx",
@@ -3105,7 +3105,7 @@
     "stock": 0
   },
   {
-    "id": 331,
+    "id": 208,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/979e2462a5c08c1a66376a5273c676f8.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ GW2480",
@@ -3120,7 +3120,7 @@
     "stock": 0
   },
   {
-    "id": 332,
+    "id": 209,
     "imageURL": "https://m.media-amazon.com/images/I/51mabOQapZL.jpg",
     "manufacturer": "AOC",
     "name": "AOC C24G1A",
@@ -3135,7 +3135,7 @@
     "stock": 0
   },
   {
-    "id": 333,
+    "id": 210,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a3b66e3aaf39e95e1aa73bb393e39874.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ MOBIUZ EX2510S",
@@ -3150,7 +3150,7 @@
     "stock": 0
   },
   {
-    "id": 334,
+    "id": 211,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/32b446ab8cb90eb9c5133dd17f0560f6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VP249QGR",
@@ -3165,7 +3165,7 @@
     "stock": 0
   },
   {
-    "id": 335,
+    "id": 212,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/16b3bc807358726d0867d9e65bfaeb6c.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC G2 CQ32G2S",
@@ -3180,7 +3180,7 @@
     "stock": 0
   },
   {
-    "id": 336,
+    "id": 213,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/25a8bc8d4d054a38d1fd696c838594aa.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG32VQ1B",
@@ -3195,7 +3195,7 @@
     "stock": 0
   },
   {
-    "id": 337,
+    "id": 214,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4edce55c895c08098314c70f510eb923.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer KA272U biipx",
@@ -3210,7 +3210,7 @@
     "stock": 0
   },
   {
-    "id": 338,
+    "id": 215,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c8a9e7321530e1389011b47de15d1df6.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GQ40W-B",
@@ -3225,7 +3225,7 @@
     "stock": 0
   },
   {
-    "id": 339,
+    "id": 216,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f5a0c06d191060c7645b593c78689783.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI MEG 342C QD OLED",
@@ -3240,7 +3240,7 @@
     "stock": 0
   },
   {
-    "id": 340,
+    "id": 217,
     "imageURL": "https://m.media-amazon.com/images/I/41T8+o-gsQL.jpg",
     "manufacturer": "HP",
     "name": "HP 22cwa",
@@ -3255,7 +3255,7 @@
     "stock": 0
   },
   {
-    "id": 341,
+    "id": 218,
     "imageURL": "https://m.media-amazon.com/images/I/51-gD3kSTiL.jpg",
     "manufacturer": "Acer",
     "name": "Acer XF250Q Cbmiiprx",
@@ -3270,7 +3270,7 @@
     "stock": 0
   },
   {
-    "id": 342,
+    "id": 219,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/df23b12946173c2fcbb69b3166c0d700.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G50A",
@@ -3285,7 +3285,7 @@
     "stock": 0
   },
   {
-    "id": 343,
+    "id": 220,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c63b7e000d014e4786af12189da17df7.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27F A",
@@ -3300,7 +3300,7 @@
     "stock": 0
   },
   {
-    "id": 344,
+    "id": 221,
     "imageURL": "https://m.media-amazon.com/images/I/51zyZUQlrBL.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre C325B-185RD",
@@ -3311,11 +3311,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 238.0,
+    "price": 238,
     "stock": 0
   },
   {
-    "id": 345,
+    "id": 222,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0b9ec3dad1db4ae1f59f5ec5e628c7d4.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear",
@@ -3330,7 +3330,7 @@
     "stock": 0
   },
   {
-    "id": 346,
+    "id": 223,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/db21286ea65f13aa2cee4bf599d92cc2.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock CL25FF",
@@ -3345,7 +3345,7 @@
     "stock": 0
   },
   {
-    "id": 347,
+    "id": 224,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69473239ee883ff71af067971748978e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27VQM",
@@ -3360,7 +3360,7 @@
     "stock": 0
   },
   {
-    "id": 348,
+    "id": 225,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d84158de20dbc9f959d9b96802b37c9a.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer V206HQL A",
@@ -3375,7 +3375,7 @@
     "stock": 0
   },
   {
-    "id": 349,
+    "id": 226,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6484776274509565a5f5736cd182c72d.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ GL2480",
@@ -3390,7 +3390,7 @@
     "stock": 0
   },
   {
-    "id": 350,
+    "id": 227,
     "imageURL": "https://m.media-amazon.com/images/I/511pXUbce-L.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2721D",
@@ -3405,7 +3405,7 @@
     "stock": 0
   },
   {
-    "id": 351,
+    "id": 228,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d410dae1435af2a4565a02c7a0ab6746.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell SE2723DS",
@@ -3420,7 +3420,7 @@
     "stock": 0
   },
   {
-    "id": 352,
+    "id": 229,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e034ce7ed7db3ec67f0e84e46c157699.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG259CM",
@@ -3431,11 +3431,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 309.0,
+    "price": 309,
     "stock": 0
   },
   {
-    "id": 353,
+    "id": 230,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0300348bdc25585dc0eef1a146db9361.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G272",
@@ -3450,7 +3450,7 @@
     "stock": 0
   },
   {
-    "id": 354,
+    "id": 231,
     "imageURL": "https://m.media-amazon.com/images/I/41SzxMt58OL.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2721HGF",
@@ -3465,7 +3465,7 @@
     "stock": 0
   },
   {
-    "id": 355,
+    "id": 232,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/35d117ecba88af7b120480a764fc1e12.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN 27q",
@@ -3476,11 +3476,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 241.0,
+    "price": 241,
     "stock": 0
   },
   {
-    "id": 356,
+    "id": 233,
     "imageURL": "https://m.media-amazon.com/images/I/41Qy7SLsLWS.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 34GP950G-B",
@@ -3495,7 +3495,7 @@
     "stock": 0
   },
   {
-    "id": 357,
+    "id": 234,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fdf801cd9cc145a82f9aacfdebc1a9a1.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GP83B-B",
@@ -3510,7 +3510,7 @@
     "stock": 0
   },
   {
-    "id": 358,
+    "id": 235,
     "imageURL": "https://m.media-amazon.com/images/I/41lRuJTbSqL.jpg",
     "manufacturer": "LG",
     "name": "LG 34GP83A-B",
@@ -3525,7 +3525,7 @@
     "stock": 0
   },
   {
-    "id": 359,
+    "id": 236,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a5c063e85478f807f63d1a7a9ce4e2d.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GP700-B",
@@ -3540,7 +3540,7 @@
     "stock": 0
   },
   {
-    "id": 360,
+    "id": 237,
     "imageURL": "https://m.media-amazon.com/images/I/21Y3zEUkF+S.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2721QS",
@@ -3555,7 +3555,7 @@
     "stock": 0
   },
   {
-    "id": 361,
+    "id": 238,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/70eda786ad353daa6a3d56bd2a0b3ad4.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27UQR",
@@ -3570,7 +3570,7 @@
     "stock": 0
   },
   {
-    "id": 362,
+    "id": 239,
     "imageURL": "https://m.media-amazon.com/images/I/51BIR51IjfL.jpg",
     "manufacturer": "VIOTEK",
     "name": "VIOTEK GN24CB",
@@ -3585,7 +3585,7 @@
     "stock": 0
   },
   {
-    "id": 363,
+    "id": 240,
     "imageURL": "https://m.media-amazon.com/images/I/31G6jSjHagL.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 34GP63A-B",
@@ -3600,7 +3600,7 @@
     "stock": 0
   },
   {
-    "id": 364,
+    "id": 241,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/161c1368fd68675c534e8f392d18b3d4.256p.jpg",
     "manufacturer": "LG",
     "name": "LG OLED evo",
@@ -3615,7 +3615,7 @@
     "stock": 0
   },
   {
-    "id": 365,
+    "id": 242,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2f9b2f2f767b1be5c3055a299efa5997.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LU32J590UQNXZA",
@@ -3630,7 +3630,7 @@
     "stock": 0
   },
   {
-    "id": 366,
+    "id": 243,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f5cec5d11d8e9c672c10c132764cff8a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG49VQ",
@@ -3645,7 +3645,7 @@
     "stock": 0
   },
   {
-    "id": 367,
+    "id": 244,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/69099795636afd8f52c8ec86a86d65e5.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MPG321UR-QD",
@@ -3656,11 +3656,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 699.0,
+    "price": 699,
     "stock": 0
   },
   {
-    "id": 368,
+    "id": 245,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/510c00fdf900dfa3a600d07a97697644.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS FI32Q-X",
@@ -3675,7 +3675,7 @@
     "stock": 0
   },
   {
-    "id": 369,
+    "id": 246,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6a5b8d74464dfc420778fb233afc3911.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG342CQPV",
@@ -3690,7 +3690,7 @@
     "stock": 0
   },
   {
-    "id": 370,
+    "id": 247,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/24252ada5591ffda57b4099ad8c353d6.256p.jpg",
     "manufacturer": "HP",
     "name": "HP X27q",
@@ -3701,11 +3701,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 291.0,
+    "price": 291,
     "stock": 0
   },
   {
-    "id": 371,
+    "id": 248,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/560c09c1764b9bdf89297963bc6b0463.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock PG34WQ15R2B",
@@ -3720,7 +3720,7 @@
     "stock": 0
   },
   {
-    "id": 372,
+    "id": 249,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/530f71c42fe512ebbd2808126e669bd1.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG247Q1A",
@@ -3731,11 +3731,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 159.0,
+    "price": 159,
     "stock": 0
   },
   {
-    "id": 373,
+    "id": 250,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/28461709a1920037850ba04308dffa49.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator CG48 bmiiiipuzx",
@@ -3750,7 +3750,7 @@
     "stock": 0
   },
   {
-    "id": 374,
+    "id": 251,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ae364dfe79d4c077bc72a661b48293c3.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG259QN",
@@ -3765,7 +3765,7 @@
     "stock": 0
   },
   {
-    "id": 375,
+    "id": 252,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2cf668a035450860b84294c055ef0837.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG277Q1A",
@@ -3776,14 +3776,14 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 189.0,
+    "price": 189,
     "stock": 0
   },
   {
-    "id": 376,
+    "id": 253,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4e4f2fea7d38f82ab57ed102e965068e.256p.jpg",
     "manufacturer": "LG",
-    "name": "LG UltraGear \u200e27GN650-B",
+    "name": "LG UltraGear ‎27GN650-B",
     "screenSize": "27.0",
     "resolution": "1920 x 1080",
     "refreshRate": "144 Hz",
@@ -3795,7 +3795,7 @@
     "stock": 0
   },
   {
-    "id": 377,
+    "id": 254,
     "imageURL": "https://m.media-amazon.com/images/I/416uNRg9y-L.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro XV252QF",
@@ -3810,7 +3810,7 @@
     "stock": 0
   },
   {
-    "id": 378,
+    "id": 255,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5854806eb0d0a4bd4f2818432e064ada.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G34WQC",
@@ -3825,7 +3825,7 @@
     "stock": 0
   },
   {
-    "id": 379,
+    "id": 256,
     "imageURL": "https://m.media-amazon.com/images/I/21LWVBOwqYL.jpg",
     "manufacturer": "KTC",
     "name": "KTC H27T22",
@@ -3840,7 +3840,7 @@
     "stock": 0
   },
   {
-    "id": 380,
+    "id": 257,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b7be79f3138ca4f6deaf8c68bd0a2096.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 27G2",
@@ -3855,10 +3855,10 @@
     "stock": 0
   },
   {
-    "id": 381,
+    "id": 258,
     "imageURL": "https://m.media-amazon.com/images/I/51Yp2CxWWXL.jpg",
     "manufacturer": "Acer",
-    "name": "Acer AOPEN \u200e34HC5CUR Pbmiiphx",
+    "name": "Acer AOPEN ‎34HC5CUR Pbmiiphx",
     "screenSize": "34.0",
     "resolution": "3440 x 1440",
     "refreshRate": "144 Hz",
@@ -3870,7 +3870,7 @@
     "stock": 0
   },
   {
-    "id": 382,
+    "id": 259,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4ac499b4d09a7399962592e36c0a2067.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW3821DW",
@@ -3881,11 +3881,11 @@
     "panelType": "IPS",
     "aspectRatio": "12:5",
     "rating": 0,
-    "price": 789.0,
+    "price": 789,
     "stock": 0
   },
   {
-    "id": 383,
+    "id": 260,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/370fad9ec54fa8eca75459992dcbfd09.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G55A",
@@ -3900,7 +3900,7 @@
     "stock": 0
   },
   {
-    "id": 384,
+    "id": 261,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/88f22cfd30c6da44e73320a12a297d92.256p.jpg",
     "manufacturer": "iiyama",
     "name": "iiyama G-MASTER BLACK HAWK",
@@ -3915,7 +3915,7 @@
     "stock": 0
   },
   {
-    "id": 385,
+    "id": 262,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ce6a08c0d78c3f627c28b9c7321f43f1.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG27BQ",
@@ -3930,7 +3930,7 @@
     "stock": 0
   },
   {
-    "id": 386,
+    "id": 263,
     "imageURL": "https://m.media-amazon.com/images/I/41Qy0WYddZL.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2422HG",
@@ -3945,7 +3945,7 @@
     "stock": 0
   },
   {
-    "id": 387,
+    "id": 264,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/132e911e4072d7ccfb78becc2c8acfaf.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G32C4",
@@ -3956,11 +3956,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 320.0,
+    "price": 320,
     "stock": 0
   },
   {
-    "id": 388,
+    "id": 265,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/48300d2faa06b1aeb8d154bffe333c2f.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung C49RG9",
@@ -3975,7 +3975,7 @@
     "stock": 0
   },
   {
-    "id": 389,
+    "id": 266,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/48071752d5a7b49b6d38ffaa8febae5c.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo G24e-20",
@@ -3990,7 +3990,7 @@
     "stock": 0
   },
   {
-    "id": 390,
+    "id": 267,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4c4b1b1a8b1a8a57e39e38bd27c1642f.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 49WL95C-WE",
@@ -4005,7 +4005,7 @@
     "stock": 0
   },
   {
-    "id": 391,
+    "id": 268,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9874f53b240f2d193a97b62e1a6bbd52.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQM-G EVA Edition",
@@ -4020,7 +4020,7 @@
     "stock": 0
   },
   {
-    "id": 392,
+    "id": 269,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/75711a1cefd9bbb21adab04441afa608.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2718-PC-MHD",
@@ -4035,7 +4035,7 @@
     "stock": 0
   },
   {
-    "id": 393,
+    "id": 270,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e28082d9b90329c5f6cafdaa24b82743.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG329Q",
@@ -4046,11 +4046,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 399.0,
+    "price": 399,
     "stock": 0
   },
   {
-    "id": 394,
+    "id": 271,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2ae12ee758c730c67edd56c06a668d16.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS FV43U",
@@ -4065,7 +4065,7 @@
     "stock": 0
   },
   {
-    "id": 395,
+    "id": 272,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/839820adeaeabcaa741a5b52afb591ee.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA279CV",
@@ -4080,7 +4080,7 @@
     "stock": 0
   },
   {
-    "id": 396,
+    "id": 273,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b550acbe4e3aa46f86641d37e1bef8a1.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GQ950-B",
@@ -4095,7 +4095,7 @@
     "stock": 0
   },
   {
-    "id": 397,
+    "id": 274,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/330dd719895f54ccff8609b886dbde33.256p.jpg",
     "manufacturer": "Philips",
     "name": "Philips 275E1S/00",
@@ -4110,7 +4110,7 @@
     "stock": 0
   },
   {
-    "id": 398,
+    "id": 275,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b82625fa3ef81475329fe7be65db6ac0.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2718-P-MHD",
@@ -4125,7 +4125,7 @@
     "stock": 0
   },
   {
-    "id": 399,
+    "id": 276,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b2aedf5e261583431027086a37b980cb.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQ-W",
@@ -4136,11 +4136,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 399.0,
+    "price": 399,
     "stock": 0
   },
   {
-    "id": 400,
+    "id": 277,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2d22da3ee90e1c42ce1dc4c343e9c625.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo G24-20",
@@ -4155,7 +4155,7 @@
     "stock": 0
   },
   {
-    "id": 401,
+    "id": 278,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1c3449001f4d13277a4b39a59ddf68f7.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G9 C49G97T",
@@ -4170,7 +4170,7 @@
     "stock": 0
   },
   {
-    "id": 402,
+    "id": 279,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/482e659d8d5347392f3027962fac8a6b.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG249CM",
@@ -4181,11 +4181,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 329.0,
+    "price": 329,
     "stock": 0
   },
   {
-    "id": 403,
+    "id": 280,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/db232c8bca18c289019af919390fc229.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G9",
@@ -4200,7 +4200,7 @@
     "stock": 0
   },
   {
-    "id": 404,
+    "id": 281,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f2ce0f045bb407769c5afbc43774f30c.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG274QRX",
@@ -4215,7 +4215,7 @@
     "stock": 0
   },
   {
-    "id": 405,
+    "id": 282,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/63dfa8b9cb62e75d8144229e264f53a6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VA27EHE",
@@ -4226,11 +4226,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 114.0,
+    "price": 114,
     "stock": 0
   },
   {
-    "id": 406,
+    "id": 283,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8fb49a944f83933f881a2f5acb7e68e1.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG289Q1A",
@@ -4245,7 +4245,7 @@
     "stock": 0
   },
   {
-    "id": 407,
+    "id": 284,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/946441a6075b182b741f5e391376c440.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GQ850-B",
@@ -4260,7 +4260,7 @@
     "stock": 0
   },
   {
-    "id": 408,
+    "id": 285,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cf08121d17add5f9ae915b590774fa73.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G52A",
@@ -4275,7 +4275,7 @@
     "stock": 0
   },
   {
-    "id": 409,
+    "id": 286,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/397c78cb91eabbf21015e2c831f34cdc.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VP229HE",
@@ -4290,7 +4290,7 @@
     "stock": 0
   },
   {
-    "id": 410,
+    "id": 287,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/acd428d5ba1faf64539cb35992cb9614.256p.jpg",
     "manufacturer": "X=",
     "name": "X= XRGB27WQ",
@@ -4305,10 +4305,10 @@
     "stock": 0
   },
   {
-    "id": 411,
+    "id": 288,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f6b8b53a180359782d82e7c2b2dcc382.256p.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eG32QC A",
+    "name": "Gigabyte ‎G32QC A",
     "screenSize": "31.5",
     "resolution": "2560 x 1440",
     "refreshRate": "165 Hz",
@@ -4320,7 +4320,7 @@
     "stock": 0
   },
   {
-    "id": 412,
+    "id": 289,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2dc7c2429dd13664fcc340dca66bfd5b.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XZ270 Xbmiipx",
@@ -4335,7 +4335,7 @@
     "stock": 0
   },
   {
-    "id": 413,
+    "id": 290,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/085418fce53c94bab7edf0fd41a21bb0.med.256p.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E248W-1920",
@@ -4350,7 +4350,7 @@
     "stock": 0
   },
   {
-    "id": 414,
+    "id": 291,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/80932dccff9f90891b1ae681ee03884c.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24G2U/BK",
@@ -4365,7 +4365,7 @@
     "stock": 0
   },
   {
-    "id": 415,
+    "id": 292,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4889bb85773e6273100db4f46e9d653b.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G32A",
@@ -4380,7 +4380,7 @@
     "stock": 0
   },
   {
-    "id": 416,
+    "id": 293,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8745ae45c253d9c429ab40a092b9f770.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN 24",
@@ -4395,7 +4395,7 @@
     "stock": 0
   },
   {
-    "id": 417,
+    "id": 294,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/93279bdaaac8a4d7d5d0c4b8fdf0f748.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24GQ40W-B",
@@ -4406,11 +4406,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 109.0,
+    "price": 109,
     "stock": 0
   },
   {
-    "id": 418,
+    "id": 295,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e993f8651b1582cb77c5e46f799269b7.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ MOBIUZ EX240N",
@@ -4425,7 +4425,7 @@
     "stock": 0
   },
   {
-    "id": 419,
+    "id": 296,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1522e6828da0ae04de4d16e4647ae0e1.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LF27T350FHNXZA",
@@ -4440,7 +4440,7 @@
     "stock": 0
   },
   {
-    "id": 420,
+    "id": 297,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bf54b599a671d72a70f21cd39bb1cc58.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2521H",
@@ -4455,7 +4455,7 @@
     "stock": 0
   },
   {
-    "id": 421,
+    "id": 298,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/620d6d01b54cfe6ba75f6c256c1a804c.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GN63T-B",
@@ -4470,7 +4470,7 @@
     "stock": 0
   },
   {
-    "id": 422,
+    "id": 299,
     "imageURL": "https://m.media-amazon.com/images/I/41BIO5Gy9jL.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV252Q Zbmiiprx",
@@ -4485,7 +4485,7 @@
     "stock": 0
   },
   {
-    "id": 423,
+    "id": 300,
     "imageURL": "https://m.media-amazon.com/images/I/51M4pWB0gyL.jpg",
     "manufacturer": "HP",
     "name": "HP M24FW",
@@ -4500,7 +4500,7 @@
     "stock": 0
   },
   {
-    "id": 424,
+    "id": 301,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2045af5efec5519dd4b05989a19df49b.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX3211-4K-MHD",
@@ -4515,7 +4515,7 @@
     "stock": 0
   },
   {
-    "id": 425,
+    "id": 302,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fa6209097ba4b79ea2dc7f3e19c10ebb.256p.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2720HF",
@@ -4530,7 +4530,7 @@
     "stock": 0
   },
   {
-    "id": 426,
+    "id": 303,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/14f6742057cc0eab3c876485e50d9f0c.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer GN246HL",
@@ -4545,7 +4545,7 @@
     "stock": 0
   },
   {
-    "id": 427,
+    "id": 304,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0acb18ea44b8620212fa38058f1e1c8f.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2418-P-MHD",
@@ -4560,7 +4560,7 @@
     "stock": 0
   },
   {
-    "id": 428,
+    "id": 305,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f5885fc472e57fcc8158af084f2fda80.256p.jpg",
     "manufacturer": "X=",
     "name": "X= XG22VA",
@@ -4575,7 +4575,7 @@
     "stock": 0
   },
   {
-    "id": 429,
+    "id": 306,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3f4c1ad4b104df062f5b90e18a545a48.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G30A",
@@ -4590,7 +4590,7 @@
     "stock": 0
   },
   {
-    "id": 430,
+    "id": 307,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bec00af4cbbade097c34f9632ec6f745.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC U2790VQ",
@@ -4605,7 +4605,7 @@
     "stock": 0
   },
   {
-    "id": 431,
+    "id": 308,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/370fad9ec54fa8eca75459992dcbfd09.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G55A",
@@ -4620,10 +4620,10 @@
     "stock": 0
   },
   {
-    "id": 432,
+    "id": 309,
     "imageURL": "https://m.media-amazon.com/images/I/51vOeHm-EvL.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eG24F",
+    "name": "Gigabyte ‎G24F",
     "screenSize": "23.8",
     "resolution": "1920 x 1080",
     "refreshRate": "170 Hz",
@@ -4635,7 +4635,7 @@
     "stock": 0
   },
   {
-    "id": 433,
+    "id": 310,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/54147d45ae10409cccfc6c2ac439a54b.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte G27QC",
@@ -4650,7 +4650,7 @@
     "stock": 0
   },
   {
-    "id": 434,
+    "id": 311,
     "imageURL": "https://m.media-amazon.com/images/I/317GYRGgf+L.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G24C",
@@ -4665,10 +4665,10 @@
     "stock": 0
   },
   {
-    "id": 435,
+    "id": 312,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6e25155650d26f8284bc50e359c0ee1d.256p.jpg",
     "manufacturer": "Gigabyte",
-    "name": "Gigabyte \u200eG27FC A",
+    "name": "Gigabyte ‎G27FC A",
     "screenSize": "27.0",
     "resolution": "1920 x 1080",
     "refreshRate": "170 Hz",
@@ -4680,7 +4680,7 @@
     "stock": 0
   },
   {
-    "id": 436,
+    "id": 313,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/deaf0e9169331a023bd5e7bedb05bdda.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32GN650-B",
@@ -4695,7 +4695,7 @@
     "stock": 0
   },
   {
-    "id": 437,
+    "id": 314,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec2196704fcb16918b0b63c43637448c.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell G2422HS",
@@ -4710,7 +4710,7 @@
     "stock": 0
   },
   {
-    "id": 438,
+    "id": 315,
     "imageURL": "https://m.media-amazon.com/images/I/51VGAZJCE2L.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro VG240Y bmiix",
@@ -4725,7 +4725,7 @@
     "stock": 0
   },
   {
-    "id": 439,
+    "id": 316,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/136119375795f8a027a53e9da9c5302f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG49WCR",
@@ -4740,7 +4740,7 @@
     "stock": 0
   },
   {
-    "id": 440,
+    "id": 317,
     "imageURL": "https://m.media-amazon.com/images/I/41IRBRKaNNL.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG301CR2",
@@ -4755,7 +4755,7 @@
     "stock": 0
   },
   {
-    "id": 441,
+    "id": 318,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0ed1dc2d91d0cf0c181f46c40907c64.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic OMNI",
@@ -4770,7 +4770,7 @@
     "stock": 0
   },
   {
-    "id": 442,
+    "id": 319,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c252963c8e31204c9945df0f7fa48753.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LC27RG50FQNXZA",
@@ -4785,7 +4785,7 @@
     "stock": 0
   },
   {
-    "id": 443,
+    "id": 320,
     "imageURL": "https://images-fe.ssl-images-amazon.com/images/I/411j2TmaxOL.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E248W-19203R",
@@ -4800,7 +4800,7 @@
     "stock": 0
   },
   {
-    "id": 444,
+    "id": 321,
     "imageURL": "https://m.media-amazon.com/images/I/31EFhWtAPfL.jpg",
     "manufacturer": "LG",
     "name": "LG 32GP83B-B",
@@ -4815,7 +4815,7 @@
     "stock": 0
   },
   {
-    "id": 445,
+    "id": 322,
     "imageURL": "https://m.media-amazon.com/images/I/41UrN+km6jL.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator XB271HUA",
@@ -4830,7 +4830,7 @@
     "stock": 0
   },
   {
-    "id": 446,
+    "id": 323,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/916b7a2462914420d6e8de565b851b3d.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung CRG50",
@@ -4845,7 +4845,7 @@
     "stock": 0
   },
   {
-    "id": 447,
+    "id": 324,
     "imageURL": "https://m.media-amazon.com/images/I/51ZqNxY-PqL.jpg",
     "manufacturer": "LG",
     "name": "LG 27GL650F-B",
@@ -4860,7 +4860,7 @@
     "stock": 0
   },
   {
-    "id": 448,
+    "id": 325,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e469ecc00de8eea2751322cac3c52ced.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 26WQ500-B",
@@ -4875,7 +4875,7 @@
     "stock": 0
   },
   {
-    "id": 449,
+    "id": 326,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ef187745956e39201f45de7e4245963b.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27GQ50F-B",
@@ -4890,7 +4890,7 @@
     "stock": 0
   },
   {
-    "id": 450,
+    "id": 327,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/da7994940e20f8a6252a4ad4285e3274.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC U34G3XM/EU",
@@ -4905,7 +4905,7 @@
     "stock": 0
   },
   {
-    "id": 451,
+    "id": 328,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/47f6bf3a01f32e0f0239d328af81c9d3.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 29WQ600-W",
@@ -4920,7 +4920,7 @@
     "stock": 0
   },
   {
-    "id": 452,
+    "id": 329,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/676d1693de7a9898de2d1ea20372bd1c.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA248QV",
@@ -4931,11 +4931,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:10",
     "rating": 0,
-    "price": 189.0,
+    "price": 189,
     "stock": 0
   },
   {
-    "id": 453,
+    "id": 330,
     "imageURL": "https://m.media-amazon.com/images/I/41hXRc4bl2L.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG279QR",
@@ -4946,11 +4946,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 210.0,
+    "price": 210,
     "stock": 0
   },
   {
-    "id": 454,
+    "id": 331,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/37e7c937a3f147553f7a7cc60961d81a.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2716DG",
@@ -4965,7 +4965,7 @@
     "stock": 0
   },
   {
-    "id": 455,
+    "id": 332,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2b8f7762a8f678debb7f878c8b624809.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 28MQ780-B",
@@ -4976,11 +4976,11 @@
     "panelType": "IPS",
     "aspectRatio": "8:9",
     "rating": 0,
-    "price": 648.0,
+    "price": 648,
     "stock": 0
   },
   {
-    "id": 456,
+    "id": 333,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/62e4019f9cafee8b2d77aa18033029a9.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic ELITE XG321UG",
@@ -4995,7 +4995,7 @@
     "stock": 0
   },
   {
-    "id": 457,
+    "id": 334,
     "imageURL": "https://m.media-amazon.com/images/I/41B2AHu9s-L.jpg",
     "manufacturer": "Acer",
     "name": "Acer CB282K smiiprx",
@@ -5010,7 +5010,7 @@
     "stock": 0
   },
   {
-    "id": 458,
+    "id": 335,
     "imageURL": "https://m.media-amazon.com/images/I/41IaEOg4RfL.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E255B-1658A",
@@ -5021,11 +5021,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 254.0,
+    "price": 254,
     "stock": 0
   },
   {
-    "id": 459,
+    "id": 336,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/90cfc3b721b756bd829601819aea716b.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C27G2",
@@ -5040,7 +5040,7 @@
     "stock": 0
   },
   {
-    "id": 460,
+    "id": 337,
     "imageURL": "https://m.media-amazon.com/images/I/41FMf7aGP3L.jpg",
     "manufacturer": "Dell",
     "name": "Dell E1916HV",
@@ -5051,11 +5051,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 75.0,
+    "price": 75,
     "stock": 0
   },
   {
-    "id": 461,
+    "id": 338,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a9d25af0be4b9cb0c046096c8d5107a.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G27C4",
@@ -5070,7 +5070,7 @@
     "stock": 0
   },
   {
-    "id": 462,
+    "id": 339,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/15540b25404c967c94fd9db6024a6e14.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer CB272U smiiprx",
@@ -5085,7 +5085,7 @@
     "stock": 0
   },
   {
-    "id": 463,
+    "id": 340,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d84ea486f4f669c977bb541f6f4341c0.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG30VQL1A",
@@ -5096,11 +5096,11 @@
     "panelType": "VA",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 229.0,
+    "price": 229,
     "stock": 0
   },
   {
-    "id": 464,
+    "id": 341,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/378807f5fca1157d0ab54b056f1b2ff3.256p.jpg",
     "manufacturer": "HP",
     "name": "HP Omen 27i",
@@ -5111,11 +5111,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 458.0,
+    "price": 458,
     "stock": 0
   },
   {
-    "id": 465,
+    "id": 342,
     "imageURL": "https://m.media-amazon.com/images/I/31wZJ8xTUgL.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ MOBIUZ EX3210U",
@@ -5130,7 +5130,7 @@
     "stock": 0
   },
   {
-    "id": 466,
+    "id": 343,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/db6760f7dad31da41b81f4340d1636ae.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G65B",
@@ -5145,7 +5145,7 @@
     "stock": 0
   },
   {
-    "id": 467,
+    "id": 344,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/685498d2707cb81573df37f3e403692b.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24GL600F-B",
@@ -5160,7 +5160,7 @@
     "stock": 0
   },
   {
-    "id": 468,
+    "id": 345,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a6f24d91b3185589e99dca2f7a10c196.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung CR500",
@@ -5171,11 +5171,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 469,
+    "id": 346,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7f88574eb69668e2522ef3d0bc0d3b2a.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator X45 bmiiphuzx",
@@ -5190,7 +5190,7 @@
     "stock": 0
   },
   {
-    "id": 470,
+    "id": 347,
     "imageURL": "https://m.media-amazon.com/images/I/41mMdllsfzL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG38UQ",
@@ -5205,7 +5205,7 @@
     "stock": 0
   },
   {
-    "id": 471,
+    "id": 348,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4bab16ff5a0735fff84f4253629ba200.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ Mobiuz EX3410R",
@@ -5220,7 +5220,7 @@
     "stock": 0
   },
   {
-    "id": 472,
+    "id": 349,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b7fc495267d6a775c8f8807a6b97a6d4.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27EP950",
@@ -5235,7 +5235,7 @@
     "stock": 0
   },
   {
-    "id": 473,
+    "id": 350,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/abf4c2a832c9ac64693f0b372ce53eb1.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer PG241Y Pbiipx",
@@ -5250,7 +5250,7 @@
     "stock": 0
   },
   {
-    "id": 474,
+    "id": 351,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b2019f9ab7d496280ae8bfb49d124c23.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG241C",
@@ -5265,7 +5265,7 @@
     "stock": 0
   },
   {
-    "id": 475,
+    "id": 352,
     "imageURL": "https://m.media-amazon.com/images/I/21MBQSbXZbL.jpg",
     "manufacturer": "LG",
     "name": "LG 24MK430H-B",
@@ -5280,7 +5280,7 @@
     "stock": 0
   },
   {
-    "id": 476,
+    "id": 353,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f40766ee2920a488269e442e3f7ae520.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG259QR",
@@ -5291,11 +5291,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 209.0,
+    "price": 209,
     "stock": 0
   },
   {
-    "id": 477,
+    "id": 354,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9abf17f56430d21157146550706b77aa.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 40WP95C-W",
@@ -5310,7 +5310,7 @@
     "stock": 0
   },
   {
-    "id": 478,
+    "id": 355,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/85d37eb0670d1d82b659594a21e4e08f.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 24MP400-B",
@@ -5325,7 +5325,7 @@
     "stock": 0
   },
   {
-    "id": 479,
+    "id": 356,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fa4f4f04d36f073eb374fb6755bb806d.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG259QNR",
@@ -5340,7 +5340,7 @@
     "stock": 0
   },
   {
-    "id": 480,
+    "id": 357,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/274d445eb56eee4ad52acb4e40549a43.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27UL500-W",
@@ -5355,7 +5355,7 @@
     "stock": 0
   },
   {
-    "id": 481,
+    "id": 358,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fcd443b08867a6c3a44910d27912a959.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell G2722HS",
@@ -5370,7 +5370,7 @@
     "stock": 0
   },
   {
-    "id": 482,
+    "id": 359,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d92c96c08639719bda9f109bec1ad150.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG279Q",
@@ -5381,11 +5381,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 318.0,
+    "price": 318,
     "stock": 0
   },
   {
-    "id": 483,
+    "id": 360,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7eac5c030f9d89354ae322bc641ddfd3.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 25UM58-P",
@@ -5396,11 +5396,11 @@
     "panelType": "IPS",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 301.0,
+    "price": 301,
     "stock": 0
   },
   {
-    "id": 484,
+    "id": 361,
     "imageURL": "https://m.media-amazon.com/images/I/41I+DoxsiCL.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG245H",
@@ -5415,7 +5415,7 @@
     "stock": 0
   },
   {
-    "id": 485,
+    "id": 362,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/18dec47c024bc9ce14dcbec6f271b0ed.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell AW3821DW",
@@ -5430,7 +5430,7 @@
     "stock": 0
   },
   {
-    "id": 486,
+    "id": 363,
     "imageURL": "https://m.media-amazon.com/images/I/41lse4Rpe-L.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre E248W-FPT",
@@ -5445,7 +5445,7 @@
     "stock": 0
   },
   {
-    "id": 487,
+    "id": 364,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/294c7f1e24f60ae8c94788380d3d91fe.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 24B1H",
@@ -5460,7 +5460,7 @@
     "stock": 0
   },
   {
-    "id": 488,
+    "id": 365,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd032763ae4ab876b7599338f45c33ec.256p.jpg",
     "manufacturer": "iiyama",
     "name": "iiyama GB2470HSU-B1",
@@ -5475,7 +5475,7 @@
     "stock": 0
   },
   {
-    "id": 489,
+    "id": 366,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4b571feb4e89b3f6a50c03977493cb43.256p.jpg",
     "manufacturer": "Sceptre",
     "name": "Sceptre C275W-1920RN",
@@ -5490,7 +5490,7 @@
     "stock": 0
   },
   {
-    "id": 490,
+    "id": 367,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ec82de149a0b9295a71bd1555ff7e272.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator X34",
@@ -5505,7 +5505,7 @@
     "stock": 0
   },
   {
-    "id": 491,
+    "id": 368,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c01281bcca59231a78e95caf44307a79.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung CF390",
@@ -5520,7 +5520,7 @@
     "stock": 0
   },
   {
-    "id": 492,
+    "id": 369,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f37f726933983a75981b7ca0df6eb0c5.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer ED323QU Pbmiippx",
@@ -5535,7 +5535,7 @@
     "stock": 0
   },
   {
-    "id": 493,
+    "id": 370,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/30fc95dff6ca7b6eef9f0d940e7f4525.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer VG281K bmiipx",
@@ -5550,7 +5550,7 @@
     "stock": 0
   },
   {
-    "id": 494,
+    "id": 371,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/adb2ceaa56a671b26c5aa4fedf9594c8.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M27Q (rev. 2.0)",
@@ -5565,7 +5565,7 @@
     "stock": 0
   },
   {
-    "id": 495,
+    "id": 372,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e9cc6aa1d6d7c9c77074a07d24eb92e8.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix 271CQP",
@@ -5576,11 +5576,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 284.0,
+    "price": 284,
     "stock": 0
   },
   {
-    "id": 496,
+    "id": 373,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4f270f1fffc001a249215a2901eb516f.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G8 S32BG850NP",
@@ -5595,7 +5595,7 @@
     "stock": 0
   },
   {
-    "id": 497,
+    "id": 374,
     "imageURL": "https://m.media-amazon.com/images/I/31hWOVPgmlL.jpg",
     "manufacturer": "Sony",
     "name": "Sony INZONE M9",
@@ -5606,11 +5606,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 898.0,
+    "price": 898,
     "stock": 0
   },
   {
-    "id": 498,
+    "id": 375,
     "imageURL": "https://m.media-amazon.com/images/I/41hj1ui6QhL.jpg",
     "manufacturer": "Acer",
     "name": "Acer XZ342CU S",
@@ -5625,7 +5625,7 @@
     "stock": 0
   },
   {
-    "id": 499,
+    "id": 376,
     "imageURL": "https://m.media-amazon.com/images/I/410Rlfs-NoL.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master TEMPEST GP27U",
@@ -5640,7 +5640,7 @@
     "stock": 0
   },
   {
-    "id": 500,
+    "id": 377,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ba8003e772f608fdd414dd1f59abebd2.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer RAPTOR 27",
@@ -5655,7 +5655,7 @@
     "stock": 0
   },
   {
-    "id": 501,
+    "id": 378,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/93a15dff781aca8f01074fd5623d8833.256p.jpg",
     "manufacturer": "NZXT",
     "name": "NZXT Canvas 27Q",
@@ -5670,7 +5670,7 @@
     "stock": 0
   },
   {
-    "id": 502,
+    "id": 379,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f9b585628e99cd693b590445b88c18d2.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VP228DE",
@@ -5681,11 +5681,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 271.0,
+    "price": 271,
     "stock": 0
   },
   {
-    "id": 503,
+    "id": 380,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e632c6f2d3b297d8db4ca48109ab0280.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC CQ27G3S",
@@ -5700,7 +5700,7 @@
     "stock": 0
   },
   {
-    "id": 504,
+    "id": 381,
     "imageURL": "https://m.media-amazon.com/images/I/5199opkFTGL.jpg",
     "manufacturer": "LG",
     "name": "LG 24QP500-B",
@@ -5715,7 +5715,7 @@
     "stock": 0
   },
   {
-    "id": 505,
+    "id": 382,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c4fa8bca0c9e1bf5e445557faa86f689.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LC32G55TQWNXZA",
@@ -5730,7 +5730,7 @@
     "stock": 0
   },
   {
-    "id": 506,
+    "id": 383,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ab3798ecbd4f97e52dd783bed2c7081a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG276Q",
@@ -5741,11 +5741,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 239.0,
+    "price": 239,
     "stock": 0
   },
   {
-    "id": 507,
+    "id": 384,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1abc959e6401fa7043a3936b406cfb9b.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS FI32U",
@@ -5760,7 +5760,7 @@
     "stock": 0
   },
   {
-    "id": 508,
+    "id": 385,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9047ccfdb5411db4bb2670bcdfd8810c.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN 25",
@@ -5775,7 +5775,7 @@
     "stock": 0
   },
   {
-    "id": 509,
+    "id": 386,
     "imageURL": "https://m.media-amazon.com/images/I/41f2CIjEZzL.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2722QC",
@@ -5790,7 +5790,7 @@
     "stock": 0
   },
   {
-    "id": 510,
+    "id": 387,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b33570dd88ca4507593bd9ad8e2d228e.256p.jpg",
     "manufacturer": "iiyama",
     "name": "iiyama G-Master GB3466WQSU-B1",
@@ -5805,7 +5805,7 @@
     "stock": 0
   },
   {
-    "id": 511,
+    "id": 388,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5def4fb4fd9b2a414ab86714196a70af.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey Neo G8",
@@ -5820,7 +5820,7 @@
     "stock": 0
   },
   {
-    "id": 512,
+    "id": 389,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cb0356da21690fac55d3298c74443e04.256p.jpg",
     "manufacturer": "ViewEra",
     "name": "ViewEra V158HB",
@@ -5835,7 +5835,7 @@
     "stock": 0
   },
   {
-    "id": 513,
+    "id": 390,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/285fcbb9e6f04bd42386f730d7349d0b.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV322QK Kvbmiiphuzx",
@@ -5850,7 +5850,7 @@
     "stock": 0
   },
   {
-    "id": 514,
+    "id": 391,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0db3bb232388152ac8233b06bfe9a456.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27UK500-B",
@@ -5861,11 +5861,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 260.0,
+    "price": 260,
     "stock": 0
   },
   {
-    "id": 515,
+    "id": 392,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b78beee81efb140f8e6dd8b198431213.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung UR59C",
@@ -5880,7 +5880,7 @@
     "stock": 0
   },
   {
-    "id": 516,
+    "id": 393,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/27be377eb06e3fc907dd0f787ec314c9.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27MP400-B",
@@ -5891,11 +5891,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 129.0,
+    "price": 129,
     "stock": 0
   },
   {
-    "id": 517,
+    "id": 394,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8ead60ec6c5e57e6a7db65e7ff899ae9.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo Legion Y25g-30",
@@ -5910,7 +5910,7 @@
     "stock": 0
   },
   {
-    "id": 518,
+    "id": 395,
     "imageURL": "https://m.media-amazon.com/images/I/51+ROkMWydL.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2518H",
@@ -5921,11 +5921,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 495.0,
+    "price": 495,
     "stock": 0
   },
   {
-    "id": 519,
+    "id": 396,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/59ec225b82162b9f32ec7dbcb9253053.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M28U Arm Edition",
@@ -5940,7 +5940,7 @@
     "stock": 0
   },
   {
-    "id": 520,
+    "id": 397,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/0c68e6625da7fc730a5e029b9f55d723.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XG270HU",
@@ -5951,11 +5951,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 521,
+    "id": 398,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/ee21b02140e7134ff445c5bbf8014d35.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG289Q",
@@ -5966,11 +5966,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 309.0,
+    "price": 309,
     "stock": 0
   },
   {
-    "id": 522,
+    "id": 399,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2e7bfb78e8ec308d94b5e058ea263b07.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung LC27G55TQWEXXY",
@@ -5985,7 +5985,7 @@
     "stock": 0
   },
   {
-    "id": 523,
+    "id": 400,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/289914ceaa04b555f0f32c47ce374d67.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 34WP65C-B",
@@ -6000,7 +6000,7 @@
     "stock": 0
   },
   {
-    "id": 524,
+    "id": 401,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/96d6a4b73ac0583fb50e999c299aa2fb.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XF243Y Pbmiiprx",
@@ -6015,7 +6015,7 @@
     "stock": 0
   },
   {
-    "id": 525,
+    "id": 402,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41fzkzXSiIL.jpg",
     "manufacturer": "Asus",
     "name": "Asus PG279Q ROG Swift",
@@ -6030,7 +6030,7 @@
     "stock": 0
   },
   {
-    "id": 526,
+    "id": 403,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/394f734a8541b8110d82adb9537294d0.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG27AQ",
@@ -6045,7 +6045,7 @@
     "stock": 0
   },
   {
-    "id": 527,
+    "id": 404,
     "imageURL": "https://m.media-amazon.com/images/I/41b3j7s8lSL.jpg",
     "manufacturer": "Philips",
     "name": "Philips 272E1GSJ",
@@ -6060,7 +6060,7 @@
     "stock": 0
   },
   {
-    "id": 528,
+    "id": 405,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2766f1f48d33df594c282e6f0821162d.256p.jpg",
     "manufacturer": "Razer",
     "name": "Razer Raptor 27",
@@ -6075,7 +6075,7 @@
     "stock": 0
   },
   {
-    "id": 529,
+    "id": 406,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c11d317ccd25442252f4ba1b964db5a4.256p.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo G24qe-20",
@@ -6090,7 +6090,7 @@
     "stock": 0
   },
   {
-    "id": 530,
+    "id": 407,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/923f78c427411ec6de8ada5edacc9b44.256p.jpg",
     "manufacturer": "HP",
     "name": "HP OMEN X 27",
@@ -6105,10 +6105,10 @@
     "stock": 0
   },
   {
-    "id": 531,
+    "id": 408,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3e3797ed4bc43055681642016b245410.256p.jpg",
     "manufacturer": "Corsair",
-    "name": "Corsair XENEON \u200b32UHD144-A",
+    "name": "Corsair XENEON ​32UHD144-A",
     "screenSize": "32.0",
     "resolution": "3840 x 2160",
     "refreshRate": "144 Hz",
@@ -6120,7 +6120,7 @@
     "stock": 0
   },
   {
-    "id": 532,
+    "id": 409,
     "imageURL": "https://m.media-amazon.com/images/I/41X3kso09BL.jpg",
     "manufacturer": "Acer",
     "name": "Acer Predator XB283K KV",
@@ -6135,7 +6135,7 @@
     "stock": 0
   },
   {
-    "id": 533,
+    "id": 410,
     "imageURL": "https://m.media-amazon.com/images/I/21lJ7rZITmS.jpg",
     "manufacturer": "AOC",
     "name": "AOC G2490VX",
@@ -6150,7 +6150,7 @@
     "stock": 0
   },
   {
-    "id": 534,
+    "id": 411,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/202ee1b2b8aa3da6ad8680b3c13cae2a.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA329CV",
@@ -6165,7 +6165,7 @@
     "stock": 0
   },
   {
-    "id": 535,
+    "id": 412,
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41rKwLxBlaL.jpg",
     "manufacturer": "Acer",
     "name": "Acer PREDATOR X35 bmiphzx",
@@ -6180,7 +6180,7 @@
     "stock": 0
   },
   {
-    "id": 536,
+    "id": 413,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b005fb54e50cceefae3011586a2c08a0.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M32Q",
@@ -6195,7 +6195,7 @@
     "stock": 0
   },
   {
-    "id": 537,
+    "id": 414,
     "imageURL": "https://m.media-amazon.com/images/I/41O754+q8wL.jpg",
     "manufacturer": "Dell",
     "name": "Dell E2016HV",
@@ -6210,7 +6210,7 @@
     "stock": 0
   },
   {
-    "id": 538,
+    "id": 415,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/74994b5e9355b5f90cbfe5fd560b1533.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer ED273U Abmiipx",
@@ -6225,7 +6225,7 @@
     "stock": 0
   },
   {
-    "id": 539,
+    "id": 416,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e17e392177e5a964134cc881d386943e.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA348CGV",
@@ -6236,11 +6236,11 @@
     "panelType": "IPS",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 719.0,
+    "price": 719,
     "stock": 0
   },
   {
-    "id": 540,
+    "id": 417,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4eddcfaa7795b3ff0f2262d41910f2a5.256p.jpg",
     "manufacturer": "Corsair",
     "name": "Corsair XENEON 32QHD165",
@@ -6255,7 +6255,7 @@
     "stock": 0
   },
   {
-    "id": 541,
+    "id": 418,
     "imageURL": "https://ecx.images-amazon.com/images/I/41agKPi898L.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ XL2411",
@@ -6270,7 +6270,7 @@
     "stock": 0
   },
   {
-    "id": 542,
+    "id": 419,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5fef966dd85b7c28b3df1ebf2727003b.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX3218-PC-MHD",
@@ -6285,7 +6285,7 @@
     "stock": 0
   },
   {
-    "id": 543,
+    "id": 420,
     "imageURL": "https://m.media-amazon.com/images/I/51d-7gke7CL.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display",
@@ -6296,11 +6296,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 389.0,
+    "price": 389,
     "stock": 0
   },
   {
-    "id": 544,
+    "id": 421,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/60c78006fbf65987e5077f30803a699d.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VA249HE",
@@ -6311,11 +6311,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 99.0,
+    "price": 99,
     "stock": 0
   },
   {
-    "id": 545,
+    "id": 422,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/916b7a2462914420d6e8de565b851b3d.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung CRG5",
@@ -6326,11 +6326,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 155.0,
+    "price": 155,
     "stock": 0
   },
   {
-    "id": 546,
+    "id": 423,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/01fdc42a50bc2da8e1eb33f5be696469.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Swift PG329Q-W",
@@ -6345,7 +6345,7 @@
     "stock": 0
   },
   {
-    "id": 547,
+    "id": 424,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5882475dadb9f73046d79b48c43825aa.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV320QU LVbmiiphx",
@@ -6360,7 +6360,7 @@
     "stock": 0
   },
   {
-    "id": 548,
+    "id": 425,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/28c21837a39a5a3e63be49a9d14ced12.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ GL2780",
@@ -6375,7 +6375,7 @@
     "stock": 0
   },
   {
-    "id": 549,
+    "id": 426,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/42ccac85af15333aee1f274ad5ccf955.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 22MK430H-B",
@@ -6390,7 +6390,7 @@
     "stock": 0
   },
   {
-    "id": 550,
+    "id": 427,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/2b02cc80f19ba689ecb920b2e2ec676b.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell E1920H",
@@ -6405,7 +6405,7 @@
     "stock": 0
   },
   {
-    "id": 551,
+    "id": 428,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b64bdd9463151417a958dd0c5b5469af.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VA2447-MH",
@@ -6420,7 +6420,7 @@
     "stock": 0
   },
   {
-    "id": 552,
+    "id": 429,
     "imageURL": "https://m.media-amazon.com/images/I/41hUNKV5c-L.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2421HGF",
@@ -6435,7 +6435,7 @@
     "stock": 0
   },
   {
-    "id": 553,
+    "id": 430,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1f7f77ccc457cef34259697c6fdcc440.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 38GN950-B",
@@ -6450,7 +6450,7 @@
     "stock": 0
   },
   {
-    "id": 554,
+    "id": 431,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming",
@@ -6465,7 +6465,7 @@
     "stock": 0
   },
   {
-    "id": 555,
+    "id": 432,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7d2490922ed788ba256d5cf4472423ee.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 27UP600-W",
@@ -6476,11 +6476,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 330.0,
+    "price": 330,
     "stock": 0
   },
   {
-    "id": 556,
+    "id": 433,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7a56f94d4fffa567ae69f60d3f4231e3.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer SB220Q bi",
@@ -6495,7 +6495,7 @@
     "stock": 0
   },
   {
-    "id": 557,
+    "id": 434,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c4be231a609318be21482b17e185dfae.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell U3223QE",
@@ -6510,7 +6510,7 @@
     "stock": 0
   },
   {
-    "id": 558,
+    "id": 435,
     "imageURL": "https://m.media-amazon.com/images/I/51BmkspqtmL.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung CF398",
@@ -6525,7 +6525,7 @@
     "stock": 0
   },
   {
-    "id": 559,
+    "id": 436,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/58927ce41c6579ca151875ba91be1766.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer EB321HQU Cbidpx",
@@ -6540,7 +6540,7 @@
     "stock": 0
   },
   {
-    "id": 560,
+    "id": 437,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/75e06968daf93766574410f68b447fc2.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 32EP950-B",
@@ -6555,7 +6555,7 @@
     "stock": 0
   },
   {
-    "id": 561,
+    "id": 438,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d1beecc62ee15f9029005716d8cd721a.256p.jpg",
     "manufacturer": "Cooler Master",
     "name": "Cooler Master Tempest",
@@ -6570,7 +6570,7 @@
     "stock": 0
   },
   {
-    "id": 562,
+    "id": 439,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a6df716cd2e46e73b20b5e74a5a336c4.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung S61B",
@@ -6585,7 +6585,7 @@
     "stock": 0
   },
   {
-    "id": 563,
+    "id": 440,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/4889bb85773e6273100db4f46e9d653b.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G32A",
@@ -6600,7 +6600,7 @@
     "stock": 0
   },
   {
-    "id": 564,
+    "id": 441,
     "imageURL": "https://m.media-amazon.com/images/I/412-yuXedjL.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG32AQL1A",
@@ -6615,7 +6615,7 @@
     "stock": 0
   },
   {
-    "id": 565,
+    "id": 442,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9f6c36342466bb1cf7462a35ecf7d6f6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG258QM",
@@ -6630,7 +6630,7 @@
     "stock": 0
   },
   {
-    "id": 566,
+    "id": 443,
     "imageURL": "https://m.media-amazon.com/images/I/21tkkAdiRLS.jpg",
     "manufacturer": "HUAWEI",
     "name": "HUAWEI MateView GT Sound Edition",
@@ -6645,7 +6645,7 @@
     "stock": 0
   },
   {
-    "id": 567,
+    "id": 444,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a5d94d4e96688dc9142916884cdf5bae.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 27E1H",
@@ -6660,7 +6660,7 @@
     "stock": 0
   },
   {
-    "id": 568,
+    "id": 445,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6529ff83a732c4ef7267b383476203d4.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF Gaming VG328H1B",
@@ -6671,11 +6671,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 259.0,
+    "price": 259,
     "stock": 0
   },
   {
-    "id": 569,
+    "id": 446,
     "imageURL": "https://m.media-amazon.com/images/I/411arnT0kWL.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ XL2540",
@@ -6690,7 +6690,7 @@
     "stock": 0
   },
   {
-    "id": 570,
+    "id": 447,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7096bbcebaf6dce8f9768fb749ee6309.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G7 LS28AG700NNXZA",
@@ -6701,11 +6701,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 685.0,
+    "price": 685,
     "stock": 0
   },
   {
-    "id": 571,
+    "id": 448,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/04dd7cbb945405cbb52ccca020ee3b62.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell E2020H",
@@ -6716,11 +6716,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 89.0,
+    "price": 89,
     "stock": 0
   },
   {
-    "id": 572,
+    "id": 449,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/51e0064176bdf022731df344aa2e7a04.256p.jpg",
     "manufacturer": "LG",
     "name": "LG UltraGear 32GQ950P-B",
@@ -6735,7 +6735,7 @@
     "stock": 0
   },
   {
-    "id": 573,
+    "id": 450,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1401c5ca55b0e1c56e0d50e35e68203f.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro XZ272U Pbmiiphx",
@@ -6750,7 +6750,7 @@
     "stock": 0
   },
   {
-    "id": 574,
+    "id": 451,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/b020c67302cbae12bceef7c62a07cb9f.256p.jpg",
     "manufacturer": "Philips",
     "name": "Philips Evnia 34M2C8600",
@@ -6765,7 +6765,7 @@
     "stock": 0
   },
   {
-    "id": 575,
+    "id": 452,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/68ca844362f15cccdacf7ec7295d2eb1.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV322QK V",
@@ -6780,7 +6780,7 @@
     "stock": 0
   },
   {
-    "id": 576,
+    "id": 453,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5fbd2fd084e799612d482fedb4404093.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix G274",
@@ -6795,7 +6795,7 @@
     "stock": 0
   },
   {
-    "id": 577,
+    "id": 454,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c7225799f6366e0751913c3f71e9608d.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ MOBIUZ EX2710S",
@@ -6810,7 +6810,7 @@
     "stock": 0
   },
   {
-    "id": 578,
+    "id": 455,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/12291addff284d1222e009c1ff8635ad.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer ED320QR Sbiipx",
@@ -6825,7 +6825,7 @@
     "stock": 0
   },
   {
-    "id": 579,
+    "id": 456,
     "imageURL": "https://m.media-amazon.com/images/I/41Pvt0-0zLL.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ EX3203R",
@@ -6840,7 +6840,7 @@
     "stock": 0
   },
   {
-    "id": 580,
+    "id": 457,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/430d0c83f3273fee6e51aafc244dcffa.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S3220DGF",
@@ -6855,7 +6855,7 @@
     "stock": 0
   },
   {
-    "id": 581,
+    "id": 458,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3f52449266155879fb9bafe50c88a248.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2721DS",
@@ -6870,7 +6870,7 @@
     "stock": 0
   },
   {
-    "id": 582,
+    "id": 459,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cb04fedb4967817e2978cc35c24cca70.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer K242HQL bid",
@@ -6885,7 +6885,7 @@
     "stock": 0
   },
   {
-    "id": 583,
+    "id": 460,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/cae8293e648c1e3853bb87c4aea8002f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG32VQ",
@@ -6900,7 +6900,7 @@
     "stock": 0
   },
   {
-    "id": 584,
+    "id": 461,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/dffc41aa3fcdb63a234f73cc0075c5d3.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell C1422H",
@@ -6915,7 +6915,7 @@
     "stock": 0
   },
   {
-    "id": 585,
+    "id": 462,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/7eeb93c06534f2dd66a2e7635bcb7b7f.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 38CB99-W",
@@ -6930,7 +6930,7 @@
     "stock": 0
   },
   {
-    "id": 586,
+    "id": 463,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e7a5005a6e44a46770e948cbc94aea33.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS FI27Q-P",
@@ -6945,7 +6945,7 @@
     "stock": 0
   },
   {
-    "id": 587,
+    "id": 464,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/66abde23187f6a4064e9b7fb0f533fac.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC G2460PF",
@@ -6960,7 +6960,7 @@
     "stock": 0
   },
   {
-    "id": 588,
+    "id": 465,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/246a1ea0c96f2d473caefe7ab2465d00.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA278CV",
@@ -6971,11 +6971,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 259.0,
+    "price": 259,
     "stock": 0
   },
   {
-    "id": 589,
+    "id": 466,
     "imageURL": "https://m.media-amazon.com/images/I/413aPRjOlKL.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte S55U",
@@ -6990,7 +6990,7 @@
     "stock": 0
   },
   {
-    "id": 590,
+    "id": 467,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/900ad95d37a26722df7d38b90735c174.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ProArt Display PA247CV",
@@ -7001,11 +7001,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 179.0,
+    "price": 179,
     "stock": 0
   },
   {
-    "id": 591,
+    "id": 468,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/31fbfd1086d885b5a55e199b23b485a6.256p.jpg",
     "manufacturer": "NZXT",
     "name": "NZXT Canvas 32Q",
@@ -7020,7 +7020,7 @@
     "stock": 0
   },
   {
-    "id": 592,
+    "id": 469,
     "imageURL": "https://m.media-amazon.com/images/I/41WgGo5ZVkL.jpg",
     "manufacturer": "MSI",
     "name": "MSI Optix MAG321CQR",
@@ -7035,7 +7035,7 @@
     "stock": 0
   },
   {
-    "id": 593,
+    "id": 470,
     "imageURL": "https://m.media-amazon.com/images/I/51Og6pokxKL.jpg",
     "manufacturer": "Alienware",
     "name": "Alienware AW2518HF",
@@ -7050,7 +7050,7 @@
     "stock": 0
   },
   {
-    "id": 594,
+    "id": 471,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fd92c839dc8f529915d6526267c5aed8.256p.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte AORUS FO48U",
@@ -7065,7 +7065,7 @@
     "stock": 0
   },
   {
-    "id": 595,
+    "id": 472,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bcc446439651e470833679e53e47177e.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2758-2KP-MHD",
@@ -7080,7 +7080,7 @@
     "stock": 0
   },
   {
-    "id": 596,
+    "id": 473,
     "imageURL": "https://m.media-amazon.com/images/I/41MaVJ-611L.jpg",
     "manufacturer": "Gigabyte",
     "name": "Gigabyte M32QC-SA",
@@ -7095,7 +7095,7 @@
     "stock": 0
   },
   {
-    "id": 597,
+    "id": 474,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/3c3ef95404da3f340578d7f165f6db14.256p.jpg",
     "manufacturer": "ASRock",
     "name": "ASRock PG32QF2B",
@@ -7110,7 +7110,7 @@
     "stock": 0
   },
   {
-    "id": 598,
+    "id": 475,
     "imageURL": "https://m.media-amazon.com/images/I/313r72X8dpL.jpg",
     "manufacturer": "LG",
     "name": "LG 34GK950F-B",
@@ -7125,7 +7125,7 @@
     "stock": 0
   },
   {
-    "id": 599,
+    "id": 476,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/1bd282e0b3d7b633112193ae822645b7.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer Nitro VG242YP",
@@ -7140,7 +7140,7 @@
     "stock": 0
   },
   {
-    "id": 600,
+    "id": 477,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fa208ac2352d1bc5776d1c90df5debb3.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC C27G1",
@@ -7155,7 +7155,7 @@
     "stock": 0
   },
   {
-    "id": 601,
+    "id": 478,
     "imageURL": "https://m.media-amazon.com/images/I/51Q92DP5pxL.jpg",
     "manufacturer": "AOC",
     "name": "AOC 27G15",
@@ -7170,7 +7170,7 @@
     "stock": 0
   },
   {
-    "id": 602,
+    "id": 479,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/f00165eb92ed01df6e1a3b66d38baf81.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG279QL1A",
@@ -7181,11 +7181,11 @@
     "panelType": "IPS",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 169.0,
+    "price": 169,
     "stock": 0
   },
   {
-    "id": 603,
+    "id": 480,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6300caa53ed2b427d033e8d35176ac4b.256p.jpg",
     "manufacturer": "Acer",
     "name": "Acer XV240Y Pbmiiprx",
@@ -7200,7 +7200,7 @@
     "stock": 0
   },
   {
-    "id": 604,
+    "id": 481,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c0d24b6460e2d159d7cda6c75ce04000.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 35WN65C-B",
@@ -7211,11 +7211,11 @@
     "panelType": "VA",
     "aspectRatio": "21:9",
     "rating": 0,
-    "price": 346.0,
+    "price": 346,
     "stock": 0
   },
   {
-    "id": 605,
+    "id": 482,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/fc9494ecfdeb24026b7f8a045dcdb4cc.256p.jpg",
     "manufacturer": "LG",
     "name": "LG 29WN600-W",
@@ -7230,7 +7230,7 @@
     "stock": 0
   },
   {
-    "id": 606,
+    "id": 483,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/a26089abb4827500bbc3cfcc1b28a15c.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung Odyssey G9",
@@ -7245,7 +7245,7 @@
     "stock": 0
   },
   {
-    "id": 607,
+    "id": 484,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/5f158ec071e88d97ea93d2af4c126bb6.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus VG258QR",
@@ -7256,11 +7256,11 @@
     "panelType": "TN",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 249.0,
+    "price": 249,
     "stock": 0
   },
   {
-    "id": 608,
+    "id": 485,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/9003752ebef8edca1948e621398d34f0.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2417DG",
@@ -7275,7 +7275,7 @@
     "stock": 0
   },
   {
-    "id": 609,
+    "id": 486,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/61e06ad8dc0267eec220647417b9b772.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus ROG Strix XG43UQ",
@@ -7286,11 +7286,11 @@
     "panelType": "VA",
     "aspectRatio": "16:9",
     "rating": 0,
-    "price": 739.0,
+    "price": 739,
     "stock": 0
   },
   {
-    "id": 610,
+    "id": 487,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/8a5c9de8228c3ab6b94f09dbf1687f79.256p.jpg",
     "manufacturer": "Philips",
     "name": "Philips Evnia",
@@ -7305,7 +7305,7 @@
     "stock": 0
   },
   {
-    "id": 611,
+    "id": 488,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d8aa09fd7ec498fd0d15d7e9c53ed85c.256p.jpg",
     "manufacturer": "ViewSonic",
     "name": "ViewSonic VX2452mh",
@@ -7320,7 +7320,7 @@
     "stock": 0
   },
   {
-    "id": 612,
+    "id": 489,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bbda74d277301a3dc0511ebadfc55553.256p.jpg",
     "manufacturer": "iiyama",
     "name": "iiyama G-MASTER RED EAGLE",
@@ -7335,7 +7335,7 @@
     "stock": 0
   },
   {
-    "id": 613,
+    "id": 490,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/13a63418a347c4cb7a59c25f28acd9bf.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung SJ55W",
@@ -7350,7 +7350,7 @@
     "stock": 0
   },
   {
-    "id": 614,
+    "id": 491,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/32ae222677527b393251b39a15bd73c6.256p.jpg",
     "manufacturer": "MSI",
     "name": "MSI MPG ARTYMIS 343CQR",
@@ -7365,7 +7365,7 @@
     "stock": 0
   },
   {
-    "id": 615,
+    "id": 492,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/c3a1c72ff3c0faf8c7ffc6851079c49c.256p.jpg",
     "manufacturer": "BenQ",
     "name": "BenQ PD2700U",
@@ -7380,7 +7380,7 @@
     "stock": 0
   },
   {
-    "id": 616,
+    "id": 493,
     "imageURL": "https://m.media-amazon.com/images/I/41rq39fd4HL.jpg",
     "manufacturer": "Lenovo",
     "name": "Lenovo Legion Y25-25",
@@ -7395,7 +7395,7 @@
     "stock": 0
   },
   {
-    "id": 617,
+    "id": 494,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/d427b593395aa6385ead02adc8bc7148.256p.jpg",
     "manufacturer": "AOC",
     "name": "AOC 27G2U/BK",
@@ -7410,7 +7410,7 @@
     "stock": 0
   },
   {
-    "id": 618,
+    "id": 495,
     "imageURL": "/static/forever/img/no-image.png",
     "manufacturer": "KTC",
     "name": "KTC M27T20",
@@ -7425,7 +7425,7 @@
     "stock": 0
   },
   {
-    "id": 619,
+    "id": 496,
     "imageURL": "https://m.media-amazon.com/images/I/51kiIKFY8UL.jpg",
     "manufacturer": "INNOCN",
     "name": "INNOCN 32M2V",
@@ -7440,7 +7440,7 @@
     "stock": 0
   },
   {
-    "id": 620,
+    "id": 497,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/942cfc160b41112638bb51e900748101.256p.jpg",
     "manufacturer": "Dell",
     "name": "Dell S2721HN",
@@ -7455,7 +7455,7 @@
     "stock": 0
   },
   {
-    "id": 621,
+    "id": 498,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/bc7458c6d0abbedaa1c9e43bc770fa82.256p.jpg",
     "manufacturer": "Philips",
     "name": "Philips 276E8VJSB",
@@ -7470,7 +7470,7 @@
     "stock": 0
   },
   {
-    "id": 622,
+    "id": 499,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/6c0f80771eecb87e5d47db192fa4616f.256p.jpg",
     "manufacturer": "Asus",
     "name": "Asus TUF GAMING VG27WQ",
@@ -7485,7 +7485,7 @@
     "stock": 0
   },
   {
-    "id": 623,
+    "id": 500,
     "imageURL": "https://cdna.pcpartpicker.com/static/forever/images/product/e787e72fc9033b4da5fc6b21e3c0b25f.256p.jpg",
     "manufacturer": "Samsung",
     "name": "Samsung S33A",
