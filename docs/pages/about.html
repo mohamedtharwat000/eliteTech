@@ -1,42 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Elite Tech | About</title>
-    <link rel="stylesheet" href="../assets/style.css" />
-    <link rel="icon" href="../assets/images/favicon.png" />
-  </head>
-  <body>
-    <header>
-      <nav>
-        <a href="../index.html">Home</a>
-        <a href="./api.html">API</a>
-        <a href="./about.html">About</a>
-        <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
-      </nav>
 
-      <h1>Author</h1>
-      <p>About the author</p>
-    </header>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <main></main>
+  <title>Elite Tech | About</title>
 
-    <footer>
-      <div>
-        <p>
-          Elite Tech was created by
-          <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a>
-          and
-          <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
-        </p>
-        <p>
-          as a portfolio project in the ALX Software Engineering program
-          <a href="https://www.alxafrica.com/">ALX</a>
-        </p>
-      </div>
-      <p>© 2023 Elite Tech</p>
-    </footer>
-  </body>
+  <link rel="stylesheet" href="/docs/assets/style.css" />
+  <link rel="icon" href="/docs/assets/images/favicon.png" />
+  <link rel="apple-touch-icon" href="/docs/assets/images/favicon.png" />
+
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/prism.min.js"></script>
+
+  <style>
+    .box-right {
+      display: grid;
+      grid-template-columns: 45% 55%;
+      gap: 15px;
+      margin-bottom: 50px;
+    }
+
+    .box-left {
+      display: grid;
+      grid-template-columns: 55% 45%;
+      gap: 10px;
+    }
+
+    .box span {
+      padding: 10px;
+      font-size: 22px;
+    }
+
+    img {
+      display: block;
+      border-radius: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .box-right {
+        grid-template-columns: 1fr;
+      }
+
+      .box-left {
+        display: flex;
+        flex-direction: column-reverse;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="./pages/api.html">API</a>
+      <a href="./pages/about.html">About</a>
+      <a href="https://github.com/mohamedtharwat000/eliteTech">Github</a>
+    </nav>
+
+    <h1>About</h1>
+  </header>
+
+  <main>
+
+    <p class="">
+
+    <p class="box box-right">
+      <img src="../assets/images/tharwat.png" alt="tharwat" class="photo" />
+      <span>
+        As a Software Engineering Student at ALX School, my passion for programming is an ever-present driving force, 
+        infusing me with confidence and a relentless eagerness to do more. 
+        I am overjoyed to be a part of this community and thrilled to share all my projects and ideas with the whole world.
+      </span>
+    </p>
+
+
+
+    <p class="box box-left">
+      <span>
+        I'm an Undergraduate Software Engineering Student from Helwan University and enrolled in ALX School. I am enthusiastic about sharing my 
+        latest project with a passion for programming and a strong commitment to continuous learning and I am always ready to do more.
+      </span>
+      <img src="../assets/images/lordy.jpg" alt="lordy" class="photo" />
+    </p>
+    </p>
+
+  </main>
+
+  <footer>
+    <div>
+      <p>
+        Elite Tech was created by
+        <a href="https://github.com/mohamedtharwat000">Mohamed Tharwat</a>
+        and
+        <a href="https://github.com/LORDyyyyy">Mohammed Khalid</a>
+      </p>
+      <p>
+        as a portfolio project in the ALX Software Engineering program
+        <a href="https://www.alxafrica.com/">ALX</a>
+      </p>
+    </div>
+    <p>© 2023 Elite Tech</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script>
+</body>
+
 </html>
