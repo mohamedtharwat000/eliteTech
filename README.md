@@ -2,6 +2,10 @@
 
 Welcome to Elite Tech! This repository provides a versatile command-line interface (CLI) and (RESTful API) for efficient management of databases, supporting both file-based and MySQL database types.
 
+### the docs site for the repo and the api are hosted here [elite tech](https://elitetech.lordy.tech/)
+
+this project was created by [Mohamed Tharwat](https://www.linkedin.com/in/mohamedtharwat000/) and [Mohammed Khalid](https://www.linkedin.com/in/lordyyyyy/) as a portfolio project in the ALX Software Engineering program [ALX (alx africa)](https://www.alxafrica.com/)
+
 ### this code was tested on Linux (ubuntu 22.04) with nodejs runtime installed
 
 ### before running or testing the code run (npm install) to install all dependencies
