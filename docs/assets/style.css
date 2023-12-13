@@ -181,6 +181,7 @@ html {
   /* Set the font globally */
   font-family: var(--sans-font);
   scroll-behavior: smooth;
+  color-scheme: dark;
 }
 
 /* Make the body a nice central block */
@@ -221,6 +222,10 @@ body > header p {
 /* Add a little padding to ensure spacing is correct between content and nav */
 main {
   padding-top: 1.5rem;
+}
+
+main #product-data {
+  overflow-x: auto;
 }
 
 body > footer {
