@@ -1,6 +1,8 @@
 import express from 'express';
 import data from '../../models/dataManager.js';
+import jwt from 'jsonwebtoken';
 
+const secretKey = 'NO!';
 const router = express.Router();
 const types = [
   'cpu',
@@ -34,7 +36,7 @@ router
 
     res.json(result ? result : { error: 'not found' });
   })
-  .put(logger, async (req, res) => {
+  .put(authenticateToken, logger, async (req, res) => {
     let result = await data.update(req.params.type, {
       id: parseInt(req.params.id),
       ...req.body,
@@ -43,7 +45,7 @@ router
 
     res.json(result ? result : { error: 'not found' });
   })
-  .delete(logger, async (req, res) => {
+  .delete(authenticateToken, logger, async (req, res) => {
     let type = req.params.type;
     let id = req.params.id ? { id: parseInt(req.params.id) } : {};
     let result = await data.delete(type, id);
@@ -71,7 +73,7 @@ router.get('/:type/', logger, async (req, res) => {
   res.json(result);
 });
 
-router.post('/:type/', logger, async (req, res) => {
+router.post('/:type/', authenticateToken, logger, async (req, res) => {
   let type = req.params.type;
   let body = req.body;
   let result = await data.create(type, body);
@@ -93,6 +95,27 @@ function logger(req, res, next) {
     next();
   }
 }
+
+/**
+ * User Authentication for the POST/PUT/DELETE Methods.
+ *
+ * @param req - the request
+ * @param res - the resopond
+ * @param next - the next function to be called
+ * @returns status
+ */
+const authenticateToken = (req, res, next) => {
+  const token = req.header('Authorization');
+  if (!token)
+      return res.status(401).send('Access denied.');
+
+  jwt.verify(token, secretKey, (err, user) => {
+      if (err)
+          return res.status(403).send('Invalid token.');
+      next();
+  });
+};
+
 
 /**
  * Get the right sequence to apply it when making limitation
