@@ -17,6 +17,14 @@ const types = [
   'case',
 ];
 
+
+router.get("/", async (req, res) => {
+  let result = await data.types();
+
+  res.json(result);
+});
+
+
 router
   .route('/:type/:id')
   .get(logger, async (req, res) => {
