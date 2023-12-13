@@ -123,16 +123,16 @@ export default class MysqlStorage {
 
     if (obj.id) {
       sql += ` WHERE id = ${obj.id}`;
-    } else {
-      if (obj.manufacturer) {
-        const partialName = obj.manufacturer.toLowerCase();
-        sql += ` WHERE manufacturer LIKE '${partialName}'`;
-      }
-
-      if (obj.name) {
-        const partialName = obj.name.toLowerCase();
-        sql += ` WHERE name LIKE '%${partialName}%'`;
-      }
+    } else if (obj.name && obj.manufacturer) {
+      const name = obj.name.toLowerCase();
+      const manuf = obj.manufacturer.toLowerCase();
+      sql += ` WHERE manufacturer LIKE '${manuf}' AND name LIKE '${name}'`;
+    } else if (obj.manufacturer && !obj.name) {
+      const partialName = obj.manufacturer.toLowerCase();
+      sql += ` WHERE manufacturer LIKE '${partialName}'`;
+    } else if (obj.name && !obj.manufacturer) {
+      const partialName = obj.name.toLowerCase();
+      sql += ` WHERE name LIKE '%${partialName}%'`;
     }
 
     if (obj.filterBy && obj.filterType && obj.filterValue) {
