@@ -21,10 +21,6 @@
       </nav>
 
       <h1>API Demo</h1>
-      <p>
-        Learn how to use the Elite Tech API to retrieve data about different
-        hardware components.
-      </p>
     </header>
 
     <main>
@@ -83,9 +79,9 @@
         </div>
       </details>
 
-      <div style="display: flex; flex-wrap: wrap">
+      <div style="display: flex; gap: 2%">
         <select
-          style="flex: 1 0 80%"
+          style="flex: 1 0 49%"
           id="product-type"
           onchange="updateApiUrl()"
         >
@@ -107,15 +103,31 @@
           type="number"
           id="product-id"
           placeholder="Product id"
-          style="flex: 1 0 20%"
+          style="flex: 1 0 49%"
           oninput="updateApiUrl()"
         />
       </div>
 
-      <div style="display: flex; flex-wrap: wrap">
-        <!-- Sort Options -->
+      <div style="display: flex; gap: 2%">
+        <input
+          type="text"
+          id="search-name"
+          placeholder="Search by Name"
+          style="flex: 1 0 49%"
+          oninput="updateApiUrl()"
+        />
+        <input
+          type="text"
+          id="search-manufacturer"
+          placeholder="Search by Manufacturer"
+          style="flex: 1 0 49%"
+          oninput="updateApiUrl()"
+        />
+      </div>
+
+      <div style="display: flex; gap: 2%">
         <select
-          style="flex: 1 0 50%"
+          style="flex: 1 0 49%"
           id="sort-select"
           onchange="updateApiUrl()"
         >
@@ -124,9 +136,8 @@
           <option value="rate">Rate</option>
         </select>
 
-        <!-- Order Options -->
         <select
-          style="flex: 1 0 50%"
+          style="flex: 1 0 49%"
           id="order-select"
           onchange="updateApiUrl()"
         >
@@ -134,81 +145,84 @@
           <option value="ASC">Ascending</option>
           <option value="DESC">Descending</option>
         </select>
-
-        <!-- Filter Options -->
-        <select
-          style="flex: 1 0 33%"
-          id="filter-select"
-          onchange="updateApiUrl()"
-        >
-          <option value="" selected disabled>Filter By</option>
-          <option value="price">Price</option>
-          <option value="rate">Rate</option>
-        </select>
-
-        <!-- Filter Type Options -->
-        <select
-          style="flex: 1 0 33%"
-          id="filter-type-select"
-          onchange="updateApiUrl()"
-        >
-          <option value="" selected disabled>Filter Type</option>
-          <option value="gt">Greater Than</option>
-          <option value="lt">Less Than</option>
-          <option value="eq">Equal To</option>
-        </select>
-
-        <!-- Filter Value Input -->
-        <input
-          style="flex: 1 0 33%"
-          type="text"
-          id="filter-value-input"
-          placeholder="Filter Value"
-          style="width: 100px"
-          oninput="updateApiUrl()"
-        />
-
-        <!-- Start Input -->
-        <input
-          type="number"
-          id="start-input"
-          placeholder="Start"
-          style="flex: 1 0 33%"
-          oninput="updateApiUrl()"
-        />
-
-        <!-- End Input -->
-        <input
-          type="number"
-          id="end-input"
-          placeholder="End"
-          style="flex: 1 0 33%"
-          oninput="updateApiUrl()"
-        />
-
-        <!-- Limit Input -->
-        <input
-          type="number"
-          id="limit-input"
-          placeholder="Limit"
-          style="flex: 1 0 33%"
-          oninput="updateApiUrl()"
-        />
       </div>
 
-      <label for="api-url">API Endpoint:</label>
+      <div style="display: flex; gap: 2%">
+        <div style="display: flex; flex-wrap: wrap; flex: 1 0 49%">
+          <select
+            style="flex: 1 0 100%"
+            id="filter-select"
+            onchange="updateApiUrl()"
+          >
+            <option value="" selected disabled>Filter By</option>
+            <option value="price">Price</option>
+            <option value="rate">Rate</option>
+          </select>
+
+          <select
+            style="flex: 1 0 100%"
+            id="filter-type-select"
+            onchange="updateApiUrl()"
+          >
+            <option value="" selected disabled>Filter Type</option>
+            <option value="gt">Greater Than</option>
+            <option value="lt">Less Than</option>
+            <option value="eq">Equal To</option>
+          </select>
+
+          <input
+            type="text"
+            style="flex: 1 0 100%"
+            id="filter-value-input"
+            placeholder="Filter Value"
+            style="width: 100px"
+            oninput="updateApiUrl()"
+          />
+        </div>
+
+        <div style="display: flex; flex-wrap: wrap; flex: 1 0 49%">
+          <input
+            type="number"
+            id="start-input"
+            placeholder="Start"
+            style="flex: 1 0 100%"
+            oninput="updateApiUrl()"
+          />
+
+          <input
+            type="number"
+            id="end-input"
+            placeholder="End"
+            style="flex: 1 0 100%"
+            oninput="updateApiUrl()"
+          />
+
+          <input
+            type="number"
+            id="limit-input"
+            placeholder="Limit"
+            style="flex: 1 0 100%"
+            oninput="updateApiUrl()"
+          />
+        </div>
+      </div>
+
+      <label for="api-url"
+        >API Endpoint: hosted in https://elitetech.lordy.tech</label
+      >
       <div
         style="
           display: flex;
           flex-wrap: wrap;
-          justify-content: center;
+          justify-content: space-between;
           align-items: baseline;
+          gap: 2%;
         "
       >
-        <input type="text" id="api-url" style="flex: 1 0 80%" />
+        <input type="text" id="api-url" style="flex: 1 0 100%" />
         <button
           id="get-product-button"
-          style="flex: 1 0 20%"
+          style="flex: 1 0 100%"
           onclick="sendGetRequest(document.getElementById('api-url').value)"
         >
           Get

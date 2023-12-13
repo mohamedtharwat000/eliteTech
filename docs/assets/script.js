@@ -1,6 +1,10 @@
 function updateApiUrl() {
   const productTypeSelect = document.getElementById('product-type');
   const productIdInput = document.getElementById('product-id');
+  const searchNameInput = document.getElementById('search-name');
+  const searchManufacturerInput = document.getElementById(
+    'search-manufacturer'
+  );
   const apiUrlInput = document.getElementById('api-url');
 
   // Reset the apiUrl input
@@ -18,6 +22,8 @@ function updateApiUrl() {
       'start-input',
       'end-input',
       'limit-input',
+      'search-name',
+      'search-manufacturer',
     ]);
   } else {
     // Enable all inputs
@@ -30,12 +36,16 @@ function updateApiUrl() {
       'start-input',
       'end-input',
       'limit-input',
+      'search-name',
+      'search-manufacturer',
     ]);
   }
 
-  // Get values from the product type and product ID inputs
+  // Get values from the product type, product ID, and search inputs
   const productType = productTypeSelect.value;
   const productId = productIdInput.value;
+  const searchName = searchNameInput.value;
+  const searchManufacturer = searchManufacturerInput.value;
 
   // Get selected values from the sort, order, filter, and filter type selects
   const sortOption = getSelectedValue('sort-select');
@@ -59,6 +69,8 @@ function updateApiUrl() {
     start: startInput,
     end: endInput,
     limit: limitInput,
+    name: searchName,
+    manufacturer: searchManufacturer,
   })}`;
 
   // Update the apiUrl input
