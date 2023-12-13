@@ -126,7 +126,7 @@ export default class MysqlStorage {
     } else if (obj.name && obj.manufacturer) {
       const name = obj.name.toLowerCase();
       const manuf = obj.manufacturer.toLowerCase();
-      sql += ` WHERE manufacturer LIKE '${manuf}' AND name LIKE '${name}'`;
+      sql += ` WHERE manufacturer LIKE '${manuf}' AND name LIKE '%${name}%'`;
     } else if (obj.manufacturer && !obj.name) {
       const partialName = obj.manufacturer.toLowerCase();
       sql += ` WHERE manufacturer LIKE '${partialName}'`;
