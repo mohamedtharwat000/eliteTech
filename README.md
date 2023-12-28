@@ -251,5 +251,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-created by Mohamed Tharwat, Mohammed Khalid
+created by [Mohamed Tharwat](https://github.com/mohamedtharwat000), [Mohammed Khalid](https://github.com/lordyyyy). Feel free to reach out with any questions or feedback.
 
